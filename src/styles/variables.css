@@ -23,6 +23,8 @@
   --color-ink-soft: #4A554D;     /* 次要文字 */
   --color-ink-muted: #8A948D;    /* 註記/弱化文字 */
   --color-line: #D8DED9;         /* 邊線/分隔 */
+  --color-chat: #FF6550;         /* 浮動 LINE 諮詢鈕：沿用舊站 GetButton 的 button_color */
+  --color-chat-dark: #E04B36;    /* 同上，hover */
 
   /* ── 透明度變體與陰影（元件內禁 rgba/hex，一律引用這些） ── */
   --color-primary-a80: rgba(0, 104, 55, 0.8);
@@ -66,6 +68,8 @@
     --color-ink-soft: oklch(0.437 0.019 154);
     --color-ink-muted: oklch(0.656 0.015 155);
     --color-line: oklch(0.895 0.009 151);
+    --color-chat: oklch(0.685 0.184 30);
+    --color-chat-dark: oklch(0.606 0.184 30);
     --color-primary-a80: oklch(0.454 0.115 154 / 0.8);
     --color-primary-a60: oklch(0.454 0.115 154 / 0.6);
     --color-primary-a10: oklch(0.454 0.115 154 / 0.1);

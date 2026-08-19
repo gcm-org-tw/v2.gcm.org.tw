@@ -3,9 +3,50 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import { allTerms } from '../lib/taxonomy';
+import { assetUrl } from '../lib/assets.mjs';
 
-/* ⚠ 這頁的所有文案都取自舊站首頁原文（標語、關於協會、協會服務六項），一字未改寫。
+/* ⚠ 這頁的文案與圖片全部取自舊站首頁（2026-08-19 逐段比對 gcm.org.tw 首頁的 Elementor 版面），
+ * 一字未改寫。舊站首頁不是 WordPress 的「頁面」，是 Elementor 版型，所以 WP REST 匯不出來，
+ * 只能照著它的區塊逐段重建：
+ *   標語 → 關於協會 → 預防醫學推廣大使 → 協會醫友 → 策略夥伴 → 協會服務 → 醫友專區
  * 版型是暫定的——用戶說要給正式網站地圖與發展方向，到時整頁重排。 */
+
+// 預防醫學推廣大使 AMBASSADORS（照片檔名即人名，與舊站同一批檔案）
+const ambassadors = [
+  { name: '姜封豪', role: '家庭醫學科醫師', file: '協會醫友-姜封豪-去背.png' },
+  { name: '鄭玲君 Karen', role: '營養師', file: '協會醫友-鄭玲君-去背.png' },
+  { name: '羅文佑', role: '藥師', file: '協會醫友-羅文佑-去背.png' },
+  { name: '黃芷昕 Althea', role: '營養師', file: '協會醫友-黃芷昕-去背.png' },
+];
+
+// 協會醫友 MEMBERs
+const members = [
+  { name: '陳建甫', role: '中醫師', file: '協會醫友-陳建甫-去背.png' },
+  { name: '凃建維', role: '中醫師', file: '協會醫友-凃建維-去背.png' },
+  { name: '王珮君', role: '中醫師', file: '協會醫友-王珮君-去背.png' },
+  { name: '吳奕璇 Ovi', role: '中醫師', file: '協會醫友-吳奕璇-去背.png' },
+  { name: '潘天健 Dr.小潘', role: '內科醫師', file: '協會醫友-潘天健-去背.png' },
+  { name: '王凱平', role: '運動醫學科醫師', file: '協會醫友-王凱平-去背.png' },
+];
+
+/* 策略夥伴 PARTNER：舊站是輪播的 13 張 logo。品牌名在版面上是另一組獨立文字區塊、
+ * 與圖片不成對，硬配會配錯，所以這裡只放 logo（alt 留空，純裝飾），名稱不亂掛。 */
+const partnerLogos = [
+  '2023/02/logo-08-300x179.jpg', '2023/02/logo-09-300x179.jpg', '2023/02/logo-10-300x179.jpg',
+  '2023/02/logo-11-300x179.jpg', '2023/02/logo-12-300x179.jpg', '2023/02/logo-13-300x180.jpg',
+  '2023/02/logo-14.jpg', '2023/02/logo-16-300x180.jpg', '2023/02/logo-18-300x180.jpg',
+  '2023/02/logo-17-300x180.jpg', '2023/02/logo-19.jpg', '2023/02/logo-20-300x180.jpg',
+  '2023/02/logo-21-300x180.jpg',
+];
+
+// 醫友專區 FORUM：舊站的三張大圖卡
+const portals = [
+  { label: '醫友健賞團', href: '/醫友健賞團/', file: '2023/02/0203-GCM-org-web-index-22-1024x716.jpg' },
+  { label: '醫友專欄', href: '/blog/', file: '2023/02/0203-GCM-org-web-index-23-1024x716.jpg' },
+  { label: '健賞活動', href: '/activities/', file: '熱門商品鑑賞-1024x716.jpg' },
+];
+
+const upload = (file: string) => assetUrl(`/wp-content/uploads/${file}`);
 
 const posts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -18,12 +59,12 @@ const cates = allTerms('blog-cate')
 
 // 舊站首頁「協會服務 SERVICE」六項，逐字沿用
 const services = [
-  { title: '生技醫療企業', body: '需要研發以及合作研究，期刊臨床實驗，醫學相關研究機構，與我們建立合作關係' },
-  { title: '食品工廠', body: '食品代工廠OEM/ODM、各式食品劑型、營養品、保健食品、健康食品、休閒食品，機能飲料等……' },
-  { title: '網路行銷', body: '需要網路行銷整合之預防醫療相關體系，藥局、診所、健身房、整復中心，醫美通路歡迎與我們接洽。' },
-  { title: 'AIOT/APP平台行動端開發', body: '需要開發診所藥物服用提醒系統、品牌App、Line官方帳號、維護醫病、顧客關係，讓顧客享受尊榮!' },
-  { title: '預防醫學顧問配合', body: '泛健康領域相關品牌公司，歡迎與我們合作，協會有30多位預防醫學相關背景專業人士與您合作。' },
-  { title: '政府專案企劃及其他諮詢', body: '成立自己的泛健康品牌，一條龍完整產業鍊的諮詢服務，從品牌發想、研發、生產、設計、行銷、通路、媒體公關，讓您一站式解決問題。' },
+  { icon: '2023/02/icon-1.png', title: '生技醫療企業', body: '需要研發以及合作研究，期刊臨床實驗，醫學相關研究機構，與我們建立合作關係' },
+  { icon: '2023/02/icon-2.png', title: '食品工廠', body: '食品代工廠OEM/ODM、各式食品劑型、營養品、保健食品、健康食品、休閒食品，機能飲料等……' },
+  { icon: '2023/02/icon-3.png', title: '網路行銷', body: '需要網路行銷整合之預防醫療相關體系，藥局、診所、健身房、整復中心，醫美通路歡迎與我們接洽。' },
+  { icon: '2023/02/icon-4.png', title: 'AIOT/APP平台行動端開發', body: '需要開發診所藥物服用提醒系統、品牌App、Line官方帳號、維護醫病、顧客關係，讓顧客享受尊榮!' },
+  { icon: '2023/02/icon-5.png', title: '預防醫學顧問配合', body: '泛健康領域相關品牌公司，歡迎與我們合作，協會有30多位預防醫學相關背景專業人士與您合作。' },
+  { icon: '2023/02/icon-6.png', title: '政府專案企劃及其他諮詢', body: '成立自己的泛健康品牌，一條龍完整產業鍊的諮詢服務，從品牌發想、研發、生產、設計、行銷、通路、媒體公關，讓您一站式解決問題。' },
 ];
 ---
 
@@ -49,12 +90,74 @@ const services = [
   </section>
 
   <section class="block">
+    <div class="container narrow">
+      <p class="kicker">ABOUT</p>
+      <h2>關於協會</h2>
+      <p class="body">
+        「中華民國上醫預防醫學發展協會」致力於提高公眾對健康生活飲食與正確預防醫學觀念的認識，
+        同時通過舉辦中西醫學研討會來促進各會員之間情感交流，以提振國家預防醫學發展。
+      </p>
+      <p class="body">
+        這不僅有助於改善公眾的健康狀況，也對醫學界的發展起到了積極的促進作用。
+        因此，我們邀請您一起參與，共同推動健康預防醫學的發展。
+      </p>
+      <p class="more"><a href="/about/">更多關於協會 →</a></p>
+    </div>
+  </section>
+
+  <section class="block alt">
+    <div class="container">
+      <p class="kicker">AMBASSADORS</p>
+      <h2>預防醫學推廣大使</h2>
+      <ul class="people">
+        {ambassadors.map(p => (
+          <li>
+            <img src={upload(p.file)} alt={`${p.role} ${p.name}`} loading="lazy" />
+            <p class="role">{p.role}</p>
+            <p class="pname">{p.name}</p>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="container">
+      <p class="kicker">MEMBERS</p>
+      <h2>協會醫友</h2>
+      <ul class="people">
+        {members.map(p => (
+          <li>
+            <img src={upload(p.file)} alt={`${p.role} ${p.name}`} loading="lazy" />
+            <p class="role">{p.role}</p>
+            <p class="pname">{p.name}</p>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <section class="block alt">
+    <div class="container">
+      <p class="kicker">PARTNER</p>
+      <h2>策略夥伴</h2>
+      <p class="body">邀請您一起參與，共同推動健康預防醫學發展！</p>
+      <ul class="logos">
+        {partnerLogos.map(file => (
+          <li><img src={upload(file)} alt="" loading="lazy" /></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <section class="block">
     <div class="container">
       <p class="kicker">SERVICE</p>
       <h2>協會服務</h2>
       <div class="services">
         {services.map(s => (
           <article>
+            <img src={upload(s.icon)} alt="" loading="lazy" width="56" height="56" />
             <h3>{s.title}</h3>
             <p>{s.body}</p>
           </article>
@@ -94,12 +197,14 @@ const services = [
       <p class="kicker">FORUM</p>
       <h2>醫友專區</h2>
       <ul class="portal">
-        <li><a href="/醫友健賞團/">醫友健賞團</a></li>
-        <li><a href="/醫友招募/">醫友招募</a></li>
-        <li><a href="/wom/">口碑推薦</a></li>
-        <li><a href="/activities/">健賞活動</a></li>
-        <li><a href="/gcm-clean-label-潔淨標章/">GCM 潔淨標章</a></li>
-        <li><a href="/gcm_podcast/">Podcast</a></li>
+        {portals.map(p => (
+          <li>
+            <a href={p.href}>
+              <img src={upload(p.file)} alt="" loading="lazy" />
+              <span>{p.label}</span>
+            </a>
+          </li>
+        ))}
       </ul>
     </div>
   </section>
@@ -227,15 +332,97 @@ const services = [
   }
   .portal a {
     display: block;
-    padding: 1rem 1.25rem;
+    overflow: hidden;
     border: 1px solid var(--color-line);
     border-radius: 0.5rem;
     font-size: var(--text-sm);
     text-decoration: none;
   }
+  .portal img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1024 / 716;
+    object-fit: cover;
+  }
+  .portal span {
+    display: block;
+    padding: 0.85rem 1.25rem;
+    font-weight: 700;
+  }
   .portal a:hover {
     border-color: var(--color-primary);
     background: var(--color-primary-a10);
+  }
+
+  /* 人物（推廣大使／協會醫友）：舊站是去背 png 排一列 */
+  .people {
+    display: grid;
+    gap: 1.5rem 1rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
+  }
+  .people img {
+    width: 100%;
+    max-width: 11rem;
+    height: auto;
+    margin-inline: auto;
+    object-fit: contain;
+  }
+  .people .role {
+    margin: 0.5rem 0 0;
+    font-size: var(--text-xs);
+    color: var(--color-ink-soft);
+  }
+  .people .pname {
+    margin: 0.15rem 0 0;
+    font-size: var(--text-base);
+    font-weight: 700;
+  }
+
+  /* 策略夥伴 logo 牆 */
+  .logos {
+    display: grid;
+    gap: 1.25rem;
+    margin: 1.5rem 0 0;
+    padding: 0;
+    list-style: none;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+  }
+  .logos img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+
+  .services img {
+    display: block;
+    width: 3.5rem;
+    height: 3.5rem;
+    margin-bottom: 0.5rem;
+    object-fit: contain;
+  }
+
+  .narrow {
+    max-width: 48rem;
+  }
+  .body {
+    font-size: var(--text-base);
+    line-height: 1.9;
+    margin-block: 0.75rem;
+  }
+
+  @media (min-width: 640px) {
+    .people { grid-template-columns: repeat(4, 1fr); }
+    .logos { grid-template-columns: repeat(4, 1fr); }
+  }
+  @media (min-width: 1024px) {
+    .people { grid-template-columns: repeat(6, 1fr); }
+    .logos { grid-template-columns: repeat(7, 1fr); }
   }
 
   .more {

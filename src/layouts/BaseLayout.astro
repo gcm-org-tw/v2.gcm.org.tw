@@ -5,6 +5,7 @@ import SchemaOrg from '../components/SchemaOrg.astro';
 import { assetUrl } from '../lib/assets.mjs';
 import SiteHeader from '../components/SiteHeader.astro';
 import SiteFooter from '../components/SiteFooter.astro';
+import LineButton from '../components/LineButton.astro';
 
 interface Props {
   title: string;
@@ -43,6 +44,11 @@ const ogImageUrl = ogImage ? new URL(assetUrl(ogImage), Astro.site) : undefined;
     {noindex && <meta name="robots" content="noindex, follow" />}
     <link rel="canonical" href={canonical} />
     <link rel="sitemap" href="/sitemap-index.xml" />
+    {/* 站台圖示沿用舊站同一組檔案（/wp-content/uploads/2023/03/GCM-logo-sml*），
+        跟其他圖片一樣走 ASSET_BASE → R2，切正式網域時自動回到 gcm.org.tw 的原網址 */}
+    <link rel="icon" href={assetUrl('/wp-content/uploads/2023/03/GCM-logo-sml-150x150.png')} sizes="32x32" />
+    <link rel="icon" href={assetUrl('/wp-content/uploads/2023/03/GCM-logo-sml-300x300.png')} sizes="192x192" />
+    <link rel="apple-touch-icon" href={assetUrl('/wp-content/uploads/2023/03/GCM-logo-sml-300x300.png')} />
     <meta property="og:site_name" content={SITE_NAME} />
     <meta property="og:type" content={ogType} />
     <meta property="og:title" content={title} />
@@ -70,6 +76,7 @@ const ogImageUrl = ogImage ? new URL(assetUrl(ogImage), Astro.site) : undefined;
       <slot />
     </main>
     <SiteFooter />
+    <LineButton />
   </body>
 </html>
 

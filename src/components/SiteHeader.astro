@@ -1,23 +1,34 @@
 ---
-/* 選單結構與用語**取自舊站本尊的導覽列**（從舊站任一頁的 nav 擷取，非自行命名）：
- *   醫友活動 /activities/、醫友健賞團 /醫友健賞團/、醫友體驗商品大賞 /wom/、
- *   醫友招募 /醫友招募/、醫友專欄 /blog/、潔淨標章 /gcm-clean-label/、
- *   Gnews /blog-cate/gcm-news/、關於協會 /about/、協會成員 /member/、
- *   媒體報導 /媒體報導/、聯絡我們 /contact/
- * 註冊/登入、忘記密碼、發表文章屬動態層，待 Cloudflare API 接上再放回選單。
- * 用戶會給正式網站地圖，屆時以那份為準。 */
+import { assetUrl } from '../lib/assets.mjs';
+
+/* 選單結構、用語與階層**一比一取自舊站本尊的導覽列**（2026-08-19 從 gcm.org.tw 首頁的
+ * elementor-nav-menu 逐項擷取，含 menu-item-has-children 判定），不是自行歸納的。
+ * 舊站的頂層是七項：首頁／醫友健賞團（本身無連結，只是下拉）／醫友專欄／潔淨標章／
+ * Gnews／關於協會／聯絡我們。
+ * 註冊、忘記密碼、發表文章在舊站就在選單裡，新站也照放——那三頁目前是保留網址的
+ * 靜態殼（frontmatter dynamic: true、路由掛 noindex），等 Cloudflare 動態層接上才會真的能用。 */
 const nav = [
+  { label: '首頁', href: '/' },
   {
     label: '醫友健賞團',
-    href: '/醫友健賞團/',
     children: [
       { href: '/activities/', label: '醫友活動' },
+      { href: '/醫友健賞團/', label: '醫友健賞團' },
       { href: '/wom/', label: '醫友體驗商品大賞' },
       { href: '/醫友招募/', label: '醫友招募' },
+      { href: '/register/', label: '醫友註冊/登入' },
+      { href: '/mem_pwd_reset/', label: '忘記/重設密碼' },
+      { href: '/post_adding/', label: '醫友發表文章' },
     ],
   },
   { label: '醫友專欄', href: '/blog/' },
-  { label: '潔淨標章', href: '/gcm-clean-label/' },
+  {
+    label: '潔淨標章',
+    href: '/gcm-clean-label/',
+    children: [
+      { href: '/gcm-clean-label-潔淨標章/', label: '加入 GCM CLEAN LABEL 潔淨標章' },
+    ],
+  },
   { label: 'Gnews', href: '/blog-cate/gcm-news/' },
   {
     label: '關於協會',
@@ -25,27 +36,36 @@ const nav = [
     children: [
       { href: '/member/', label: '協會成員' },
       { href: '/媒體報導/', label: '媒體報導' },
-      { href: '/contact/', label: '聯絡我們' },
     ],
   },
+  { label: '聯絡我們', href: '/contact/' },
 ];
+
+// 舊站頁首的協會 logo
+const LOGO = '/wp-content/uploads/2023/03/GCM-logo-sml.png';
+
 const path = decodeURIComponent(Astro.url.pathname);
-const isCurrent = (href: string) => path === href || (href !== '/' && path.startsWith(href));
+const isCurrent = (href?: string) =>
+  !!href && (path === href || (href !== '/' && path.startsWith(href)));
+const groupCurrent = (item: { href?: string; children?: { href: string }[] }) =>
+  isCurrent(item.href) || (item.children ?? []).some(c => isCurrent(c.href));
 ---
 
 <header>
   <div class="container bar">
     <a class="brand" href="/">
-      <span class="mark" aria-hidden="true">GCM</span>
+      <img src={assetUrl(LOGO)} alt="" width="48" height="48" />
       <span class="name">上醫預防醫學發展協會</span>
     </a>
     <nav aria-label="主要導覽">
       <ul class="top">
         {nav.map(item => (
-          <li>
-            <a href={item.href} aria-current={isCurrent(item.href) ? 'page' : undefined}>
-              {item.label}
-            </a>
+          <li class={item.children ? 'has-sub' : undefined}>
+            {item.href
+              ? <a href={item.href} aria-current={isCurrent(item.href) ? 'page' : undefined}>{item.label}</a>
+              /* 舊站的「醫友健賞團」頂層只是下拉開關、本身沒有連結 → 用 button 而不是空 a，
+                 鍵盤才走得到，也不會產生一條指向 # 的死連結 */
+              : <button type="button" aria-expanded="false" class={groupCurrent(item) ? 'current' : undefined}>{item.label}</button>}
             {item.children && (
               <ul class="sub">
                 {item.children.map(c => (
@@ -75,15 +95,16 @@ const isCurrent = (href: string) => path === href || (href !== '/' && path.start
   }
   .brand {
     display: inline-flex;
-    align-items: baseline;
+    align-items: center;
     gap: 0.5rem;
     color: var(--color-primary);
     text-decoration: none;
     font-weight: 700;
   }
-  .mark {
-    font-size: var(--text-lg);
-    letter-spacing: 0.08em;
+  .brand img {
+    width: 3rem;
+    height: 3rem;
+    object-fit: contain;
   }
   .name {
     font-size: var(--text-sm);
@@ -99,15 +120,23 @@ const isCurrent = (href: string) => path === href || (href !== '/' && path.start
     flex-wrap: wrap;
     gap: 0.25rem 1.25rem;
   }
-  .top > li > a {
+  .top > li > a,
+  .top > li > button {
     display: inline-block;
-    padding-block: 0.25rem;
+    padding: 0.25rem 0;
+    font-family: inherit;
     font-size: var(--text-sm);
     color: var(--color-text);
     text-decoration: none;
+    /* 「醫友健賞團」在舊站是純下拉開關，用 button 保無障礙；外觀要跟其他選單項一致 */
+    border: 0;
+    background: none;
+    cursor: pointer;
   }
   .top > li > a:hover,
-  .top > li > a[aria-current='page'] {
+  .top > li > button:hover,
+  .top > li > a[aria-current='page'],
+  .top > li > button.current {
     color: var(--color-primary);
     text-decoration: underline;
   }
