@@ -94,8 +94,10 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
+      # 用單引號包住整段 node -e：雙引號會讓 bash 先吃掉 ${...} 與反引號（2026-08-19 踩過）
       - name: Load site config
-        run: node -e "import('./site.config.mjs').then(m=>require('fs').appendFileSync(process.env.GITHUB_ENV,`SITE_URL=${m.SITE_URL}\nINDEXABLE=${m.INDEXABLE}\n`))"
+        run: |
+          node -e 'import("./site.config.mjs").then(m => require("fs").appendFileSync(process.env.GITHUB_ENV, "SITE_URL=" + m.SITE_URL + "\nINDEXABLE=" + m.INDEXABLE + "\n"))'
 
       - name: Wait for Pages CDN propagation
         run: sleep 15
@@ -136,8 +138,10 @@ jobs:
         with:
           node-version: 22
 
+      # 用單引號包住整段 node -e：雙引號會讓 bash 先吃掉 ${...} 與反引號（2026-08-19 踩過）
       - name: Load site config
-        run: node -e "import('./site.config.mjs').then(m=>require('fs').appendFileSync(process.env.GITHUB_ENV,`SITE_URL=${m.SITE_URL}\nINDEXABLE=${m.INDEXABLE}\n`))"
+        run: |
+          node -e 'import("./site.config.mjs").then(m => require("fs").appendFileSync(process.env.GITHUB_ENV, "SITE_URL=" + m.SITE_URL + "\nINDEXABLE=" + m.INDEXABLE + "\n"))'
 
       - name: Submit sitemap URLs to IndexNow
         if: env.INDEXABLE == 'true'
