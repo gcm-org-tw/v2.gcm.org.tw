@@ -46,6 +46,12 @@ const portals = [
   { label: '健賞活動', href: '/activities/', file: '熱門商品鑑賞-1024x716.jpg' },
 ];
 
+/* 舊站醫友專區底下還有一排文字連結（醫友體驗商品大賞、醫友招募），新舊對照時發現漏了 */
+const portalLinks = [
+  { label: '醫友體驗商品大賞', href: '/wom/' },
+  { label: '醫友招募', href: '/醫友招募/' },
+];
+
 const upload = (file: string) => assetUrl(`/wp-content/uploads/${file}`);
 
 const posts = (await getCollection('blog')).sort(
@@ -205,6 +211,9 @@ const services = [
             </a>
           </li>
         ))}
+      </ul>
+      <ul class="portal-links">
+        {portalLinks.map(l => <li><a href={l.href}>{l.label}</a></li>)}
       </ul>
     </div>
   </section>
@@ -423,6 +432,19 @@ const services = [
   @media (min-width: 1024px) {
     .people { grid-template-columns: repeat(6, 1fr); }
     .logos { grid-template-columns: repeat(7, 1fr); }
+  }
+
+  .portal-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.5rem;
+    margin: 1.25rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+  .portal-links a {
+    font-size: var(--text-sm);
+    color: var(--color-primary);
   }
 
   .more {

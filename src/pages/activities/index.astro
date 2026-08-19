@@ -1,13 +1,91 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import CollectionIndex from '../../components/CollectionIndex.astro';
+import { slugFromLegacy } from '../../lib/urls';
+import { assetUrl } from '../../lib/assets.mjs';
 
+/* 舊站列表卡片上有：活動時間、抬頭、講座說明、狀態。WP 標題是流水號，不能拿來當卡片標題。 */
 const items = (await getCollection('activities')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
 ---
 
-<BaseLayout title="活動" description="GCM 上醫預防醫學發展協會的活動與講座。">
-  <CollectionIndex heading="活動" items={items} />
+<BaseLayout title="醫友活動" description="GCM 上醫預防醫學發展協會的活動與講座。">
+  <div class="container wrap">
+    <h1>醫友活動</h1>
+    <ul class="events">
+      {items.map(item => (
+        <li>
+          {item.data.heroImage && (
+            <a class="thumb" href={`/activities/${slugFromLegacy(item.data.legacyPath, '/activities/')}/`} tabindex="-1" aria-hidden="true">
+              <img src={assetUrl(item.data.heroImage)} alt="" loading="lazy" />
+            </a>
+          )}
+          {item.data.eventTime && <p class="when">{item.data.eventTime}</p>}
+          <h2>
+            <a href={`/activities/${slugFromLegacy(item.data.legacyPath, '/activities/')}/`}>
+              {item.data.headline || item.data.title}
+            </a>
+          </h2>
+          {item.data.eventPlace && <p class="where">{item.data.eventPlace}</p>}
+        </li>
+      ))}
+    </ul>
+  </div>
 </BaseLayout>
+
+<style>
+  .wrap {
+    padding-block: clamp(2rem, 6vw, 3.5rem);
+    max-width: 52rem;
+  }
+  .events {
+    margin: 2rem 0 0;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    gap: 1.5rem;
+  }
+  .events li {
+    overflow: hidden;
+    border: 1px solid var(--color-line);
+    border-radius: 0.5rem;
+    padding: 1.25rem 1.5rem;
+  }
+  .thumb {
+    display: block;
+    margin: -1.25rem -1.5rem 1rem;
+  }
+  .thumb img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+  .when {
+    margin: 0;
+    color: var(--color-primary);
+    font-size: var(--text-xs);
+    font-weight: 700;
+  }
+  .events h2 {
+    margin: 0.35rem 0;
+    font-size: var(--text-lg);
+  }
+  .events h2 a {
+    color: var(--color-text);
+    text-decoration: none;
+  }
+  .events h2 a:hover {
+    color: var(--color-primary);
+    text-decoration: underline;
+  }
+  .where {
+    margin: 0;
+    color: var(--color-ink-soft);
+    font-size: var(--text-xs);
+    line-height: 1.7;
+    overflow-wrap: anywhere;
+  }
+</style>

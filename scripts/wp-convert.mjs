@@ -261,9 +261,27 @@ for (const [type, cfg] of Object.entries(COLLECTIONS)) {
     if (detail?.description && !body.trim()) {
       body = detail.description.split('\n').map(l => l.trim()).filter(Boolean).join('\n\n');
     }
+    let jetHero = '';
+    let headline = '';
+    let eventTime = '';
+    let eventPlace = '';
     if (!body.trim() && jetContent[path]) {
-      // 抓回來的正文第一行常是頁面大標，與版型自己輸出的 <h1> 重複 → 去掉，避免同一句印兩次
-      body = jetContent[path].replace(/^#\s+(.+)\n?/, (m, h) => (h.trim() === title ? '' : m)).trim();
+      const raw = jetContent[path];
+      /* 活動的 WP 標題是流水號（「20240105」「14596」），舊站版面上真正的抬頭是內文第一個 H1
+       * （「講座主題：三高與荷爾蒙…」）。title 要維持原樣（<title> 與網址契約照舊站），
+       * 另存 headline 給版面顯示用。時間與地點也一併抽出來，列表頁才有東西可排。 */
+      headline = (raw.match(/^#\s+(.+)$/m) || [])[1]?.trim() ?? '';
+      const times = raw.match(/([\d-]{8,10}\s[\d:]{4,5})開始[\s\S]{0,40}?([\d-]{8,10}\s[\d:]{4,5})結束/);
+      if (times) eventTime = `${times[1]} ~ ${times[2]}`;
+      const place = raw.match(/活動地點\s*\n+([\s\S]{0,200}?)(?:\n\s*\n|活動說明)/);
+      if (place) eventPlace = place[1].replace(/\s+/g, ' ').trim();
+      // 第一行大標與版面自己的 h1 重複 → 去掉，避免同一句印兩次
+      body = raw.replace(/^#\s+(.+)\n?/m, '').trim();
+      // 活動在 WP 沒有 featured image，但舊站列表卡片上有圖 → 取正文第一張當主圖
+      if (!mediaUsed[item.featured_media]) {
+        const firstImg = (raw.match(/!\[[^\]]*\]\((\/wp-content\/uploads\/[^)]+)\)/) || [])[1];
+        if (firstImg) jetHero = firstImg;
+      }
     }
 
     const fm = [
@@ -276,11 +294,16 @@ for (const [type, cfg] of Object.entries(COLLECTIONS)) {
       item.modified_gmt && item.modified_gmt !== item.date_gmt
         ? `updatedDate: ${yaml(`${item.modified_gmt}Z`)}`
         : null,
-      hero?.source_url ? `heroImage: ${yaml(hero.source_url.replace(SITE, ''))}` : null,
+      hero?.source_url
+        ? `heroImage: ${yaml(hero.source_url.replace(SITE, ''))}`
+        : (jetHero ? `heroImage: ${yaml(jetHero)}` : null),
       hero?.alt ? `heroImageAlt: ${yaml(hero.alt)}` : null,
       ...TAXONOMIES
         .filter(t => Array.isArray(item[t]) && item[t].length && taxMap[t])
         .map(t => `${t.replace(/-/g, '_')}: ${yaml(item[t].map(id => taxMap[t].get(id)).filter(Boolean))}`),
+      headline ? `headline: ${yaml(headline)}` : null,
+      eventTime ? `eventTime: ${yaml(eventTime)}` : null,
+      eventPlace ? `eventPlace: ${yaml(eventPlace)}` : null,
       ...(detail ? [
         detail.brand ? `brand: ${yaml(detail.brand)}` : null,
         detail.brandUrl ? `brandUrl: ${yaml(detail.brandUrl)}` : null,

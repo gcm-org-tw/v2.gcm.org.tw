@@ -14,16 +14,60 @@ export async function getStaticPaths() {
 
 const { item } = Astro.props;
 const { Content } = await render(item);
+const d = item.data;
+/* 舊站的 WP 標題是流水號，版面上的抬頭是 headline；顯示用 headline，
+ * <title> 仍走 ArticleLayout 收到的 title（與舊站的 <title> 一致）。 */
+const shown = d.headline || d.title;
+const facts = [
+  ['活動時間', d.eventTime],
+  ['活動地點', d.eventPlace],
+].filter(([, v]) => v);
 ---
 
 <ArticleLayout
-  title={item.data.title}
-  description={item.data.description}
-  pubDate={item.data.pubDate}
-  updatedDate={item.data.updatedDate}
-  heroImage={item.data.heroImage}
-  heroImageAlt={item.data.heroImageAlt}
-  breadcrumb={[{ href: '/activities/', label: '活動' }]}
+  title={shown}
+  description={d.description}
+  pubDate={d.pubDate}
+  updatedDate={d.updatedDate}
+  heroImage={d.heroImage}
+  heroImageAlt={d.heroImageAlt}
+  breadcrumb={[{ href: '/activities/', label: '醫友活動' }]}
 >
+  <Fragment slot="before-content">
+    {facts.length > 0 && (
+      <dl class="facts">
+        {facts.map(([k, v]) => (
+          <div><dt>{k}</dt><dd>{v}</dd></div>
+        ))}
+      </dl>
+    )}
+  </Fragment>
+
   <Content />
 </ArticleLayout>
+
+<style>
+  .facts {
+    display: grid;
+    grid-template-columns: minmax(5rem, auto) 1fr;
+    gap: 0.5rem 1.25rem;
+    margin: 0 0 1.5rem;
+    padding: 1rem 1.25rem;
+    border: 1px solid var(--color-line);
+    border-radius: 0.5rem;
+    background: var(--color-bg-light);
+  }
+  .facts > div {
+    display: contents;
+  }
+  .facts dt {
+    color: var(--color-ink-soft);
+    font-size: var(--text-xs);
+  }
+  .facts dd {
+    margin: 0;
+    font-size: var(--text-sm);
+    line-height: 1.7;
+    overflow-wrap: anywhere;
+  }
+</style>

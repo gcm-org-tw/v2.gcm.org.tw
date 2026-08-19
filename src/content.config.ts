@@ -49,9 +49,16 @@ const wom = defineCollection({
   }),
 });
 
+/* 醫友活動。舊站的 WP 標題是流水號（20240105），版面上的抬頭在 JetEngine 欄位裡，
+ * 轉檔時抽成 headline；title 維持流水號，因為 <title> 與網址契約照舊站。 */
 const activities = defineCollection({
   loader: glob({ base: './src/content/activities', pattern: '**/*.md' }),
-  schema: z.object(legacyBase),
+  schema: z.object({
+    ...legacyBase,
+    headline: z.string().optional(),
+    eventTime: z.string().optional(),
+    eventPlace: z.string().optional(),
+  }),
 });
 
 /* WordPress page 型：內容型逐字轉錄；動態型（dynamic: true）之後接 Cloudflare 動態層。 */
