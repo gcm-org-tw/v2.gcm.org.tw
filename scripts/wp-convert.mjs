@@ -224,6 +224,11 @@ const womDetail = await exists(join(SRC, 'wom-detail.json'))
 const womReviews = await exists(join(SRC, 'reviews.json'))
   ? JSON.parse(await readFile(join(SRC, 'reviews.json'), 'utf8')) : {};
 
+/* activities / gcm_podcast / gcm-clean-label 的正文同樣不在 REST 裡（JetEngine 自訂欄位），
+ * 由 scripts/wp-jetengine-content.mjs 從前台抓回，以 legacyPath 為 key。 */
+const jetContent = await exists(join(SRC, 'jetengine-content.json'))
+  ? JSON.parse(await readFile(join(SRC, 'jetengine-content.json'), 'utf8')) : {};
+
 const report = [];
 for (const [type, cfg] of Object.entries(COLLECTIONS)) {
   if (only && !only.includes(type)) continue;
@@ -255,6 +260,10 @@ for (const [type, cfg] of Object.entries(COLLECTIONS)) {
     const detail = type === 'wom' ? womDetail[item.slug] : null;
     if (detail?.description && !body.trim()) {
       body = detail.description.split('\n').map(l => l.trim()).filter(Boolean).join('\n\n');
+    }
+    if (!body.trim() && jetContent[path]) {
+      // 抓回來的正文第一行常是頁面大標，與版型自己輸出的 <h1> 重複 → 去掉，避免同一句印兩次
+      body = jetContent[path].replace(/^#\s+(.+)\n?/, (m, h) => (h.trim() === title ? '' : m)).trim();
     }
 
     const fm = [
