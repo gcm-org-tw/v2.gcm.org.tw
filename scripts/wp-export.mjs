@@ -99,7 +99,10 @@ await mkdir(join(OUT, 'tax'), { recursive: true });
 const targets = only || TYPES;
 for (const t of targets) {
   console.log(`擷取 ${t} …`);
-  const items = await pullAll(t);
+  // ⚠ taxonomy 端點沒有 title/content，卻有 name/description/count。
+  //   用 --only 指定 taxonomy 時若沿用 FIELDS，name 與 count 會整批抓成空值
+  //   （2026-08-19 踩過：分類頁標題全變成 slug）。依名稱自動選欄位集。
+  const items = await pullAll(t, TAXONOMIES.includes(t) ? TAX_FIELDS : FIELDS);
   await writeFile(join(OUT, `${t}.json`), JSON.stringify(items));
   console.log(`  → ${OUT}/${t}.json（${items.length} 筆）`);
 }

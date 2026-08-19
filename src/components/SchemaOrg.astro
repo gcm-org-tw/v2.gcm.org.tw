@@ -17,8 +17,10 @@ const site = Astro.site!;
 const ORG = {
   '@type': 'Organization',
   '@id': `${site}#organization`,
-  name: '社團法人台灣上醫預防醫學發展協會',
-  alternateName: 'GCM',
+  // 名稱以站方自己的文案為準：關於協會段落用「中華民國上醫預防醫學發展協會」，
+  // 文章署名一律「GCM上醫預防醫學發展協會」。不要自行改寫成別的法人名稱。
+  name: '中華民國上醫預防醫學發展協會',
+  alternateName: ['GCM上醫預防醫學發展協會', 'GCM'],
   url: site.toString(),
 };
 

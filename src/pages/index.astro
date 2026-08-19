@@ -1,22 +1,258 @@
 ---
+import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import { allTerms } from '../lib/taxonomy';
+
+/* ⚠ 這頁的所有文案都取自舊站首頁原文（標語、關於協會、協會服務六項），一字未改寫。
+ * 版型是暫定的——用戶說要給正式網站地圖與發展方向，到時整頁重排。 */
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+const latest = posts.slice(0, 6);
+const cates = allTerms('blog-cate')
+  .filter(c => (c.term.count ?? 0) > 0)
+  .sort((a, b) => (b.term.count ?? 0) - (a.term.count ?? 0))
+  .slice(0, 8);
+
+// 舊站首頁「協會服務 SERVICE」六項，逐字沿用
+const services = [
+  { title: '生技醫療企業', body: '需要研發以及合作研究，期刊臨床實驗，醫學相關研究機構，與我們建立合作關係' },
+  { title: '食品工廠', body: '食品代工廠OEM/ODM、各式食品劑型、營養品、保健食品、健康食品、休閒食品，機能飲料等……' },
+  { title: '網路行銷', body: '需要網路行銷整合之預防醫療相關體系，藥局、診所、健身房、整復中心，醫美通路歡迎與我們接洽。' },
+  { title: 'AIOT/APP平台行動端開發', body: '需要開發診所藥物服用提醒系統、品牌App、Line官方帳號、維護醫病、顧客關係，讓顧客享受尊榮!' },
+  { title: '預防醫學顧問配合', body: '泛健康領域相關品牌公司，歡迎與我們合作，協會有30多位預防醫學相關背景專業人士與您合作。' },
+  { title: '政府專案企劃及其他諮詢', body: '成立自己的泛健康品牌，一條龍完整產業鍊的諮詢服務，從品牌發想、研發、生產、設計、行銷、通路、媒體公關，讓您一站式解決問題。' },
+];
 ---
 
 <BaseLayout
   title="GCM 上醫預防醫學發展協會"
-  description="上醫預防醫學發展協會（Great Chinese Medicine）推動預防醫學與健康促進。"
+  description="「中華民國上醫預防醫學發展協會」致力於提高公眾對健康生活飲食與正確預防醫學觀念的認識，同時通過舉辦中西醫學研討會來促進各會員之間情感交流，以提振國家預防醫學發展。"
 >
-  <main class="container">
-    <h1>GCM 上醫預防醫學發展協會</h1>
-    <p>網站改版建置中。</p>
-  </main>
+  <section class="hero">
+    <div class="container">
+      <blockquote class="motto">
+        <p>上醫治未病</p>
+        <p>中醫治欲病</p>
+        <p>下醫治已病</p>
+      </blockquote>
+      <p class="lede">
+        「中華民國上醫預防醫學發展協會」致力於提高公眾對健康生活飲食與正確預防醫學觀念的認識，同時通過舉辦中西醫學研討會來促進各會員之間情感交流，以提振國家預防醫學發展。
+      </p>
+      <div class="cta">
+        <a class="primary" href="/about/">關於協會</a>
+        <a class="ghost" href="/blog/">健康知識</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="container">
+      <p class="kicker">SERVICE</p>
+      <h2>協會服務</h2>
+      <div class="services">
+        {services.map(s => (
+          <article>
+            <h3>{s.title}</h3>
+            <p>{s.body}</p>
+          </article>
+        ))}
+      </div>
+      <p class="more"><a href="/contact/">與我們接洽 →</a></p>
+    </div>
+  </section>
+
+  <section class="block alt">
+    <div class="container">
+      <p class="kicker">ARTICLES</p>
+      <h2>最新健康知識</h2>
+      {cates.length > 0 && (
+        <ul class="cates">
+          {cates.map(c => <li><a href={`/blog-cate/${c.slug}/`}>{c.term.name}</a></li>)}
+        </ul>
+      )}
+      <div class="grid">
+        {latest.map(post => (
+          <PostCard
+            href={post.data.legacyPath}
+            title={post.data.title}
+            description={post.data.description}
+            pubDate={post.data.pubDate}
+            heroImage={post.data.heroImage}
+            heroImageAlt={post.data.heroImageAlt}
+          />
+        ))}
+      </div>
+      <p class="more"><a href="/blog/">看全部 {posts.length} 篇文章 →</a></p>
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="container">
+      <p class="kicker">FORUM</p>
+      <h2>醫友專區</h2>
+      <ul class="portal">
+        <li><a href="/醫友健賞團/">醫友健賞團</a></li>
+        <li><a href="/醫友招募/">醫友招募</a></li>
+        <li><a href="/wom/">口碑推薦</a></li>
+        <li><a href="/activities/">健賞活動</a></li>
+        <li><a href="/gcm-clean-label-潔淨標章/">GCM 潔淨標章</a></li>
+        <li><a href="/gcm_podcast/">Podcast</a></li>
+      </ul>
+    </div>
+  </section>
 </BaseLayout>
 
 <style>
-  main {
-    padding-block: clamp(3rem, 8vw, 6rem);
+  .hero {
+    padding-block: clamp(3rem, 10vw, 6rem);
+    background: var(--color-primary);
+    color: var(--color-white);
   }
-  p {
+  .motto {
+    margin: 0 0 1.5rem;
+    padding: 0;
+    border-left: 4px solid var(--color-white-a20);
+    padding-left: 1.25rem;
+  }
+  .motto p {
+    margin: 0;
+    font-size: var(--text-2xl);
+    font-weight: 700;
+    line-height: 1.4;
+  }
+  .lede {
+    max-width: 44rem;
+    color: var(--color-white);
+    opacity: 0.92;
+  }
+  .cta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+  .cta a {
+    display: inline-block;
+    padding: 0.7rem 1.8rem;
+    border-radius: 999px;
+    font-size: var(--text-sm);
+    text-decoration: none;
+  }
+  .cta .primary {
+    background: var(--color-white);
+    color: var(--color-primary);
+  }
+  .cta .ghost {
+    border: 1px solid var(--color-white-a20);
+    color: var(--color-white);
+  }
+  .cta a:hover {
+    opacity: 0.85;
+  }
+
+  .block {
+    padding-block: clamp(2.5rem, 8vw, 4.5rem);
+  }
+  .block.alt {
+    background: var(--color-bg-light);
+  }
+  .kicker {
+    margin: 0;
+    font-size: var(--text-xs);
+    letter-spacing: 0.12em;
+    color: var(--color-accent);
+  }
+  h2 {
+    margin: 0.25rem 0 2rem;
+  }
+
+  .services {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: 1fr;
+  }
+  .services article {
+    padding: 1.5rem;
+    border: 1px solid var(--color-line);
+    border-radius: 0.5rem;
+    background: var(--color-white);
+  }
+  .services h3 {
+    margin: 0 0 0.5rem;
+  }
+  .services p {
+    margin: 0;
+    font-size: var(--text-sm);
     color: var(--color-ink-soft);
+  }
+
+  .cates {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0 0 2rem;
+    padding: 0;
+    list-style: none;
+  }
+  .cates a {
+    display: inline-block;
+    padding: 0.3rem 0.9rem;
+    border: 1px solid var(--color-line);
+    border-radius: 999px;
+    background: var(--color-white);
+    font-size: var(--text-xs);
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+  .cates a:hover {
+    background: var(--color-primary-a10);
+  }
+
+  .grid {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: 1fr;
+  }
+
+  .portal {
+    display: grid;
+    gap: 0.75rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    grid-template-columns: 1fr;
+  }
+  .portal a {
+    display: block;
+    padding: 1rem 1.25rem;
+    border: 1px solid var(--color-line);
+    border-radius: 0.5rem;
+    font-size: var(--text-sm);
+    text-decoration: none;
+  }
+  .portal a:hover {
+    border-color: var(--color-primary);
+    background: var(--color-primary-a10);
+  }
+
+  .more {
+    margin-top: 2rem;
+  }
+  .more a {
+    font-size: var(--text-sm);
+  }
+
+  @media (min-width: 640px) {
+    .services { grid-template-columns: repeat(2, 1fr); }
+    .grid { grid-template-columns: repeat(2, 1fr); }
+    .portal { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (min-width: 1024px) {
+    .services { grid-template-columns: repeat(3, 1fr); }
+    .grid { grid-template-columns: repeat(3, 1fr); }
+    .portal { grid-template-columns: repeat(3, 1fr); }
   }
 </style>

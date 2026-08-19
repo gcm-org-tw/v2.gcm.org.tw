@@ -11,15 +11,28 @@ interface Props {
 }
 const { headings } = Astro.props;
 const items = headings.filter(h => h.depth === 2 || h.depth === 3);
+
+/* h2 為主層、h3 掛在前一個 h2 底下。
+ * 先前把 h3 平鋪在同一個 <ol> 裡，h3 會吃掉 h2 的序號（1、2、然後跳到 9）。 */
+const tree: { slug: string; text: string; children: Heading[] }[] = [];
+for (const h of items) {
+  if (h.depth === 2 || tree.length === 0) tree.push({ slug: h.slug, text: h.text, children: [] });
+  else tree[tree.length - 1].children.push(h);
+}
 ---
 
 {items.length >= 3 && (
   <nav class="toc" aria-labelledby="toc-title">
     <p id="toc-title">內容目錄</p>
     <ol>
-      {items.map(h => (
-        <li class={h.depth === 3 ? 'sub' : undefined}>
-          <a href={`#${h.slug}`}>{h.text}</a>
+      {tree.map(node => (
+        <li>
+          <a href={`#${node.slug}`}>{node.text}</a>
+          {node.children.length > 0 && (
+            <ul>
+              {node.children.map(c => <li><a href={`#${c.slug}`}>{c.text}</a></li>)}
+            </ul>
+          )}
         </li>
       ))}
     </ol>
@@ -48,9 +61,12 @@ const items = headings.filter(h => h.depth === 2 || h.depth === 3);
     font-size: var(--text-sm);
     line-height: 1.6;
   }
-  li.sub {
-    margin-left: 1rem;
+  ol > li > ul {
+    margin: 0.35rem 0 0.5rem;
+    padding-left: 1.25rem;
     list-style-type: circle;
+  }
+  ol > li > ul a {
     color: var(--color-ink-soft);
   }
   a {
