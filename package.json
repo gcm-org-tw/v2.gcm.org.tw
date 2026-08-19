@@ -16,7 +16,8 @@
     "check:urls": "node scripts/check-urls.mjs",
     "wp:export": "node scripts/wp-export.mjs",
     "wp:convert": "node scripts/wp-convert.mjs",
-    "check:links": "node scripts/check-links.mjs"
+    "check:links": "node scripts/check-links.mjs",
+    "check:live": "node scripts/check-live-urls.mjs"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.2.0",
