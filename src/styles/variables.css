@@ -1,0 +1,83 @@
+/* 設計 token（全站唯一來源）。
+ * 規範（團隊網站共用，同 dreamer868/credo/folk.tw/yao.care）：
+ * - 顏色一律在此定義：oklch 為準、hex 為 fallback；元件只准 var(--…)，不寫 hex/rgb。
+ * - 字級一律 --text-* 階梯（最小 18px；內文不得小於 --text-base），禁 px 硬編字級、禁 important 覆寫。
+ * - 字型自託管或系統堆疊，禁外部 CDN。
+ * - RWD mobile-first，斷點只用 min-width（sm 640 / md 768 / lg 1024 / xl 1280）。
+ * 守門：scripts/check-design.mjs（pnpm build 自動先跑，違規直接 fail）。
+ *
+ * 品牌色來源：GCM logo（Great Chinese Medicine）主綠 #006837，取樣自
+ * https://gcm.org.tw/wp-content/uploads/2022/01/GCMLOGO_工作區域-1.jpg。
+ * 強調色為互補的金褐（中藥材／穀物意象），非取樣自舊站，待用戶確認。 */
+
+:root {
+  /* ── 色彩（hex fallback；下方 @supports 區塊以 oklch 覆寫） ── */
+  --color-primary: #006837;      /* 品牌主色：GCM logo 深綠 */
+  --color-primary-dark: #004d29; /* 主色深階（hover/深底） */
+  --color-primary-light: #00893f;/* 主色亮階（強調底/圖表） */
+  --color-accent: #8C6D1F;       /* 強調色：金褐（待用戶確認） */
+  --color-accent-dark: #6d5518;  /* 強調色 hover */
+  --color-bg-light: #F4F7F5;     /* 淺底（帶一點綠的中性灰） */
+  --color-text: #1F2421;         /* 主文字 */
+  --color-white: #ffffff;
+  --color-ink-soft: #4A554D;     /* 次要文字 */
+  --color-ink-muted: #8A948D;    /* 註記/弱化文字 */
+  --color-line: #D8DED9;         /* 邊線/分隔 */
+
+  /* ── 透明度變體與陰影（元件內禁 rgba/hex，一律引用這些） ── */
+  --color-primary-a80: rgba(0, 104, 55, 0.8);
+  --color-primary-a60: rgba(0, 104, 55, 0.6);
+  --color-primary-a10: rgba(0, 104, 55, 0.1);
+  --color-white-a20: rgba(255, 255, 255, 0.2);
+  --color-white-a10: rgba(255, 255, 255, 0.1);
+  --scrim-50: rgba(0, 0, 0, 0.5);
+  --scrim-30: rgba(0, 0, 0, 0.3);
+  --scrim-20: rgba(0, 0, 0, 0.2);
+  --scrim-0: rgba(0, 0, 0, 0);
+  --shadow-card: 0 2px 12px rgba(0, 0, 0, 0.08);
+  --shadow-card-hover: 0 8px 24px rgba(0, 0, 0, 0.12);
+  --shadow-float: 0 4px 12px rgba(0, 0, 0, 0.3);
+  --shadow-text: 0 2px 12px rgba(0, 0, 0, 0.3);
+
+  /* ── 字級階梯（rem；最小 18px；--text-base 為內文下限）——全站鎖死，勿改小 ── */
+  --text-xs: 1.125rem;   /* 18px 標籤/徽章/免責註記 */
+  --text-sm: 1.25rem;    /* 20px 導覽/輔助資訊 */
+  --text-base: 1.375rem; /* 22px 內文 */
+  --text-lg: 1.625rem;   /* 26px 小標/卡片標題 */
+  --text-xl: 2rem;       /* 32px 段落標題 */
+  --text-2xl: clamp(2rem, 1.5rem + 2vw, 2.75rem);   /* 32→44px 頁面主標 */
+  --text-3xl: clamp(2.75rem, 2rem + 3.5vw, 4.5rem); /* 44→72px Hero/裝飾大字 */
+
+  /* ── 字型（系統堆疊，不載外部字型） ── */
+  --font-sans: 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', system-ui, sans-serif;
+  --font-serif: 'Noto Serif TC', 'PingFang TC', 'Microsoft JhengHei', serif;
+}
+
+@supports (color: oklch(0.5 0.1 250)) {
+  :root {
+    --color-primary: oklch(0.454 0.115 154);
+    --color-primary-dark: oklch(0.369 0.091 155);
+    --color-primary-light: oklch(0.551 0.150 150);
+    --color-accent: oklch(0.551 0.100 86);
+    --color-accent-dark: oklch(0.462 0.085 86);
+    --color-bg-light: oklch(0.973 0.004 157);
+    --color-text: oklch(0.254 0.009 159);
+    --color-white: oklch(1 0 0);
+    --color-ink-soft: oklch(0.437 0.019 154);
+    --color-ink-muted: oklch(0.656 0.015 155);
+    --color-line: oklch(0.895 0.009 151);
+    --color-primary-a80: oklch(0.454 0.115 154 / 0.8);
+    --color-primary-a60: oklch(0.454 0.115 154 / 0.6);
+    --color-primary-a10: oklch(0.454 0.115 154 / 0.1);
+    --color-white-a20: oklch(1 0 0 / 0.2);
+    --color-white-a10: oklch(1 0 0 / 0.1);
+    --scrim-50: oklch(0 0 0 / 0.5);
+    --scrim-30: oklch(0 0 0 / 0.3);
+    --scrim-20: oklch(0 0 0 / 0.2);
+    --scrim-0: oklch(0 0 0 / 0);
+    --shadow-card: 0 2px 12px oklch(0 0 0 / 0.08);
+    --shadow-card-hover: 0 8px 24px oklch(0 0 0 / 0.12);
+    --shadow-float: 0 4px 12px oklch(0 0 0 / 0.3);
+    --shadow-text: 0 2px 12px oklch(0 0 0 / 0.3);
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "v2.gcm.org.tw",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.32.1",
+  "engines": { "node": ">=22.12.0" },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "node scripts/check-design.mjs && node scripts/check-content.mjs && astro build",
+    "preview": "astro preview",
+    "check:design": "node scripts/check-design.mjs",
+    "check:content": "node scripts/check-content.mjs",
+    "check:content:all": "node scripts/check-content.mjs --all",
+    "check:urls": "node scripts/check-urls.mjs",
+    "wp:export": "node scripts/wp-export.mjs",
+    "wp:convert": "node scripts/wp-convert.mjs"
+  },
+  "dependencies": {
+    "astro": "^6",
+    "@astrojs/sitemap": "^3"
+  },
+  "devDependencies": {
+    "turndown": "^7"
+  }
+}

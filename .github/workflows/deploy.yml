@@ -1,0 +1,126 @@
+# GitHub Pages 部署（團隊共用手刻模式，源自 dreamer868 版；不用 withastro/action）
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  SITE_URL: https://gcm.org.tw
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      # ⚠ 不要加 `with: version:`——package.json 已有 packageManager，action v6 會判定
+      #   「Multiple versions of pnpm specified」直接 fail。
+      - uses: pnpm/action-setup@v6
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install
+
+      # build 內含 check-design.mjs / check-content.mjs 守門，違規在這裡 fail
+      - run: pnpm build
+
+      # 網址保留契約：舊站每一條網址都必須在 dist/ 產出對應頁面（或有明示 redirect）。
+      # 這是本站不同於一般新站的紅線——少一條就是斷連結，直接擋下不上線。
+      - run: pnpm check:urls
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist/
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
+
+  verify:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for Pages CDN propagation
+        run: sleep 15
+
+      - name: Fetch sitemap and verify all URLs
+        run: |
+          echo "Fetching sitemap index..."
+          SITEMAPS=$(curl -sf "$SITE_URL/sitemap-index.xml" | grep -oP '(?<=<loc>)[^<]+')
+
+          : > /tmp/urls.txt
+          for sm in $SITEMAPS; do
+            echo "Fetching $sm ..."
+            curl -sf "$sm" | grep -oP '(?<=<loc>)[^<]+' >> /tmp/urls.txt
+          done
+
+          TOTAL=$(wc -l < /tmp/urls.txt)
+          echo "Total URLs: $TOTAL"
+
+          # 站台上千頁，序列 curl 會跑到天荒地老 → 併發 16
+          xargs -P 16 -I{} sh -c 'C=$(curl -s -o /dev/null -w "%{http_code}" "{}"); [ "$C" = 200 ] || echo "$C {}"' \
+            < /tmp/urls.txt > /tmp/failed.txt
+
+          echo "===== Verification Result ====="
+          if [ -s /tmp/failed.txt ]; then
+            echo "Failed:"; cat /tmp/failed.txt; exit 1
+          fi
+          echo "All $TOTAL URLs returned 200 ✓"
+
+  indexnow:
+    needs: verify
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+      - name: Submit sitemap URLs to IndexNow
+        env:
+          INDEXNOW_KEY: e46c8c02c3b0d6b0e05aef329acec904
+        run: |
+          sleep 20
+          node scripts/indexnow-submit.mjs
+
+  # 任一階段 fail → 發 Slack 要求修改；修正 push 後 workflow 自動重跑＝重審。
+  # 需 repo secrets：SLACK_BOT_TOKEN、SLACK_CHANNEL_ID（缺則靜默略過）。
+  notify-failure:
+    needs: [build, deploy, verify]
+    if: failure()
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify Slack
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+        run: |
+          if [ -z "$SLACK_BOT_TOKEN" ] || [ -z "$SLACK_CHANNEL_ID" ]; then
+            echo "Slack secrets not set; skip notify."
+            exit 0
+          fi
+          RUN_URL="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          TEXT="🚨 ${{ github.repository }} 部署被守門擋下（commit ${GITHUB_SHA::7}）。請修正設計規範/內容守門/網址契約後 push，workflow 會自動重審。詳情： $RUN_URL"
+          curl -sf -X POST https://slack.com/api/chat.postMessage \
+            -H "Authorization: Bearer $SLACK_BOT_TOKEN" \
+            -H 'Content-type: application/json; charset=utf-8' \
+            -d "$(jq -n --arg ch "$SLACK_CHANNEL_ID" --arg t "$TEXT" '{channel:$ch,text:$t}')"

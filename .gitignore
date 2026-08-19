@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.astro/
+# 舊站擷取的原始資料（逐字轉錄來源，不進 repo）
+.source/
