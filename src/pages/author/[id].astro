@@ -1,0 +1,230 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { assetUrl } from '../../lib/assets.mjs';
+import authors from '../../data/authors.json';
+import reviewAuthors from '../../data/review-authors.json';
+import reviewsBySlug from '../../data/wom-reviews.json';
+
+/* 舊站的作者專頁 /author/<id>/：分享醫友的簡介 ＋ 他的文章 ＋ 他的健賞心得。
+ * 這 173 條網址實測 200 但不在 sitemap 也不在 REST，所以最初的網址契約沒收到；
+ * 用戶 2026-08-19 決定保留 → 已補進 extra-urls.txt，由 check-urls 與線上實測一起顧。 */
+type Author = { name: string; role: string; specialty: string; career: string; photo: string };
+type Review = { id: number; title: string; name: string; date: string; score: number | null; body: string };
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  const byId = new Map<number, typeof posts>();
+  for (const p of posts) {
+    const id = p.data.authorId;
+    if (id == null) continue;
+    if (!byId.has(id)) byId.set(id, []);
+    byId.get(id)!.push(p);
+  }
+
+  // 心得：先照 review id 反查作者，再連回它所屬的商品頁錨點
+  const reviewsFor = new Map<number, { womSlug: string; review: Review }[]>();
+  for (const [womSlug, list] of Object.entries(reviewsBySlug as Record<string, Review[]>)) {
+    for (const review of list) {
+      const id = (reviewAuthors as Record<string, number>)[String(review.id)];
+      if (id == null) continue;
+      if (!reviewsFor.has(id)) reviewsFor.set(id, []);
+      reviewsFor.get(id)!.push({ womSlug, review });
+    }
+  }
+
+  return Object.entries(authors as Record<string, Author>).map(([id, author]) => ({
+    params: { id },
+    props: {
+      author,
+      posts: (byId.get(Number(id)) ?? []).sort(
+        (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+      ),
+      reviews: (reviewsFor.get(Number(id)) ?? []).sort(
+        (a, b) => b.review.date.localeCompare(a.review.date)
+      ),
+    },
+  }));
+}
+
+const { author, posts, reviews } = Astro.props;
+const lines = (s?: string) => (s ? s.split('\n').map(l => l.trim()).filter(Boolean) : []);
+---
+
+<BaseLayout
+  title={author.name}
+  description={`${author.role ? `${author.role} ` : ''}${author.name}｜GCM 上醫預防醫學發展協會 分享醫友`}
+  noindex
+>
+  <div class="container wrap">
+    <p class="kicker">分享醫友</p>
+
+    <header class="profile">
+      {author.photo && <img src={assetUrl(author.photo)} alt="" width="140" height="140" loading="eager" />}
+      <div>
+        <h1>
+          {author.role && <span class="role">{author.role}</span>}
+          {author.name}
+        </h1>
+        {lines(author.specialty).map(l => <p class="line">{l}</p>)}
+        {author.career && (
+          <>
+            <p class="label">經歷</p>
+            {lines(author.career).map(l => <p class="line">{l}</p>)}
+          </>
+        )}
+      </div>
+    </header>
+
+    <p class="counts">
+      GCM 文章（{posts.length}）　健賞心得（{reviews.length}）
+    </p>
+
+    {posts.length > 0 && (
+      <section>
+        <h2>{author.name}文章</h2>
+        <div class="grid">
+          {posts.map(post => (
+            <PostCard
+              href={post.data.legacyPath}
+              title={post.data.title}
+              description={post.data.description}
+              pubDate={post.data.pubDate}
+              heroImage={post.data.heroImage}
+              heroImageAlt={post.data.heroImageAlt}
+            />
+          ))}
+        </div>
+      </section>
+    )}
+
+    {reviews.length > 0 && (
+      <section>
+        <h2>{author.name}的健賞心得</h2>
+        <ul class="reviews">
+          {reviews.map(({ womSlug, review }) => (
+            <li>
+              <p class="meta">
+                <time>{review.date}</time>
+                {review.score !== null && <span class="score">{review.score} / 5</span>}
+              </p>
+              <p class="excerpt">{review.body.split('\n\n')[0]}</p>
+              <p class="more">
+                <a href={`/wom/${decodeURIComponent(womSlug)}/#review-${review.id}`}>看完整心得 →</a>
+              </p>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+  </div>
+</BaseLayout>
+
+<style>
+  .wrap {
+    padding-block: clamp(2rem, 6vw, 3.5rem);
+  }
+  .kicker {
+    margin: 0;
+    color: var(--color-accent);
+    font-size: var(--text-xs);
+    letter-spacing: 0.12em;
+  }
+  .profile {
+    display: flex;
+    gap: 1.5rem;
+    margin-block: 1rem 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid var(--color-line);
+  }
+  .profile img {
+    flex: none;
+    width: 8.75rem;
+    height: 8.75rem;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  h1 {
+    margin: 0 0 0.75rem;
+    font-size: var(--text-2xl);
+  }
+  .role {
+    margin-right: 0.6rem;
+    color: var(--color-primary);
+    font-size: var(--text-lg);
+  }
+  .label {
+    margin: 0.85rem 0 0.25rem;
+    color: var(--color-ink-soft);
+    font-size: var(--text-xs);
+    font-weight: 700;
+  }
+  .line {
+    margin: 0.2rem 0;
+    font-size: var(--text-xs);
+    line-height: 1.8;
+    color: var(--color-ink-soft);
+    overflow-wrap: anywhere;
+  }
+  .counts {
+    margin: 0 0 2rem;
+    color: var(--color-ink-soft);
+    font-size: var(--text-sm);
+  }
+  section {
+    margin-bottom: 3rem;
+  }
+  h2 {
+    margin: 0 0 1.25rem;
+    font-size: var(--text-xl);
+  }
+  .grid {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: 1fr;
+  }
+  .reviews {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    gap: 1.25rem;
+  }
+  .reviews li {
+    padding: 1rem 1.25rem;
+    border: 1px solid var(--color-line);
+    border-radius: 0.5rem;
+  }
+  .meta {
+    display: flex;
+    gap: 1rem;
+    margin: 0 0 0.5rem;
+    color: var(--color-ink-muted);
+    font-size: var(--text-xs);
+  }
+  .score {
+    color: var(--color-accent-dark);
+    font-weight: 700;
+  }
+  .excerpt {
+    margin: 0;
+    font-size: var(--text-sm);
+    line-height: 1.8;
+  }
+  .more {
+    margin: 0.5rem 0 0;
+    font-size: var(--text-xs);
+  }
+
+  @media (min-width: 768px) {
+    .grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  @media (max-width: 639px) {
+    .profile {
+      flex-direction: column;
+    }
+  }
+</style>

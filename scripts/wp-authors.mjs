@@ -6,11 +6,13 @@
  * 於是 1,376 篇文章全部沒有作者、855 篇連個名字都沒有（另外 521 篇只是剛好有
  * blog_fr_doctors 這個分類法可以頂著）。2026-08-19 新舊站逐頁對照才發現。
  *
- * 兩個來源：
+ * 三個來源：
  *   ① /wp-json/wp/v2/blog?_fields=id,link,author —— blog 是 CPT，不是內建 posts，
  *      端點名稱是 /blog（打 /posts 回空陣列）。一頁 100 筆，14 次請求。
- *   ② /author/<id>/ —— 作者專頁，簡介就在上面。users 端點回 401（未登入不給列使用者），
- *      所以只能從前台頁面解析。這些網址不在網址契約裡（sitemap 與 REST 都沒有）。
+ *   ② /wp-json/wp/v2/review?_fields=id,author —— 心得也掛作者，作者頁上有「健賞心得( 36 )」。
+ *   ③ /author/<id>/ —— 作者專頁，簡介就在上面。users 端點回 401（未登入不給列使用者），
+ *      所以只能從前台頁面解析。這些網址不在 sitemap 與 REST 裡，但實測 200，
+ *      納入 extra-urls.txt 由網址契約一起顧。
  *
  * ⚠ 舊站脆：序列、每次間隔 DELAY。
  * 用法：node scripts/wp-authors.mjs [--delay 1200] [--limit N]
@@ -48,7 +50,7 @@ async function get(url, tries = 3) {
 
 const store = await readFile(OUT, 'utf8').then(JSON.parse).catch(() => ({ posts: {}, authors: {} }));
 
-// ── ① 每篇文章的作者 ──
+// ── ①　每篇文章的作者 ──
 if (!Object.keys(store.posts).length) {
   for (let page = 1; ; page += 1) {
     const body = await get(`${SITE}/wp-json/wp/v2/blog?per_page=100&page=${page}&_fields=id,link,author`);
@@ -61,8 +63,23 @@ if (!Object.keys(store.posts).length) {
   await writeFile(OUT, JSON.stringify(store, null, 2));
 }
 
-const ids = [...new Set(Object.values(store.posts).filter(Boolean))];
-console.log(`文章 ${Object.keys(store.posts).length} 篇，不重複作者 ${ids.length} 位`);
+// ── ②　心得的作者（作者頁上要列「健賞心得」）──
+store.reviews ??= {};
+if (!Object.keys(store.reviews).length) {
+  for (let page = 1; ; page += 1) {
+    const body = await get(`${SITE}/wp-json/wp/v2/review?per_page=100&page=${page}&_fields=id,author`);
+    const items = JSON.parse(body);
+    if (!Array.isArray(items) || !items.length) break;
+    for (const it of items) store.reviews[String(it.id)] = it.author ?? null;
+    if (Object.keys(store.reviews).length % 1000 < 100) console.log(`  心得作者 ${Object.keys(store.reviews).length} 筆`);
+    if (items.length < 100) break;
+  }
+  await writeFile(OUT, JSON.stringify(store, null, 2));
+  console.log(`  心得作者 ${Object.keys(store.reviews).length} 筆（完成）`);
+}
+
+const ids = [...new Set([...Object.values(store.posts), ...Object.values(store.reviews)].filter(Boolean))];
+console.log(`文章 ${Object.keys(store.posts).length} 篇、心得 ${Object.keys(store.reviews).length} 則，不重複作者 ${ids.length} 位`);
 
 /* 作者專頁的簡介區塊：「分享醫友 ｜ <姓名> <職稱> ●專長項目：… 經歷 ●現任：…」
  * 錨定在中文標籤，不吃 Elementor 的 class hash。
@@ -101,7 +118,7 @@ function parseAuthor(html) {
   return { name, role, specialty, career, photo: photo ? decode(photo).replace(SITE, '') : '' };
 }
 
-// ── ② 作者簡介 ──
+// ── ③ 作者簡介 ──
 let ok = 0, miss = 0;
 for (const id of ids.filter(i => !store.authors[String(i)]).slice(0, LIMIT)) {
   let html;

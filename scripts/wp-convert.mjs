@@ -12,6 +12,7 @@
  */
 import { readFile, writeFile, mkdir, access, rm } from 'node:fs/promises';
 import { join } from 'node:path';
+import { existsSync } from 'node:fs';
 import TurndownService from 'turndown';
 import { fixes } from '../content-link-fixes.mjs';
 
@@ -362,12 +363,32 @@ if (Object.keys(womReviews).length && (!only || only.includes('wom'))) {
 
 /* 作者簡介落成前端可 import 的資料檔（同 wom-reviews 的做法：量大、不進 frontmatter）。 */
 if (Object.keys(authorData.authors ?? {}).length) {
+  /* 舊站有些作者的頭像網址是死的（實測 301 導回首頁，檔案不存在）→ 那一欄清掉，
+   * 不然新站會渲染一張破圖。判準是「鏡像裡有沒有這個檔」，鏡像本身跟 R2 對過帳。 */
+  let deadPhotos = 0;
   const out = Object.fromEntries(
-    Object.entries(authorData.authors).filter(([, v]) => v && v.name)
+    Object.entries(authorData.authors)
+      .filter(([, v]) => v && v.name)
+      .map(([id, v]) => {
+        if (v.photo) {
+          const local = join(SRC, 'uploads', decodeURIComponent(v.photo));
+          if (!existsSync(local)) { deadPhotos += 1; return [id, { ...v, photo: '' }]; }
+        }
+        return [id, v];
+      })
   );
+  if (deadPhotos) console.log(`  ⚠ ${deadPhotos} 位作者的頭像在舊站已失效，該欄清空`);
   await mkdir('src/data', { recursive: true });
   await writeFile('src/data/authors.json', JSON.stringify(out, null, 2) + '\n');
   console.log(`作者簡介 → src/data/authors.json：${Object.keys(out).length} 位`);
+
+  /* 心得 → 作者 的對照（作者專頁要列「健賞心得」）。只留有簡介的作者，
+   * 免得作者頁生出一堆沒有本人資料的空殼。 */
+  const reviewAuthors = Object.fromEntries(
+    Object.entries(authorData.reviews ?? {}).filter(([, id]) => id != null && out[String(id)])
+  );
+  await writeFile('src/data/review-authors.json', JSON.stringify(reviewAuthors, null, 2) + '\n');
+  console.log(`心得作者對照 → src/data/review-authors.json：${Object.keys(reviewAuthors).length} 則`);
 }
 
 if (report.some(r => r.startsWith('⚠'))) {
