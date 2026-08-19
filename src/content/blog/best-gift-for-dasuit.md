@@ -106,7 +106,7 @@ sourceVerbatim: true
 
 [作者：皮膚達人艾莉絲 中醫師](https://www.facebook.com/Dralicebeauty)
 
-[延伸閱讀：查看 Dasuit大適坐墊在 醫友健賞團 獲得的成績是幾分？](/wom/%E5%A4%A7%E9%81%A9%E5%9D%90%E5%A2%8A/)
+延伸閱讀：查看 Dasuit大適坐墊在 醫友健賞團 獲得的成績是幾分？
 
 **免責聲明**
 

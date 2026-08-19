@@ -27,8 +27,10 @@ const DIST = argVal('--dist', 'dist');
 const MAX_REPORT = Number(argVal('--max-report', 40));
 const REDIRECTS = 'redirects.json';
 
-/* 圖片落點未定：舊站圖片網址 /wp-content/uploads/** 目前不在 dist/ 裡。
- * 決定放進 repo 就把這一條拿掉；決定放 R2/Cloudflare 就留著。 */
+/* 圖片走 Cloudflare R2（用戶 2026-08-19 拍板）：`/wp-content/uploads/*` 由 R2 服務，
+ * 不會出現在 dist/ 裡，所以在這裡列為外部託管前綴。
+ * ⚠ 這代表這批路徑**本腳本不驗**——圖片是否真的都在 R2，要靠上傳時的清單對帳
+ *（.source/image-urls.txt 共 11,725 條），別以為連結守門綠了就等於圖片都在。 */
 const EXTERNAL_PREFIXES = [
   '/wp-content/uploads/',
 ];

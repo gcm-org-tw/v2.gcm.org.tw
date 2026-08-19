@@ -15,7 +15,7 @@ sourceVerbatim: true
 
 泛自閉症譜系障礙（Autism Spectrum Disorder, ASD）是一種複雜的神經發育疾病，通常伴隨社交障礙、溝通問題以及情緒和行為上的挑戰。近年來，越來越多的研究指出腸道健康對自閉症患者的生活質量有重要影響，尤其是腸道菌群失衡可能與患者的情緒波動及行為問題密切相關。益生菌作為調節腸道健康的重要因素，逐漸被認為可以幫助改善自閉症症狀，進而提升患者的生活質量​(
 
-[HKSYU Journalism and Media Centre](https://jmc.hksyu.edu/ourvoice/?p=4148))​([上醫預防醫學發展協會](/blog/diet-for-autism-spectrum-disorders-and-emotional-regulation/))。
+[HKSYU Journalism and Media Centre](https://jmc.hksyu.edu/ourvoice/?p=4148))​([上醫預防醫學發展協會](/blog/autism-diet-and-mood-regulation3/))。
 
 <span id="%E5%BC%95%E8%A8%80%EF%BC%9A%E9%A9%9A%E4%BA%BA%E4%BA%8B%E5%AF%A6%E8%88%87%E7%B5%B1%E8%A8%88"></span>
 

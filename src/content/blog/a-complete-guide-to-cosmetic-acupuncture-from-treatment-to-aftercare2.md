@@ -11,16 +11,6 @@ legacyPath: "/blog/a-complete-guide-to-cosmetic-acupuncture-from-treatment-to-af
 sourceVerbatim: true
 ---
 
--   [焦點](/focus/)
--   [國際](/international/)
--   [健康](/health/)
--   [科技](/tech/)
--   [財經](/finance/)
--   [運動](/sports/)
--   [生活](/lifestyle/)
--   [作者群](/authors/)
--   [搜尋](/search/)
-
 <span id="%E4%BB%80%E9%BA%BC%E6%98%AF%E7%BE%8E%E9%A1%8F%E9%87%9D%EF%BC%9F%E4%B8%AD%E9%86%AB%E5%A6%82%E4%BD%95%E5%BE%9E%E6%95%B4%E9%AB%94%E8%AA%BF%E6%95%B4%E8%87%89%E9%83%A8%E7%8B%80%E6%85%8B"></span>
 
 ## **什麼是美顏針？中醫如何從整體調整臉部狀態**

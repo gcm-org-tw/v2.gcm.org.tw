@@ -110,7 +110,7 @@ sourceVerbatim: true
 
 編輯：GCM上醫預防醫學發展協會 數位編輯部
 
-連結: [/blog/ice-or-heat-when-to-use/ ‎](</blog/ice-or-heat-when-to-use/ ‎>)
+連結: [/blog/ice-or-heat-when-to-use/](/blog/ice-or-heat-when-to-use/)
 
 免責聲明：
 

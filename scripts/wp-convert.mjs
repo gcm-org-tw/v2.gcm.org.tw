@@ -13,6 +13,7 @@
 import { readFile, writeFile, mkdir, access, rm } from 'node:fs/promises';
 import { join } from 'node:path';
 import TurndownService from 'turndown';
+import { fixes } from '../content-link-fixes.mjs';
 
 const SRC = '.source';
 const DEST = 'src/content';
@@ -101,6 +102,28 @@ function toMarkdown(html) {
   return td.turndown(hoistHeadingAnchors(cleanHtml(html))).replace(/\n{3,}/g, '\n\n').trim();
 }
 
+/* 內文連結修正：宣告在 content-link-fixes.mjs，套用在轉檔輸出上。
+ * 直接改 src/content/**.md 沒有用——下次轉檔就被蓋掉。 */
+const fixHits = new Map(fixes.map(f => [f.id, 0]));
+function applyLinkFixes(markdown, legacyPath) {
+  let out = markdown;
+  for (const fix of fixes) {
+    if (fix.scope !== '*' && fix.scope !== decodeURIComponent(legacyPath)) continue;
+    const before = out;
+    if (fix.find instanceof RegExp) {
+      out = out.replace(fix.find, fix.replace);
+      const n = (before.match(fix.find) || []).length;
+      if (n) fixHits.set(fix.id, fixHits.get(fix.id) + n);
+    } else {
+      let n = 0;
+      while (out.includes(fix.find)) { out = out.replace(fix.find, fix.replace); n += 1; }
+      if (n) fixHits.set(fix.id, fixHits.get(fix.id) + n);
+    }
+  }
+  return out;
+}
+
+
 const yaml = v => {
   if (v === undefined || v === null) return '';
   if (typeof v === 'number' || typeof v === 'boolean') return String(v);
@@ -164,7 +187,7 @@ async function convertPages() {
     if (SKIP_PAGES.has(decoded)) continue;
 
     const title = decodeEntities(item.title?.rendered || '').trim();
-    const body = toMarkdown(item.content?.rendered || '');
+    const body = applyLinkFixes(toMarkdown(item.content?.rendered || ''), path);
     const isDynamic = DYNAMIC_PAGES.has(decoded);
 
     const fm = [
@@ -215,7 +238,7 @@ for (const [type, cfg] of Object.entries(COLLECTIONS)) {
     const title = decodeEntities(item.title?.rendered || '').trim();
     const excerptMd = item.excerpt?.rendered ? toMarkdown(item.excerpt.rendered) : '';
     const description = excerptMd.replace(/\s+/g, ' ').slice(0, 160).trim();
-    const body = toMarkdown(item.content?.rendered || '');
+    const body = applyLinkFixes(toMarkdown(item.content?.rendered || ''), path);
     const hero = mediaUsed[item.featured_media];
 
     const fm = [
@@ -253,3 +276,36 @@ if (report.some(r => r.startsWith('⚠'))) {
   console.log('\n注意事項：');
   for (const r of report.filter(r => r.startsWith('⚠'))) console.log('  ' + r);
 }
+
+// ── 連結修正結果對帳：實際次數與 expect 不符就出聲（來源改了要知道） ──
+console.log('\n內文連結修正：');
+let fixWarn = 0;
+for (const fix of fixes) {
+  const n = fixHits.get(fix.id);
+  const ok = n === fix.expect;
+  if (!ok) fixWarn += 1;
+  console.log(`  ${ok ? '✓' : '⚠'} ${fix.id.padEnd(24)} ${n}/${fix.expect} 處`);
+}
+if (fixWarn) {
+  console.log(`  ⚠ 有 ${fixWarn} 筆修正的命中數與預期不符——舊站來源可能已變動，`);
+  console.log('    請重看 content-link-fixes.mjs 並用 pnpm check:links 複驗。');
+}
+
+/* 給非開發者看的修正紀錄。由 content-link-fixes.mjs 自動產生，不要手改——
+ * 手改會跟真正生效的規則漂移，而漂移方向必然是「文件說得比實際好聽」。 */
+const mdRows = fixes.map(fix => {
+  const find = fix.find instanceof RegExp ? `\`${fix.find.source}\`（正規式）` : `\`${fix.find.replace(/\n/g, '⏎').slice(0, 90)}\``;
+  const rep = fix.replace === '' ? '（整段移除）' : `\`${String(fix.replace).replace(/\n/g, '⏎').slice(0, 90)}\``;
+  return `### ${fix.id}\n\n- **範圍**：${fix.scope === '*' ? '全站' : `\`${fix.scope}\``}\n`
+    + `- **命中**：${fixHits.get(fix.id)}／預期 ${fix.expect}\n`
+    + `- **原本**：${find}\n- **改成**：${rep}\n- **為什麼**：${fix.why}\n`;
+}).join('\n');
+
+await writeFile('content-link-fixes.md',
+  '# 內文連結修正紀錄\n\n'
+  + '> 本檔由 `scripts/wp-convert.mjs` 依 `content-link-fixes.mjs` **自動產生**，請勿手改。\n\n'
+  + '內文是從舊站逐字轉錄的。這裡每一筆都**只動連結、不動任何一個字的文案**——\n'
+  + '全部是「連結指向不存在的地方」的機械修正，且這些連結**在舊站也是壞的**。\n\n'
+  + `共 ${fixes.length} 筆，實際套用 ${[...fixHits.values()].reduce((a, b) => a + b, 0)} 處。\n\n`
+  + mdRows);
+console.log('\n修正紀錄 → content-link-fixes.md');

@@ -97,16 +97,28 @@ per_page=100 直接回 503。實測要 `per_page=20` + `_fields` 收斂 + 800ms 
 
 ## 待辦
 
-### 1. 圖片落點（**擋住上線的那一項**）
+### 1. 圖片落點：Cloudflare R2（用戶 2026-08-19 拍板）
 
-舊站圖片 11,725 個檔、平均 145KB、**合計約 1.7GB**（實測抽樣推估）。
-GitHub Pages 的 repo 與站台都是 1GB 量級的軟上限 → **放不進去**。
+舊站圖片實測 **11,725 個檔、1,099 MB**（已完整鏡像到 `.source/uploads/`，0 失敗）。
+其中 45% 的體積是 WordPress 自動產生的縮圖變體，20% 是照片誤存成 PNG（526 個檔、平均 427KB）。
 
-而這些 `/wp-content/uploads/…` 網址本身也在保留範圍（圖片搜尋、外站引用靠它）。
-可行解：Cloudflare 擋在 gcm.org.tw 前面，`/wp-content/uploads/*` 走 R2，其餘走 GitHub Pages。
-剛好與既有的 Cloudflare 動態層同一層基礎設施。
+決定：**`/wp-content/uploads/*` 走 Cloudflare R2，其餘走 GitHub Pages。** 理由是 repo 永遠不含
+二進位檔（`dist/` 維持 76MB、部署快、git 歷史不膨脹），而且動態層本來就要在 gcm.org.tw 前面
+架 Cloudflare，多這一條路由的邊際成本接近零。
 
-先跑 `node scripts/mirror-images.mjs --out <路徑>` 把檔案抓到本機保存，落點確定後再上傳。
+計價：R2 儲存 $0.015/GB-月（免費 10GB）、Class A $4.50/百萬（免費 100 萬）、
+Class B $0.36/百萬（免費 1,000 萬）、**egress 免費**。1.1GB ＋ 11,725 次上傳全在免費額度內 ＝ $0/月。
+
+路由（在 Cloudflare 設一次，動態層共用）：
+
+```
+/wp-content/uploads/*  →  R2
+/api/*                 →  Worker（動態層）
+其餘                    →  GitHub Pages
+```
+
+待辦：建 R2 bucket、上傳 `.source/uploads/`、設路由。上傳前可先跑
+`node scripts/optimize-images.mjs`（原格式重編碼，1,099MB → 845MB，不動網址）。
 
 ### 2. review CPT 4,144 頁怎麼處理（待用戶決定）
 

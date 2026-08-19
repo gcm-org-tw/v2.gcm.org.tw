@@ -26,7 +26,7 @@ sourceVerbatim: true
 
  
 
-[忘記密碼 ?](/wp-login.php?action=lostpassword)
+[忘記密碼 ?](/mem_pwd_reset/)
 
 **送出後請收驗證信完成註冊**
 

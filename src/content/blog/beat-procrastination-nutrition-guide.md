@@ -190,4 +190,4 @@ https://tradewind.kit.com/353b7fe16f
 
 責任編輯：GCM上醫預防醫學發展協會 數位編輯部
 
-連結: [/blog/beat-procrastina…-nutrition-guide/](/blog/beat-procrastina…-nutrition-guide/)
+連結: [/blog/beat-procrastination-nutrition-guide/](/blog/beat-procrastination-nutrition-guide/)

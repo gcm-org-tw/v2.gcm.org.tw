@@ -30,6 +30,6 @@ sourceVerbatim: true
 
 許多精彩活動和課程、皆是醫友健賞團成員專屬，欲掌握GCM協會舉辦的課程與活動資訊，可洽協會總幹事詢問「醫友健賞團」。
 
-GCM協會FB粉絲團：[/fb](/fb)
+GCM協會FB粉絲團：[https://www.facebook.com/GCM.org.tw](https://www.facebook.com/GCM.org.tw)
 
 GCM協會Xtwitter：[https://twitter.com/GCMonX](https://twitter.com/GCMonX)

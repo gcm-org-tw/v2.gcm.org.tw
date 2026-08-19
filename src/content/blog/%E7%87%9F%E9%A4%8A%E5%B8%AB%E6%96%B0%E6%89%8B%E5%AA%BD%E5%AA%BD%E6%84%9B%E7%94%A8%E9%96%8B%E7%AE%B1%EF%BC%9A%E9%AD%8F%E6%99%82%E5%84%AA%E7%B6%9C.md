@@ -36,7 +36,7 @@ sourceVerbatim: true
 
 感謝有這個榮幸體驗這支 #享SO食尚！[魏時優綜合酵素即食包](https://zhenyongbiotech55.shoplineapp.com/products/%E9%AD%8F%E6%99%82%E5%84%AA-%E7%B6%9C%E5%90%88%E9%85%B5%E7%B4%A0)，整體來說覺得還不錯。最後不免俗還是要提醒大家，六類食物都要有，兩千開水做環保，每天運動不可少。
 
-作者：[營養師楊川瑩](/author/yangfly99@hotmail.com/)
+作者：營養師楊川瑩
 
 **免責聲明**
 

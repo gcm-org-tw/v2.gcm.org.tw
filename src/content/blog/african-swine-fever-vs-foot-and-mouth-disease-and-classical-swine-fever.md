@@ -198,7 +198,7 @@ sourceVerbatim: true
 
 編輯：GCM上醫預防醫學發展協會 數位編輯部
 
-**連結:** [/blog/african-swine-fever-vs-foot-and-mouth-disease-and-classical-swine-fever](/?post_type=blog&p=33715&preview=true)
+**連結:** [/blog/african-swine-fever-vs-foot-and-mouth-disease-and-classical-swine-fever](/blog/african-swine-fever-vs-foot-and-mouth-disease-and-classical-swine-fever/)
 
 免責聲明：
 
