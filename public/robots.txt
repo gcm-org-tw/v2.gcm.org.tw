@@ -1,6 +1,0 @@
-# robots.txt — 開放一般與 AI 爬蟲；Sitemap 行供 Google 等自動發現
-# 建站時把 https://gcm.org.tw 換成正式網址（含 https://）
-User-agent: *
-Allow: /
-
-Sitemap: https://gcm.org.tw/sitemap-index.xml

@@ -19,12 +19,14 @@
     "check:links": "node scripts/check-links.mjs"
   },
   "dependencies": {
+    "@astrojs/markdown-remark": "^7.2.0",
     "@astrojs/rss": "^4.0.19",
     "@astrojs/sitemap": "^3",
     "astro": "^6"
   },
   "devDependencies": {
     "sharp": "^0.35.3",
-    "turndown": "^7"
+    "turndown": "^7",
+    "unist-util-visit": "^5.1.0"
   }
 }

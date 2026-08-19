@@ -1,4 +1,6 @@
 ---
+import { assetUrl } from '../lib/assets.mjs';
+
 interface Props {
   href: string;
   title: string;
@@ -14,7 +16,7 @@ const fmt = new Intl.DateTimeFormat('zh-TW', { year: 'numeric', month: '2-digit'
 <article class="card">
   {heroImage && (
     <a class="thumb" href={href} tabindex="-1" aria-hidden="true">
-      <img src={heroImage} alt={heroImageAlt ?? ''} loading="lazy" />
+      <img src={assetUrl(heroImage)} alt={heroImageAlt ?? ''} loading="lazy" />
     </a>
   )}
   <div class="body">

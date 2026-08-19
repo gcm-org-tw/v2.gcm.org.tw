@@ -2,6 +2,7 @@
 import '../styles/variables.css';
 import '../styles/global.css';
 import SchemaOrg from '../components/SchemaOrg.astro';
+import { assetUrl } from '../lib/assets.mjs';
 import SiteHeader from '../components/SiteHeader.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 
@@ -29,7 +30,7 @@ const {
 const SITE_NAME = 'GCM 上醫預防醫學發展協會';
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const fullTitle = Astro.url.pathname === '/' ? title : `${title}｜${SITE_NAME}`;
-const ogImageUrl = ogImage ? new URL(ogImage, Astro.site) : undefined;
+const ogImageUrl = ogImage ? new URL(assetUrl(ogImage), Astro.site) : undefined;
 ---
 
 <!doctype html>

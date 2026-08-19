@@ -3,3 +3,5 @@ dist/
 .astro/
 # 舊站擷取的原始資料（逐字轉錄來源，不進 repo）
 .source/
+# wrangler 本機狀態（R2 上傳／驗證時 wrangler 自己產生的）
+.wrangler/

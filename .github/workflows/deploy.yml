@@ -15,15 +15,12 @@ concurrency:
   group: pages
   cancel-in-progress: false
 
-env:
-  SITE_URL: https://gcm.org.tw
-
+# 網址單一來源＝site.config.mjs 的 SITE_URL（現為驗收網址 v2.gcm.yao.care），
+# 需要它的 job 自己 checkout 後讀出來寫進 $GITHUB_ENV，不在這裡寫死第二份。
+#
 # 上線閘門：deploy／verify／indexnow 三個 job 都要 repo variable PAGES_LIVE == 'true' 才動。
-# 為什麼要閘門：DNS 還指著舊站的 WordPress，這時部署會做出兩個壞結果——
-#   1. 站上線但圖片全破（/wp-content/uploads 還沒決定落點）
-#   2. verify job 去 curl https://gcm.org.tw 抓到的是舊站，驗的不是自己
-# 切換時機由用戶決定，切法：
-#   gh variable set PAGES_LIVE --repo gcm-org-tw/v2.gcm.org.tw --body true
+# 2026-08-19 起 PAGES_LIVE=true——部署目標是 v2.gcm.yao.care，不是還跑著 WordPress 的
+# gcm.org.tw，所以原本「會蓋掉舊站」的顧慮不存在。真正切 gcm.org.tw 是改 SITE_URL＋CNAME 的事。
 # build（含三道守門）不受閘門影響，每次 push 都跑，CI 才有意義。
 
 jobs:
@@ -95,6 +92,11 @@ jobs:
     if: vars.PAGES_LIVE == 'true'
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v6
+
+      - name: Load site config
+        run: node -e "import('./site.config.mjs').then(m=>require('fs').appendFileSync(process.env.GITHUB_ENV,`SITE_URL=${m.SITE_URL}\nINDEXABLE=${m.INDEXABLE}\n`))"
+
       - name: Wait for Pages CDN propagation
         run: sleep 15
 
@@ -122,6 +124,8 @@ jobs:
           fi
           echo "All $TOTAL URLs returned 200 ✓"
 
+  # 只在 INDEXABLE 打開時才送。驗收網址 v2.gcm.yao.care 的內容與正式站相同，
+  # 送去收錄等於自己跟自己搶排名——robots.txt 那邊也是同一個開關。
   indexnow:
     needs: verify
     if: vars.PAGES_LIVE == 'true'
@@ -131,7 +135,12 @@ jobs:
       - uses: actions/setup-node@v6
         with:
           node-version: 22
+
+      - name: Load site config
+        run: node -e "import('./site.config.mjs').then(m=>require('fs').appendFileSync(process.env.GITHUB_ENV,`SITE_URL=${m.SITE_URL}\nINDEXABLE=${m.INDEXABLE}\n`))"
+
       - name: Submit sitemap URLs to IndexNow
+        if: env.INDEXABLE == 'true'
         env:
           INDEXNOW_KEY: e46c8c02c3b0d6b0e05aef329acec904
         run: |

@@ -20,6 +20,7 @@
  */
 import { readFile, readdir, access } from 'node:fs/promises';
 import { join, relative, posix } from 'node:path';
+import { ASSET_BASE, ASSET_PREFIXES } from '../site.config.mjs';
 
 const args = process.argv.slice(2);
 const argVal = (n, d) => (args.includes(n) ? args[args.indexOf(n) + 1] : d);
@@ -28,11 +29,13 @@ const MAX_REPORT = Number(argVal('--max-report', 40));
 const REDIRECTS = 'redirects.json';
 
 /* 圖片走 Cloudflare R2（用戶 2026-08-19 拍板）：`/wp-content/uploads/*` 由 R2 服務，
- * 不會出現在 dist/ 裡，所以在這裡列為外部託管前綴。
- * ⚠ 這代表這批路徑**本腳本不驗**——圖片是否真的都在 R2，要靠上傳時的清單對帳
- *（.source/image-urls.txt 共 11,725 條），別以為連結守門綠了就等於圖片都在。 */
+ * 不會出現在 dist/ 裡，所以列為外部託管前綴。ASSET_BASE 非空時（開發期指向 r2.dev），
+ * 產出的網址會是絕對網址，這裡一併認出來，才不會被當成「外部連結」而漏掉統計。
+ * ⚠ 這批路徑**本腳本不驗檔案是否存在**——要靠 scripts/r2-verify.mjs 跟本機清單對帳，
+ *   別以為連結守門綠了就等於圖片都在。 */
 const EXTERNAL_PREFIXES = [
-  '/wp-content/uploads/',
+  ...ASSET_PREFIXES,
+  ...(ASSET_BASE ? ASSET_PREFIXES.map(p => ASSET_BASE + p) : []),
 ];
 
 async function exists(p) { try { await access(p); return true; } catch { return false; } }
@@ -100,6 +103,7 @@ let checked = 0;
 function checkOne(fromPath, raw) {
   const url = raw.trim();
   if (!url) return;
+  if (ASSET_BASE && url.startsWith(ASSET_BASE)) { externalSkipped += 1; return; }
   if (/^(https?:|mailto:|tel:|data:|javascript:|#)/i.test(url)) {
     // 同頁錨點
     if (url.startsWith('#') && url.length > 1) {

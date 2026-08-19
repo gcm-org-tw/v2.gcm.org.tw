@@ -1,5 +1,6 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import { assetUrl } from '../lib/assets.mjs';
 
 interface Props {
   title: string;
@@ -49,7 +50,7 @@ const fmt = (d: Date) =>
       )}
     </header>
 
-    {heroImage && <img class="hero" src={heroImage} alt={heroImageAlt ?? ''} loading="eager" />}
+    {heroImage && <img class="hero" src={assetUrl(heroImage)} alt={heroImageAlt ?? ''} loading="eager" />}
 
     <slot name="before-content" />
 
