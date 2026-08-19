@@ -116,9 +116,21 @@ jobs:
           TOTAL=$(wc -l < /tmp/urls.txt)
           echo "Total URLs: $TOTAL"
 
-          # 站台上千頁，序列 curl 會跑到天荒地老 → 併發 16
-          xargs -P 16 -I{} sh -c 'C=$(curl -s -o /dev/null -w "%{http_code}" "{}"); [ "$C" = 200 ] || echo "$C {}"' \
-            < /tmp/urls.txt > /tmp/failed.txt
+          # 站台上千頁，序列 curl 會跑到天荒地老 → 併發 8。
+          # 曾用 16，Pages 的 CDN 會偶發回 503（2026-08-19 實測：同一條網址單獨重打即 200），
+          # 所以第一輪的失敗不直接判死，隔幾秒序列重試兩輪，兩輪都不過才是真的壞。
+          probe() {
+            xargs -P "$2" -I{} sh -c 'C=$(curl -s -o /dev/null -w "%{http_code}" "{}"); [ "$C" = 200 ] || echo "$C {}"' < "$1"
+          }
+
+          probe /tmp/urls.txt 8 > /tmp/failed.txt
+          for round in 1 2; do
+            [ -s /tmp/failed.txt ] || break
+            echo "第 $round 輪重試 $(wc -l < /tmp/failed.txt) 條（第一輪多半是 CDN 暫時性 503）"
+            cut -d' ' -f2 /tmp/failed.txt > /tmp/retry.txt
+            sleep 10
+            probe /tmp/retry.txt 2 > /tmp/failed.txt
+          done
 
           echo "===== Verification Result ====="
           if [ -s /tmp/failed.txt ]; then
