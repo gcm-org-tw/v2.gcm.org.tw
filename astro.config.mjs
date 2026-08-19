@@ -5,10 +5,13 @@ import { unified } from '@astrojs/markdown-remark';
 import { rehypeAssetBase } from './src/lib/assets.mjs';
 import { SITE_URL } from './site.config.mjs';
 
-/* 轉址表由 redirects.json 提供（同一份也被 scripts/check-urls.mjs 讀）。
- * _comment 是說明欄位，不是路徑，要濾掉。 */
+/* 轉址表兩份（同樣被 scripts/check-urls.mjs 與 check-live-urls.mjs 讀）：
+ *   redirects.json         人工維護，每條都要用戶點頭
+ *   redirects-review.json  機器產生的 review 舊網址（4,144 條，見 build-review-redirects.mjs）
+ * 分開放才看得出誰是誰。_comment 是說明欄位，不是路徑，要濾掉。 */
 const redirects = Object.fromEntries(
-  Object.entries(JSON.parse(readFileSync('./redirects.json', 'utf8')))
+  ['./redirects.json', './redirects-review.json']
+    .flatMap(f => Object.entries(JSON.parse(readFileSync(f, 'utf8'))))
     .filter(([from]) => from.startsWith('/'))
 );
 

@@ -21,7 +21,7 @@ const DIST = argVal('--dist', 'dist');
 const CONTRACT = argVal('--contract', 'legacy-urls.txt');
 const RETIRED = 'legacy-urls-retired.txt';
 const PENDING = 'pending-urls.txt';   // 舊站有、但去留未經用戶決定的網址
-const REDIRECTS = 'redirects.json';
+const REDIRECTS = ['redirects.json', 'redirects-review.json'];
 
 async function exists(p) { try { await access(p); return true; } catch { return false; } }
 
@@ -78,11 +78,13 @@ if (!await exists(DIST)) {
 
 const contract = (await readList(CONTRACT)).map(toPath);
 const retired = new Set((await readList(RETIRED)).map(toPath));
-const redirects = await exists(REDIRECTS)
-  ? JSON.parse(await readFile(REDIRECTS, 'utf8'))
-  : {};
-// redirects.json 裡有 _comment 這種說明欄位，不是路徑 → 只認 / 開頭的 key
-const redirectFrom = new Set(Object.keys(redirects).filter(k => k.startsWith('/')).map(toPath));
+const redirectKeys = [];
+for (const f of REDIRECTS) {
+  if (!await exists(f)) continue;
+  redirectKeys.push(...Object.keys(JSON.parse(await readFile(f, 'utf8'))));
+}
+// 轉址檔裡有 _comment 這種說明欄位，不是路徑 → 只認 / 開頭的 key
+const redirectFrom = new Set(redirectKeys.filter(k => k.startsWith('/')).map(toPath));
 
 const built = await collectDistPaths(DIST);
 

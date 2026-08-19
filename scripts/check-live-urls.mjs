@@ -39,8 +39,10 @@ const add = (u, tag) => { const k = toLive(u); if (!sources.has(k)) sources.set(
 
 for (const u of await lines('legacy-urls.txt')) add(u, '舊站契約');
 for (const u of await lines('extra-urls.txt')) add(u, '人工補充入口');
-const redirects = JSON.parse(await readFile('redirects.json', 'utf8'));
-for (const from of Object.keys(redirects)) if (from.startsWith('/')) add(from, '轉址舊網址');
+for (const f of ['redirects.json', 'redirects-review.json']) {
+  const map = await readFile(f, 'utf8').then(JSON.parse).catch(() => ({}));
+  for (const from of Object.keys(map)) if (from.startsWith('/')) add(from, '轉址舊網址');
+}
 
 /* 線上 sitemap：新站自己宣告的頁面。抓不到不算錯（可能還沒部署完），但要講出來。 */
 const locs = (xml) => [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1]);

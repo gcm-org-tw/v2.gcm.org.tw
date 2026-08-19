@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import ArticleLayout from '../../layouts/ArticleLayout.astro';
 import { slugFromLegacy } from '../../lib/urls';
 import { label } from '../../lib/taxonomy';
+import reviewsBySlug from '../../data/wom-reviews.json';
 
 /* 網址保留：舊站口碑頁為 /wom/<slug>/，slug 取自 legacyPath。 */
 export async function getStaticPaths() {
@@ -15,21 +16,219 @@ export async function getStaticPaths() {
 
 const { item } = Astro.props;
 const { Content } = await render(item);
-const taxonomy = item.data.gcm_supplier_category.map(slug => ({
+const d = item.data;
+const taxonomy = d.gcm_supplier_category.map(slug => ({
   href: `/wom/`,
   label: label('gcm_supplier_category', slug),
 }));
+
+/* 心得的 key 是舊站的 wom slug（percent-encoded 原樣），與 legacyPath 同源。
+ * 這批資料由 scripts/wp-reviews.mjs 從舊站前台抓回、wp-convert.mjs 落成 JSON——
+ * 舊站 WP REST 撈不到它們，別以為 collection 裡沒有就是不存在。 */
+const womSlug = d.legacyPath.replace('/wom/', '').replace(/\/$/, '');
+const reviews = (reviewsBySlug as Record<string, Array<{
+  id: number; title: string; name: string; date: string; score: number | null; body: string;
+}>>)[womSlug] ?? [];
+
+// 健賞紀錄表：有值的才列，沒開跑的商品不會出現空欄位
+const record = [
+  ['健賞期間', d.period],
+  ['健賞醫友', d.participants ? `${d.participants} 人` : ''],
+  ['健賞週期', d.cycle],
+  ['公佈月份', d.announceMonth],
+  ['健賞規格', d.spec],
+  ['健賞條件', d.condition],
+].filter(([, v]) => v);
 ---
 
 <ArticleLayout
-  title={item.data.title}
-  description={item.data.description}
-  pubDate={item.data.pubDate}
-  updatedDate={item.data.updatedDate}
-  heroImage={item.data.heroImage}
-  heroImageAlt={item.data.heroImageAlt}
-  breadcrumb={[{ href: '/wom/', label: '口碑推薦' }]}
+  title={d.title}
+  description={d.description}
+  pubDate={d.pubDate}
+  updatedDate={d.updatedDate}
+  heroImage={d.heroImage}
+  heroImageAlt={d.heroImageAlt}
+  breadcrumb={[{ href: '/wom/', label: '醫友健賞團' }]}
   taxonomy={taxonomy}
 >
+  <Fragment slot="before-content">
+    {(d.brand || d.campaignStatus) && (
+      <p class="brandline">
+        {d.brand && (
+          d.brandUrl
+            ? <a class="brand" href={d.brandUrl} rel="nofollow noopener" target="_blank">{d.brand}</a>
+            : <span class="brand">{d.brand}</span>
+        )}
+        {d.campaignStatus && <span class="status">{d.campaignStatus}</span>}
+      </p>
+    )}
+
+    {(d.score || d.participants) && (
+      <dl class="scoreboard">
+        {d.score && (
+          <div><dt>健賞分數</dt><dd>{d.score} <span class="of">/ 5</span></dd></div>
+        )}
+        {d.participants && (
+          <div><dt>參與醫友</dt><dd>{d.participants} <span class="of">人</span></dd></div>
+        )}
+      </dl>
+    )}
+  </Fragment>
+
   <Content />
+
+  <Fragment slot="after-content">
+    {record.length > 0 && (
+      <section class="record" aria-labelledby="record-title">
+        <h2 id="record-title">健賞紀錄表</h2>
+        <dl>
+          {record.map(([k, v]) => (
+            <div><dt>{k}</dt><dd>{v}</dd></div>
+          ))}
+        </dl>
+      </section>
+    )}
+
+    {reviews.length > 0 && (
+      <section class="reviews" aria-labelledby="reviews-title">
+        <h2 id="reviews-title">健賞真心話 —— 醫友心得分享</h2>
+        <p class="count">共 {reviews.length} 則</p>
+        {/* id 是舊站 review 文章編號，/review/<slug>/ 那批舊網址就是轉到這裡的錨點 */}
+        {reviews.map(r => (
+          <article class="review" id={`review-${r.id}`}>
+            <header>
+              <span class="who">
+                {r.title && <span class="role">{r.title}</span>}
+                {r.name}
+              </span>
+              <span class="meta">
+                <time>{r.date}</time>
+                {r.score !== null && <span class="score">{r.score} / 5</span>}
+              </span>
+            </header>
+            {r.body.split('\n\n').map(p => <p>{p}</p>)}
+          </article>
+        ))}
+      </section>
+    )}
+
+    <p class="disclaimer">
+      以上醫友心得為醫事相關人員實際體驗後所撰寫之真實個人意見，商品資訊來源為廠商公開資訊，
+      不代表本協會立場，其真實性及合法性由各商品廠商負最終且完全之法律責任。
+    </p>
+  </Fragment>
 </ArticleLayout>
+
+<style>
+  .brandline {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem;
+    margin-block: 0 1rem;
+  }
+  .brand {
+    font-size: var(--text-sm);
+    color: var(--color-primary);
+    font-weight: 700;
+  }
+  .status {
+    padding: 0.15rem 0.6rem;
+    border-radius: 999px;
+    background: var(--color-primary-a10);
+    color: var(--color-primary-dark);
+    font-size: var(--text-xs);
+  }
+  .scoreboard,
+  .record dl {
+    display: grid;
+    gap: 0.75rem 1.5rem;
+    margin: 0;
+  }
+  .scoreboard {
+    grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+    padding: 1rem 1.25rem;
+    border: 1px solid var(--color-line);
+    border-radius: 0.5rem;
+    background: var(--color-bg-light);
+  }
+  .scoreboard dt,
+  .record dt {
+    color: var(--color-ink-soft);
+    font-size: var(--text-xs);
+  }
+  .scoreboard dd {
+    margin: 0.15rem 0 0;
+    font-size: var(--text-xl);
+    font-weight: 700;
+    color: var(--color-primary);
+  }
+  .scoreboard .of {
+    font-size: var(--text-sm);
+    font-weight: 400;
+    color: var(--color-ink-muted);
+  }
+  .record {
+    margin-top: 2.5rem;
+  }
+  .record dl {
+    grid-template-columns: minmax(6rem, auto) 1fr;
+    align-items: baseline;
+  }
+  .record dl > div {
+    display: contents;
+  }
+  .record dd {
+    margin: 0;
+    font-size: var(--text-base);
+  }
+  .reviews {
+    margin-top: 3rem;
+  }
+  .reviews .count {
+    color: var(--color-ink-muted);
+    font-size: var(--text-sm);
+  }
+  .review {
+    padding-block: 1.25rem;
+    border-top: 1px solid var(--color-line);
+  }
+  .review header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 0.5rem 1rem;
+    margin-bottom: 0.5rem;
+  }
+  .review .who {
+    font-weight: 700;
+    font-size: var(--text-base);
+  }
+  .review .role {
+    margin-right: 0.4rem;
+    color: var(--color-primary);
+  }
+  .review .meta {
+    display: flex;
+    gap: 0.75rem;
+    color: var(--color-ink-muted);
+    font-size: var(--text-xs);
+  }
+  .review .score {
+    color: var(--color-accent-dark);
+    font-weight: 700;
+  }
+  .review p {
+    margin: 0.4rem 0;
+    font-size: var(--text-base);
+    line-height: 1.8;
+  }
+  .disclaimer {
+    margin-top: 2.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-line);
+    color: var(--color-ink-muted);
+    font-size: var(--text-xs);
+    line-height: 1.8;
+  }
+</style>

@@ -27,11 +27,25 @@ const blog = defineCollection({
   }),
 });
 
+/* 醫友健賞團商品。brand 以下這幾欄在舊站是 JetEngine 自訂欄位、WP REST 撈不到，
+ * 由 scripts/wp-wom.mjs 從前台抓回來（見 scripts/wp-convert.mjs 的健賞段落）。
+ * 心得則量太大，另存 src/data/wom-reviews.json，不進 frontmatter。
+ * 全部 optional——「心得募集中」的商品還沒有分數與參與人數，那不是缺漏。 */
 const wom = defineCollection({
   loader: glob({ base: './src/content/wom', pattern: '**/*.md' }),
   schema: z.object({
     ...legacyBase,
     gcm_supplier_category: z.array(z.string()).default([]),
+    brand: z.string().optional(),
+    brandUrl: z.string().optional(),
+    campaignStatus: z.string().optional(),
+    score: z.number().optional(),
+    participants: z.number().optional(),
+    period: z.string().optional(),
+    cycle: z.string().optional(),
+    announceMonth: z.string().optional(),
+    spec: z.string().optional(),
+    condition: z.string().optional(),
   }),
 });
 

@@ -214,6 +214,16 @@ async function convertPages() {
 }
 await convertPages();
 
+/* ── 醫友健賞團：商品說明、健賞成績、心得 ──
+ * 這三樣在舊站都走不到 WP REST（JetEngine 自訂欄位沒註冊 show_in_rest），
+ * 由 scripts/wp-wom.mjs 與 scripts/wp-reviews.mjs 從前台抓下來落在 .source/。
+ * 心得有 2,566 則、單則可到數百字，塞進 frontmatter 會讓 .md 難讀也難 diff，
+ * 所以另外輸出成 src/data/wom-reviews.json 給頁面 import；.md 只留商品說明與成績。 */
+const womDetail = await exists(join(SRC, 'wom-detail.json'))
+  ? JSON.parse(await readFile(join(SRC, 'wom-detail.json'), 'utf8')) : {};
+const womReviews = await exists(join(SRC, 'reviews.json'))
+  ? JSON.parse(await readFile(join(SRC, 'reviews.json'), 'utf8')) : {};
+
 const report = [];
 for (const [type, cfg] of Object.entries(COLLECTIONS)) {
   if (only && !only.includes(type)) continue;
@@ -238,8 +248,14 @@ for (const [type, cfg] of Object.entries(COLLECTIONS)) {
     const title = decodeEntities(item.title?.rendered || '').trim();
     const excerptMd = item.excerpt?.rendered ? toMarkdown(item.excerpt.rendered) : '';
     const description = excerptMd.replace(/\s+/g, ' ').slice(0, 160).trim();
-    const body = applyLinkFixes(toMarkdown(item.content?.rendered || ''), path);
+    let body = applyLinkFixes(toMarkdown(item.content?.rendered || ''), path);
     const hero = mediaUsed[item.featured_media];
+
+    // wom 的內文在舊站是 JetEngine 欄位、不在 item.content 裡 → 用抓回來的商品說明補上
+    const detail = type === 'wom' ? womDetail[item.slug] : null;
+    if (detail?.description && !body.trim()) {
+      body = detail.description.split('\n').map(l => l.trim()).filter(Boolean).join('\n\n');
+    }
 
     const fm = [
       '---',
@@ -256,6 +272,18 @@ for (const [type, cfg] of Object.entries(COLLECTIONS)) {
       ...TAXONOMIES
         .filter(t => Array.isArray(item[t]) && item[t].length && taxMap[t])
         .map(t => `${t.replace(/-/g, '_')}: ${yaml(item[t].map(id => taxMap[t].get(id)).filter(Boolean))}`),
+      ...(detail ? [
+        detail.brand ? `brand: ${yaml(detail.brand)}` : null,
+        detail.brandUrl ? `brandUrl: ${yaml(detail.brandUrl)}` : null,
+        detail.status ? `campaignStatus: ${yaml(detail.status)}` : null,
+        detail.score ? `score: ${yaml(detail.score)}` : null,
+        detail.participants ? `participants: ${yaml(detail.participants)}` : null,
+        detail.period ? `period: ${yaml(detail.period)}` : null,
+        detail.cycle ? `cycle: ${yaml(detail.cycle)}` : null,
+        detail.announceMonth ? `announceMonth: ${yaml(detail.announceMonth)}` : null,
+        detail.spec ? `spec: ${yaml(detail.spec)}` : null,
+        detail.condition ? `condition: ${yaml(detail.condition)}` : null,
+      ] : []),
       `legacyId: ${item.id}`,
       `legacyPath: ${yaml(path)}`,
       '# 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）',
@@ -270,6 +298,22 @@ for (const [type, cfg] of Object.entries(COLLECTIONS)) {
   }
   console.log(`${type} → ${outDir}：${n} 篇`);
   report.push(`${type}: ${n} 篇`);
+}
+
+/* 心得落成前端可 import 的資料檔。key＝wom 的 slug（與 legacyPath 同源），
+ * 值只留頁面會用到的欄位，順序照舊站（新到舊）。 */
+if (Object.keys(womReviews).length && (!only || only.includes('wom'))) {
+  const out = Object.fromEntries(Object.entries(womReviews).map(([slug, v]) => [
+    slug,
+    v.reviews.map(r => ({
+      id: r.postId, title: r.authorTitle, name: r.authorName,
+      date: r.date, score: r.score, body: r.body,
+    })),
+  ]));
+  await mkdir('src/data', { recursive: true });
+  await writeFile('src/data/wom-reviews.json', JSON.stringify(out, null, 2) + '\n');
+  const n = Object.values(out).reduce((a, b) => a + b.length, 0);
+  console.log(`醫友心得 → src/data/wom-reviews.json：${Object.keys(out).length} 個商品、${n} 則`);
 }
 
 if (report.some(r => r.startsWith('⚠'))) {

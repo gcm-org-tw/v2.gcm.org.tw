@@ -82,10 +82,10 @@ if (await exists('extra-urls.txt')) {
   console.log(`人工補充補入：${urls.size - before} 條`);
 }
 
-/* review CPT（4,144 筆）單頁完全沒有內文，去留待用戶決定 →
- * 不進契約，改由 pending-urls.txt 追蹤（check-urls.mjs 每次會印出條數）。
- * 用戶決定後：保留就把這段拿掉、轉址就寫進 redirects.json、不留就進 legacy-urls-retired.txt。 */
-for (const u of [...urls]) if (new URL(u).pathname.startsWith('/review/')) urls.delete(u);
+/* review CPT（4,144 筆）2026-08-19 決議：全部轉址，所以**留在契約裡**由 check-urls 一起驗。
+ * 目的地由 scripts/build-review-redirects.mjs 產生成 redirects-review.json——
+ * 有心得的轉到商品頁上自己那一則的錨點，舊站也查無內容的轉到 /wom/。
+ * （先前這裡把 /review/ 整批排除、丟給 pending-urls.txt 追蹤，那份已完成任務。） */
 
 const sorted = [...urls].sort();
 const header = [
