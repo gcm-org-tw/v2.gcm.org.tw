@@ -91,9 +91,27 @@ per_page=100 直接回 503。實測要 `per_page=20` + `_fields` 收斂 + 800ms 
 | `blog-cate` | 10 | `/blog-cate/<slug>/` | `src/pages/blog-cate/[slug].astro` |
 | `review` | 4,144 | 無對外網址 | 未進 collection，屬動態層資料 |
 
+## 現況（2026-08-19）
+
+`pnpm build` 產出 3,320 頁，`pnpm check:urls` 全綠：契約 3,263 條、產出 3,327 條、0 條消失。
+
 ## 待辦
 
-- [ ] 圖片鏡像：舊站圖片在 `/wp-content/uploads/`，舊站關掉就死。`.source/image-urls.txt` 是要下載的清單，網址原樣保留（連圖片網址都不斷）
+### 1. 圖片落點（**擋住上線的那一項**）
+
+舊站圖片 11,725 個檔、平均 145KB、**合計約 1.7GB**（實測抽樣推估）。
+GitHub Pages 的 repo 與站台都是 1GB 量級的軟上限 → **放不進去**。
+
+而這些 `/wp-content/uploads/…` 網址本身也在保留範圍（圖片搜尋、外站引用靠它）。
+可行解：Cloudflare 擋在 gcm.org.tw 前面，`/wp-content/uploads/*` 走 R2，其餘走 GitHub Pages。
+剛好與既有的 Cloudflare 動態層同一層基礎設施。
+
+先跑 `node scripts/mirror-images.mjs --out <路徑>` 把檔案抓到本機保存，落點確定後再上傳。
+
+### 2. 其他
+
 - [ ] 首頁與內容型頁面的版型（等用戶提供正式網站地圖與發展方向）
-- [ ] 動態頁面的 Cloudflare 端點契約（等動態層 repo 決定）
-- [ ] `/feed/`（舊站 RSS）與 `/locations.kml` 的處理
+- [ ] 動態頁面（13 頁）的 Cloudflare 端點契約
+- [ ] `/feed/`（舊站 RSS）——目前新站未提供
+- [x] `/locations.kml` 已鏡像進 `public/`
+- [ ] `review` CPT 4,144 筆：無對外網址，屬動態層資料，匯出中
