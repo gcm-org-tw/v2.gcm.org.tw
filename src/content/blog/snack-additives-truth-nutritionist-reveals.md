@@ -25,6 +25,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/snack-additives-truth-nutritionist-reveals_11zon.webp)
 
+<span id="%F0%9F%A7%AA_%E9%82%A3%E4%BA%9B%E4%BD%A0%E7%86%9F%E6%82%89%E7%9A%84%E5%91%B3%E9%81%93%EF%BC%8C%E5%85%B6%E5%AF%A6%E9%83%BD%E3%80%8C%E5%90%88%E6%88%90%E3%80%8D%E5%BE%97%E5%87%BA%E4%BE%86"></span>
+
 ## **🧪** **那些你熟悉的味道，其實都「合成」得出來**
 
 還記得我在研究所時選修了一門食品化學課，那時教授帶來了一箱的小瓶子。
@@ -67,6 +69,8 @@ sourceVerbatim: true
 
 這些『調出來的味道』藏在哪些食物裡呢？一起來看看。
 
+<span id="%E5%93%AA%E4%BA%9B%E5%B8%B8%E8%A6%8B%E9%A3%9F%E5%93%81%E6%9C%80%E5%B8%B8%E4%BD%BF%E7%94%A8%E9%A6%99%E6%96%99%EF%BC%9F"></span>
+
 ## **哪些常見食品最常使用香料？**
 
 以下這些零食與飲料，是最常見使用香精添加的類型：
@@ -86,6 +90,8 @@ sourceVerbatim: true
 **🍨** **冰品**
 
 -   草莓雪糕、巧克力冰淇淋、香草甜筒，大多都是香料打底。
+
+<span id="%E9%80%99%E4%BA%9B%E9%A6%99%E6%96%99%E5%B0%8D%E6%88%91%E5%80%91%E7%9A%84%E8%BA%AB%E9%AB%94%E7%9C%9F%E7%9A%84%E6%B2%92%E5%95%8F%E9%A1%8C%E5%97%8E%EF%BC%9F"></span>
 
 ## **這些香料對我們的身體真的沒問題嗎？**
 
@@ -148,6 +154,8 @@ sourceVerbatim: true
 加工食品早就不是「單純的食物」，
 
 而是變成了像藥物一樣，**經過精密設計，讓你一吃就上癮的東西。**
+
+<span id="%E5%9B%9E%E5%88%B0%E3%80%8C%E7%9C%8B%E5%BE%97%E8%A6%8B%E3%80%8D%E7%9A%84%E9%A3%9F%E7%89%A9"></span>
 
 ## **回到「看得見」的食物**
 

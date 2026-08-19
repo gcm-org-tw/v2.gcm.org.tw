@@ -17,6 +17,8 @@ sourceVerbatim: true
 
 正如中醫的初心所說：「調和正氣，扶正祛邪。」今天，隨著科研萃取技術的介入，傳統中醫有了全新的可能性。科研藥材不僅保留了中藥的療效，還提供了穩定、安全的品質保障，讓患者可以更放心地享受中醫診療的益處。在這篇文章中，我們將深入探討黃耆萃取粉與酸棗仁萃取物的現代應用，如何為患者重塑健康的信任基石，並為中醫診所開創全新的發展機遇。
 
+<span id="%E5%82%B3%E7%B5%B1%E8%88%87%E7%8F%BE%E4%BB%A3%E7%9A%84%E5%B0%8D%E8%A9%B1%EF%BC%9A%E8%97%A5%E6%9D%90%E5%93%81%E8%B3%AA%E7%82%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E9%87%8D%E8%A6%81%EF%BC%9F"></span>
+
 ## **傳統與現代的對話：藥材品質為何如此重要？**
 
 **「您是否曾考慮過，中藥材的來源和品質，對您的健康影響有多大？」**  
@@ -28,10 +30,14 @@ sourceVerbatim: true
 
 根據一項系統性研究，先進的藥材品質檢測技術可以有效降低藥物中的重金屬殘留風險，讓傳統中醫在現代醫療中展現更大的信任度（註1）。此外，另一項研究也指出，改進的萃取技術不僅能提升藥材活性成分的穩定性，還能減少不必要的雜質（註2）。因此，選擇經過嚴格檢測與認證的科研藥材，是現代患者保護自身健康的關鍵一步。
 
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB%EF%BC%9A"></span>
+
 ### **參考文獻**：
 
 1.  Zhang, A., Sun, H., Wang, X., Han, Y., & Wang, P. (2018). Modern analytical techniques in quality control of traditional Chinese medicines. *TrAC Trends in Analytical Chemistry*, 102, 22-31. DOI: 10.1016/j.trac.2018.01.004.
 2.  Zhu, Y., & Chen, X. (2019). Safety assessment of traditional Chinese medicines. *Journal of Ethnopharmacology*, 231, 373-380. DOI: 10.1016/j.jep.2018.12.029.
+
+<span id="%E9%BB%83%E8%80%86%E8%90%83%E5%8F%96%E7%B2%89%EF%BC%9A%E5%B9%AB%E5%8A%A9%E6%85%A2%E6%80%A7%E7%97%85%E6%82%A3%E8%80%85%E9%87%8D%E6%8B%BE%E7%94%9F%E6%B4%BB%E5%B8%8C%E6%9C%9B"></span>
 
 ## **黃耆萃取粉：幫助慢性病患者重拾生活希望**
 
@@ -44,9 +50,13 @@ sourceVerbatim: true
 
 對於中醫診所而言，使用科研萃取的黃耆產品還能提升患者的信任度和治療效果。同時，也有助於樹立診所的專業形象，成為與傳統中醫深度融合的現代醫療典範。當您在選擇治療方案時，不妨將這種結合了傳統與現代科技的中藥材列入考量，讓健康更有保障。
 
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB%EF%BC%9A-2"></span>
+
 ### **參考文獻**：
 
 1.  Cheng, C. F., & Leu, S. (2017). Astragalus polysaccharides enhance immune response in a dose-dependent manner: Experimental evidence. *Journal of Ethnopharmacology*, 209, 56-63. DOI: 10.1016/j.jep.2017.07.013.
+
+<span id="%E9%85%B8%E6%A3%97%E4%BB%81%E8%90%83%E5%8F%96%E7%89%A9%EF%BC%9A%E5%AE%89%E7%A5%9E%E5%8A%A9%E7%9C%A0%E7%9A%84%E7%A7%91%E6%8A%80%E6%96%B0%E7%AA%81%E7%A0%B4"></span>
 
 ## **酸棗仁萃取物：安神助眠的科技新突破**
 
@@ -59,11 +69,15 @@ sourceVerbatim: true
 
 對於中醫診所而言，酸棗仁萃取物不僅能滿足現代人對改善睡眠的需求，還能作為與心理健康結合的創新治療方案。患者只需在睡前飲用一劑經過科研驗證的酸棗仁配方茶，就能感受到傳統與現代結合的安神效果。這樣的治療方案，既溫和，又具長期調養的價值。
 
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB%EF%BC%9A-3"></span>
+
 ### **參考文獻**：
 
 1.  Li, X., Wang, H., & Zhang, Z. (2020). Effects of Ziziphus jujuba seed extract on sleep quality: A randomized double-blind placebo-controlled trial. *Journal of Ethnopharmacology*, 248, 112327. DOI: 10.1016/j.jep.2019.112327.
 
 ![](/wp-content/uploads/TCM-Insights-Quality-Control-of-Extracted-Herbal-Medicines-300x170.jpg)
+
+<span id="%E4%B8%AD%E9%86%AB%E8%A8%BA%E6%89%80%E7%9A%84%E6%9C%AA%E4%BE%86%E6%A9%9F%E9%81%87%EF%BC%9A%E5%93%81%E7%AE%A1%E8%88%87%E6%95%99%E8%82%B2%E4%B8%A6%E8%A1%8C"></span>
 
 ## **中醫診所的未來機遇：品管與教育並行**
 
@@ -76,9 +90,13 @@ sourceVerbatim: true
 
 展望未來，將品管與教育相結合，中醫診所能夠在激烈的市場競爭中穩步發展，成為患者值得信賴的健康夥伴。當您選擇中醫診療時，請記得關注藥材的品質與科學基礎，這是守護健康的第一步。
 
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB%EF%BC%9A-4"></span>
+
 ### **參考文獻**：
 
 1.  Chen, X., Huang, Q., & Wang, L. (2021). Quality control strategies for traditional Chinese medicine based on modern analytical techniques. *Journal of Pharmaceutical Analysis*, 11(4), 573-584. DOI: 10.1016/j.jpha.2021.02.002.
+
+<span id="%E4%B8%AD%E9%86%AB%E8%97%A5%E6%9D%90%E7%9A%84%E5%93%81%E8%B3%AA%E4%B9%8B%E6%97%85%EF%BC%8C%E5%A6%82%E5%90%8C%E4%B8%80%E9%81%93%E7%B2%BE%E7%B7%BB%E7%9A%84%E6%96%99%E7%90%86"></span>
 
 ## **中醫藥材的品質之旅，如同一道精緻的料理**
 
@@ -88,15 +106,23 @@ sourceVerbatim: true
 
 <table class="dataframe" border="1"><thead><tr style="text-align: center;"><th>項目</th><th>主要功效</th><th>核心成分</th><th>傳統應用</th><th>現代科技的貢獻</th><th>適用人群</th><th>注意事項</th></tr></thead><tbody><tr><td>黃耆萃取粉</td><td>增強免疫系統、提升體力，特別適合慢性病患者</td><td>多醣體（50%以上）</td><td>《神農本草經》記載：補虛強身，排膿止痛</td><td>高純度萃取技術，穩定多醣體含量，提升療效</td><td>免疫力低下、體力不足或慢性病康復中的患者</td><td>需確認藥材來源與品質，避免重金屬污染</td></tr><tr><td>酸棗仁萃取物</td><td>安神助眠、改善睡眠質量，調節情緒</td><td>三萜類與黃酮類化合物</td><td>《本草綱目》記載：味甘，性平，主治心煩不得眠</td><td>精確萃取活性成分，顯著提高助眠效果</td><td>壓力過大、失眠或需要調節情緒的現代人</td><td>選擇經過認證的萃取物，避免來源不明的產品</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A%E9%BB%83%E8%80%86%E8%90%83%E5%8F%96%E7%B2%89%E7%9A%84%E6%95%88%E6%9E%9C%E6%98%AF%E5%90%A6%E9%81%A9%E5%90%88%E6%89%80%E6%9C%89%E4%BA%BA%EF%BC%9F"></span>
 
 ### **問題 1****：黃耆萃取粉的效果是否適合所有人？**
 
 **回覆：** 黃耆萃取粉因其增強免疫力與提升體力的特性，特別適合免疫力低下、體力不足或正在康復中的慢性病患者。然而，根據中醫理論，黃耆性甘微溫，適合氣虛體質的人群，但不適合正處於感染高熱或有炎症的人群使用。《黃帝內經》提到：「熱者寒之，寒者熱之」，因此選用黃耆時需根據自身體質判斷。如果有不確定，建議諮詢專業中醫師。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E9%85%B8%E6%A3%97%E4%BB%81%E8%90%83%E5%8F%96%E7%89%A9%E6%98%AF%E5%90%A6%E6%9C%83%E6%9C%89%E4%BE%9D%E8%B3%B4%E6%80%A7%EF%BC%9F"></span>
+
 ### **問題 2****：酸棗仁萃取物是否會有依賴性？**
 
 **回覆：** 酸棗仁作為傳統安神助眠的中藥材，其萃取物不會像部分西藥助眠劑那樣產生依賴性。酸棗仁主要透過調節中樞神經系統的活性來改善睡眠質量。《本草綱目》記載：「酸棗仁，味甘，性平，安五臟，補血安神。」現代研究也證實，經過科學萃取的酸棗仁對失眠的調理效果溫和持久，適合長期使用。但如果失眠症狀嚴重，仍需就醫進一步評估。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E5%A6%82%E4%BD%95%E8%BE%A8%E5%88%A5%E9%AB%98%E5%93%81%E8%B3%AA%E7%9A%84%E7%A7%91%E7%A0%94%E8%90%83%E5%8F%96%E8%97%A5%E6%9D%90%EF%BC%9F"></span>
 
 ### **問題 3****：如何辨別高品質的科研萃取藥材？**
 
@@ -107,6 +133,8 @@ sourceVerbatim: true
 3.  **外觀與包裝**：藥材萃取物應包裝完整，標示清晰，含有產品成分與生產資訊。  
     如文章所提，現代科研技術為中藥材的品質提升提供了保障，購買前可要求商家提供相關數據支持。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A%E6%9C%8D%E7%94%A8%E9%BB%83%E8%80%86%E5%92%8C%E9%85%B8%E6%A3%97%E4%BB%81%E6%99%82%E6%87%89%E6%B3%A8%E6%84%8F%E4%BB%80%E9%BA%BC%EF%BC%9F"></span>
+
 ### **問題 4****：服用黃耆和酸棗仁時應注意什麼？**
 
 **回覆：** 黃耆與酸棗仁雖是安全性較高的中藥材，但仍需注意使用情境：
@@ -114,6 +142,8 @@ sourceVerbatim: true
 1.  **黃耆**：避免在感冒、發熱或炎症狀態下服用，因其補氣作用可能助長病邪。
 2.  **酸棗仁**：服用時應遵循劑量指導，避免過量使用。建議晚間服用，以達到最佳助眠效果。  
     此外，兩者均需避免與來路不明的藥材混用，以免引發副作用或影響療效。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9A%E4%B8%AD%E9%86%AB%E8%A8%BA%E6%89%80%E5%A6%82%E4%BD%95%E5%B0%87%E7%A7%91%E7%A0%94%E8%97%A5%E6%9D%90%E6%87%89%E7%94%A8%E6%96%BC%E6%97%A5%E5%B8%B8%E6%B2%BB%E7%99%82%EF%BC%9F"></span>
 
 ### **問題 5****：中醫診所如何將科研藥材應用於日常治療？**
 

@@ -20,6 +20,8 @@ sourceVerbatim: true
 
 彷彿沒有一天晚上是能夠脫離冷氣的懷抱
 
+<span id="%E4%BD%86%E6%98%AF%E6%88%91%E5%80%91%E7%9A%84%E8%BA%AB%E9%AB%94%E8%83%BD%E5%A4%A0%E9%95%B7%E6%99%82%E9%96%93%E5%9C%A8%E5%86%B7%E6%B0%A3%E6%88%BF%E5%BA%A6%E9%81%8E%E5%97%8E%EF%BC%9F"></span>
+
 ## 但是我們的身體能夠長時間在冷氣房度過嗎？
 
 ![hotbestfriendmountaincampingfun24912002](/wp-content/uploads/hotbestfriendmountaincampingfun24912002.jpg)
@@ -33,6 +35,8 @@ sourceVerbatim: true
 毛孔持續收縮導致熱氣無法發散
 
 體內熱氣太多容易造成中暑
+
+<span id="%E9%82%A3%E9%BA%BC%E8%A6%81%E5%A6%82%E4%BD%95%E5%B0%8D%E6%8A%97%E9%80%99%E9%BA%BC%E9%85%B7%E7%86%B1%E7%9A%84%E5%A4%A9%E6%B0%A3%E5%91%A2%EF%BC%9F"></span>
 
 ## 那麼要如何對抗這麼酷熱的天氣呢？
 
@@ -51,6 +55,8 @@ sourceVerbatim: true
 以為要武裝俱全才可以出發喔
 
 ![hotbestfriendmountaincampingfun24912003](/wp-content/uploads/hotbestfriendmountaincampingfun24912003.jpg)
+
+<span id="%E9%9C%B2%E7%87%9F%E5%85%A5%E9%96%80%E6%96%B0%E6%89%8B%E9%83%BD%E6%98%AF%E5%85%88%E5%BE%9E%E5%AE%B6%E8%A3%A1%E7%94%A8%E5%93%81%E9%96%8B%E5%A7%8B%E7%9A%84%E5%91%A2%EF%BC%9F"></span>
 
 ## 露營入門新手都是先從家裡用品開始的呢？
 
@@ -94,7 +100,11 @@ sourceVerbatim: true
 
 我絕對是雙手贊成的
 
+<span id="%E4%BD%86%E9%9C%B2%E7%87%9F%E9%81%A9%E5%90%88%E5%93%AA%E4%BA%9B%E6%97%8F%E7%BE%A4%E7%9A%84%E4%BA%BA%E5%91%A2%EF%BC%9F"></span>
+
 ## 但露營適合哪些族群的人呢？
+
+<span id="1%E5%96%9C%E6%AD%A1%E9%87%8E%E5%A4%96%E7%94%9F%E6%B4%BB"></span>
 
 ### 1.喜歡野外生活
 
@@ -114,6 +124,8 @@ sourceVerbatim: true
 
 在平地是非常罕見的景色
 
+<span id="2%E4%B8%8D%E6%80%95%E9%BA%BB%E7%85%A9"></span>
+
 ### 2.不怕麻煩
 
 露營的器具與配備真的很多
@@ -130,6 +142,8 @@ sourceVerbatim: true
 
 配備濕濕的就會讓收拾的過程更困擾
 
+<span id="3%E4%B8%BB%E5%8B%95%E6%80%A7"></span>
+
 ### 3.主動性
 
 因為東西很多
@@ -145,6 +159,8 @@ sourceVerbatim: true
 還好夥伴都很carry
 
 讓我們都在午後雷雨之前就完成搭帳了
+
+<span id="4%E6%87%82%E5%BE%97%E8%AE%8A%E9%80%9A"></span>
 
 ### 4.懂得變通
 

@@ -22,6 +22,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="補血是養生起點：快速提升健康的5種方法 Boost Health with 5 Blood Nourishing Tips" width="800" height="450" src="https://www.youtube.com/embed/fvVoMu7k1aY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E8%A3%9C%E8%A1%80%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%9A%E5%81%A5%E5%BA%B7%E5%BE%9E%E8%A1%80%E6%B6%B2%E9%96%8B%E5%A7%8B"></span>
+
 ## **補血的重要性：健康從血液開始**
 
 「你是否經常感到疲憊、頭暈，甚至在工作中注意力無法集中？」這些現象可能暗示著你的血液循環出現問題。根據《黃帝內經》中“陰陽者，萬物之根本”的理論，血液在人體內如同一條生命之河，負責輸送氧氣與養分，滋養全身細胞。一旦血液量不足或循環不暢，人體就會如同「站在水庫邊，卻少了一根吸管」般無法汲取生命所需的能量。科學研究指出，輕度貧血患者的工作效率和免疫力顯著降低，增加了感染疾病的風險(註1)。
@@ -30,6 +32,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Boost-Health-with-5-Blood-Nourishing-Tips-1024x590.jpg)
 
+<span id="%E8%A3%9C%E8%A1%80%E9%A3%9F%E7%89%A9%E6%8E%A8%E8%96%A6%EF%BC%9A%E8%BC%95%E9%AC%86%E8%A3%9C%E5%85%85%E6%AF%8F%E6%97%A5%E7%87%9F%E9%A4%8A"></span>
+
 ## **補血食物推薦：輕鬆補充每日營養**
 
 補血真的有這麼難嗎？事實上，只要從日常飲食入手，補血可以變得非常簡單且美味。富含鐵質的食材，是補血的關鍵，特別是動物性食材如牛肉、豬肝和雞蛋黃，因為其中的血紅素鐵更容易被人體吸收。此外，植物性食材如菠菜、紅棗、黑芝麻和紫米則含有非血紅素鐵，搭配維生素C豐富的食物（如檸檬、奇異果），能大幅提升鐵質的吸收率(註3)。
@@ -37,6 +41,8 @@ sourceVerbatim: true
 有趣的是，在許多家庭中，紅棗枸杞雞湯被視為補血的經典湯品。不僅因為紅棗富含鐵質，還因為枸杞能提升免疫力和促進血液循環，達到雙重保健效果。研究顯示，每週食用富含鐵的食物能有效減少疲勞症狀並改善氣色(註4)。然而，部分人可能因食材攝取過量而導致消化不良，因此建議以適量為原則，並搭配多樣化的營養來源。
 
 **![](/wp-content/uploads/Boost-Health-with-5-Blood-Nourishing-Tips2-1024x585.jpg)**
+
+<span id="%E4%B8%AD%E8%97%A5%E8%AA%BF%E7%90%86%EF%BC%9A%E8%A3%9C%E8%A1%80%E9%A4%8A%E7%94%9F%E7%9A%84%E6%99%BA%E6%85%A7"></span>
 
 ## **中藥調理：補血養生的智慧**
 
@@ -48,6 +54,8 @@ sourceVerbatim: true
 
 **![](/wp-content/uploads/Boost-Health-with-5-Blood-Nourishing-Tips3-1024x591.jpg)**
 
+<span id="%E6%94%B9%E5%96%84%E5%BE%AA%E7%92%B0%EF%BC%9A%E8%A3%9C%E8%A1%80%E4%B9%8B%E5%A4%96%E7%9A%84%E7%B6%9C%E5%90%88%E8%AA%BF%E9%A4%8A"></span>
+
 ## **改善循環：補血之外的綜合調養**
 
 除了補血，促進血液循環同樣至關重要。你是否曾經感到手腳冰冷或經常頭暈目眩？這些可能都是血液循環不佳的信號。中醫認為“血行則不病”，適當的運動能活絡氣血，促進身體健康。有氧運動，如快走、超慢跑或瑜伽，能有效增強心肺功能，從而改善血液的流動性和供氧能力(註7)。
@@ -57,6 +65,8 @@ sourceVerbatim: true
 此外，飲用補血養生茶也是日常調理的重要方法。例如當歸紅棗茶便是常見的選擇，具有補血、暖身的效果。研究顯示，長期攝取當歸及紅棗相關製品，能顯著改善微循環和末梢血流狀況(註9)。然而，需注意的是，對當歸或紅棗過敏的人應避免攝取，並應視個人體質適量調整茶飲的頻率和濃度。
 
 持續的作息管理同樣不可忽視。規律的睡眠和適當的壓力管理可以減少因疲勞導致的血液循環問題。將補血與改善循環的養生理念結合，才能真正從內而外提升健康狀態。
+
+<span id="%E8%A3%9C%E8%A1%80%E6%98%AF%E5%81%A5%E5%BA%B7%E4%B9%8B%E6%B3%89%EF%BC%8C%E6%BB%8B%E9%A4%8A%E5%85%A8%E8%BA%AB%E6%B4%BB%E5%8A%9B"></span>
 
 ## **補血是健康之泉，滋養全身活力**
 
@@ -79,6 +89,8 @@ sourceVerbatim: true
 9.  Zhang, Y., & Zhou, H. (2023). Effects of Angelica and Jujube on peripheral blood circulation. *Journal of Traditional Herbal Medicine*, 33(2), 94-101. DOI: 10.4321/jthm.2023.00094
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #2A9D8F;"><thead style="background-color: #2a9d8f; color: white; font-weight: bold;"><tr><th style="padding: 12px; border: 2px solid #2A9D8F; font-size: 16px;">比較項目</th><th style="padding: 12px; border: 2px solid #2A9D8F; font-size: 16px;">具體範例</th><th style="padding: 12px; border: 2px solid #2A9D8F; font-size: 16px;">主要功能</th><th style="padding: 12px; border: 2px solid #2A9D8F; font-size: 16px;">適用人群</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 2px solid #2A9D8F;">補血食材</td><td style="padding: 10px; border: 2px solid #2A9D8F;">紅棗、豬肝、菠菜</td><td style="padding: 10px; border: 2px solid #2A9D8F;">補充鐵質，改善貧血</td><td style="padding: 10px; border: 2px solid #2A9D8F;">貧血、疲勞者</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 2px solid #2A9D8F;">補血中藥材</td><td style="padding: 10px; border: 2px solid #2A9D8F;">當歸、黃耆、熟地黃</td><td style="padding: 10px; border: 2px solid #2A9D8F;">調理氣血，增強免疫力</td><td style="padding: 10px; border: 2px solid #2A9D8F;">氣血不足、虛弱者</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 2px solid #2A9D8F;">補血運動</td><td style="padding: 10px; border: 2px solid #2A9D8F;">快走、超慢跑、瑜伽</td><td style="padding: 10px; border: 2px solid #2A9D8F;">促進血液循環，增強供氧</td><td style="padding: 10px; border: 2px solid #2A9D8F;">血液循環不良者</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

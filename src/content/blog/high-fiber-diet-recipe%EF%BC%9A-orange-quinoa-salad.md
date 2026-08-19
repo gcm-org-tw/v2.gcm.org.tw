@@ -19,6 +19,8 @@ sourceVerbatim: true
 1.  Makki K, Deehan EC, Walter J, Bäckhed F. The impact of dietary fiber on gut microbiota in host health and disease. *Cell Host Microbe*. 2018;23(6):705–715. doi:10.1016/j.chom.2018.05.012
 2.  Sun L, Chi J, Qi M, et al. Dietary fiber improves gut health in a mouse model of colitis. *J Nutr Biochem*. 2021;95:108728. doi:10.1016/j.jnutbio.2021.108728
 
+<span id="%E7%82%BA%E4%BD%95%E8%94%A1%E4%BF%8A%E6%96%87%E7%88%B8%E6%B0%A3%E7%85%AE%E5%BB%9A%E6%8E%A8%E8%96%A6%E9%AB%98%E7%BA%96%E9%A3%B2%E9%A3%9F%EF%BC%9F"></span>
+
 ## **為何蔡俊文爸氣煮廚推薦高纖飲食？**
 
 你有想過為何[蔡俊文爸氣煮廚](https://www.instagram.com/junwenchef_cuisine/?igsh=MWZkbGIxN3lqbGN3YQ%3D%3D)如此熱衷於高纖飲食嗎？他發現家人長期便秘、腹脹難耐，便把「地中海香橙藜麥沙拉」列入日常菜單，透過高纖飲食食譜推薦，溫和改善腸道菌相。藜麥與生菜中的可溶性與不可溶性纖維，像是腸道裡的清道夫，能促進短鏈脂肪酸生成，活化益菌、加速排便 (註1)。別小看這一點！初榨橄欖油與柑橘的維生素C，更如同微型「防火器」，減少腸道發炎。
@@ -26,6 +28,8 @@ sourceVerbatim: true
 不過，過量纖維可能引起腹脹與脹氣，建議從每天20克開始，並搭配足量水分，避免副作用。低負擔飲食並非一味追求「越多越好」，而是在平衡蛋白質、油脂與纖維間找到黃金比例，才能真正達到改善腸道疾病的效果 (註2)。
 
 <figure id="attachment_30092" aria-describedby="caption-attachment-30092" style="width: 576px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="wp-image-30092 size-large" src="/wp-content/uploads/High-Fiber-Diet-Recipe：-Orange-Quinoa-Salad2-576x1024.jpg" alt="" width="576" height="1024" srcset="/wp-content/uploads/High-Fiber-Diet-Recipe：-Orange-Quinoa-Salad2-576x1024.jpg 576w, /wp-content/uploads/High-Fiber-Diet-Recipe：-Orange-Quinoa-Salad2-169x300.jpg 169w, /wp-content/uploads/High-Fiber-Diet-Recipe：-Orange-Quinoa-Salad2-768x1366.jpg 768w, /wp-content/uploads/High-Fiber-Diet-Recipe：-Orange-Quinoa-Salad2-863x1536.jpg 863w, /wp-content/uploads/High-Fiber-Diet-Recipe：-Orange-Quinoa-Salad2.jpg 959w" sizes="auto, (max-width: 576px) 100vw, 576px"><figcaption id="caption-attachment-30092" class="wp-caption-text">地中海香橙藜麥沙拉： 材料：三色藜麥、溫室生菜、蘋果、小黃瓜、洋蔥、蔓越莓乾、柳橙（依照季節可改用茂谷柑等…） 初榨橄欖油、白胡椒粉、孜然粉、紅椒粉、沙漠鹽、白酒醋、蜂蜜 訴求：用高纖維無負擔的藜麥搭配柑橘類&amp;生菜來簡單吃早餐！</figcaption></figure>
+
+<span id="%E5%9C%B0%E4%B8%AD%E6%B5%B7%E9%A6%99%E6%A9%99%E8%97%9C%E9%BA%A5%E6%B2%99%E6%8B%89%E7%9A%84%E9%9D%88%E6%84%9F%E4%BE%86%E6%BA%90%EF%BC%9F"></span>
 
 ## **地中海香橙藜麥沙拉的靈感來源？**
 
@@ -35,11 +39,15 @@ sourceVerbatim: true
 
 <figure id="attachment_30091" aria-describedby="caption-attachment-30091" style="width: 768px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="wp-image-30091 size-large" src="/wp-content/uploads/High-Fiber-Diet-Recipe：-Orange-Quinoa-Salad-768x1024.jpg" alt="" width="768" height="1024" srcset="/wp-content/uploads/High-Fiber-Diet-Recipe：-Orange-Quinoa-Salad-768x1024.jpg 768w, /wp-content/uploads/High-Fiber-Diet-Recipe：-Orange-Quinoa-Salad-225x300.jpg 225w, /wp-content/uploads/High-Fiber-Diet-Recipe：-Orange-Quinoa-Salad.jpg 1108w" sizes="auto, (max-width: 768px) 100vw, 768px"><figcaption id="caption-attachment-30091" class="wp-caption-text">碳烤雞腿田園溫沙拉： 材料： 1.去骨雞腿、迷迭香、蒜仁、黑胡椒、橄欖油、沙漠鹽、檸檬皮 2.綠捲生菜、蘿蔓心、紅橡木生菜、紅捲生菜、小黃瓜、黃玉米、聖女番茄、鷹嘴豆、南瓜、小馬鈴薯 做法： 雞腿與醃料醃漬3小時，擦乾後上烤架小火慢烤，表皮焦香酥脆熟透後分切備用</figcaption></figure>
 
+<span id="%E7%A2%B3%E7%83%A4%E9%9B%9E%E8%85%BF%E7%94%B0%E5%9C%92%E6%BA%AB%E6%B2%99%E6%8B%89%E7%9A%84%E9%97%9C%E9%8D%B5%E7%A5%95%E8%A8%A3%EF%BC%9F"></span>
+
 ## **碳烤雞腿田園溫沙拉的關鍵祕訣？**
 
 你知道嗎？碳烤雞腿田園溫沙拉不只是高纖飲食食譜推薦，而是蛋白質與纖維的完美組合。去骨雞腿先以迷迭香、蒜仁、黑胡椒與檸檬皮醃漬 3 小時，再以小火慢烤，鎖住肉汁並降低飽和脂肪含量。切片後搭配綠捲生菜、鷹嘴豆與南瓜等多樣蔬菜，豐富的膳食纖維如同腸道「掃描器」，既增加飽足感，又促進腸道蠕動 (註5)。此外，充足蛋白質能刺激飽腹激素釋放，短期內降低食慾，幫助你輕鬆維持低負擔飲食 (註5)。
 
 不過，烤製過程中若過度焦化，可能產生多環芳香烴等致癌物，建議肉片表皮呈金黃色即可。此外，迷迭香中的多酚成分具有抗炎作用，如同腸道的「平息者」，可減少慢性低度發炎 (註6)。只要掌握火候與食材比例，你就能在低負擔與美味之間，兼顧預防腸道疾病的雙重訴求。
+
+<span id="%E7%88%B8%E6%B0%A3%E7%85%AE%E5%BB%9A%E7%9A%84%E6%AF%8F%E6%97%A5%E9%AB%98%E7%BA%96%E9%A3%B2%E9%A3%9F%E5%B0%8F%E6%92%87%E6%AD%A5%EF%BC%9F"></span>
 
 ## **爸氣煮廚的每日高纖飲食小撇步？**
 
@@ -51,9 +59,13 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/High-Fiber-Diet-Recipe：-Orange-Quinoa-Salad4.jpg)
 
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E5%BE%9E%E6%B4%9E%E8%A6%8B%E5%88%B0%E8%A1%8C%E5%8B%95%E7%9A%84%E6%A9%8B%E6%A8%91"></span>
+
 ## **結論：從洞見到行動的橋樑**
 
 在中醫看來，脾胃如同後天之本，決定了全身的健康基礎 (《黃帝內經》)；而在現代營養學中，纖維則是腸道生態的守護者。現在，就讓我們將理論化為實踐，從早餐到宵夜，讓高纖成為你的日常儀式。
+
+<span id="%E5%AF%A6%E9%9A%9B%E9%81%8B%E7%94%A8%E6%A1%88%E4%BE%8B"></span>
 
 ### **實際運用案例**
 
@@ -79,6 +91,8 @@ sourceVerbatim: true
 4.  Akhlaghi M. The role of dietary fibers in regulating appetite: An overview of mechanisms and weight consequences. *Journal of Nutrition and Health Sciences*. 2022;9(2):115.
 
 <table style="border: 3px solid #006400; border-collapse: collapse; width: 100%;"><tbody><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="border: 3px solid #006400; padding: 8px;">配方名稱</th><th style="border: 3px solid #006400; padding: 8px;">主要高纖食材</th><th style="border: 3px solid #006400; padding: 8px;">蛋白質來源</th><th style="border: 3px solid #006400; padding: 8px;">主要功效</th><th style="border: 3px solid #006400; padding: 8px;">注意事項</th></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #006400; padding: 8px;">地中海香橙藜麥沙拉</td><td style="border: 3px solid #006400; padding: 8px;">三色藜麥、溫室生菜、蔓越莓乾、柳橙</td><td style="border: 3px solid #006400; padding: 8px;">藜麥（植物蛋白）</td><td style="border: 3px solid #006400; padding: 8px;">促進腸道蠕動、抗氧化、調節菌相</td><td style="border: 3px solid #006400; padding: 8px;">柑橘酸度高，胃酸逆流者建議減量或替換</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #006400; padding: 8px;">碳烤雞腿田園溫沙拉</td><td style="border: 3px solid #006400; padding: 8px;">鷹嘴豆、南瓜、黃玉米、小馬鈴薯</td><td style="border: 3px solid #006400; padding: 8px;">去骨碳烤雞腿</td><td style="border: 3px solid #006400; padding: 8px;">提供優質蛋白、豐富膳食纖維、增加飽足感</td><td style="border: 3px solid #006400; padding: 8px;">過度焦化易產生致癌物，須掌握烤製火候</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86%EF%BC%9A"></span>
 
 ## **常見問題與回覆：**
 

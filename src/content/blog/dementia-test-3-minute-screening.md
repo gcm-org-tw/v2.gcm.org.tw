@@ -12,6 +12,8 @@ legacyPath: "/blog/dementia-test-3-minute-screening/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80%EF%BD%9C%E4%BD%A0%E4%B8%8D%E6%98%AF%E5%A4%AA%E6%99%9A%EF%BC%8C%E6%98%AF%E5%89%9B%E5%89%9B%E5%A5%BD%E9%96%8B%E5%A7%8B%E5%9C%A8%E6%84%8F"></span>
+
 ## **引言｜你不是太晚，是剛剛好開始在意**
 
 你有沒有發現，很多人第一次搜尋「失智症測試怎麼做」，其實不是因為真的忘得很嚴重，而是心裡悄悄浮出一個念頭——  
@@ -28,6 +30,8 @@ sourceVerbatim: true
 
 1.  Reuben DB, Kremen S, Maust DT. (2024). *Dementia Prevention and Treatment: A Narrative Review.* **JAMA Internal Medicine**.
 
+<span id="%E5%A4%B1%E6%99%BA%E7%97%87%E6%B8%AC%E8%A9%A6%E6%80%8E%E9%BA%BC%E5%81%9A%EF%BC%9F3%E5%88%86%E9%90%98%E7%B0%A1%E6%98%93%E9%87%8F%E8%A1%A8%E8%83%BD%E7%9C%8B%E5%87%BA%E4%BB%80%E9%BA%BC"></span>
+
 ## **失智症測試怎麼做？3****分鐘簡易量表能看出什麼**
 
 你有沒有想過，為什麼「失智症測試怎麼做」常被說成只要 3 分鐘？  
@@ -39,6 +43,8 @@ sourceVerbatim: true
 
 所以，怎麼用才對？**把量表當成溫度計，不是判決書。**若結果異常，下一步是完整評估與生活面檢視，而不是恐慌。就像煮湯，火候要慢，調整要連續，才喝得到真正的滋味。
 
+<span id="%E5%81%A5%E5%BF%98%E8%B7%9F%E5%A4%B1%E6%99%BA%E5%B7%AE%E5%9C%A8%E5%93%AA%EF%BC%9F%E4%BB%80%E9%BA%BC%E6%83%85%E6%B3%81%E8%A6%81%E8%AD%A6%E8%A6%BA"></span>
+
 ## **健忘跟失智差在哪？什麼情況要警覺**
 
 你知道嗎？多數人最害怕的，其實不是「健忘」，而是**不知道自己是不是正在跨過那條線**。關鍵差異不在忘了什麼，而在**能不能找回來**。一般健忘，常是「一時想不起來，過一下就想到了」；失智相關的改變，則更像「線索給了，仍接不上」。就像找鑰匙，健忘是轉身想起放在包裡；失智早期，可能連「鑰匙是做什麼的」都開始模糊。
@@ -49,6 +55,8 @@ sourceVerbatim: true
 
 **![](/wp-content/uploads/Dementia-Test-3-Minute-Screening4.jpg)**
 
+<span id="%E6%B8%AC%E8%A9%A6%E7%95%B0%E5%B8%B8%E5%BE%8C%E8%A9%B2%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F%E5%BE%9E%E7%94%9F%E6%B4%BB%E4%BB%8B%E5%85%A5%E5%88%B0%E9%86%AB%E7%99%82%E9%81%B8%E9%A0%85"></span>
+
 ## **測試異常後該怎麼辦？從生活介入到醫療選項**
 
 先別慌。測試異常，並不等於走到終點，而是**提醒你該把方向盤握穩**。多數證據一致指向一件事：**越早開始、越全面，效果越好**。所謂「多面向生活介入」，指的是把**飲食、規律運動、認知訓練、睡眠與血管風險管理**一起調整，而不是只做其中一項。就像煲湯，單放一味藥材很難出味，火候、時間與配伍一起來，湯才會回甘。
@@ -56,6 +64,8 @@ sourceVerbatim: true
 別小看運動！系統性綜述顯示，**規律運動是目前證據最穩定的單一介入**，對輕度認知障礙（MCI）的改善與延緩更明顯；結合肌力與有氧的「多成分訓練」效果更佳（註5）。飲食方面，地中海、DASH、MIND 等模式與較低的認知退化風險相關，但隨機試驗的結果不一，**重點仍在長期遵循**而非短期衝刺（註6）。
 
 至於醫療選項，部分族群可與專業討論**重複性經顱磁刺激（****rTMS****）**。它屬**非侵入性神經調節**，研究顯示對某些早期族群的特定認知功能有潛在助益，但**效果並非人人相同**，也不應取代生活介入。定位很清楚：**輔助，不是捷徑**。把基礎打好，再談加法，才走得穩。
+
+<span id="%E5%A4%B1%E6%99%BA%E8%A3%9C%E5%85%85%E4%BB%80%E9%BA%BC%E7%87%9F%E9%A4%8A%EF%BC%9FDHA%E3%80%81B%E7%BE%A4%E3%80%81%E8%91%89%E9%85%B8%E6%80%8E%E9%BA%BC%E9%81%B8"></span>
 
 ## **失智補充什麼營養？DHA****、B****群、葉酸怎麼選**
 
@@ -70,6 +80,8 @@ sourceVerbatim: true
 要特別提醒的誤區是，把營養或醫療介入當成「做了就會好」。事實上，證據支持的是**合併策略**：營養補充打底，生活介入當主火候，**Cerebrolysin** **與 rTMS**在合適族群**加分**。就像燉湯，勝肽與刺激只是提鮮，**真正決定味道的，是長時間穩定的火候**。這樣的搭配，才有機會把短期改善，轉為長期穩定。
 
 ![](/wp-content/uploads/Dementia-Test-3-Minute-Screening5.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BD%9C%E6%8A%8A%E6%96%B9%E5%90%91%E7%9B%A4%E6%8F%A1%E5%9B%9E%E4%BE%86%EF%BC%8C%E6%AF%94%E7%AD%94%E6%A1%88%E6%9B%B4%E9%87%8D%E8%A6%81"></span>
 
 ## **結論｜把方向盤握回來，比答案更重要**
 
@@ -86,27 +98,39 @@ sourceVerbatim: true
 
 <table style="border-collapse: collapse; width: 100%; border: 3px solid #1f4f46;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="padding: 12px; border: 3px solid #1f4f46;">比較面向</th><th style="padding: 12px; border: 3px solid #1f4f46;">簡易量表（篩檢）</th><th style="padding: 12px; border: 3px solid #1f4f46;">生活介入</th><th style="padding: 12px; border: 3px solid #1f4f46;">營養補充</th><th style="padding: 12px; border: 3px solid #1f4f46;">Cerebrolysin</th><th style="padding: 12px; border: 3px solid #1f4f46;">rTMS</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1f4f46;">適合從什麼狀態開始</td><td style="padding: 10px; border: 3px solid #1f4f46;">剛開始擔心健忘、想先釐清狀況</td><td style="padding: 10px; border: 3px solid #1f4f46;">所有階段，特別是健忘與 MCI 初期</td><td style="padding: 10px; border: 3px solid #1f4f46;">飲食不均或風險族群</td><td style="padding: 10px; border: 3px solid #1f4f46;">中風後或經評估的 MCI 族群</td><td style="padding: 10px; border: 3px solid #1f4f46;">早期族群，需專業評估</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1f4f46;">在整體策略中的角色</td><td style="padding: 10px; border: 3px solid #1f4f46;">判斷方向與追蹤變化的起點</td><td style="padding: 10px; border: 3px solid #1f4f46;">整體策略的主線與核心</td><td style="padding: 10px; border: 3px solid #1f4f46;">打底支持，穩定其他介入</td><td style="padding: 10px; border: 3px solid #1f4f46;">醫療院所的輔助性加分</td><td style="padding: 10px; border: 3px solid #1f4f46;">非侵入性神經調節輔助</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1f4f46;">介入強度與侵入性</td><td style="padding: 10px; border: 3px solid #1f4f46;">極低，非侵入</td><td style="padding: 10px; border: 3px solid #1f4f46;">低，需長期投入</td><td style="padding: 10px; border: 3px solid #1f4f46;">低，需注意交互作用</td><td style="padding: 10px; border: 3px solid #1f4f46;">中等，需注射與醫療監督</td><td style="padding: 10px; border: 3px solid #1f4f46;">中等，需醫療設備</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1f4f46;">是否需要醫療院所</td><td style="padding: 10px; border: 3px solid #1f4f46;">不一定，可居家初篩</td><td style="padding: 10px; border: 3px solid #1f4f46;">不一定，可日常執行</td><td style="padding: 10px; border: 3px solid #1f4f46;">不一定，必要時諮詢</td><td style="padding: 10px; border: 3px solid #1f4f46;">需要，由醫療院所執行</td><td style="padding: 10px; border: 3px solid #1f4f46;">需要，專業評估與施作</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1f4f46;">常見誤解</td><td style="padding: 10px; border: 3px solid #1f4f46;">一次分數等於診斷</td><td style="padding: 10px; border: 3px solid #1f4f46;">太慢、沒有效</td><td style="padding: 10px; border: 3px solid #1f4f46;">吃了就能逆轉</td><td style="padding: 10px; border: 3px solid #1f4f46;">打了就會好</td><td style="padding: 10px; border: 3px solid #1f4f46;">可取代生活調整</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1f4f46;">正確使用順序（一句話）</td><td style="padding: 10px; border: 3px solid #1f4f46;">先確認方向，再決定下一步</td><td style="padding: 10px; border: 3px solid #1f4f46;">越早開始，越值得堅持</td><td style="padding: 10px; border: 3px solid #1f4f46;">跟著生活節律一起做</td><td style="padding: 10px; border: 3px solid #1f4f46;">放進整體策略中使用</td><td style="padding: 10px; border: 3px solid #1f4f46;">基礎穩定後再評估</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A%E7%B0%A1%E6%98%93%E5%A4%B1%E6%99%BA%E9%87%8F%E8%A1%A8%E6%BA%96%E5%97%8E%EF%BC%9F%E5%9C%A8%E5%AE%B6%E8%87%AA%E5%B7%B1%E5%81%9A%E5%8F%AF%E4%BB%A5%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題 1****：簡易失智量表準嗎？在家自己做可以嗎？**
 
 回覆：  
 簡易量表的用途是**篩檢與追蹤**，不是診斷。在家自己做是可以的，重點不在一次分數高低，而是**隔一段時間是否出現明顯變化**。建議每 3–6 個月搭配睡眠、運動與情緒狀態一起觀察；若分數持續下降或影響日常功能，再進一步由專業評估，會更有意義。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E5%81%A5%E5%BF%98%E4%B8%80%E5%AE%9A%E6%9C%83%E8%AE%8A%E6%88%90%E5%A4%B1%E6%99%BA%E5%97%8E%EF%BC%9F%E4%BB%80%E9%BA%BC%E6%83%85%E6%B3%81%E8%A6%81%E7%89%B9%E5%88%A5%E6%B3%A8%E6%84%8F%EF%BC%9F"></span>
+
 ### **問題 2****：健忘一定會變成失智嗎？什麼情況要特別注意？**
 
 回覆：  
 不一定。多數健忘與壓力、睡眠不足或情緒有關，屬於可逆狀態。需要注意的是：**記憶問題是否持續、是否影響生活功能、是否合併方向感或行為改變**。若出現「怎麼想都想不起來」、或熟悉事情變得困難，才需要提高警覺。判斷原則很簡單：**看趨勢、不只看一次**。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E5%A6%82%E6%9E%9C%E6%B8%AC%E8%A9%A6%E7%B5%90%E6%9E%9C%E7%95%B0%E5%B8%B8%EF%BC%8C%E7%AC%AC%E4%B8%80%E6%AD%A5%E6%87%89%E8%A9%B2%E5%81%9A%E4%BB%80%E9%BA%BC%EF%BC%9F"></span>
 
 ### **問題 3****：如果測試結果異常，第一步應該做什麼？**
 
 回覆：  
 第一步不是急著找治療，而是**回到生活主線**。規律運動、固定作息、改善睡眠與管理三高，是目前證據最穩定的基礎做法。可以把量表當成方向盤，幫助你知道調整是否有效。若屬中風後或 MCI 族群，再與醫師討論是否需要進一步的醫療輔助。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A%E7%87%9F%E9%A4%8A%E8%A3%9C%E5%85%85%E7%9C%9F%E7%9A%84%E6%9C%89%E5%B9%AB%E5%8A%A9%E5%97%8E%EF%BC%9FDHA%E3%80%81B_%E7%BE%A4%E3%80%81%E8%91%89%E9%85%B8%E8%A9%B2%E6%80%8E%E9%BA%BC%E9%81%B8%EF%BC%9F"></span>
+
 ### **問題 4****：營養補充真的有幫助嗎？DHA****、B** **群、葉酸該怎麼選？**
 
 回覆：  
 營養的角色是**打底與長期支持**，不是逆轉。DHA 是神經細胞的重要原料，B 群與葉酸則與能量代謝與神經運作相關。原則是：**先把飲食顧好，再依需求補充**。對於本來就不缺的人，額外補充效果有限；把營養當作生活調整的一部分，效果才站得住腳。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9ACerebrolysin_%E6%88%96_rTMS_%E9%81%A9%E5%90%88%E6%AF%8F%E5%80%8B%E4%BA%BA%E5%97%8E%EF%BC%9F%E4%BB%80%E9%BA%BC%E6%99%82%E5%80%99%E8%A9%B2%E8%80%83%E6%85%AE%EF%BC%9F"></span>
 
 ### **問題 5****：Cerebrolysin** **或 rTMS** **適合每個人嗎？什麼時候該考慮？**
 

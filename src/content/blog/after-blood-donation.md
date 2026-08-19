@@ -26,6 +26,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/After-Blood-Donation2.jpg)
 
+<span id="%E6%8D%90%E8%A1%80%E6%9C%83%E8%AE%8A%E8%99%9B%EF%BC%9F%E5%85%B6%E5%AF%A6%E4%BD%A0%E6%90%9E%E9%8C%AF%E4%BA%86%E9%80%99%E5%B9%BE%E4%BB%B6%E4%BA%8B"></span>
+
 ## **捐血會變虛？其實你搞錯了這幾件事**
 
 你曾擔心捐血會讓身體「變虛」嗎？這是一個常見但被誤解的觀念。實際上，對大多數健康人來說，捐出的血量是有「分寸」的：體重未滿60公斤者，一次捐250毫升；超過60公斤者，最多捐500毫升。捐完250毫升需間隔2個月才能再捐，捐500毫升則需間隔3個月（註1、註2）。這些規範不是為了限制，而是讓身體有充足時間恢復。
@@ -37,6 +39,8 @@ sourceVerbatim: true
 別小看這一點——你捐出的是善意，而不是元氣；只要吃對、休息夠，這筆「愛的循環」其實比你想像的更回本。
 
 ![](/wp-content/uploads/After-Blood-Donation3.jpg)
+
+<span id="%E6%8D%90%E5%AE%8C%E8%A1%80%EF%BC%8C%E4%BB%96%E7%AB%9F%E7%84%B6%E8%AE%8A%E5%BE%97%E6%9B%B4%E6%9C%89%E7%B2%BE%E7%A5%9E%EF%BC%9F%E5%8E%9F%E4%BE%86%E6%98%AF%E9%80%99%E5%80%8B%E5%8E%9F%E5%9B%A0"></span>
 
 ## **捐完血，他竟然變得更有精神？原來是這個原因**
 
@@ -51,6 +55,8 @@ sourceVerbatim: true
 所以，若你捐完血精神反而更好，別懷疑，是你的身體在說：「謝謝你讓我有機會更新自己。」
 
 ![](/wp-content/uploads/After-Blood-Donation4.jpg)
+
+<span id="%E8%A3%9C%E9%90%B5%E4%B8%8D%E5%A4%A0%EF%BC%9F%E9%80%99%E5%B9%BE%E7%A8%AE%E3%80%8C%E8%A3%9C%E6%B0%A3%E3%80%8D%E6%96%99%E7%90%86%E6%89%8D%E6%98%AF%E9%97%9C%E9%8D%B5"></span>
 
 ## **補鐵不夠？這幾種「補氣」料理才是關鍵**
 
@@ -68,6 +74,8 @@ sourceVerbatim: true
 
 補血不是狂塞補品，而是順應身體節奏，讓氣先動起來，再帶血行走。就像春耕前先翻土、鬆地、讓陽光與水分進得去，才能迎來真正的生長。
 
+<span id="%E4%B8%96%E7%95%8C%E7%8D%BB%E8%A1%80%E8%80%85%E6%97%A5%E5%8E%9F%E4%BE%86%E9%80%99%E6%A8%A3%E4%BE%86%E7%9A%84%EF%BC%8C%E4%BD%A0%E7%9F%A5%E9%81%93%E5%97%8E%EF%BC%9F"></span>
+
 ## **世界獻血者日原來這樣來的，你知道嗎？**
 
 你知道嗎？6月14日不是隨便選的，它其實是「ABO血型系統」發現者——奧地利科學家卡爾．蘭德斯坦納（Karl Landsteiner）的生日。他的發現徹底改變了人類對輸血的理解，也讓無數生命免於危險（註5）。
@@ -77,6 +85,8 @@ sourceVerbatim: true
 但這天不只是紀念，更是一個機會——讓你停下來問問自己：「我是否也願意成為別人生命中的一個轉捩點？」或許是一袋血，也可能是一段影響家人的習慣。
 
 在這樣的日子裡，我們不只是被鼓勵去捐血，而是被提醒：善良，其實也可以很具體，甚至流動在血液裡。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E7%95%B6%E4%BD%A0%E9%A1%98%E6%84%8F%E6%B5%81%E5%8B%95%EF%BC%8C%E7%94%9F%E5%91%BD%E5%B0%B1%E9%96%8B%E5%A7%8B%E5%9B%9E%E6%87%89"></span>
 
 ## **結論：當你願意流動，生命就開始回應**
 
@@ -109,27 +119,39 @@ sourceVerbatim: true
 
 <table style="border-collapse: collapse; width: 100%; border: 3px solid #014037;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="padding: 10px; border: 3px solid #014037;">常見觀念或迷思</th><th style="padding: 10px; border: 3px solid #014037;">正確觀點與對應建議</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #014037;">捐血會讓身體變虛？</td><td style="padding: 10px; border: 3px solid #014037;">健康人捐250ml～500ml後，血漿48小時恢復，紅血球2～3週內回補。氣虛才易感虛，非捐血本身所致。</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #014037;">捐血後吃豬肝補鐵就好？</td><td style="padding: 10px; border: 3px solid #014037;">補鐵是基本，關鍵在「補氣先補血」。脾胃健，鐵質才能轉化為可用的氣血。</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #014037;">捐血會讓人變累？</td><td style="padding: 10px; border: 3px solid #014037;">若有疲倦，多半來自捐血後未妥善補休與飲食，氣血失衡才是主因。</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #014037;">捐血只是公益行動，與我無關？</td><td style="padding: 10px; border: 3px solid #014037;">捐血是身體與社會的雙向修復，氣血流動之時，也是內在意志被喚醒的開始。</td></tr></tbody></table>
 
+<span id="%E2%9C%85_%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86%EF%BD%9CFAQ_Section"></span>
+
 ## **✅** **常見問題與回覆｜FAQ Section**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E6%8D%90%E8%A1%80%E7%9C%9F%E7%9A%84%E6%9C%83%E8%AE%93%E8%BA%AB%E9%AB%94%E8%AE%8A%E8%99%9B%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題1****：捐血真的會讓身體變虛嗎？**
 
 **回覆**：  
 一般來說，健康的成年人在捐出250～500毫升的血液後，血漿能在48小時內恢復，紅血球則約兩到三週可自然補足。真正容易感到虛弱的情況，常與平日氣虛、睡眠不足或飲食不當有關。中醫認為「氣足則血行」，若脾胃虛弱、造血功能差，捐血後才可能覺得虛。
 
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E6%8D%90%E5%AE%8C%E8%A1%80%E5%BE%8C%E6%87%89%E8%A9%B2%E6%80%8E%E9%BA%BC%E5%90%83%E6%AF%94%E8%BC%83%E5%A5%BD%EF%BC%9F"></span>
+
 ### **問題2****：捐完血後應該怎麼吃比較好？**
 
 **回覆**：  
 除了多補充含鐵食物如豬肝、紅肉外，更重要的是「補氣養脾」以幫助血液轉化與生成。中醫常用的食材包括紅棗、黃耆、當歸、黑豆、桂圓等，可搭配雞湯、粥品煮食。記得避免生冷、油膩食物，以免損傷脾胃。
+
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E6%8D%90%E8%A1%80%E6%9C%83%E8%AE%93%E5%85%8D%E7%96%AB%E5%8A%9B%E8%AE%8A%E5%B7%AE%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題3****：捐血會讓免疫力變差嗎？**
 
 **回覆**：  
 適量捐血對免疫系統並不會造成損害，反而因為啟動造血功能，有助於促進血液循環與新陳代謝。只要符合捐血條件、捐後有良好休息與營養補充，身體多能快速恢復，免疫力不會因此下降。
 
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E5%93%AA%E4%BA%9B%E4%BA%BA%E4%B8%8D%E9%81%A9%E5%90%88%E6%8D%90%E8%A1%80%EF%BC%9F"></span>
+
 ### **問題4****：哪些人不適合捐血？**
 
 **回覆**：  
 體重未滿45公斤、有慢性貧血、近期感染、服用特定藥物、重大手術恢復中、孕婦與哺乳中女性，建議先暫緩捐血。捐血中心也會進行血壓、血紅素與健康問卷的初篩，以保障雙方安全。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E6%8D%90%E8%A1%80%E9%99%A4%E4%BA%86%E5%B9%AB%E5%8A%A9%E5%88%A5%E4%BA%BA%EF%BC%8C%E5%B0%8D%E8%87%AA%E5%B7%B1%E6%9C%89%E4%BB%80%E9%BA%BC%E5%A5%BD%E8%99%95%EF%BC%9F"></span>
 
 ### **問題5****：捐血除了幫助別人，對自己有什麼好處？**
 

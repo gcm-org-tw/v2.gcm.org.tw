@@ -22,6 +22,8 @@ sourceVerbatim: true
 
 而當他回家脫下外套，你沒看到的是：他其實只渴望，有個人能說：「嘿，我知道你努力了，我在。」
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BB%96%E7%AA%81%E7%84%B6%E5%81%A5%E8%BA%AB%E3%80%81%E8%AE%8A%E4%BD%8E%E8%81%B2%EF%BC%9F%E8%BA%AB%E9%AB%94%E6%82%84%E6%82%84%E6%94%B9%E8%AE%8A%E7%9A%84%E8%83%8C%E5%BE%8C%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F"></span>
+
 ## **為什麼他突然健身、變低聲？身體悄悄改變的背後是什麼？**
 
 你有沒有發現——室友開始重訓、飲食變乾淨，連說話的聲音也比以前低沉？這些變化，不只是生活習慣的調整，更可能是**睪固酮賀爾蒙療法**正在發揮作用。
@@ -29,6 +31,8 @@ sourceVerbatim: true
 對跨性別男性而言，**賀爾蒙療法**不只是改變外表，更像是一場身體與靈魂的對話。睪固酮就像是讓豆漿變成豆花的凝固劑——外在的改變，來自內在化學反應的轉換。根據《Journal of Internal Medicine》2022年的一項綜述研究指出，接受睪固酮治療後，平均在 **6** **週內聲音開始變低、12** **週內肌肉量明顯增加**，而月經通常在 3～6 個月內停止（註1）。這些變化，是許多跨男人生中第一次真正感受到「這是我的身體」。
 
 不過別小看這背後的複雜性。每個人的代謝速率與體質不同，並非所有人都能「快速見效」。有些人在初期甚至會經歷**皮脂分泌增加、痘痘爆發、情緒起伏明顯**等過渡期不適。就像熬一鍋湯藥，中途會苦、會濁，但當你熬過了，那味道會是屬於你自己的真實。
+
+<span id="%E8%B7%A8%E7%94%B7%E6%89%93%E9%87%9D%E5%BE%8C%E7%9A%84%E7%94%9F%E6%B4%BB%E6%9C%83%E6%80%8E%E9%BA%BC%E8%AE%8A%EF%BC%9F%E6%9C%89%E4%BB%80%E9%BA%BC%E8%BA%AB%E5%BF%83%E6%8C%91%E6%88%B0%EF%BC%9F"></span>
 
 ## **跨男打針後的生活會怎麼變？有什麼身心挑戰？**
 
@@ -40,6 +44,8 @@ sourceVerbatim: true
 
 不要急著期待立刻變得「完美」，每一針都是一次試煉，也是一種重生的微光。
 
+<span id="%E4%BB%96%E5%8F%AA%E6%98%AF%E6%83%B3%E5%81%9A%E8%87%AA%E5%B7%B1%EF%BC%8C%E9%80%99%E4%BB%BD%E6%94%B9%E8%AE%8A%E9%9C%80%E8%A6%81%E4%BB%80%E9%BA%BC%E6%A8%A3%E7%9A%84%E9%99%AA%E4%BC%B4%EF%BC%9F"></span>
+
 ## **他只是想做自己，這份改變需要什麼樣的陪伴？**
 
 你有沒有想過，當他打完針後回到家，最想聽見的不是「你變了」，而是「你還好嗎？」——**跨男接受睪固酮療法的過程，不只是醫療，而是一段需要被理解的生命經歷**。
@@ -47,6 +53,8 @@ sourceVerbatim: true
 身體的變化是一回事，社會的眼光與親友的態度，往往才是最難面對的部分。有研究發現，若身邊有穩定支持系統，跨性別者在治療期間的心理健康明顯提升，抑鬱風險降低 40%以上（註4）。這不只是數字的變動，而是一份愛的證明。你的傾聽、你的陪伴，可能比睪固酮還更具療癒力量。
 
 中醫有句話說：「人不自知，其疾難療。」一個人若不被世界看見，他也很難好起來。而你，就是他與這個世界之間的橋樑。陪伴他打針不是必要，但**陪他吃一頓飯、聽他說說話、一起研究怎麼保養皮膚抗痘**，那就是一種溫柔的承認：「你值得被照顧，也值得快樂地做你自己。」
+
+<span id="%E9%99%AA%E4%BC%B4%E4%BB%96%E8%B5%B0%E9%81%8E%E9%80%99%E6%AE%B5%E6%97%85%E7%A8%8B%EF%BC%8C%E9%82%84%E8%83%BD%E6%80%8E%E9%BA%BC%E5%81%9A%EF%BC%9F"></span>
 
 ## **陪伴他走過這段旅程，還能怎麼做？**
 
@@ -59,6 +67,8 @@ sourceVerbatim: true
 如果你身邊也有正在經歷療程的人，記得：**你不需要完美，你只需要在場**。
 
 ![](/wp-content/uploads/Testosterone-Therapy-Effects6.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E5%A6%82%E9%A2%A8%E5%85%A5%E9%AA%A8%EF%BC%8C%E5%A6%82%E6%B0%B4%E6%BD%A4%E5%BF%83%E2%80%94%E2%80%94%E7%95%B6%E8%BA%AB%E9%AB%94%E9%96%8B%E5%A7%8B%E5%9B%9E%E6%87%89%E9%9D%88%E9%AD%82"></span>
 
 ## **結論：如風入骨，如水潤心——****當身體開始回應靈魂**
 
@@ -97,7 +107,11 @@ sourceVerbatim: true
 
 <table style="border-collapse: collapse; width: 2332px; font-family: 'Noto Sans TC', sans-serif; border: 3px solid #264653; height: 511px;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="padding: 12px; border: 3px solid #264653;">項目</th><th style="padding: 12px; border: 3px solid #264653;">睪固酮療法前</th><th style="padding: 12px; border: 3px solid #264653;">睪固酮療法後</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">聲音</td><td style="padding: 12px; border: 3px solid #264653;">聲音較高，未出現變聲</td><td style="padding: 12px; border: 3px solid #264653;">聲音變低沉，逐漸穩定</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">肌肉發展</td><td style="padding: 12px; border: 3px solid #264653;">肌肉線條較少，力量偏弱</td><td style="padding: 12px; border: 3px solid #264653;">肌肉明顯增加，力量提升</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">體毛生長</td><td style="padding: 12px; border: 3px solid #264653;">體毛分佈偏少、偏細</td><td style="padding: 12px; border: 3px solid #264653;">體毛增多，變粗變密</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">月經週期</td><td style="padding: 12px; border: 3px solid #264653;">規律月經周期</td><td style="padding: 12px; border: 3px solid #264653;">月經停止（約3-6個月）</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">情緒狀態</td><td style="padding: 12px; border: 3px solid #264653;">可能伴有性別焦慮、壓抑</td><td style="padding: 12px; border: 3px solid #264653;">焦慮感減輕，情緒較穩定</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">皮脂分泌與痘痘</td><td style="padding: 12px; border: 3px solid #264653;">較少油脂分泌，痘痘少</td><td style="padding: 12px; border: 3px solid #264653;">油脂分泌旺盛，易冒痘</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">性慾變化</td><td style="padding: 12px; border: 3px solid #264653;">性慾低落或波動不穩</td><td style="padding: 12px; border: 3px solid #264653;">性慾增加，逐步穩定</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">心理認同感</td><td style="padding: 12px; border: 3px solid #264653;">與身體不一致，感到困惑</td><td style="padding: 12px; border: 3px solid #264653;">與性別認同一致，安全感提升</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">社會壓力感受</td><td style="padding: 12px; border: 3px solid #264653;">對目光敏感，壓力大</td><td style="padding: 12px; border: 3px solid #264653;">逐漸建立界線，壓力轉化為動力</td></tr></tbody></table>
 
+<span id="%F0%9F%8C%BF%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86_FAQ"></span>
+
 ## **🌿****常見問題與回覆 FAQ**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A%E7%9D%AA%E5%9B%BA%E9%85%AE%E7%99%82%E6%B3%95%E6%9C%83%E4%B8%8D%E6%9C%83%E6%94%B9%E8%AE%8A%E6%80%A7%E6%A0%BC%EF%BC%9F%E8%AE%8A%E5%BE%97%E6%9A%B4%E8%BA%81%E6%88%96%E6%98%93%E6%80%92%EF%BC%9F"></span>
 
 ### **問題 1****：睪固酮療法會不會改變性格？變得暴躁或易怒？**
 
@@ -106,12 +120,16 @@ sourceVerbatim: true
 在中醫觀點中，「肝主疏泄，主情志」，肝氣鬱滯則易怒，若能透過調養肝氣（如飲用柴胡疏肝湯、加味逍遙散等），情緒便能得到緩解。  
 建議搭配心理諮詢與飲食作息調整，共同讓情緒回歸平衡。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E6%89%93%E9%87%9D%E7%9C%9F%E7%9A%84%E8%A6%81%E6%89%93%E4%B8%80%E8%BC%A9%E5%AD%90%E5%97%8E%EF%BC%9F%E6%9C%89%E6%B2%92%E6%9C%89%E4%B8%AD%E6%96%B7%E7%9A%84%E5%8F%AF%E8%83%BD%EF%BC%9F"></span>
+
 ### **問題 2****：打針真的要打一輩子嗎？有沒有中斷的可能？**
 
 **回覆：**  
 大多數跨男在睪固酮療程開始後，會選擇長期或終身施打，以維持其性徵與內在一致。不過，療程可依目標與健康狀況做階段性調整。  
 《黃帝內經》云：「氣者，人之根本也。」若氣足則形穩，若能配合中醫補氣調經之法，例如黃耆、黨參、當歸等，有助於整體氣血流暢。  
 關鍵在於：和專業醫師建立長期關係，按時檢查、聆聽身體訊號，不用急著設「終點」。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%B7%B1%E8%B2%B7%E7%9D%AA%E5%9B%BA%E9%85%AE%E6%89%93%E5%97%8E%EF%BC%9F%E4%B8%80%E5%AE%9A%E8%A6%81%E9%86%AB%E5%B8%AB%E9%96%8B%E7%AB%8B%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題 3****：可以自己買睪固酮打嗎？一定要醫師開立嗎？**
 
@@ -120,12 +138,16 @@ sourceVerbatim: true
 這就像《傷寒論》中提到：「藥不對證，反傷其正」，也就是說，用藥不當會反而傷身。  
 睪固酮療法屬醫療行為，應由內分泌科或跨性別專責門診開立，並配合抽血與心理評估追蹤。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A%E7%9D%AA%E5%9B%BA%E9%85%AE%E6%9C%83%E9%80%A0%E6%88%90%E4%B8%8D%E5%AD%95%E5%97%8E%EF%BC%9F%E4%BB%A5%E5%BE%8C%E9%82%84%E8%83%BD%E6%87%B7%E5%AD%95%E5%97%8E%EF%BC%9F"></span>
+
 ### **問題 4****：睪固酮會造成不孕嗎？以後還能懷孕嗎？**
 
 **回覆：**  
 長期使用睪固酮可能會抑制排卵與月經，進而影響生育功能。但若療程中止一段時間，有些人仍可恢復排卵。  
 若你未來有生育規劃，建議在療程初期就與醫師討論「生育保存」的方案，例如卵子冷凍。  
 從中醫角度來看，保養「腎氣」與「精血」是生殖功能的核心，可搭配補腎方如六味地黃丸進行調養。記得，生命的選擇不該倉促，應以完整資訊做出屬於你的決定。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9A%E6%88%91%E4%B8%8D%E6%98%AF%E8%B7%A8%E6%80%A7%E5%88%A5%E8%80%85%EF%BC%8C%E4%BD%86%E6%88%91%E6%83%B3%E9%99%AA%E4%BC%B4%E6%9C%8B%E5%8F%8B%EF%BC%8C%E8%A9%B2%E6%80%8E%E9%BA%BC%E5%81%9A%E6%89%8D%E4%B8%8D%E5%86%92%E7%8A%AF%EF%BC%9F"></span>
 
 ### **問題 5****：我不是跨性別者，但我想陪伴朋友，該怎麼做才不冒犯？**
 

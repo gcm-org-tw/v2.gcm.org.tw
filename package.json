@@ -15,7 +15,8 @@
     "check:content:all": "node scripts/check-content.mjs --all",
     "check:urls": "node scripts/check-urls.mjs",
     "wp:export": "node scripts/wp-export.mjs",
-    "wp:convert": "node scripts/wp-convert.mjs"
+    "wp:convert": "node scripts/wp-convert.mjs",
+    "check:links": "node scripts/check-links.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.19",

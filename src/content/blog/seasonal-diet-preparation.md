@@ -12,6 +12,8 @@ legacyPath: "/blog/seasonal-diet-preparation/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80"></span>
+
 ## 引言
 
 每到換季，很多人第一個想到的就是進補。
@@ -30,6 +32,8 @@ sourceVerbatim: true
 
 當我們願意提早把餐桌準備好，很多事情就不需要等到發生以後才匆忙補救。
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E4%B8%80%E5%88%B0%E6%8F%9B%E5%AD%A3%EF%BC%8C%E8%BA%AB%E9%AB%94%E7%B8%BD%E8%A6%BA%E5%BE%97%E4%B8%8D%E5%A4%AA%E4%B8%80%E6%A8%A3%EF%BC%9F"></span>
+
 ## **為什麼一到換季，身體總覺得不太一樣？**
 
 每次季節開始轉換時，我總會比平常更早開始想晚餐要煮什麼。不是因為天氣預報說要變冷了，也不是因為家人生病了，而是因為我知道，身體其實比我們更早感受到季節正在改變。
@@ -44,6 +48,8 @@ sourceVerbatim: true
 
 而餐桌，就是最容易開始的地方。
 
+<span id="%E6%8F%9B%E5%AD%A3%E4%B8%80%E5%AE%9A%E8%A6%81%E9%80%B2%E8%A3%9C%E5%97%8E%EF%BC%9F%E5%BE%88%E5%A4%9A%E5%AE%B6%E5%BA%AD%E5%BF%BD%E7%95%A5%E7%9A%84%E9%A3%B2%E9%A3%9F%E8%AA%A4%E5%8D%80"></span>
+
 ## **換季一定要進補嗎？很多家庭忽略的飲食誤區**
 
 說到換季，很多人的第一個反應就是：「是不是該補一下了？」於是藥膳鍋、燉補湯、各種保健食品開始陸續上桌。這樣的想法其實不難理解，因為我們從小就習慣把換季和「進補」畫上等號。但如果仔細觀察會發現，真正讓人不舒服的，往往不是少吃了什麼，而是身體還來不及適應新的環境節奏。
@@ -53,6 +59,8 @@ sourceVerbatim: true
 這也是我後來慢慢轉變的地方。我不再把換季看成一場需要緊急應對的戰役，而比較像是一次生活節奏的轉換。與其急著增加很多新的東西，我更在意原本的餐桌是否足夠穩定。例如固定吃飯時間、保留蔬菜與蛋白質的比例、讓餐點有足夠的溫度感。這些看起來平凡的小事，往往比短時間的大幅進補更容易被身體接受。
 
 換個角度來看，換季其實有點像開車進入彎道。最好的方式不是突然猛踩油門，而是提早調整速度，讓車子平穩地通過。餐桌也是如此。當季節開始改變時，真正重要的未必是準備最補的食物，而是讓家人每天都能好好吃飯、好好休息，慢慢跟上環境變化的腳步。
+
+<span id="%E6%AF%94%E5%90%83%E4%BB%80%E9%BA%BC%E6%9B%B4%E9%87%8D%E8%A6%81%EF%BC%9A%E6%8F%9B%E5%AD%A3%E9%A3%B2%E9%A3%9F%E7%9A%843%E5%80%8B%E5%8E%9F%E5%89%87"></span>
 
 ## **比吃什麼更重要：換季飲食的3****個原則**
 
@@ -116,6 +124,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Seasonal-Diet-Preparation7-1024x561.jpg)
 
+<span id="%E5%A6%82%E6%9E%9C%E6%98%AF%E6%88%91%EF%BC%8C%E6%9C%83%E5%85%88%E6%BA%96%E5%82%99%E9%80%99%E6%A8%A3%E7%9A%84%E4%B8%80%E5%BC%B5%E9%A4%90%E6%A1%8C"></span>
+
 ## **如果是我，會先準備這樣的一張餐桌**
 
 如果要我用一張餐桌來形容換季，我想到的從來不是滿桌補品，而是一頓讓人願意慢下來的晚餐。
@@ -164,6 +174,8 @@ sourceVerbatim: true
 
 這正是預備型餐桌最重要的精神。
 
+<span id="%E7%95%B6%E5%AD%A3%E6%99%82%E8%94%AC%E6%8B%BC%E7%9B%A4%EF%BC%9A%E8%AE%93%E5%AD%A3%E7%AF%80%E8%B5%B0%E9%80%B2%E9%A4%90%E6%A1%8C"></span>
+
 ## **當季時蔬拼盤：讓季節走進餐桌**
 
 每個季節都有自己的顏色。
@@ -207,6 +219,8 @@ sourceVerbatim: true
 因為很多時候，最好的照顧，不是在身體出現狀況之後才開始努力。
 
 而是在季節改變之前，就已經悄悄準備好了。
+
+<span id="%E7%B5%90%E8%AB%96"></span>
 
 ## 結論
 
@@ -260,9 +274,13 @@ sourceVerbatim: true
 
 本文未與任何商業品牌合作，亦未針對特定產品進行推薦。
 
+<span id="%E6%8F%9B%E5%AD%A3%E7%85%A7%E9%A1%A7%E8%A7%80%EF%BD%9C%E9%A0%90%E5%82%99%E5%9E%8B%E9%A4%90%E6%A1%8C_vs_%E8%A3%9C%E6%95%91%E5%9E%8B%E9%A4%90%E6%A1%8C"></span>
+
 ## 換季照顧觀｜預備型餐桌 vs 補救型餐桌
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #1F5F4B;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="border: 3px solid #1F5F4B; padding: 10px;">比較面向</th><th style="border: 3px solid #1F5F4B; padding: 10px;">預備型餐桌</th><th style="border: 3px solid #1F5F4B; padding: 10px;">補救型餐桌</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1F5F4B; padding: 10px;">開始時間</td><td style="border: 3px solid #1F5F4B; padding: 10px;">季節變化前就開始調整</td><td style="border: 3px solid #1F5F4B; padding: 10px;">出現不適後才開始處理</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1F5F4B; padding: 10px;">核心思維</td><td style="border: 3px solid #1F5F4B; padding: 10px;">提前準備</td><td style="border: 3px solid #1F5F4B; padding: 10px;">事後補救</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1F5F4B; padding: 10px;">關注重點</td><td style="border: 3px solid #1F5F4B; padding: 10px;">規律、多樣性、溫暖感</td><td style="border: 3px solid #1F5F4B; padding: 10px;">補充、改善、快速恢復</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1F5F4B; padding: 10px;">飲食安排</td><td style="border: 3px solid #1F5F4B; padding: 10px;">維持穩定的日常餐桌</td><td style="border: 3px solid #1F5F4B; padding: 10px;">臨時增加補品或保健食品</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1F5F4B; padding: 10px;">對待換季的態度</td><td style="border: 3px solid #1F5F4B; padding: 10px;">接受適應需要時間</td><td style="border: 3px solid #1F5F4B; padding: 10px;">希望快速解決問題</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1F5F4B; padding: 10px;">餐桌內容</td><td style="border: 3px solid #1F5F4B; padding: 10px;">原型食物、當季食材、家庭共食</td><td style="border: 3px solid #1F5F4B; padding: 10px;">功能性食品、進補料理為主</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1F5F4B; padding: 10px;">家庭氛圍</td><td style="border: 3px solid #1F5F4B; padding: 10px;">從容、穩定、陪伴</td><td style="border: 3px solid #1F5F4B; padding: 10px;">緊張、焦慮、擔心不足</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1F5F4B; padding: 10px;">長期效果</td><td style="border: 3px solid #1F5F4B; padding: 10px;">容易建立生活節奏</td><td style="border: 3px solid #1F5F4B; padding: 10px;">容易忽略日常基礎</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1F5F4B; padding: 10px;">本文代表料理</td><td style="border: 3px solid #1F5F4B; padding: 10px;">味噌烤鮭魚 × 菇菇炊飯 × 當季時蔬拼盤</td><td style="border: 3px solid #1F5F4B; padding: 10px;">換季才臨時大量進補</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1F5F4B; padding: 10px;">核心價值</td><td style="border: 3px solid #1F5F4B; padding: 10px;">預備，是溫柔而不焦慮的照顧</td><td style="border: 3px solid #1F5F4B; padding: 10px;">問題發生後才開始努力</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E7%AD%94"></span>
 
 ## 常見問題與回答
 

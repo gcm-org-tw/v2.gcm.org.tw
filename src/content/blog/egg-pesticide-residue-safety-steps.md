@@ -42,6 +42,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="雞蛋農藥超標怎麼辦：先做這5件事，家人先安心 Egg Pesticide Residue Safety Steps" width="800" height="450" src="https://www.youtube.com/embed/10JKh5ELN_A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%F0%9F%A5%9A%E6%AF%92%E9%9B%9E%E8%9B%8B%E4%BA%8B%E4%BB%B6%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BC%9A%E8%BE%B2%E8%97%A5%E6%AE%98%E7%95%99%E5%88%B0%E5%BA%95%E6%80%8E%E9%BA%BC%E4%BE%86%EF%BC%9F"></span>
+
 ## **🥚****毒雞蛋事件懶人包：農藥殘留到底怎麼來？**
 
 你知道嗎？那顆看似平凡的早餐荷包蛋，其實走過一條漫長又嚴密的生產旅程。所謂「毒雞蛋事件」，其實多半源於**殺蟲用藥「芬普尼」（****Fipronil****）**的不當使用。這種農藥原本用於防治禽舍寄生蟲，但若誤入飼料，便可能在雞體內蓄積並殘留於蛋中。根據歐洲食品安全局（EFSA）近三年報告顯示，**超過** **96%** **的動物性食品樣本皆符合最大殘留限量（MRL****）**，意味絕大多數蛋品仍在安全範圍內（註1）。然而，一旦超標，主管機關會立刻啟動追溯與下架回收機制，就像這次芬普尼事件一樣，防堵風險擴散。
@@ -49,6 +51,8 @@ sourceVerbatim: true
 在中醫觀點裡，「食者，養生之本」。食物若染塵，氣血難以清明。《黃帝內經》有言：「五味入口，藏於腑，發於氣。」提醒我們——污染的食物不僅損腑氣，也擾人心。面對農藥殘留，我們不需恐慌，而要懂得辨識與調養。就像洗米去糠、煮湯撇沫，是生活裡的「淨化之道」。唯有知其源、懂其理，才能讓餐桌上的每一顆蛋，重回安心的味道。
 
 ![](/wp-content/uploads/Egg-Pesticide-Residue-Safety-Steps2.jpg)
+
+<span id="%E9%9B%9E%E8%9B%8B%E8%BE%B2%E8%97%A5%E8%B6%85%E6%A8%99%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F5_%E6%AD%A5%E9%A9%9F%E8%AE%93%E4%BD%A0%E5%AE%89%E5%BF%83%E8%99%95%E7%90%86"></span>
 
 ## **雞蛋農藥超標怎麼辦？5** **步驟讓你安心處理**
 
@@ -62,6 +66,8 @@ sourceVerbatim: true
 
 在科學面，根據 *Food Chemistry* 研究指出，芬普尼代謝物在人體中以微克級濃度暴露，風險仍遠低於安全攝入值（註3）。換句話說，若你能及時辨識與調整，風險可控、安心可得。
 
+<span id="%E7%84%A1%E6%AF%92%E9%9B%9E%E8%9B%8B%E6%80%8E%E9%BA%BC%E9%81%B8%EF%BC%9F%E7%9C%8B%E6%87%824%E5%A4%A7%E6%A8%99%E7%AB%A0%E8%88%87%E8%BF%BD%E6%BA%AF%E7%A2%BC"></span>
+
 ## **無毒雞蛋怎麼選？看懂4****大標章與追溯碼**
 
 想買「安心蛋」，關鍵不在顏色，而在**標章與來源**。市面上常見的四大類標章——**CAS****優良農產品、有機驗證、產銷履歷、友善畜牧**——其實就像雞蛋界的「四重守門員」。
@@ -70,6 +76,8 @@ CAS 保證整體製程衛生與品質；有機驗證則要求飼料來源與環�
 
 別小看這一點！根據歐洲食品安全局近年報告顯示，**具明確追溯標籤的禽蛋，其農藥殘留超標率不到** **0.5%**（註5），遠低於未標示產品。這就像在市場裡挑水果——你不一定選最漂亮的那顆，而是選「知道它從哪裡來」的那顆。  
 選蛋如選友：信任要可追蹤，安心才有依據。
+
+<span id="%E6%97%A5%E5%B8%B8%E9%98%B2%E8%AD%B7%E5%BF%83%E6%B3%95%EF%BC%9A%E6%B8%9B%E5%B0%91%E8%BE%B2%E8%97%A5%E6%AE%98%E7%95%99%E6%94%9D%E5%8F%96%E7%9A%84%E7%94%9F%E6%B4%BB%E7%BF%92%E6%85%A3"></span>
 
 ## **日常防護心法：減少農藥殘留攝取的生活習慣**
 
@@ -83,6 +91,8 @@ CAS 保證整體製程衛生與品質；有機驗證則要求飼料來源與環�
 研究指出，多樣化飲食與抗氧化蔬果攝取，可降低長期微量農藥暴露造成的慢性氧化壓力反應（註7）。換句話說，防護不只是拒絕，更是「調養」。當我們以覺察取代恐懼，以知識取代焦慮，真正的食安才會在日常裡生根。
 
 ![](/wp-content/uploads/Egg-Pesticide-Residue-Safety-Steps5.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E9%A2%A8%E9%9A%AA%E8%88%87%E4%BF%A1%E4%BB%BB%E4%B9%8B%E9%96%93%E7%9A%84%E5%B9%B3%E8%A1%A1"></span>
 
 ## **結論：風險與信任之間的平衡**
 

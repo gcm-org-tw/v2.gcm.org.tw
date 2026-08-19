@@ -15,6 +15,10 @@ sourceVerbatim: true
 
 ⚖️AI 法規審查通過📚實證文獻取證🩺上醫預防醫學發展協會 醫師具名發表
 
+<span id="sec-0"></span>
+
+<span id="%E8%85%B8%E7%97%85%E6%AF%92D68%EF%BC%9A%E6%89%93%E7%A0%B4%E6%89%8B%E8%B6%B3%E5%8F%A3%E7%97%85%E7%9A%84%E5%85%B8%E5%9E%8B%E5%8D%B0%E8%B1%A1"></span>
+
 ## 腸病毒D68：打破手足口病的典型印象
 
 2014年，美國爆發一場幾乎不出現水泡的腸病毒疫情，逾1,100名兒童因嚴重呼吸窘迫住院，部分病童需要呼吸器支持（註7）。病原體正是腸病毒D68（EV-D68）——一種長期在公衛視野邊緣低調流行的型別，直至該年才引發廣泛重視。
@@ -24,6 +28,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/392f7089-df5b-4eaf-89bb-f54224ec2cb8/paragraph-seg-1-1784002495408-a9fcfb55.jpg" alt="腸病毒D68：打破手足口病的典型印象"></figure>
+
+<span id="sec-1"></span>
+
+<span id="%E8%85%B8%E7%97%85%E6%AF%92D68%E8%88%87%E4%B8%80%E8%88%AC%E8%85%B8%E7%97%85%E6%AF%92%E5%9E%8B%E5%88%A5%E7%9A%84%E4%B8%BB%E8%A6%81%E5%B7%AE%E7%95%B0"></span>
 
 ## 腸病毒D68與一般腸病毒型別的主要差異
 
@@ -39,6 +47,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/392f7089-df5b-4eaf-89bb-f54224ec2cb8/paragraph-seg-2-1784002544939-974086e0.jpg" alt="腸病毒D68與一般腸病毒型別的主要差異"></figure>
 
+<span id="sec-2"></span>
+
+<span id="%E5%A6%82%E4%BD%95%E8%BE%A8%E8%AD%98%E8%85%B8%E7%97%85%E6%AF%92D68%E7%9A%84%E6%97%A9%E6%9C%9F%E7%97%87%E7%8B%80"></span>
+
 ## 如何辨識腸病毒D68的早期症狀
 
 腸病毒D68感染初期症狀與一般上呼吸道感冒高度相似，在未進行病毒核酸檢測的情況下，臨床上單憑症狀難以確切區分，但以下特點有助於提高警覺。
@@ -52,6 +64,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/392f7089-df5b-4eaf-89bb-f54224ec2cb8/paragraph-seg-3-1784002445521-814a1322.jpg" alt="如何辨識腸病毒D68的早期症狀"></figure>
+
+<span id="sec-3"></span>
+
+<span id="%E6%80%A5%E6%80%A7%E5%BC%9B%E7%B7%A9%E6%80%A7%E8%84%8A%E9%AB%93%E7%82%8E%EF%BC%9A%E8%85%B8%E7%97%85%E6%AF%92D68%E6%9C%80%E4%B8%8D%E5%AE%B9%E5%BF%BD%E8%A6%96%E7%9A%84%E7%A5%9E%E7%B6%93%E4%BD%B5%E7%99%BC%E7%97%87"></span>
 
 ## 急性弛緩性脊髓炎：腸病毒D68最不容忽視的神經併發症
 
@@ -71,6 +87,10 @@ sourceVerbatim: true
 * * *
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/392f7089-df5b-4eaf-89bb-f54224ec2cb8/paragraph-seg-4-1784002727143-9d490f67.jpg" alt="急性弛緩性脊髓炎：腸病毒D68最不容忽視的神經併發症"></figure>
+
+<span id="sec-4"></span>
+
+<span id="%E5%B1%85%E5%AE%B6%E7%85%A7%E8%AD%B7%E5%8E%9F%E5%89%87%E8%88%87%E5%B0%B1%E9%86%AB%E6%99%82%E6%A9%9F"></span>
 
 ## 居家照護原則與就醫時機
 
@@ -92,6 +112,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/392f7089-df5b-4eaf-89bb-f54224ec2cb8/paragraph-seg-5-1784002779025-b3facd70.jpg" alt="居家照護原則與就醫時機"></figure>
 
+<span id="sec-5"></span>
+
+<span id="%E8%85%B8%E7%97%85%E6%AF%92D68_vs_%E8%85%B8%E7%97%85%E6%AF%9271%E5%9E%8B_vs_%E5%85%8B%E6%B2%99%E5%A5%87%E7%97%85%E6%AF%92%EF%BD%9C%E8%87%A8%E5%BA%8A%E7%97%87%E7%8B%80%E8%BC%AA%E5%BB%93%E6%AF%94%E8%BC%83"></span>
+
 ## 腸病毒D68 vs. 腸病毒71型 vs. 克沙奇病毒｜臨床症狀輪廓比較
 
 <table><thead><tr><th>比較項目</th><th>腸病毒D68（EV-D68）</th><th>腸病毒71型（EV-71）</th><th>克沙奇病毒（A型為主）</th></tr></thead><tbody><tr><td><strong>主要攻擊部位</strong></td><td>呼吸道（氣管、支氣管、肺部）</td><td>腸道黏膜、皮膚、神經系統</td><td>口腔黏膜、皮膚、心臟</td></tr><tr><td><strong>典型早期症狀</strong></td><td>發燒、咳嗽、流鼻水、喘鳴</td><td>發燒、口腔潰瘍、手腳水泡</td><td>口腔破皮、輕微發燒、皮疹</td></tr><tr><td><strong>有無手足口病特徵</strong></td><td>❌ 通常無水泡或潰瘍</td><td>✅ 手足口病主要病原</td><td>✅ 常見，但症狀較輕</td></tr><tr><td><strong>呼吸困難風險</strong></td><td>⚠️ 高，尤其氣喘兒童</td><td>較低（重症以腦炎為主）</td><td>低至中等</td></tr><tr><td><strong>重症型態</strong></td><td>急性弛緩性脊髓炎（AFM）、呼吸衰竭</td><td>腦幹腦炎、心肺衰竭</td><td>心肌炎、無菌性腦膜炎</td></tr><tr><td><strong>最易誤認為</strong></td><td>一般感冒、流感、氣喘發作</td><td>泡疹性咽峽炎、一般口瘡</td><td>一般口腔潰瘍、過敏疹</td></tr><tr><td><strong>高危族群</strong></td><td>學齡前兒童、氣喘患者</td><td>5歲以下幼童</td><td>嬰幼兒、免疫較弱者</td></tr></tbody></table>
@@ -101,6 +125,10 @@ sourceVerbatim: true
 * * *
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/392f7089-df5b-4eaf-89bb-f54224ec2cb8/paragraph-seg-6-1784002689439-d87c82dd.jpg" alt="腸病毒D68 vs. 腸病毒71型 vs. 克沙奇病毒｜臨床症狀輪廓比較"></figure>
+
+<span id="sec-6"></span>
+
+<span id="%E9%97%9C%E6%96%BC%E8%85%B8%E7%97%85%E6%AF%92D68%E7%9A%84%E5%B8%B8%E8%A6%8B%E8%87%A8%E5%BA%8A%E5%95%8F%E9%A1%8C"></span>
 
 ## 關於腸病毒D68的常見臨床問題
 
@@ -152,6 +180,8 @@ sourceVerbatim: true
 *© GCM上醫預防醫學發展協會｜gcm.org.tw*
 
 <figure class="article-section-figure article-comic-grid"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/392f7089-df5b-4eaf-89bb-f54224ec2cb8/comic-grid-1784002401377-5a3eb508.jpg" alt="腸病毒D68疫情警示：呼吸道症狀為主，3大神經警訊不容輕忽 4 格漫畫"><figcaption class="text-center text-sm text-muted-foreground mt-2"></figcaption></figure>
+
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB"></span>
 
 ## 參考文獻
 

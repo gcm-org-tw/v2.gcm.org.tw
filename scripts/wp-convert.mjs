@@ -53,8 +53,7 @@ function cleanHtml(html) {
     // ez-toc 自動目錄（整塊，含巢狀 div）——新站自行產生目錄
     .replace(/<div id="ez-toc-container"[\s\S]*?<\/nav>\s*<\/div>/g, '')
     .replace(/<div id="ez-toc-container"[\s\S]*?<\/div>\s*<\/div>/g, '')
-    // ez-toc 在標題旁塞的錨點 span（保留標題文字本身）
-    .replace(/<span class="ez-toc-section"[^>]*><\/span>/g, '')
+    // ez-toc 在標題結尾塞的空 span
     .replace(/<span class="ez-toc-section-end"><\/span>/g, '')
     .replace(/<script[\s\S]*?<\/script>/g, '')
     .replace(/<noscript[\s\S]*?<\/noscript>/g, '')
@@ -63,18 +62,43 @@ function cleanHtml(html) {
     .replace(new RegExp(SITE.replace('.', '\\.') + '(?=/)', 'g'), '');
 }
 
+/* 標題上的錨點 id 必須保住。
+ * 作者手寫目錄用的是 <h2 id="section-0">，turndown 轉成 `## 標題` 會把 id 丟掉，
+ * 於是文章自己的 <a href="#section-0"> 全部失效（2026-08-19 由 check-links.mjs 抓到，
+ * 20 條錨點壞在 3 篇文章上）。
+ * 作法：把標題元素與其內部 span 上的所有 id 提到標題**前面**變成獨立的空 span，
+ * 標題本身維持純 Markdown——這樣 Astro 仍能從 headings 產生目錄，舊錨點也還在。 */
+function hoistHeadingAnchors(html) {
+  return html.replace(/<h([2-6])\b([^>]*)>([\s\S]*?)<\/h\1>/g, (_m, lvl, attrs, inner) => {
+    const ids = [];
+    const own = attrs.match(/\sid="([^"]+)"/);
+    if (own) ids.push(own[1]);
+    for (const m of inner.matchAll(/\sid="([^"]+)"/g)) ids.push(m[1]);
+    const cleanInner = inner.replace(/<span[^>]*class="ez-toc-section"[^>]*><\/span>/g, '');
+    const anchors = [...new Set(ids)].map(id => `<span id="${id}"></span>`).join('');
+    return `${anchors}<h${lvl}${attrs.replace(/\sid="[^"]*"/, '')}>${cleanInner}</h${lvl}>`;
+  });
+}
+
 const td = new TurndownService({
   headingStyle: 'atx',
   bulletListMarker: '-',
   codeBlockStyle: 'fenced',
   emDelimiter: '*',
+  /* 空的具名 span＝錨點，要原樣留成 HTML。
+   * ⚠ 不能用 addRule：turndown 在套規則之前就先把「空節點」交給 blankReplacement 處理掉了，
+   *    自訂規則根本輪不到（實測 addRule 版本錨點會整批消失）。 */
+  blankReplacement: (_content, node) =>
+    (node.nodeName === 'SPAN' && node.id)
+      ? `\n\n<span id="${node.id}"></span>\n\n`
+      : (node.isBlock ? '\n\n' : ''),
 });
 // 表格、iframe、audio 轉 Markdown 會失真 → 原樣保留 HTML
 td.keep(['table', 'iframe', 'audio', 'video', 'figure']);
 td.remove(['script', 'style', 'noscript']);
 
 function toMarkdown(html) {
-  return td.turndown(cleanHtml(html)).replace(/\n{3,}/g, '\n\n').trim();
+  return td.turndown(hoistHeadingAnchors(cleanHtml(html))).replace(/\n{3,}/g, '\n\n').trim();
 }
 
 const yaml = v => {

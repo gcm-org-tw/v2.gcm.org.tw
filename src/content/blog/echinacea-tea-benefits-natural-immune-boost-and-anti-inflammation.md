@@ -18,6 +18,8 @@ sourceVerbatim: true
 
 這不僅是一杯茶，它是一份專屬於您的自然禮物。每一口，都讓您與自然更近一步，感受到大地的力量與溫暖。
 
+<span id="%E7%B4%AB%E9%8C%90%E8%8A%B1%E7%9A%84%E5%82%B3%E5%A5%87%EF%BC%9A%E8%87%AA%E7%84%B6%E4%B9%8B%E7%BE%8E%E8%88%87%E5%81%A5%E5%BA%B7%E7%9A%84%E4%BA%A4%E8%9E%8D"></span>
+
 ## **紫錐花的傳奇：自然之美與健康的交融**
 
 紫錐花的名字你聽過嗎？它不僅是一種美麗的植物，還承載著悠久的健康故事。紫錐花原產於北美大草原，其名字來自拉丁文“Echinacea”，意為“刺蝟”，象徵其花蕊如刺般的外觀。早期，北美土著民族利用紫錐花治療傷口和感染，並將其作為增強體力與免疫的草藥。這一草本植物的傳統應用為現代醫學的研究奠定了基礎(註1)。
@@ -33,6 +35,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Echinacea-Tea-Benefits.jpg)
 
+<span id="%E5%85%8D%E7%96%AB%E8%88%87%E7%82%8E%E7%97%87%E7%9A%84%E6%88%B0%E5%A3%AB%EF%BC%9A%E7%B4%AB%E9%8C%90%E8%8A%B1%E7%9A%84%E7%A5%9E%E5%A5%87%E5%8A%9F%E6%95%88"></span>
+
 ## **免疫與炎症的戰士：紫錐花的神奇功效**
 
 當面臨繁忙生活的壓力與季節交替帶來的感染風險時，紫錐花如何成為您的健康守護者？科學研究表明，紫錐花能有效調節免疫系統，尤其在抵抗上呼吸道感染和減少炎症反應方面表現突出(註1)。它的活性成分，包括菊苣酸和多酚類化合物，能促進巨噬細胞的活性，加速炎症部位的修復，並激活自然免疫機制(註2)。
@@ -47,6 +51,8 @@ sourceVerbatim: true
 2.  Sullivan, M., et al. (2017). Echinacea and its role in reducing inflammation: A meta-analysis. *Clinical Immunology, 182*, 29-36.
 3.  Shah, S. A., et al. (2015). The benefits of echinacea for the prevention and treatment of colds. *Phytotherapy Research, 29*(5), 685-693.
 
+<span id="%E7%B4%AB%E9%8C%90%E8%8A%B1%E8%8C%B6%EF%BC%9A%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB%E7%9A%84%E6%BA%AB%E6%9A%96%E4%B8%80%E6%9D%AF"></span>
+
 ## **紫錐花茶：健康生活的溫暖一杯**
 
 在忙碌的生活中，您是否曾想過，如何輕鬆提升自己的免疫力？紫錐花茶不僅是一杯溫暖的飲品，更是每日健康管理的一部分。其抗炎和免疫調節功能，讓它成為現代人抵禦外界環境挑戰的理想選擇。研究表明，飲用紫錐花茶能顯著減少上呼吸道感染的風險，尤其是在免疫系統較弱或處於壓力狀態下的人群中效果尤為顯著(註1)。
@@ -58,6 +64,8 @@ sourceVerbatim: true
 **參考文獻：**
 
 1.  Schoop, R., et al. (2019). Efficacy and safety of echinacea tea for preventing upper respiratory infections. *Complementary Therapies in Medicine, 45*, 68-74.
+
+<span id="%E5%81%A5%E5%BA%B7%E7%9A%84%E7%B4%B0%E7%AF%80%EF%BC%9A%E5%96%84%E7%94%A8%E7%B4%AB%E9%8C%90%E8%8A%B1%E8%8C%B6%E7%9A%84%E5%8A%9B%E9%87%8F"></span>
 
 ## **健康的細節：善用紫錐花茶的力量**
 
@@ -71,6 +79,8 @@ sourceVerbatim: true
 
 1.  Barrett, B., et al. (2016). Echinacea for the treatment of the common cold: An updated meta-analysis. *Cochrane Database of Systematic Reviews, 2016*(1).
 
+<span id="%E6%93%81%E6%8A%B1%E8%87%AA%E7%84%B6%EF%BC%8C%E6%93%81%E6%8A%B1%E5%81%A5%E5%BA%B7%E7%9A%84%E6%9C%AA%E4%BE%86"></span>
+
 ## **擁抱自然，擁抱健康的未來**
 
 在這個步履匆匆的時代，健康不僅是我們追求的目標，更是生活中最珍貴的資產。紫錐花茶，承載著大自然的力量，為我們提供了一種簡單而有效的方式來呵護免疫系統。它溫柔地調節身體平衡，像是一位貼心的朋友，幫助我們抵禦壓力與外界的挑戰。
@@ -81,23 +91,35 @@ sourceVerbatim: true
 
 <table border="1" cellspacing="0" cellpadding="10"><thead><tr><th>比較項目</th><th>紫錐花茶</th><th>一般茶飲</th></tr></thead><tbody><tr><td>特性與來源</td><td>源自北美天然植物，菊苣酸與多酚為主要活性物質</td><td>常見於日常飲品，如綠茶、紅茶等</td></tr><tr><td>主要成分</td><td>菊苣酸、多酚、植物多糖</td><td>咖啡因、多酚</td></tr><tr><td>核心功效</td><td>提升免疫力、抗炎、舒緩壓力</td><td>提神、抗氧化</td></tr><tr><td>適合對象</td><td>經常感冒、免疫力低下或壓力大的人群</td><td>適合需要提神或抗氧化支持的人群</td></tr><tr><td>使用注意事項</td><td>不適合對菊科植物過敏、孕婦與正在服用免疫抑制藥物者</td><td>高咖啡因含量可能不適合孕婦、失眠者或敏感人群</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A%E7%B4%AB%E9%8C%90%E8%8A%B1%E8%8C%B6%E7%9C%9F%E7%9A%84%E8%83%BD%E6%8F%90%E5%8D%87%E5%85%8D%E7%96%AB%E5%8A%9B%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題 1****：紫錐花茶真的能提升免疫力嗎？**
 
 **回覆：** 是的，研究表明紫錐花茶含有菊苣酸、多酚和植物多糖等活性成分，這些成分可以幫助調節免疫系統，增強抵抗力。尤其是在免疫系統較弱或容易感冒的情況下，飲用紫錐花茶有助於穩定身體健康。不過，建議每日飲用1-2次，避免過量，並在感冒初期飲用效果更佳。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E7%B4%AB%E9%8C%90%E8%8A%B1%E8%8C%B6%E9%81%A9%E5%90%88%E6%89%80%E6%9C%89%E4%BA%BA%E9%A3%B2%E7%94%A8%E5%97%8E%EF%BC%9F"></span>
+
 ### **問題 2****：紫錐花茶適合所有人飲用嗎？**
 
 **回覆：** 並非所有人都適合飲用紫錐花茶。對菊科植物過敏、孕婦或正在服用免疫抑制藥物的人群應避免使用。此外，長期飲用需控制劑量，建議諮詢專業醫師意見，以確保安全。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E7%B4%AB%E9%8C%90%E8%8A%B1%E8%8C%B6%E8%88%87%E4%B8%80%E8%88%AC%E8%8C%B6%E9%A3%B2%E7%9B%B8%E6%AF%94%EF%BC%8C%E6%9C%89%E4%BB%80%E9%BA%BC%E7%89%B9%E5%88%A5%E4%B9%8B%E8%99%95%EF%BC%9F"></span>
 
 ### **問題 3****：紫錐花茶與一般茶飲相比，有什麼特別之處？**
 
 **回覆：** 紫錐花茶以其獨特的抗炎和免疫調節功能而著稱，與綠茶或紅茶等一般茶飲的提神、抗氧化作用不同。紫錐花茶特別適合經常感冒或壓力大的讀者，幫助舒緩身心、穩定健康。但一般茶飲含咖啡因，適合需要提神的人群，選擇需根據個人需求。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A%E7%B4%AB%E9%8C%90%E8%8A%B1%E8%8C%B6%E8%A9%B2%E5%A6%82%E4%BD%95%E6%B2%96%E6%B3%A1%E6%89%8D%E8%83%BD%E7%99%BC%E6%8F%AE%E6%9C%80%E5%A4%A7%E6%95%88%E6%9E%9C%EF%BC%9F"></span>
+
 ### **問題 4****：紫錐花茶該如何沖泡才能發揮最大效果？**
 
 **回覆：** 建議使用乾燥的紫錐花花瓣，每次取2-3克，加入約200毫升熱水，浸泡5-10分鐘。為增強口感與功效，可以加入蜂蜜或檸檬汁，搭配紅棗或生薑也是不錯的選擇。切記不要用過高溫的水，避免破壞其中的活性成分。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9A%E7%B4%AB%E9%8C%90%E8%8A%B1%E8%8C%B6%E6%9C%89%E5%89%AF%E4%BD%9C%E7%94%A8%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題 5****：紫錐花茶有副作用嗎？**
 

@@ -14,6 +14,8 @@ sourceVerbatim: true
 
 ## ![](/wp-content/uploads/Sleep-Sudden-Death-Risk1.jpg)
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9C%89%E4%BA%BA%E7%9D%A1%E8%91%97%E5%BE%8C%EF%BC%8C%E5%B0%B1%E5%86%8D%E4%B9%9F%E6%B2%92%E6%9C%89%E9%86%92%E4%BE%86%EF%BC%9F"></span>
+
 ## **為什麼有人睡著後，就再也沒有醒來？**
 
 你可能也看過這樣的新聞。
@@ -75,6 +77,8 @@ sourceVerbatim: true
 但其實，心臟早就悄悄發出過訊號。
 
 只是我們沒有注意。 （註1）
+
+<span id="%E7%8C%9D%E6%AD%BB%E5%89%8D%EF%BC%8C%E5%85%B6%E5%AF%A6%E8%BA%AB%E9%AB%94%E5%B8%B8%E5%87%BA%E7%8F%BE6%E5%80%8B%E8%AD%A6%E8%A8%8A"></span>
 
 ## **猝死前，其實身體常出現6****個警訊**
 
@@ -154,6 +158,8 @@ sourceVerbatim: true
 當問題被提早找到，  
 就有機會避免最壞的結果發生（註3、註4）。
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E7%8F%BE%E4%BB%A3%E4%BA%BA%E7%8C%9D%E6%AD%BB%E9%A2%A8%E9%9A%AA%E6%AD%A3%E5%9C%A8%E5%A2%9E%E5%8A%A0%EF%BC%9F"></span>
+
 ## **為什麼現代人猝死風險正在增加？**
 
 你可能會發現一件事。  
@@ -183,6 +189,8 @@ sourceVerbatim: true
 
 因此，猝死並不是一件完全無法預測的事情。  
 很多風險其實可以透過生活習慣與健康檢查提前發現。
+
+<span id="%E5%93%AA%E4%BA%9B%E4%BA%BA%E5%B1%AC%E6%96%BC%E7%8C%9D%E6%AD%BB%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%97%8F%E7%BE%A4%EF%BC%9F"></span>
 
 ## **哪些人屬於猝死高風險族群？**
 
@@ -260,6 +268,8 @@ sourceVerbatim: true
 如果屬於上述高風險族群，  
 定期健康檢查與改善生活型態，  
 就顯得特別重要。
+
+<span id="%E9%86%AB%E5%B8%AB%E6%8F%90%E9%86%92%EF%BC%9A%E9%A0%90%E9%98%B2%E7%8C%9D%E6%AD%BB%E5%8F%AF%E4%BB%A5%E5%81%9A%E7%9A%845%E4%BB%B6%E4%BA%8B"></span>
 
 ## **醫師提醒：預防猝死可以做的5****件事**
 
@@ -342,6 +352,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Sleep-Sudden-Death-Risk5.jpg)
 
+<span id="%E6%9C%89%E4%BA%9B%E4%BA%BA%E5%8F%AA%E6%98%AF%E7%9D%A1%E8%91%97%E4%BA%86%EF%BC%8C%E5%8D%BB%E5%86%8D%E4%B9%9F%E6%B2%92%E6%9C%89%E9%86%92%E4%BE%86"></span>
+
 ## **有些人只是睡著了，卻再也沒有醒來**
 
 有時候，一則新聞會讓人突然停下來思考。
@@ -401,6 +413,8 @@ sourceVerbatim: true
 或許現在就是重新關心健康的時候。
 
 <table class="health-table"><thead><tr><th>身體警訊</th><th>常被忽略的原因</th><th>可能的健康問題</th><th>建議檢查</th></tr></thead><tbody><tr><td data-tip="心臟血流可能不足">胸悶或胸口壓迫感</td><td>常被認為只是壓力或疲勞</td><td>冠狀動脈疾病、心肌缺血</td><td>心電圖、心臟超音波</td></tr><tr><td data-tip="心跳節律異常">心悸或心跳不規則</td><td>以為咖啡或情緒造成</td><td>心律不整</td><td>24小時心律監測</td></tr><tr><td data-tip="心臟輸出下降">容易疲倦、體力下降</td><td>誤認為睡眠不足</td><td>心臟功能下降</td><td>心臟超音波</td></tr><tr><td data-tip="運動耐受下降">運動時容易喘</td><td>以為只是體力變差</td><td>心血管疾病</td><td>運動心電圖</td></tr><tr><td data-tip="血氧下降">睡眠品質變差</td><td>以為只是壓力大</td><td>睡眠呼吸中止症</td><td>睡眠檢測</td></tr><tr><td data-tip="腦部血流短暫不足">頭暈或暈厥</td><td>以為低血糖或姿勢問題</td><td>心律不整</td><td>心電圖</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

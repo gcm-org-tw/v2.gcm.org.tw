@@ -30,6 +30,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Sarcopenia-Dysphagia-Signs1.jpg)
 
+<span id="%E3%80%8C%E6%B0%A3%E8%A1%80%E4%B8%8D%E8%B6%B3%E3%80%8D%E7%9A%84%E8%BA%AB%E9%AB%94%E8%AD%A6%E8%A8%8A%EF%BC%9A%E5%90%9E%E5%9A%A5%E8%AE%8A%E6%85%A2%E7%9A%84%E9%96%8B%E5%A7%8B"></span>
+
 ## **「氣血不足」的身體警訊：吞嚥變慢的開始**
 
 你有沒有發現，最近喝湯時會突然嗆到、或吃東西變得特別慢？這些看似微小的改變，其實是身體在提醒——**氣血的流動正在變得遲緩**。在中醫觀點裡，「舌為心之苗，口為脾之外候」，當脾胃虛弱、氣血運行不暢時，津液難以上承於口，舌頭與咽喉的肌群也會失去靈活度。這正是許多長者出現吞嚥困難的根源。
@@ -37,6 +39,8 @@ sourceVerbatim: true
 現代醫學也發現，**肌少症（****Sarcopenia****）** 不僅發生在手腳肌肉，也會影響到吞嚥肌群與舌肌，造成所謂「肌少型吞嚥障礙（Sarcopenic Dysphagia）」。研究指出，肌少症長者出現吞嚥障礙的機率比一般人高出 3 到 4 倍，且舌壓顯著下降（p < 0.01），導致進食速度變慢與嗆咳頻率上升(註1、註2)。
 
 別小看這些小細節。吞嚥的流暢，其實是氣血是否充盈的指標——就像煮湯時，火候太弱，湯面雖熱卻難以翻滾。若能及早察覺「吞嚥變慢」這個早期信號，從補氣養肌、調脾益津著手，就能在氣血衰退前，守住長輩的元氣與尊嚴。
+
+<span id="%E5%90%9E%E5%9A%A5%E5%9B%B0%E9%9B%A3%E7%9A%84%E5%9B%9B%E9%9A%8E%E6%AE%B5%EF%BC%9A%E5%8F%A3%E8%85%94%E8%A1%B0%E5%BC%B1%E7%9A%84%E9%80%B2%E7%A8%8B"></span>
 
 ## **吞嚥困難的四階段：口腔衰弱的進程**
 
@@ -50,6 +54,8 @@ sourceVerbatim: true
 
 研究指出，當舌壓下降 20% 以上時，嗆咳與吸入性肺炎風險大幅提升(註3)。此時若能及早透過吞嚥訓練與營養支持介入，仍有機會逆轉或延緩退化。別讓「吃得下」成為奢侈，早期護口，就能延長自主進食的自由。
 
+<span id="%E9%A4%8A%E8%82%8C%E4%B8%89%E6%B3%95%EF%BC%9A%E9%A3%9F%E8%A3%9C_%C3%97_%E5%8B%95%E8%A3%9C_%C3%97_%E6%B0%A3%E8%A3%9C"></span>
+
 ## **養肌三法：食補 ×** **動補 ×** **氣補**
 
 你知道嗎？吞嚥肌也需要「保養」。當氣血虛弱、肌力下滑時，不論喝湯或說話，舌頭都像被慢速鍵按住一樣。要恢復這份「力量的流動」，必須從三個方向著手：**吃得夠、動得對、氣要順。**
@@ -62,6 +68,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Sarcopenia-Dysphagia-Signs5.jpg)
 
+<span id="%E3%80%8C%E5%BE%9E%E5%8F%A3%E5%88%B0%E5%BF%83%E3%80%8D%E7%9A%84%E6%95%B4%E9%AB%94%E7%85%A7%E8%AD%B7%E7%AD%96%E7%95%A5"></span>
+
 ## **「從口到心」的整體照護策略**
 
 吞嚥，不只是生理動作，而是生命與世界的連結。當長輩開始吃得慢、說得少，往往不只是肌肉疲弱，更是氣血衰退、心氣鬱結的反映。中醫說「氣行則血行，氣滯則津乾」，當情志鬱滯、脾氣受困時，吞嚥的協調也會受影響。
@@ -69,6 +77,8 @@ sourceVerbatim: true
 現代研究顯示，結合**營養補充、吞嚥訓練與口腔照護**的綜合介入，可顯著改善長者吞嚥能力與生活品質（p < 0.05）(註5)。這意味著，只要願意從飲食、運動與心境三方面同步調整，仍能讓退化變緩、生活更自在。
 
 日常中，你可以為家中的長輩做幾件小事：餐前先溫潤口腔、食物質地依照 IDDSI 標準調整、每餐後輕拍背促進咳痰與呼吸。當家人能安心地吃下一口飯、喝下一口湯，那一刻，其實就是「氣血再度被點亮」的瞬間。因為——**吞嚥力，就是生命力。**
+
+<span id="%E7%B5%90%E8%AB%96%EF%BD%9C%E6%97%A9%E4%B8%80%E6%AD%A5%E5%AF%9F%E8%A6%BA%EF%BC%8C%E5%B0%91%E4%B8%80%E5%88%86%E9%A2%A8%E9%9A%AA"></span>
 
 ## **結論｜早一步察覺，少一分風險**
 
@@ -90,6 +100,8 @@ sourceVerbatim: true
 《本文將依據最新提問持續更新》
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #00695C; font-family: 'Noto Sans TC',sans-serif; color: #333333;"><thead style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><tr><th style="padding: 10px; border: 3px solid #00695C;">面向</th><th style="padding: 10px; border: 3px solid #00695C;">定義／重點</th><th style="padding: 10px; border: 3px solid #00695C;">快速指標／工具</th><th style="padding: 10px; border: 3px solid #00695C;">居家作法</th><th style="padding: 10px; border: 3px solid #00695C;">轉介條件</th><th style="padding: 10px; border: 3px solid #00695C;">風險／注意</th></tr></thead><tbody><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #00695C;">衰弱／肌少症</td><td style="padding: 10px; border: 3px solid #00695C;">肌肉量與肌力下降，日常功能退步；嚴重者臥床。</td><td style="padding: 10px; border: 3px solid #00695C;">握力：男&lt;28kg、女&lt;18kg；步速&lt;1.0 m/s；肌肉量：男&lt;7.0、女&lt;5.7 kg/m²</td><td style="padding: 10px; border: 3px solid #00695C;">每週2–3次阻抗訓練；步行＋下肢訓練</td><td style="padding: 10px; border: 3px solid #00695C;">指標同時異常 ≥2 項</td><td style="padding: 10px; border: 3px solid #00695C;">初期常被忽略，活動量下降→惡性循環</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #00695C;">口腔衰弱四階段</td><td style="padding: 10px; border: 3px solid #00695C;">從牙齒數減少、舌靈活度下降到吞嚥退化的連續光譜。</td><td style="padding: 10px; border: 3px solid #00695C;">OFC 檢核表：≥4 分＝高風險</td><td style="padding: 10px; border: 3px solid #00695C;">每日口腔清潔、舌／頰運動、溫水潤口</td><td style="padding: 10px; border: 3px solid #00695C;">進食卡喉、體重下降、口乾嚴重</td><td style="padding: 10px; border: 3px solid #00695C;">易進展為吞嚥障礙與營養不良</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #00695C;">吞嚥5大警訊</td><td style="padding: 10px; border: 3px solid #00695C;">常嗆咳、咬不動、口乾、吃很慢、體重降。</td><td style="padding: 10px; border: 3px solid #00695C;">EAT-10 自評、3 口水吞嚥測試</td><td style="padding: 10px; border: 3px solid #00695C;">餐前潤口、餐中放慢、餐後輕拍背</td><td style="padding: 10px; border: 3px solid #00695C;">嗆咳頻繁或夜間咳、體重連續下降</td><td style="padding: 10px; border: 3px solid #00695C;">吸入性肺炎、窒息風險</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #00695C;">3步自我檢測</td><td style="padding: 10px; border: 3px solid #00695C;">1握力/小腿圍 2水或唾液吞嚥 3體重/食慾紀錄。</td><td style="padding: 10px; border: 3px solid #00695C;">握力計、小腿圍、體重秤</td><td style="padding: 10px; border: 3px solid #00695C;">連續7天記錄，畫出變化趨勢</td><td style="padding: 10px; border: 3px solid #00695C;">兩步以上異常＋症狀持續</td><td style="padding: 10px; border: 3px solid #00695C;">需 VFSS / FEES 專業評估</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #00695C;">訓練（動補）</td><td style="padding: 10px; border: 3px solid #00695C;">強化舌／咽肌群與頸前肌協調。</td><td style="padding: 10px; border: 3px solid #00695C;">CTAR、Shaker、Mendelsohn</td><td style="padding: 10px; border: 3px solid #00695C;">每日10分鐘、4週一個週期</td><td style="padding: 10px; border: 3px solid #00695C;">進食仍頻嗆或吞嚥延遲</td><td style="padding: 10px; border: 3px solid #00695C;">姿勢不當恐引發頭頸痠痛</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #00695C;">營養（食補）</td><td style="padding: 10px; border: 3px solid #00695C;">脾為後天之本，蛋白質足量是基礎。</td><td style="padding: 10px; border: 3px solid #00695C;">≥1.2 g/kg/day 蛋白質</td><td style="padding: 10px; border: 3px solid #00695C;">動物蛋白＋豆製品；少量多餐</td><td style="padding: 10px; border: 3px solid #00695C;">體重連降、白蛋白偏低</td><td style="padding: 10px; border: 3px solid #00695C;">腎病／肝病者調整蛋白質攝取</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #00695C;">飲食質地（IDDSI）</td><td style="padding: 10px; border: 3px solid #00695C;">依吞嚥安全調整「軟中有型」。</td><td style="padding: 10px; border: 3px solid #00695C;">糊餐／泥餐／增稠飲</td><td style="padding: 10px; border: 3px solid #00695C;">家用增稠粉、單一質地烹調</td><td style="padding: 10px; border: 3px solid #00695C;">嚴重嗆咳或卡喉史</td><td style="padding: 10px; border: 3px solid #00695C;">避免乾、鬆、黏、混合多層次食物</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #00695C;">口腔照護</td><td style="padding: 10px; border: 3px solid #00695C;">降低菌負荷、提升吞嚥舒適。</td><td style="padding: 10px; border: 3px solid #00695C;">每日刷牙≥2次、定期看牙</td><td style="padding: 10px; border: 3px solid #00695C;">溫鹽水漱口、牙間刷、舌苔清潔</td><td style="padding: 10px; border: 3px solid #00695C;">口臭重、疼痛、牙齦出血</td><td style="padding: 10px; border: 3px solid #00695C;">口乾者避免含酒精漱口水</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #00695C;">姿勢與環境</td><td style="padding: 10px; border: 3px solid #00695C;">下巴內收、直坐90°、減少分心。</td><td style="padding: 10px; border: 3px solid #00695C;">小口慢吃、每口間隔</td><td style="padding: 10px; border: 3px solid #00695C;">餐桌高度合宜、保持專注</td><td style="padding: 10px; border: 3px solid #00695C;">認知退化與躁動者更需環境整理</td><td style="padding: 10px; border: 3px solid #00695C;">錯位姿勢增加誤吸</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #00695C;">併發症預防</td><td style="padding: 10px; border: 3px solid #00695C;">降低吸入性肺炎、營養不良。</td><td style="padding: 10px; border: 3px solid #00695C;">口腔清潔＋訓練＋質地調整</td><td style="padding: 10px; border: 3px solid #00695C;">餐後坐直30分鐘</td><td style="padding: 10px; border: 3px solid #00695C;">發燒、喘、濕咳、意識改變</td><td style="padding: 10px; border: 3px solid #00695C;">高風險者應早期轉介</td></tr></tbody></table>
+
+<span id="%F0%9F%92%AC_%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **💬** **常見問題與回覆**
 

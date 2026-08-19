@@ -19,17 +19,25 @@ sourceVerbatim: true
 1.  Ye J, Huang C, Wang X, et al. Oxid Med Cell Longev. 2021;2021:5558593. doi:10.1155/2021/5558593
 2.  Xu X-M, Huang H-J, Zhou H, et al. Front Pharmacol. 2022;13:846631. doi:10.3389/fphar.2022.846631
 
+<span id="%E5%B0%8F%E7%B1%B3%E8%8D%89%E5%8A%9F%E6%95%88%E8%88%87%E5%89%AF%E4%BD%9C%E7%94%A8%E5%85%A8%E8%A7%A3%E6%9E%90"></span>
+
 ## **小米草功效與副作用全解析**
 
 你知道小米草（又稱漢方明目草）的清熱解毒與活血化瘀功效嗎？《神農本草經》記載，小米草性微寒，能清肝熱、解毒並促進血液循環，就像一匙薑湯在寒冬中帶來暖意(註1)。現代研究也指出，其中的黃酮和多酚成分具抗炎活性，可改善微循環障礙，讓手腳不再冰冷。別小看這株「亮健康」的小草，過量或長期服用卻可能傷脾胃，甚至大鼠實驗曾觀察到肝肺組織病理改變，提醒你要控制劑量(註2)。建議成人每日3–5 g，飯後溫服，或與暖性配料如枸杞、薑片同煮，既能享受增強保護力，又能避免副作用。
+
+<span id="%E5%A2%9E%E5%BC%B7%E4%BF%9D%E8%AD%B7%E5%8A%9B%E7%9A%84%E9%97%9C%E9%8D%B5%E6%A9%9F%E5%88%B6"></span>
 
 ## **增強保護力的關鍵機制**
 
 你知道嗎？小米草中的黃酮和多酚，就像廚房裡的火災警報器，可迅速偵測並啟動防禦機制。研究使用 D101 樹脂分離的小米草活性成分，在 LPS 刺激的 BV2 微膠質細胞模型中，能顯著抑制 TNF-α 與 IL-1β 釋放，並阻斷 JNK、NF-κB 訊號通路，展現出強大的免疫調節與抗炎作用，猶如替免疫「警衛隊」穿上鎧甲，強化第一道防線(註3)。別忘了，再強大的防禦也需適度；過量或長期高濃度使用，仍可能干擾細胞活性，建議依每日 3–5 g 建議用量，並諮詢專業人士後再行調配。
 
+<span id="%E8%88%92%E7%B7%A9%E5%91%A8%E9%82%8A%E5%BE%AA%E7%92%B0%E4%B8%8D%E9%81%A9%E7%9A%84%E5%AF%A6%E8%AD%89%E6%87%89%E7%94%A8"></span>
+
 ## **舒緩周邊循環不適的實證應用**
 
 你有發現手腳冰冷像河床乾涸嗎？微循環不暢，就如灌溉渠道阻塞，末梢供氧不足。動物實驗採用 alloxan 誘導糖尿病大鼠，口服小米草水萃物（400 mg/kg/日）可顯著改善血管損傷，降低血液黏稠度並恢復紅血球變形能力，進而促進微循環恢復(註4)。此外，該萃物透過抗炎減少內皮細胞壓力，就像疏通堵塞管道，降低末梢循環阻力。別忘了，這些研究多限於動物模型，尚缺乏大規模臨床驗證；若要對抗手腳冰冷，建議結合規律運動與均衡飲食，並避免與抗凝血藥同時使用，以免增加出血風險。
+
+<span id="%E5%AE%89%E5%85%A8%E7%94%A8%E9%87%8F%E8%88%87%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85"></span>
 
 ## **安全用量與注意事項**
 
@@ -45,6 +53,8 @@ sourceVerbatim: true
 透過合理劑量與炮製工藝，你才能在「小米草功效與副作用」之間找到完美平衡，享受漢方明目草帶來的亮健康。
 
 ![](/wp-content/uploads/Xiaomicao-6-Benefits-Side-Effects2.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E9%99%B0%E9%99%BD%E5%8D%94%E8%AA%BF%EF%BC%8C%E4%BA%AE%E5%81%A5%E5%BA%B7%E9%95%B7%E5%AD%98"></span>
 
 ## **結論：陰陽協調，亮健康長存**
 
@@ -73,6 +83,8 @@ sourceVerbatim: true
 6.  Metabolomics Reveals the Mechanisms for the Pulmonary Toxicity of Siegesbeckia orientalis L. Extract: A Review. Front Pharmacol. 2021;12:630319. doi:10.3389/fphar.2021.630319
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #006400;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="border: 3px solid #006400; padding: 8px;">比較項目</th><th style="border: 3px solid #006400; padding: 8px;">功效／Benefits</th><th style="border: 3px solid #006400; padding: 8px;">注意事項／Cautions</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #006400; padding: 8px;">清熱解毒與活血化瘀</td><td style="border: 3px solid #006400; padding: 8px;">清肝熱、解毒；促進血液循環並明目提神</td><td style="border: 3px solid #006400; padding: 8px;">過量可能傷脾胃；動物模型曾見肝肺組織病理改變</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #006400; padding: 8px;">增強保護力的關鍵機制</td><td style="border: 3px solid #006400; padding: 8px;">黃酮、多酚抗炎；上調eNOS、抑制NF-κB/JNK，強化免疫第一道防線</td><td style="border: 3px solid #006400; padding: 8px;">高濃度或長期使用或干擾細胞活性，需依建議用量服用</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #006400; padding: 8px;">改善周邊循環不適</td><td style="border: 3px solid #006400; padding: 8px;">動物實驗中提升末梢血流45%；優化微循環，降低血液黏稠度</td><td style="border: 3px solid #006400; padding: 8px;">缺乏大規模臨床驗證；與 Warfarin 等抗凝血藥併用可能增加出血風險</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #006400; padding: 8px;">建議用量與炮製</td><td style="border: 3px solid #006400; padding: 8px;">成人每日3–5 g（生草量）；米酒炮製減毒；可配枸杞、薑片同煮增效</td><td style="border: 3px solid #006400; padding: 8px;">孕哺婦、過敏體質需先諮詢醫師；兒童與老人建議在專業指導下減量使用；連續用藥應觀察反應</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

@@ -26,6 +26,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Health-Based-Wealth-Planning-e1752073818684.jpg)
 
+<span id="%E5%81%A5%E5%BA%B7%E8%B3%87%E7%94%A2%E5%A6%82%E4%BD%95%E7%B4%8D%E5%85%A5%E8%B2%A1%E5%8B%99%E8%A8%88%E7%95%AB%EF%BC%9F%E5%9C%8B%E9%9A%9B%E8%AA%8D%E8%AD%89%E8%B2%A1%E5%8B%99%E8%A6%8F%E5%8A%83%E5%B8%AB%E9%80%99%E6%A8%A3%E5%81%9A"></span>
+
 ## **健康資產如何納入財務計畫？國際認證財務規劃師這樣做**
 
 你有沒有想過，健檢預算其實也是一種資產管理？在[吳芳圳](https://line.me/ti/p/~irich168)的眼中，「健康」早已不只是醫療院所的事，而是財富保全的第一道防線。他設計了一種新型信託架構，把「年度健康撥款」正式納入財務規劃中，透過信託工具提前預留醫療資源，降低家族企業未來因突發疾病而面臨的財務風險。這就像在財務帳冊裡加了一條「免疫力基金」，不為現在用，而是為了明天少流血。
@@ -33,6 +35,8 @@ sourceVerbatim: true
 他觀察到許多企業主在晚年才開始處理健康問題，往往已是風險爆發的結果期，醫療費用成為拖垮資產的「黑洞」。而當健康預算與信託結構一起設計進去，不僅保護當事人，也讓受益人更安心。當然，這樣的設計也有一個潛藏的挑戰——那就是文化觀念。許多長輩認為談「健康風險」是觸霉頭，甚至有「多想會招來不幸」的誤解。但吳芳圳總說：「就像家裡會裝滅火器，不代表你要火災才裝。」
 
 現代研究也支持這種思維：一份系統性文獻指出，將預防性健康支出納入家庭財務計畫，有助於降低65歲後醫療開銷增加的機率（註1）。從醫療邏輯延伸至財務邏輯，這不是跨界，而是整合。信託裡多了一筆錢，帳面上少了一堆擔憂，這筆帳——你算過嗎？
+
+<span id="%E9%80%99%E5%BC%B5%E8%A1%A8%E5%8C%85%E5%90%AB%E5%93%AA%E4%BA%9B%E5%85%A7%E5%AE%B9%EF%BC%9F%E5%AF%A6%E5%8B%99%E6%93%8D%E4%BD%9C%E5%8E%9F%E5%89%87%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82"></span>
 
 ## **這張表包含哪些內容？實務操作原則一次看懂**
 
@@ -46,6 +50,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Health-Based-Wealth-Planning6.jpg)
 
+<span id="%E9%81%87%E5%88%B0%E4%BB%80%E9%BA%BC%E9%98%BB%E5%8A%9B%EF%BC%9F%E4%BB%96%E5%A6%82%E4%BD%95%E8%AA%AA%E6%9C%8D%E4%BC%81%E6%A5%AD%E4%B8%BB%E8%88%87%E9%95%B7%E8%BC%A9%E8%AA%8D%E5%90%8C%E9%80%99%E5%A5%97%E5%88%B6%E5%BA%A6"></span>
+
 ## **遇到什麼阻力？他如何說服企業主與長輩認同這套制度**
 
 你是否也有類似經驗？當你提出「健康預算要寫進信託裡」時，家中長輩第一句話往往是：「不要烏鴉嘴啦，說這個不吉利。」[吳芳圳](https://line.me/ti/p/~irich168)點頭笑說，他已經習慣了。但他也很清楚：若無法打破這道觀念防線，再完整的制度也無法落地。
@@ -58,6 +64,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Health-Based-Wealth-Planning4.jpg)
 
+<span id="%E6%9C%AA%E4%BE%86%E8%B6%A8%E5%8B%A2%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E5%81%A5%E5%BA%B7%E4%BF%A1%E8%A8%97%E5%A6%82%E4%BD%95%E8%88%87%E4%BF%9D%E9%9A%AA%E3%80%81%E5%9F%BA%E5%9B%A0%E6%AA%A2%E6%B8%AC%E6%95%B4%E5%90%88"></span>
+
 ## **未來趨勢是什麼？健康信託如何與保險、基因檢測整合**
 
 你知道嗎？未來的財富傳承，不只會問「你留下多少錢」，更會問「你留下什麼樣的健康風險管理機制」。[吳芳圳](https://www.dreamer868.com/)觀察到，健康信託的設計正逐步走向「全人預防＋科技預測」的融合趨勢。他形容，過去的信託像是一個保險櫃，而未來的信託，更像是一套運行中的生理偵測系統。
@@ -69,6 +77,8 @@ sourceVerbatim: true
 一篇2023年發表於《Health Affairs》的研究也指出，當醫療預測科技與法律結構結合時，能顯著提升家庭健康資源的使用效率，降低70歲以上家庭的長照支出與法律糾紛機率（註4）。
 
 「財富的下一波轉捩點，不會發生在資產膨脹時，而是疾病發生時。」他說這句話時，語氣溫柔卻堅定——因為真正能延續幸福的，不只是錢，而是有能力照顧彼此的制度。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BD%9C%E7%95%B6%E4%BF%A1%E8%A8%97%E4%B9%9F%E6%87%82%E5%BE%97%E9%A4%8A%E7%94%9F"></span>
 
 ## **結論｜當信託也懂得養生**
 
@@ -94,6 +104,8 @@ sourceVerbatim: true
 4.  \[Simmons, K. et al. (2023). Integrating predictive health data into family trust structures. Health Affairs, 42(1), 132–142. DOI:10.1377/hlthaff.2022.00412\]
 
 <table style="border-collapse: collapse; width: 100%; font-family: 'Noto Sans TC', sans-serif; font-size: 16px;"><thead><tr style="background-color: #2a9d8f; color: white; font-weight: bold; border: 3px solid #264653;"><th style="padding: 12px; border: 3px solid #264653;">項目</th><th style="padding: 12px; border: 3px solid #264653;">健康考量</th><th style="padding: 12px; border: 3px solid #264653;">啟動條件</th><th style="padding: 12px; border: 3px solid #264653;">家族溝通</th><th style="padding: 12px; border: 3px solid #264653;">風險控管</th><th style="padding: 12px; border: 3px solid #264653;">科技整合</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333; border: 3px solid #264653;"><td style="padding: 12px; border: 3px solid #264653;">傳統信託設計</td><td style="padding: 12px; border: 3px solid #264653;">未納入，僅關注資產分配與稅務避險</td><td style="padding: 12px; border: 3px solid #264653;">以法律生效條件為主（如死亡、失能）</td><td style="padding: 12px; border: 3px solid #264653;">常於危機後溝通，易引發爭議</td><td style="padding: 12px; border: 3px solid #264653;">病來如山倒，事後處理成本高</td><td style="padding: 12px; border: 3px solid #264653;">少有整合</td></tr><tr style="background-color: #ffffff; color: #333333; border: 3px solid #264653;"><td style="padding: 12px; border: 3px solid #264653;">健康信託設計（吳芳圳設計）</td><td style="padding: 12px; border: 3px solid #264653;">強調預防醫學，納入年度健檢與重大疾病撥款</td><td style="padding: 12px; border: 3px solid #264653;">可依醫療診斷結果、基因預測等動態啟動</td><td style="padding: 12px; border: 3px solid #264653;">規劃階段即設置討論流程與監察機制</td><td style="padding: 12px; border: 3px solid #264653;">事前結構設計，降低醫療支出與情緒衝突</td><td style="padding: 12px; border: 3px solid #264653;">結合保單、健檢、基因檢測與醫療顧問</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

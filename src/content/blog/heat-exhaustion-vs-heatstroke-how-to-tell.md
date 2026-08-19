@@ -18,15 +18,23 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/heat-exhaustion-vs-heatstroke-how-to-tell_11zon.webp)
 
+<span id="%E4%BB%80%E9%BA%BC%E6%98%AF%E7%86%B1%E8%A1%B0%E7%AB%AD%EF%BC%9F"></span>
+
 ## 什麼是熱衰竭？
 
 熱衰竭（Heat Exhaustion）是身體長時間處於高溫環境下，體溫調節機制無法應付導致的身體狀態，常見於運動員、戶外工作者、老年人等。若未及時降溫或補充水分，將進一步惡化為致命的熱衰竭。
 
+<span id="%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E5%88%A4%E6%96%B7%E7%86%B1%E8%A1%B0%E7%AB%AD%EF%BC%9F"></span>
+
 ## 如何快速判斷熱衰竭？
+
+<span id="%E7%86%B1%E8%A1%B0%E7%AB%AD%E5%B8%B8%E8%A6%8B%E7%97%87%E7%8B%80"></span>
 
 ### 熱衰竭常見症狀
 
 <table border="1" cellspacing="0" cellpadding="10"><thead><tr><th>症狀類型</th><th>具體表現</th></tr></thead><tbody><tr><td>體溫調節異常</td><td>大量出汗、皮膚濕冷、蒼白</td></tr><tr><td>循環問題</td><td>脈搏加快、血壓偏低、頭暈</td></tr><tr><td>神經系統警訊</td><td>頭痛、疲倦、意識模糊或短暫昏厥</td></tr><tr><td>腸胃症狀</td><td>噁心、嘔吐、食慾不振</td></tr></tbody></table>
+
+<span id="%E5%92%8C%E4%B8%AD%E6%9A%91%E6%80%8E%E9%BA%BC%E5%88%86%E8%BE%A8%EF%BC%9F"></span>
 
 ### 和中暑怎麼分辨？
 
@@ -34,12 +42,16 @@ sourceVerbatim: true
 
 <table border="1" cellspacing="0" cellpadding="10"><thead><tr><th>比較項目</th><th>熱衰竭</th><th>熱中暑</th></tr></thead><tbody><tr><td>體溫</td><td>略高或正常</td><td>超過40°C</td></tr><tr><td>是否出汗</td><td>大量出汗</td><td>停止出汗</td></tr><tr><td>皮膚狀態</td><td>濕冷、蒼白</td><td>乾熱、泛紅</td></tr><tr><td>意識狀態</td><td>疲倦、頭暈</td><td>混亂、昏迷</td></tr></tbody></table>
 
+<span id="%E8%87%AA%E6%88%91%E5%BF%AB%E9%80%9F%E6%AA%A2%E6%B8%AC%E6%AD%A5%E9%A9%9F"></span>
+
 ### 自我快速檢測步驟
 
 1.  觀察體溫與出汗狀況
 2.  確認是否有噁心、虛弱、頭暈等症狀
 3.  按壓皮膚是否濕冷、臉色是否蒼白
 4.  若出現混亂或停止出汗，立即送醫
+
+<span id="%E9%81%87%E5%88%B0%E7%86%B1%E8%A1%B0%E7%AB%AD%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F%E7%AB%8B%E5%88%BB%E9%80%99%E6%A8%A3%E5%81%9A%EF%BC%81"></span>
 
 ## 遇到熱衰竭怎麼辦？立刻這樣做！
 
@@ -51,6 +63,8 @@ sourceVerbatim: true
 -   補充電解質水（非一般白開水）
 -   若30分鐘內無改善，儘速就醫
 
+<span id="%E5%93%AA%E4%BA%9B%E4%BA%BA%E6%98%AF%E9%AB%98%E5%8D%B1%E6%97%8F%E7%BE%A4%EF%BC%9F"></span>
+
 ## 哪些人是高危族群？
 
 以下群體在高溫天氣中特別容易出現熱衰竭，應加強保護：
@@ -61,6 +75,8 @@ sourceVerbatim: true
 -   戶外工作者、運動員
 -   喝酒過量或服用利尿劑者
 
+<span id="%E9%A0%90%E9%98%B2%E7%86%B1%E8%A1%B0%E7%AB%AD%E7%9A%84%E6%97%A5%E5%B8%B8%E5%B0%8F%E6%8A%80%E5%B7%A7"></span>
+
 ## 預防熱衰竭的日常小技巧
 
 要預防熱衰竭並不難，重點是「避熱、補水、慎作息」：
@@ -70,6 +86,8 @@ sourceVerbatim: true
 -   定時喝含電解質的水（如運動飲料）
 -   多攝取富含鉀、鎂的食物
 -   在高溫下活動時間縮短，並休息
+
+<span id="%E7%86%B1%E8%A1%B0%E7%AB%AD%E5%B8%B8%E8%A2%AB%E5%BF%BD%E7%95%A5%E7%9A%84%E3%80%8C%E9%9A%B1%E5%BD%A2%E8%AD%A6%E8%A8%8A%E3%80%8D"></span>
 
 ## 熱衰竭常被忽略的「隱形警訊」
 
@@ -82,6 +100,8 @@ sourceVerbatim: true
 
 這些看似無害的小症狀，若出現在炎熱天氣下，就有可能是身體發出「過熱」的SOS警告。千萬別輕忽！
 
+<span id="%E7%86%B1%E8%A1%B0%E7%AB%AD%E9%80%A0%E6%88%90%E7%9A%84%E5%BE%8C%E9%81%BA%E7%97%87%E5%8F%AF%E8%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F"></span>
+
 ## 熱衰竭造成的後遺症可能有哪些？
 
 許多人以為熱衰竭只要休息就沒事，其實如果發作過一次，往後對高溫的耐受力會明顯下降。長期下來可能會導致以下問題：
@@ -93,15 +113,21 @@ sourceVerbatim: true
 
 尤其老年人或患有心臟病、糖尿病的人，一旦曾發生熱衰竭，建議定期回診追蹤，並避開高溫活動。
 
+<span id="%E5%AF%A6%E7%94%A8%E9%A0%90%E9%98%B2%E7%86%B1%E8%A1%B0%E7%AB%AD%E8%A3%9D%E5%82%99%E6%8E%A8%E8%96%A6"></span>
+
 ## 實用預防熱衰竭裝備推薦
 
 除了觀念與行動，裝備也是重要的防護罩。以下是高溫天氣中實用的降溫工具與裝備建議：
 
 <table border="1" cellspacing="0" cellpadding="10"><thead><tr><th>裝備名稱</th><th>功能說明</th><th>建議使用場合</th></tr></thead><tbody><tr><td>冷卻毛巾</td><td>吸水後可持續保持低溫</td><td>戶外活動、運動場</td></tr><tr><td>行動風扇</td><td>隨身降溫、空氣流通</td><td>通勤、等候室外空間</td></tr><tr><td>冰敷墊</td><td>針對後頸、腋下等降溫熱點</td><td>工作間歇、老人居家使用</td></tr><tr><td>運動飲料</td><td>快速補充水分與電解質</td><td>長時間戶外活動</td></tr></tbody></table>
 
+<span id="%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E4%B8%AD%E9%81%BF%E5%85%8D%E7%86%B1%E8%A1%B0%E7%AB%AD%E7%9A%84%E3%80%8C%E9%BB%83%E9%87%91%E5%AE%88%E5%89%87%E3%80%8D"></span>
+
 ## 日常生活中避免熱衰竭的「黃金守則」
 
 熱衰竭的防範勝於治療，掌握以下「三不三要」原則就能大幅降低風險：
+
+<span id="%E4%B8%89%E4%B8%8D%E5%8E%9F%E5%89%87"></span>
 
 ### 三不原則
 
@@ -109,33 +135,49 @@ sourceVerbatim: true
 -   ❌ 不穿黑色厚重衣物
 -   ❌ 不忽視頭暈、嘔吐等早期警訊
 
+<span id="%E4%B8%89%E8%A6%81%E5%8E%9F%E5%89%87"></span>
+
 ### 三要原則
 
 -   ✅ 要定時補水、補電解質
 -   ✅ 要留意氣象警報，提早調整作息
 -   ✅ 要主動觀察家人狀況，尤其老人小孩
 
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E4%BF%9D%E5%91%BD%E9%97%9C%E9%8D%B5%E5%B0%B1%E5%9C%A8%E3%80%8C%E6%97%A9%E4%B8%80%E6%AD%A5%E5%88%A4%E6%96%B7%E3%80%8D"></span>
+
 ## 結論：保命關鍵就在「早一步判斷」
 
 熱衰竭並非「熱一下就好」那麼簡單，它是高溫下人體即將崩潰前的警訊。如果你能早一步辨識、早一步處置，就能避免災難發生。別讓熱衰竭成為奪走健康的「隱形殺手」，把今天學到的分享給更多人，夏天一起平安度過！
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E7%AD%94FAQ"></span>
+
 ## 常見問答FAQ
+
+<span id="1_%E7%86%B1%E8%A1%B0%E7%AB%AD%E5%8F%AF%E4%BB%A5%E8%87%AA%E8%A1%8C%E6%81%A2%E5%BE%A9%E5%97%8E%EF%BC%9F"></span>
 
 ### 1\. 熱衰竭可以自行恢復嗎？
 
 輕度熱衰竭若能及時補水、降溫，多數可在30分鐘內改善，但若症狀加劇或無改善，請立即就醫。
 
+<span id="2_%E7%86%B1%E8%A1%B0%E7%AB%AD%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8F%AA%E8%83%BD%E5%9C%A8%E6%88%B6%E5%A4%96%E7%99%BC%E7%94%9F%EF%BC%9F"></span>
+
 ### 2\. 熱衰竭是不是只能在戶外發生？
 
 錯！即使在室內，若通風不良、穿太多、長時間暴露在悶熱環境，也有可能發生熱衰竭。
+
+<span id="3_%E5%96%9D%E5%86%B0%E6%B0%B4%E5%8F%AF%E4%BB%A5%E9%A0%90%E9%98%B2%E7%86%B1%E8%A1%B0%E7%AB%AD%E5%97%8E%EF%BC%9F"></span>
 
 ### 3\. 喝冰水可以預防熱衰竭嗎？
 
 適度喝冰水可以降溫，但最重要的是持續補充含電解質的水，冰水並非唯一或最佳解法。
 
+<span id="4_%E7%86%B1%E8%A1%B0%E7%AB%AD%E6%9C%83%E5%BC%95%E7%99%BC%E5%85%B6%E4%BB%96%E7%96%BE%E7%97%85%E5%97%8E%EF%BC%9F"></span>
+
 ### 4\. 熱衰竭會引發其他疾病嗎？
 
 會，嚴重者可能導致熱中暑、腎臟損傷、自律神經失調等後遺症，需特別注意。
+
+<span id="5_%E9%81%8B%E5%8B%95%E6%99%82%E6%80%8E%E9%BA%BC%E9%81%BF%E5%85%8D%E7%86%B1%E8%A1%B0%E7%AB%AD%EF%BC%9F"></span>
 
 ### 5\. 運動時怎麼避免熱衰竭？
 

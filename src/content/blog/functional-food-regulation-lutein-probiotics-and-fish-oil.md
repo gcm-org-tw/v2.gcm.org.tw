@@ -33,6 +33,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Functional-Food-Regulation-Lutein-Probiotics-and-Fish-Oil-1-1024x683.jpg)
 
+<span id="%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81%E8%B6%8A%E5%A4%9A%EF%BC%8C%E9%81%B8%E6%93%87%E5%8F%8D%E8%80%8C%E8%B6%8A%E9%9B%A3"></span>
+
 ## **保健食品越多，選擇反而越難**
 
 你有沒有站在藥局架前，忽然覺得自己像在考試？
@@ -54,6 +56,8 @@ sourceVerbatim: true
 
 它不是單純要管產品。  
 更重要的是，要管「功效到底能不能這樣說」。
+
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E8%91%89%E9%BB%83%E7%B4%A0%E3%80%81%E7%9B%8A%E7%94%9F%E8%8F%8C%E3%80%81%E9%AD%9A%E6%B2%B9%E6%9C%83%E8%A2%AB%E9%BB%9E%E5%90%8D%EF%BC%9F"></span>
 
 ## **為什麼葉黃素、益生菌、魚油會被點名？**
 
@@ -79,6 +83,8 @@ sourceVerbatim: true
 所以，真正需要管理的不是「你能不能賣」。  
 而是「你能不能這樣宣稱」。
 
+<span id="%E5%B0%8F%E7%B6%A0%E4%BA%BA%E3%80%81%E4%B8%80%E8%88%AC%E9%A3%9F%E5%93%81%E3%80%81%E5%8A%9F%E8%83%BD%E6%80%A7%E9%A3%9F%E5%93%81%E5%B7%AE%E5%9C%A8%E5%93%AA%EF%BC%9F"></span>
+
 ## **小綠人、一般食品、功能性食品差在哪？**
 
 目前大家最熟悉的是「小綠人」健康食品標章。
@@ -102,6 +108,8 @@ sourceVerbatim: true
 紅燈不能闖。  
 綠燈可以走。  
 黃燈呢？要先看清楚規則。
+
+<span id="%E6%96%B0%E5%88%B6%E9%87%8D%E9%BB%9E%EF%BC%9A%E4%B8%8D%E6%98%AF%E4%B8%8D%E8%83%BD%E8%B3%A3%EF%BC%8C%E8%80%8C%E6%98%AF%E4%B8%8D%E8%83%BD%E4%BA%82%E8%AC%9B%E5%8A%9F%E6%95%88"></span>
 
 ## **新制重點：不是不能賣，而是不能亂講功效**
 
@@ -131,6 +139,8 @@ sourceVerbatim: true
 就像便當可以讓你有力氣。  
 但便當不能假裝自己是急診室。
 
+<span id="17%E9%A0%85%E5%8A%9F%E8%83%BD%E6%80%A7%E6%88%90%E5%88%86%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F"></span>
+
 ## **17****項功能性成分有哪些？**
 
 依照目前提供的資料，食藥署鎖定17項常見功能性成分，包括：
@@ -146,6 +156,8 @@ sourceVerbatim: true
 
 未來消費者要學會的，不只是看成分。  
 還要看標示。
+
+<span id="%E6%B6%88%E8%B2%BB%E8%80%85%E8%B2%B7%E4%B9%8B%E5%89%8D%EF%BC%8C%E8%AB%8B%E5%85%88%E5%95%8F%E8%87%AA%E5%B7%B15%E5%80%8B%E5%95%8F%E9%A1%8C"></span>
 
 ## **消費者買之前，請先問自己5****個問題**
 
@@ -174,7 +186,11 @@ sourceVerbatim: true
 
 剛剛好，才是身體真正需要的智慧。
 
+<span id="%E5%83%B9%E5%80%BC%E8%88%87%E6%B1%BA%E7%AD%96%E5%B0%8E%E5%90%91"></span>
+
 ## 價值與決策導向
+
+<span id="%E8%B2%B7%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81%E5%89%8D%EF%BC%8C%E5%9B%9B%E7%A8%AE%E5%88%A4%E6%96%B7%E6%96%B9%E5%BC%8F%E5%B7%AE%E5%9C%A8%E5%93%AA%EF%BC%9F"></span>
 
 ### 買保健食品前，四種判斷方式差在哪？
 
@@ -189,7 +205,11 @@ sourceVerbatim: true
 保健食品可以是健康路上的小幫手。  
 但不該變成焦慮下單的理由。
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C"></span>
+
 ## **常見問題**
+
+<span id="Q1%EF%BC%9A%E6%B2%92%E6%9C%89%E5%B0%8F%E7%B6%A0%E4%BA%BA%EF%BC%8C%E5%B0%B1%E6%98%AF%E6%B2%92%E6%9C%89%E6%95%88%E5%97%8E%EF%BC%9F"></span>
 
 ### **Q1****：沒有小綠人，就是沒有效嗎？**
 
@@ -203,6 +223,8 @@ sourceVerbatim: true
 成分與劑量是否清楚？  
 有沒有把食品講成治療疾病？
 
+<span id="Q2%EF%BC%9A%E5%8A%9F%E8%83%BD%E6%80%A7%E9%A3%9F%E5%93%81%E6%96%B0%E5%88%B6%E4%B8%8A%E8%B7%AF%E5%BE%8C%EF%BC%8C%E6%B2%92%E7%99%BB%E9%8C%84%E7%9A%84%E7%94%A2%E5%93%81%E9%82%84%E8%83%BD%E8%B3%A3%E5%97%8E%EF%BC%9F"></span>
+
 ### **Q2****：功能性食品新制上路後，沒登錄的產品還能賣嗎？**
 
 依目前規畫，未登錄產品仍可能可以販售。  
@@ -211,6 +233,8 @@ sourceVerbatim: true
 重點不是「不能賣」。  
 而是「不能亂說」。
 
+<span id="Q3%EF%BC%9A%E8%91%89%E9%BB%83%E7%B4%A0%E5%8F%AF%E4%BB%A5%E8%AD%B7%E7%9C%BC%EF%BC%8C%E6%89%80%E4%BB%A5%E6%AF%8F%E5%A4%A9%E5%90%83%E8%B6%8A%E5%A4%9A%E8%B6%8A%E5%A5%BD%E5%97%8E%EF%BC%9F"></span>
+
 ### **Q3****：葉黃素可以護眼，所以每天吃越多越好嗎？**
 
 不建議這樣想。
@@ -218,6 +242,8 @@ sourceVerbatim: true
 葉黃素是黃斑部重要營養素之一，但眼睛健康還需要睡眠、用眼習慣、光線控制、血糖血壓管理與定期檢查。
 
 如果已經有眼科疾病，請以眼科診療與追蹤為主。
+
+<span id="Q4%EF%BC%9A%E7%9B%8A%E7%94%9F%E8%8F%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E9%81%A9%E5%90%88%EF%BC%9F"></span>
 
 ### **Q4****：益生菌是不是每個人都適合？**
 
@@ -228,12 +254,16 @@ sourceVerbatim: true
 
 免疫力低下、重症、特殊治療中者，建議先詢問專業人員。
 
+<span id="Q5%EF%BC%9A%E9%AD%9A%E6%B2%B9%E5%8F%AF%E4%BB%A5%E5%8F%96%E4%BB%A3%E8%97%A5%E7%89%A9%E5%97%8E%EF%BC%9F"></span>
+
 ### **Q5****：魚油可以取代藥物嗎？**
 
 不可以。
 
 魚油是營養補充品，不能自行取代醫師開立藥物。  
 若正在使用抗凝血藥、抗血小板藥，或準備手術，建議先與醫師確認。
+
+<span id="%E7%B5%90%E8%AA%9E%EF%BC%9A%E7%9C%9F%E6%AD%A3%E7%9A%84%E4%BF%9D%E5%81%A5%EF%BC%8C%E6%98%AF%E7%9C%8B%E6%87%82%E7%95%8C%E7%B7%9A"></span>
 
 ## **結語：真正的保健，是看懂界線**
 

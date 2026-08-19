@@ -12,6 +12,8 @@ legacyPath: "/blog/bloodborne-hiv-transmission-risk/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80"></span>
+
 ## **引言**
 
 你有沒有發現，只要畫面一出現血，心就先緊了一下？  
@@ -28,6 +30,8 @@ sourceVerbatim: true
 1.  Gulick RM, Pau AK, Agwu AL, et al. (2024). *Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents With HIV.* Office of AIDS Research Advisory Council.
 2.  Henderson DK, Dembry LM, Sifri CD, et al. (2022). *Management of Healthcare Personnel Living With Hepatitis B, Hepatitis C, or Human Immunodeficiency Virus in US Healthcare Institutions.* **Infection Control & Hospital Epidemiology**, 43(2), 147–155. doi:10.1017/ice.2020.458
 
+<span id="%E5%88%80%E5%AD%90%E6%B2%BE%E8%A1%80%E5%86%8D%E5%89%B2%E5%88%B0%E4%BA%BA%EF%BC%8C%E7%9C%9F%E7%9A%84%E6%9C%83%E6%84%9F%E6%9F%93%E6%84%9B%E6%BB%8B%E5%97%8E%EF%BC%9F"></span>
+
 ## **刀子沾血再割到人，真的會感染愛滋嗎？**
 
 你有沒有發現，只要畫面一出現血，心就先緊了一下？  
@@ -38,6 +42,8 @@ sourceVerbatim: true
 再看「刀子」這個情境。刀具不是中空器械，血液會暴露在空氣中，病毒活性會快速下降，**這和醫護人員被針頭直接刺入血管的風險，完全不同**。所以，多數生活中看到的「刀子沾血再割到人」，在臨床風險評估上屬於低效率傳播情境。
 
 當然，這不代表可以完全忽視。若來源者的病毒控制狀態不明，仍需要進一步評估，而不是只憑畫面下判斷。懂得分辨風險，本身就是一種保護（註1）。
+
+<span id="%E6%B5%81%E8%A1%80%E6%8E%A5%E8%A7%B8%E6%9C%83%E6%84%9F%E6%9F%93%E6%84%9B%E6%BB%8B%E7%97%85%E5%97%8E%EF%BC%9F%E9%A2%A8%E9%9A%AA%E5%85%B6%E5%AF%A6%E5%92%8C%E4%BD%A0%E6%83%B3%E7%9A%84%E4%B8%8D%E4%B8%80%E6%A8%A3"></span>
 
 ## **流血接觸會感染愛滋病嗎？風險其實和你想的不一樣**
 
@@ -52,6 +58,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Bloodborne-HIV-Transmission-Risk4.jpg)
 
+<span id="%E7%9C%8B%E5%88%B0%E8%A1%80%E5%B0%B1%E5%BE%88%E6%80%95%EF%BC%9F%E5%85%B6%E5%AF%A6%E5%A4%9A%E6%95%B8%E8%A1%80%E6%B6%B2%E6%8E%A5%E8%A7%B8%E4%B8%8D%E6%9C%83%E5%82%B3%E6%9F%93%E6%84%9B%E6%BB%8B"></span>
+
 ## **看到血就很怕？其實多數血液接觸不會傳染愛滋**
 
 你是不是也有過這種反射動作——一看到血，心就先跳一下？  
@@ -63,6 +71,8 @@ sourceVerbatim: true
 
 當然，若是大量血液、黏膜深層、或來源狀態不明，仍需要專業評估。**關鍵不是嚇自己，而是學會分辨情境**，把心力用在真正需要的地方（註3）。
 
+<span id="%E5%A6%82%E6%9E%9C%E7%9C%9F%E7%9A%84%E6%93%94%E5%BF%83%EF%BC%8C%E4%BB%80%E9%BA%BC%E6%83%85%E6%B3%81%E6%89%8D%E9%9C%80%E8%A6%81%E9%80%B2%E4%B8%80%E6%AD%A5%E8%99%95%E7%90%86%EF%BC%9F"></span>
+
 ## **如果真的擔心，什麼情況才需要進一步處理？**
 
 先深呼吸一下。**不是每一次血液接觸，都需要立刻吃藥。**醫學判斷看三件事：來源者的病毒控制狀態、暴露型態、以及時間點。若來源者病毒量測不到、或只是表面接觸，風險多半極低，通常不需要額外處置。
@@ -70,6 +80,8 @@ sourceVerbatim: true
 那什麼時候要行動？**當來源狀態不明或可能有可檢測病毒量，且屬於較深層的血液暴露**（例如中空針具、明顯進入血液循環），才會考慮暴露後預防用藥（PEP）。重點在「快而準」——**最好在數小時內啟動，最晚不超過 72** **小時**；過了這個窗，效益會明顯下降。
 
 把它想成廚房的滅火器。不是每次聞到焦味就要噴，但**該用時要用得早、用得對**。PEP 是保險機制，不是恐慌反射。若你不確定，第一步不是自己嚇自己，而是到醫療院所做專業風險評估，讓資訊替你把路照亮（註4）。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E4%BD%A0%E7%9C%8B%E5%88%B0%E7%9A%84%E6%98%AF%E8%A1%80%EF%BC%8C%E4%BD%86%E9%86%AB%E5%AD%B8%E7%9C%8B%E5%88%B0%E7%9A%84%E6%98%AF%E6%A2%9D%E4%BB%B6"></span>
 
 ## **結論：你看到的是血，但醫學看到的是條件**
 
@@ -92,27 +104,39 @@ sourceVerbatim: true
 
 <table style="border-collapse: collapse; width: 100%; border: 3px solid #1B5E52;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="border: 3px solid #1B5E52; padding: 10px;">血液暴露情境</th><th style="border: 3px solid #1B5E52; padding: 10px;">是否屬於有效傳染途徑</th><th style="border: 3px solid #1B5E52; padding: 10px;">實際風險判斷</th><th style="border: 3px solid #1B5E52; padding: 10px;">醫學判斷關鍵</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1B5E52; padding: 10px;">刀子沾血後再割到人</td><td style="border: 3px solid #1B5E52; padding: 10px;">否（多數情況）</td><td style="border: 3px solid #1B5E52; padding: 10px;">極低風險</td><td style="border: 3px solid #1B5E52; padding: 10px;">非中空器械、血液暴露於空氣、病毒活性快速下降</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1B5E52; padding: 10px;">表面傷口接觸到他人血液</td><td style="border: 3px solid #1B5E52; padding: 10px;">否</td><td style="border: 3px solid #1B5E52; padding: 10px;">極低風險</td><td style="border: 3px solid #1B5E52; padding: 10px;">未直接進入血管，傳染效率極低</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1B5E52; padding: 10px;">血液噴濺到完整皮膚</td><td style="border: 3px solid #1B5E52; padding: 10px;">否</td><td style="border: 3px solid #1B5E52; padding: 10px;">幾乎無風險</td><td style="border: 3px solid #1B5E52; padding: 10px;">皮膚為有效屏障</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1B5E52; padding: 10px;">血液噴濺到眼睛／口腔</td><td style="border: 3px solid #1B5E52; padding: 10px;">理論上可能</td><td style="border: 3px solid #1B5E52; padding: 10px;">低風險</td><td style="border: 3px solid #1B5E52; padding: 10px;">黏膜接觸，但需病毒量足夠才成立</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1B5E52; padding: 10px;">中空針具刺傷（針扎傷）</td><td style="border: 3px solid #1B5E52; padding: 10px;">是</td><td style="border: 3px solid #1B5E52; padding: 10px;">低～中度風險</td><td style="border: 3px solid #1B5E52; padding: 10px;">直接進入血液循環，為高效率暴露</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1B5E52; padding: 10px;">共用注射針具</td><td style="border: 3px solid #1B5E52; padding: 10px;">是</td><td style="border: 3px solid #1B5E52; padding: 10px;">高風險</td><td style="border: 3px solid #1B5E52; padding: 10px;">大量新鮮血液、直接血液交換</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1B5E52; padding: 10px;">輸血（未檢驗血品）</td><td style="border: 3px solid #1B5E52; padding: 10px;">是</td><td style="border: 3px solid #1B5E52; padding: 10px;">高風險</td><td style="border: 3px solid #1B5E52; padding: 10px;">大量血液直接輸入（現代醫療幾乎已排除）</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1B5E52; padding: 10px;">人咬人且有大量出血</td><td style="border: 3px solid #1B5E52; padding: 10px;">罕見可能</td><td style="border: 3px solid #1B5E52; padding: 10px;">極低～低風險</td><td style="border: 3px solid #1B5E52; padding: 10px;">需同時滿足出血＋病毒量條件</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A%E5%88%80%E5%AD%90%E6%B2%BE%E5%88%B0%E8%A1%80%E5%86%8D%E5%89%B2%E5%82%B7%E4%BA%BA%EF%BC%8C%E7%9C%9F%E7%9A%84%E6%9C%83%E6%84%9F%E6%9F%93%E6%84%9B%E6%BB%8B%E7%97%85%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題 1****：刀子沾到血再割傷人，真的會感染愛滋病嗎？**
 
 **回覆：**  
 多數情況下，風險極低。是否可能感染，關鍵不在刀子或血的畫面，而在於血液中是否含有足量、仍具活性的病毒，以及是否真的進入血液循環。刀具不是中空器械，血液又會暴露在空氣中，病毒活性會快速下降，與醫療針扎傷的風險等級並不相同。遇到這類情境，先冷靜評估條件，比直接恐慌更重要。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E8%A1%80%E6%B6%B2%E7%A2%B0%E5%88%B0%E6%88%91%E7%9A%84%E5%82%B7%E5%8F%A3%E6%88%96%E7%A0%B4%E7%9A%AE%EF%BC%8C%E6%9C%83%E4%B8%8D%E6%9C%83%E6%9C%89%E6%84%9F%E6%9F%93%E9%A2%A8%E9%9A%AA%EF%BC%9F"></span>
+
 ### **問題 2****：血液碰到我的傷口或破皮，會不會有感染風險？**
 
 **回覆：**  
 一般表面傷口接觸血液，屬於極低風險情境。HIV 並不容易透過完整或淺層皮膚進入體內，必須是「深層、直接進入血液循環」的暴露方式，風險才會顯著增加。中醫常說「正氣存內，邪不可干」，當防禦條件存在時，外在接觸往往不足以造成真正影響。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E7%9C%8B%E5%88%B0%E8%A1%80%E6%B6%B2%E5%99%B4%E5%88%B0%E7%9C%BC%E7%9D%9B%E6%88%96%E5%98%B4%E5%B7%B4%EF%BC%8C%E9%9C%80%E8%A6%81%E7%AB%8B%E5%88%BB%E6%93%94%E5%BF%83%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題 3****：看到血液噴到眼睛或嘴巴，需要立刻擔心嗎？**
 
 **回覆：**  
 黏膜接觸在理論上可能構成風險，但實際上仍屬低風險，是否成立取決於來源者的病毒量與暴露程度。這類情境並不等於一定需要治療，而是需要專業評估。建議第一時間沖洗、紀錄情況，並視來源狀態決定是否就醫諮詢，而不是自行下最壞結論。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A%E4%BB%80%E9%BA%BC%E6%83%85%E6%B3%81%E6%89%8D%E7%9C%9F%E7%9A%84%E9%9C%80%E8%A6%81%E8%80%83%E6%85%AE%E5%90%83%E6%9A%B4%E9%9C%B2%E5%BE%8C%E9%A0%90%E9%98%B2%E8%97%A5%E7%89%A9%EF%BC%88PEP%EF%BC%89%EF%BC%9F"></span>
+
 ### **問題 4****：什麼情況才真的需要考慮吃暴露後預防藥物（PEP****）？**
 
 **回覆：**  
 當來源者病毒量不明或可能未被控制，且暴露方式屬於高效率進入血液的情境（例如中空針具刺傷），才會考慮 PEP。用藥講求時機，最好在數小時內啟動，最晚不超過 72 小時。PEP 是保險措施，不是每一次血液接觸都需要啟動的反射動作。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9A%E7%82%BA%E4%BB%80%E9%BA%BC%E9%86%AB%E5%B8%AB%E7%9C%8B%E5%BE%85%E8%A1%80%E6%B6%B2%E6%8E%A5%E8%A7%B8%EF%BC%8C%E5%92%8C%E4%B8%80%E8%88%AC%E4%BA%BA%E7%9A%84%E7%9B%B4%E8%A6%BA%E5%B7%AE%E9%80%99%E9%BA%BC%E5%A4%9A%EF%BC%9F"></span>
 
 ### **問題 5****：為什麼醫師看待血液接觸，和一般人的直覺差這麼多？**
 

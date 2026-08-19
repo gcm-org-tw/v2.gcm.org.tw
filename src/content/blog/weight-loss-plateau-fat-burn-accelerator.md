@@ -14,6 +14,8 @@ legacyPath: "/blog/weight-loss-plateau-fat-burn-accelerator/"
 sourceVerbatim: true
 ---
 
+<span id="%E6%B8%9B%E8%82%A5%E6%92%9E%E7%89%86%E6%9C%9F%EF%BC%9F%E4%B8%8D%E6%98%AF%E4%BD%A0%E4%B8%8D%E5%8A%AA%E5%8A%9B%EF%BC%8C%E6%98%AF%E8%BA%AB%E9%AB%94%E5%A4%AA%E5%A7%94%E5%B1%88%E4%BA%86%EF%BC%81"></span>
+
 ## **減肥撞牆期？不是你不努力，是身體太委屈了！**
 
 小熊是一位每天早起運動、喝水超過兩千cc、不吃宵夜、甚至連雞排都能拒絕的上班族。不管是誰聽到她減肥的毅力，都忍不住豎起大拇指。可是在某個月初，她站上體重機，眼神瞬間失焦──數字整整三週沒動過。
@@ -27,6 +29,8 @@ sourceVerbatim: true
 減肥不是在坐監獄，苛責自己身心靈！而是學會跟它合作。當你願意聽懂它的語言，它就會回饋你想要的變化，更能從中找回健康和自信。
 
 ![](/wp-content/uploads/weight-loss-plateau-fat-burn-accelerator-1_11zon.webp)
+
+<span id="%E6%B8%9B%E8%82%A5%E5%B8%B8%E8%A6%8B%E7%9A%84%E5%85%AD%E5%A4%A7%E8%BF%B7%E6%80%9D"></span>
 
 ## **減肥常見的六大迷思!**
 
@@ -56,9 +60,13 @@ sourceVerbatim: true
 
 <table style="border-collapse: collapse; width: 100%; max-width: 920px;" border="1" cellspacing="0" cellpadding="8"><thead><tr><th style="width: 28%;">減重迷思</th><th style="width: 72%;">專家破解真相</th></tr></thead><tbody><tr><td><strong>少吃一定瘦</strong></td><td>過度節食令身體進入「省電模式」；基礎代謝下降、脂肪難燃，反而流失肌肉、變成「泡芙人」。</td></tr><tr><td><strong>流汗就是燃燒脂肪</strong></td><td>大汗淋漓多數是水分流失；補水後體重即回升，脂肪燃燒須靠適當心率與持續運動時間。</td></tr><tr><td><strong>運動後可隨便吃</strong></td><td>一塊炸雞或鹹酥雞的熱量，往往抵掉一小時跑步消耗；補償性暴食易導致熱量盈餘。</td></tr><tr><td><strong>體重沒變就是沒瘦</strong></td><td>脂肪減少、肌肉增加時，體重可能持平；以體脂率、腰圍、穿衣感受更能反映進步。</td></tr><tr><td><strong>中藥是「慢郎中」</strong></td><td>中醫辨證論治可調整代謝、排濕消腫、疏肝理氣，配合飲食與運動能加速燃脂。</td></tr><tr><td><strong>針灸只是心理安慰</strong></td><td>研究證實針灸刺激特定穴位可調節腸胃功能、降低食慾、促進脂肪分解，確有輔助減重效果。</td></tr></tbody></table>
 
+<span id="%E4%B8%AD%E8%97%A5%E6%80%8E%E9%BA%BC%E5%B9%AB%E4%BD%A0%E8%88%87%E8%BA%AB%E5%BF%83%E9%9D%88%E9%81%94%E5%88%B0%E5%90%88%E4%BD%9C%E4%BE%86%E5%8A%A0%E9%80%9F%E4%BB%A3%E8%AC%9D%EF%BC%8C%E8%AE%93%E8%84%82%E8%82%AA%E9%96%8B%E5%95%9F%E8%87%AA%E7%87%83%E6%A8%A1%E5%BC%8F"></span>
+
 ## **中藥怎麼幫你與身心靈達到合作來加速代謝，讓脂肪開啟自燃模式!**
 
 「你知道嗎？我們身體其實就像一口燉湯的砂鍋，火力不夠，湯永遠煮不開，脂肪也就難以代謝。在中醫看來，很多人瘦不下來，問題根本不是吃太多，而是『火力不足』，也就是中醫提到脾胃運化失常、腎虛寒、氣血不暢、濕氣困住了燃脂的開關。中藥是依據你的體質辨證論治，例如脾虛型我們會用參苓白朮散加味來補脾運化、氣滯型會用逍遙散疏肝理氣，讓代謝順起來，脂肪自然會開始『自燃』。驅逐壞的脂肪，留下好的肌肉，這時候就能在愉快的狀態下輕輕推一把，效果就會像燒開的水一樣，呼啦啦地減下來，也能使體態看起來健康，而不像紅樓夢裡的林黛玉，看起來病容貌弱不禁風般的瘦弱。
+
+<span id="%E9%87%9D%E7%81%B8%E6%98%AF%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8%EF%BC%9A%E6%89%93%E9%80%9A%E3%80%8C%E7%98%A6%E4%B8%8D%E4%BA%86%E3%80%8D%E7%9A%84%E9%97%9C%E5%8D%A1"></span>
 
 ## **針灸是秘密武器：打通「瘦不了」的關卡!**
 

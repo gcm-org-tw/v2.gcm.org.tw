@@ -36,6 +36,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Uterine-Fibroids-and-Angelica-sinensis1.jpg)
 
+<span id="%E5%AD%90%E5%AE%AE%E8%82%8C%E7%98%A4%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A3%9C%E8%BA%AB%E6%99%82%E5%A4%A7%E5%AE%B6%E7%89%B9%E5%88%A5%E6%93%94%E5%BF%83%E7%95%B6%E6%AD%B8"></span>
+
 ## **子宮肌瘤是什麼？為什麼補身時大家特別擔心當歸**
 
 你有沒有發現，一旦被診斷出**子宮肌瘤**，原本再平常不過的「補身」行為，突然都變得小心翼翼？特別是**當歸**，常常被第一個點名。這份擔心，其實不是空穴來風，而是來自「肌瘤與荷爾蒙相關」這個被簡化、又被放大的概念。
@@ -48,6 +50,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Uterine-Fibroids-and-Angelica-sinensis2.jpg)
 
+<span id="%E7%95%B6%E6%AD%B8%E8%B7%9F%E6%A4%8D%E7%89%A9%E6%80%A7%E8%8D%B7%E7%88%BE%E8%92%99%E6%9C%89%E4%BB%80%E9%BA%BC%E9%97%9C%E4%BF%82%EF%BC%9F%E6%9C%83%E5%BD%B1%E9%9F%BF%E5%AD%90%E5%AE%AE%E8%82%8C%E7%98%A4%E5%97%8E"></span>
+
 ## **當歸跟植物性荷爾蒙有什麼關係？會影響子宮肌瘤嗎**
 
 等等，你可能也在想：**當歸真的算植物性荷爾蒙嗎？**這個問題之所以反覆被問，是因為我們常把「補血、調經」直接等同於「影響雌激素」。但把功能感受，直接當成分子機轉，其實會走偏。
@@ -57,6 +61,8 @@ sourceVerbatim: true
 那它會不會影響**子宮肌瘤**？目前的綜述指出，關於植物性雌激素與肌瘤的關係，研究結果**不一致**：高劑量、特定生命階段或族群可能呈現風險訊號，但中低劑量或一般飲食型態，往往看不到一致的影響（註2）。換句話說，真正影響判斷的，不是「有沒有接觸」，而是**劑量、暴露時間、個體差異**。
 
 把它想成調味。鹽不是不能用，問題在於你是不是整鍋都靠鹽撐味。當歸也一樣——**不是非黑即白**。如果忽略劑量與情境，只用「會不會影響荷爾蒙」來做判斷，很容易把複雜問題簡化過頭。下一段，我們就回到你最在意的核心：**吃了，真的一定會變大嗎？**
+
+<span id="%E5%AD%90%E5%AE%AE%E8%82%8C%E7%98%A4%E5%90%83%E7%95%B6%E6%AD%B8%E6%98%AF%E4%B8%8D%E6%98%AF%E4%B8%80%E5%AE%9A%E6%9C%83%E8%AE%8A%E5%A4%A7%EF%BC%9F"></span>
 
 ## **子宮肌瘤吃當歸是不是一定會變大？**
 
@@ -68,6 +74,8 @@ sourceVerbatim: true
 
 所以，比起問「會不會變大」，更實際的問題是：**你屬於哪一種情境？**這會直接影響後續的判斷。
 
+<span id="%E5%93%AA%E4%BA%9B%E4%BA%BA%E8%A3%9C%E7%95%B6%E6%AD%B8%E8%A6%81%E7%89%B9%E5%88%A5%E5%B0%8F%E5%BF%83%EF%BC%8C%E6%89%8D%E8%83%BD%E9%81%BF%E9%96%8B%E9%A2%A8%E9%9A%AA"></span>
+
 ## **哪些人補當歸要特別小心，才能避開風險**
 
 那麼，重點來了——**不是每個人都一樣**。真正需要提高警覺的，往往不是「有沒有吃當歸」，而是**你現在處在哪個身體階段**。例如，肌瘤仍在活躍成長期、經血量明顯增加、或近期影像追蹤顯示體積變化的人，對任何可能影響內分泌平衡的補品，都更需要審慎。這不是禁止，而是**避免疊加變數**。
@@ -77,6 +85,8 @@ sourceVerbatim: true
 如果用料理來比喻，當歸比較像是「提味用的香料」，而不是主菜。偶爾點綴，與長期、大量、固定加入，是完全不同的兩件事。**與其問能不能吃，不如先確認三件事**：目前是否在追蹤期？使用的劑量與頻率？是否有其他同時影響內分泌的補品一起使用？把這三件事釐清，往往比單一食材的好壞判斷，更能幫你避開真正的風險。
 
 **![](/wp-content/uploads/Uterine-Fibroids-and-Angelica-sinensis6.jpg)**
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E7%9C%8B%E6%87%82%E5%B7%AE%E5%88%A5%EF%BC%8C%E8%BA%AB%E9%AB%94%E6%89%8D%E6%9C%89%E7%A9%BA%E9%96%93%E8%AA%BF%E6%95%B4"></span>
 
 ## **結論：看懂差別，身體才有空間調整**
 
@@ -93,6 +103,8 @@ sourceVerbatim: true
 **《本文將依據最新提問持續更新》**
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #1B5E57;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="padding: 12px; border: 3px solid #1B5E57;">使用情境</th><th style="padding: 12px; border: 3px solid #1B5E57;">風險評估重點</th><th style="padding: 12px; border: 3px solid #1B5E57;">目前證據訊號</th><th style="padding: 12px; border: 3px solid #1B5E57;">判斷建議</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E57;">偶爾入菜（飲食層級）</td><td style="padding: 10px; border: 3px solid #1B5E57;">劑量低、頻率低</td><td style="padding: 10px; border: 3px solid #1B5E57;">無一致證據顯示與肌瘤生長相關</td><td style="padding: 10px; border: 3px solid #1B5E57;">多數情況可接受，留意身體反應</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E57;">間歇性調養（短期、非固定）</td><td style="padding: 10px; border: 3px solid #1B5E57;">使用時機、是否搭配其他補品</td><td style="padding: 10px; border: 3px solid #1B5E57;">證據不一致，需看個體差異</td><td style="padding: 10px; border: 3px solid #1B5E57;">避免同時疊加多種補品</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E57;">長期高頻率使用</td><td style="padding: 10px; border: 3px solid #1B5E57;">劑量累積、暴露時間</td><td style="padding: 10px; border: 3px solid #1B5E57;">高劑量暴露在部分研究中出現風險訊號</td><td style="padding: 10px; border: 3px solid #1B5E57;">建議暫緩或先評估再使用</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E57;">肌瘤症狀活躍期</td><td style="padding: 10px; border: 3px solid #1B5E57;">是否正在變大、經血量變化</td><td style="padding: 10px; border: 3px solid #1B5E57;">症狀期資料有限，需保守</td><td style="padding: 10px; border: 3px solid #1B5E57;">優先減少變數，避免自行補養</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E57;">影像追蹤變化期</td><td style="padding: 10px; border: 3px solid #1B5E57;">體積是否有變化</td><td style="padding: 10px; border: 3px solid #1B5E57;">無直接證據，但臨床上建議保守</td><td style="padding: 10px; border: 3px solid #1B5E57;">等穩定後再評估補品</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E57;">同時使用多種補品</td><td style="padding: 10px; border: 3px solid #1B5E57;">內分泌影響是否疊加</td><td style="padding: 10px; border: 3px solid #1B5E57;">疊加效應缺乏研究</td><td style="padding: 10px; border: 3px solid #1B5E57;">建議簡化補品組合</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E57;">停經前女性</td><td style="padding: 10px; border: 3px solid #1B5E57;">對荷爾蒙反應較敏感</td><td style="padding: 10px; border: 3px solid #1B5E57;">部分研究顯示族群差異</td><td style="padding: 10px; border: 3px solid #1B5E57;">評估風險層級後再決定</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E57;">停經後女性</td><td style="padding: 10px; border: 3px solid #1B5E57;">荷爾蒙環境已改變</td><td style="padding: 10px; border: 3px solid #1B5E57;">相關資料有限</td><td style="padding: 10px; border: 3px solid #1B5E57;">依個人狀態調整，非一體適用</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

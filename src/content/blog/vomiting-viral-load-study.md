@@ -40,6 +40,8 @@ LINE
 
 ![](/wp-content/uploads/Vomiting-Viral-Load-Study8.jpg)
 
+<span id="%E5%99%B4%E5%B0%84%E6%80%A7%E5%98%94%E5%90%90%E5%92%8C%E4%B8%80%E8%88%AC%E5%98%94%E5%90%90%E5%B7%AE%E5%9C%A8%E5%93%AA%EF%BC%9F%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9C%83%E7%AA%81%E7%84%B6%E7%99%BC%E7%94%9F%EF%BC%9F"></span>
+
 ## 噴射性嘔吐和一般嘔吐差在哪？為什麼會突然發生？
 
 你有沒有想過，為什麼有些人只是「反胃」，有些卻是突然像水柱一樣噴射性嘔吐？這兩者其實不太一樣。一般嘔吐多半伴隨噁心、腹脹，會有一點預告；但噴射性嘔吐往往來得急、力道大，像鍋裡水突然沸騰掀蓋。成人族群中，常見原因之一是成人急性腸胃炎，尤其與諾羅病毒症狀有關。研究指出，嘔吐不只是症狀，還可能是病毒排出的主要途徑，噴射式動作會增加環境污染與傳播風險（註1）。別小看這一點——有些患者甚至沒有明顯腹瀉，卻以嘔吐為主要表現。
@@ -51,6 +53,8 @@ LINE
 **噴射性嘔吐常見，腦部問題反而少見。**  
 成人噴射性嘔吐原因多與急性腸胃炎有關；若沒有神經學警訊，先從腸胃感染與脫水評估切入更貼近現實。
 
+<span id="%E6%88%90%E4%BA%BA%E5%99%B4%E5%B0%84%E6%80%A7%E5%98%94%E5%90%90%E6%98%AF%E4%B8%8D%E6%98%AF%E4%B8%80%E5%AE%9A%E4%BB%A3%E8%A1%A8%E8%85%A6%E9%83%A8%E5%95%8F%E9%A1%8C%EF%BC%9F"></span>
+
 ## 成人噴射性嘔吐是不是一定代表腦部問題？
 
 等等，你會不會一看到噴射性嘔吐，腦中立刻浮現「顱內壓升高」？這其實是很多人的第一直覺。的確，在神經科情境下，突然劇烈嘔吐可能與腦壓有關。但在成人族群裡，更常見的情況其實是成人急性腸胃炎，尤其與諾羅病毒症狀相關。
@@ -60,6 +64,8 @@ LINE
 從流行病學角度看，諾羅病毒在寒冷季節、醫院與長照機構等密集接觸場所更常見（註4）。它的傳播效率高，嘔吐時產生的微粒會污染環境表面。這也是為什麼噴射性嘔吐常成為群聚爆發的關鍵事件。
 
 不過，我還是要提醒你：如果嘔吐合併持續劇烈頭痛、意識改變或神經學症狀，那就是另一條判斷路線。多數成人案例屬自限性疾病，但少數情境需要警覺。判斷重點不在「吐得多猛」，而在「伴隨什麼症狀」。
+
+<span id="%E8%AB%BE%E7%BE%85%E7%97%85%E6%AF%92%E7%97%87%E7%8B%80%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F%E7%82%BA%E4%BB%80%E9%BA%BC%E5%98%94%E5%90%90%E6%AF%94%E4%BE%8B%E9%80%99%E9%BA%BC%E9%AB%98%EF%BC%9F"></span>
 
 ## 諾羅病毒症狀有哪些？為什麼嘔吐比例這麼高？
 
@@ -74,6 +80,8 @@ LINE
 **沒有拉肚子，也不代表不是諾羅。**  
 諾羅病毒症狀有時以嘔吐為主，腹瀉未必同時出現；觀察病程、接觸史與群聚情境比單一症狀更可靠。
 
+<span id="%E8%AB%BE%E7%BE%85%E7%97%85%E6%AF%92%E5%82%B3%E6%9F%93%E6%80%8E%E9%BA%BC%E7%99%BC%E7%94%9F%EF%BC%9F%E4%B8%80%E6%AC%A1%E5%99%B4%E5%B0%84%E6%80%A7%E5%98%94%E5%90%90%E7%9C%9F%E7%9A%84%E6%9C%83%E6%93%B4%E6%95%A3%E5%BE%88%E5%BB%A3%E5%97%8E%EF%BC%9F"></span>
+
 ## 諾羅病毒傳染怎麼發生？一次噴射性嘔吐真的會擴散很廣嗎？
 
 你知道嗎？在諾羅病毒傳染的機制裡，噴射性嘔吐常常不是單純的症狀，而是「傳播事件」。當嘔吐發生時，病毒顆粒可能以微小飛沫形式散布到空氣與周圍表面，污染範圍比我們肉眼看到的更大。研究指出，諾羅病毒在封閉或半封閉環境中（如醫院、長照機構、遊輪）爆發率明顯升高，與環境污染與人員密集接觸密切相關（註7）。
@@ -86,6 +94,8 @@ LINE
 
 **嘔吐那一刻，先隔離再清理。**  
 嘔吐可能造成表面污染與微粒擴散；先拉開距離、做好防護，再進行處理，比急著擦乾淨更能降低後續風險。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E7%95%B6%E5%98%94%E5%90%90%E7%99%BC%E7%94%9F%E6%99%82%EF%BC%8C%E5%88%A5%E5%8F%AA%E6%93%A6%E5%9C%B0%E6%9D%BF%EF%BC%8C%E4%B9%9F%E8%A6%81%E7%9C%8B%E6%96%B9%E5%90%91"></span>
 
 ## 結論：當嘔吐發生時，別只擦地板，也要看方向
 
@@ -114,6 +124,8 @@ LINE
 《本文將依據最新提問持續更新》
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #1D7A6E; font-family: Arial, sans-serif; margin-bottom: 24px;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="border: 3px solid #1D7A6E; padding: 12px;">比較面向</th><th style="border: 3px solid #1D7A6E; padding: 12px;">噴射性嘔吐（病毒型腸胃炎常見）</th><th style="border: 3px solid #1D7A6E; padding: 12px;">一般嘔吐（飲食刺激/腸胃不適）</th><th style="border: 3px solid #1D7A6E; padding: 12px;">腦壓相關嘔吐</th><th style="border: 3px solid #1D7A6E; padding: 12px;">食物中毒</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1D7A6E; padding: 12px;">發作特徵</td><td style="border: 3px solid #1D7A6E; padding: 12px;">突然、力道強、可能無預警</td><td style="border: 3px solid #1D7A6E; padding: 12px;">常伴隨噁心與腹脹</td><td style="border: 3px solid #1D7A6E; padding: 12px;">常無噁心感，可能清晨發作</td><td style="border: 3px solid #1D7A6E; padding: 12px;">常合併腹痛與腹瀉</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1D7A6E; padding: 12px;">常見原因</td><td style="border: 3px solid #1D7A6E; padding: 12px;">諾羅病毒、急性腸胃炎</td><td style="border: 3px solid #1D7A6E; padding: 12px;">暴飲暴食、胃炎</td><td style="border: 3px solid #1D7A6E; padding: 12px;">顱內壓上升、腦部病變</td><td style="border: 3px solid #1D7A6E; padding: 12px;">細菌毒素污染</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1D7A6E; padding: 12px;">是否一定腹瀉</td><td style="border: 3px solid #1D7A6E; padding: 12px;">不一定</td><td style="border: 3px solid #1D7A6E; padding: 12px;">不一定</td><td style="border: 3px solid #1D7A6E; padding: 12px;">通常沒有</td><td style="border: 3px solid #1D7A6E; padding: 12px;">多半會有</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1D7A6E; padding: 12px;">是否發燒</td><td style="border: 3px solid #1D7A6E; padding: 12px;">可能低燒</td><td style="border: 3px solid #1D7A6E; padding: 12px;">少見</td><td style="border: 3px solid #1D7A6E; padding: 12px;">少見</td><td style="border: 3px solid #1D7A6E; padding: 12px;">常見</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1D7A6E; padding: 12px;">傳染風險</td><td style="border: 3px solid #1D7A6E; padding: 12px;">高（尤其群聚場景）</td><td style="border: 3px solid #1D7A6E; padding: 12px;">低</td><td style="border: 3px solid #1D7A6E; padding: 12px;">無傳染性</td><td style="border: 3px solid #1D7A6E; padding: 12px;">可能（若共食）</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1D7A6E; padding: 12px;">危險警訊</td><td style="border: 3px solid #1D7A6E; padding: 12px;">持續嘔吐、脫水、長者</td><td style="border: 3px solid #1D7A6E; padding: 12px;">多半自限性</td><td style="border: 3px solid #1D7A6E; padding: 12px;">劇烈頭痛、意識改變</td><td style="border: 3px solid #1D7A6E; padding: 12px;">高燒、血便</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1D7A6E; padding: 12px;">多數病程</td><td style="border: 3px solid #1D7A6E; padding: 12px;">1–3 天改善</td><td style="border: 3px solid #1D7A6E; padding: 12px;">短暫</td><td style="border: 3px solid #1D7A6E; padding: 12px;">需醫療評估</td><td style="border: 3px solid #1D7A6E; padding: 12px;">1–3 天</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## 常見問題與回覆
 

@@ -15,6 +15,8 @@ sourceVerbatim: true
 
 它就像自然贈與的一份禮物，在你感到疲憊或壓力山大時，幫助你放鬆心情，調理腸胃，甚至提升免疫力。更重要的是，這種不含咖啡因的草本茶，無論白天或夜晚，都能伴隨你輕鬆面對每一個挑戰。現在，就讓我們一起探索這杯茶背後的健康奧秘，給自己一個用心呵護身心的理由吧！
 
+<span id="%E5%8D%97%E9%9D%9E%E5%9C%8B%E5%AF%B6%E8%8C%B6%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8A%9F%E6%95%88%E8%88%87%E6%88%90%E5%88%86%E8%A7%A3%E6%9E%90"></span>
+
 ## **南非國寶茶的主要功效與成分解析**
 
 你是否曾經想過，為什麼南非國寶茶會被譽為健康飲品中的瑰寶？這種來自南非的草本茶富含多種有益健康的成分，其中以類黃酮與多酚為代表的抗氧化物質尤為突出。這些成分能有效對抗體內的自由基，減少氧化壓力，從而保護細胞免受損傷。
@@ -29,6 +31,8 @@ sourceVerbatim: true
 
 1.  Muller, C. J. F., & Joubert, E. (2018). Rooibos tea: Research on its antioxidant, anti-inflammatory, and chemopreventive potential. *Journal of Ethnopharmacology*, 217, 45-64.
 2.  Marnewick, J. L., Rautenbach, F., Venter, I., et al. (2011). Effects of rooibos tea on oxidative stress and biochemical parameters in adults at risk for cardiovascular disease: A randomized, placebo-controlled study. *Journal of Ethnopharmacology*, 133(1), 46-52.
+
+<span id="%E5%8D%97%E9%9D%9E%E5%9C%8B%E5%AF%B6%E8%8C%B6%E5%B0%8D%E5%85%8D%E7%96%AB%E7%B3%BB%E7%B5%B1%E7%9A%84%E6%8F%90%E5%8D%87%E4%BD%9C%E7%94%A8"></span>
 
 ## **南非國寶茶對免疫系統的提升作用**
 
@@ -46,6 +50,8 @@ sourceVerbatim: true
 
 4\. Johnson, R., & Chen, C. (2019). Anti-inflammatory properties of rooibos tea: An overview of its effects on immune response. *Immunopharmacology and Immunotoxicology*, 41(3), 224-232.
 
+<span id="%E5%8D%97%E9%9D%9E%E5%9C%8B%E5%AF%B6%E8%8C%B6%E5%B0%8D%E6%B6%88%E5%8C%96%E7%B3%BB%E7%B5%B1%E7%9A%84%E5%B9%AB%E5%8A%A9"></span>
+
 ## **南非國寶茶對消化系統的幫助**
 
 你是否經常受到消化不良或腸胃不適的困擾？南非國寶茶因其溫和的特性和豐富的植物化學物質，被認為是改善消化系統健康的天然選擇。其中特有的槲皮素和芹菜素能有效舒緩腸胃炎症，幫助減少腸道內的不適感。
@@ -59,6 +65,8 @@ sourceVerbatim: true
 **參考文獻：**
 
 5.  Marnewick, J. L., Rautenbach, F., & Swart, P. (2012). Rooibos tea as a functional food for digestive health: Evidence from antioxidant and anti-inflammatory properties. *Journal of Food Science*, 77(2), S92-S98.
+
+<span id="%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A2%BA%E9%A3%B2%E7%94%A8%E5%8D%97%E9%9D%9E%E5%9C%8B%E5%AF%B6%E8%8C%B6%E4%BB%A5%E7%99%BC%E6%8F%AE%E6%9C%80%E4%BD%B3%E5%8A%9F%E6%95%88"></span>
 
 ## **如何正確飲用南非國寶茶以發揮最佳功效**
 
@@ -81,6 +89,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Rooibos-Tea-Benefits-Comprehensive-Health-Guide2-300x173.jpg)
 
+<span id="%E5%8D%97%E9%9D%9E%E5%9C%8B%E5%AF%B6%E8%8C%B6%EF%BC%9A%E8%BA%AB%E5%BF%83%E7%9A%84%E5%81%A5%E5%BA%B7%E5%AE%88%E8%AD%B7%E8%80%85"></span>
+
 ## **南非國寶茶：身心的健康守護者**
 
 想像你的身體是一座花園，健康的細胞是盛開的花朵，而自由基則是侵蝕的害蟲。南非國寶茶就像一位溫柔的園丁，用其強大的抗氧化成分掃除害蟲，滋養花朵，讓整個花園重現生機。多酚和類黃酮等營養成分，不僅能中和自由基，還能幫助身體抵禦外界侵襲，維持免疫系統的平衡。
@@ -91,23 +101,35 @@ sourceVerbatim: true
 
 <table border="1"><thead><tr><th>特性</th><th>南非國寶茶</th><th>對應中醫觀點</th></tr></thead><tbody><tr><td>抗氧化效果</td><td>富含多酚和類黃酮，能中和自由基，減少氧化壓力</td><td>有助於養護“正氣”，減少“邪氣”侵襲</td></tr><tr><td>免疫系統作用</td><td>增強免疫細胞活性，降低炎症標誌物</td><td>溫養氣血，平衡五臟功能</td></tr><tr><td>消化系統幫助</td><td>促進腸胃蠕動，改善便秘，增強益生菌活性</td><td>溫中補氣，調理脾胃</td></tr><tr><td>適合人群</td><td>適合需要抗氧化、增強免疫力及改善腸胃健康的人群</td><td>適合追求養生及日常保健的群體</td></tr><tr><td>飲用注意事項</td><td>每日2-3杯為宜，過量可能導致胃部不適，孕婦需諮詢醫師</td><td>宜飯後飲用，應選擇天然無添加產品</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E6%AF%8F%E6%97%A5%E6%87%89%E8%A9%B2%E9%A3%B2%E7%94%A8%E5%A4%9A%E5%B0%91%E5%8D%97%E9%9D%9E%E5%9C%8B%E5%AF%B6%E8%8C%B6%E6%89%8D%E5%90%88%E9%81%A9%EF%BC%9F"></span>
 
 ### **問題1****：每日應該飲用多少南非國寶茶才合適？**
 
 **回覆**：建議每日飲用2至3杯南非國寶茶即可獲得健康效果。此劑量能有效發揮抗氧化和促進消化的功效，同時避免過量飲用可能引起的胃部不適。建議在飯後飲用，幫助促進腸胃蠕動，並避免空腹飲用，特別是對於胃敏感的人群。
 
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E5%8D%97%E9%9D%9E%E5%9C%8B%E5%AF%B6%E8%8C%B6%E9%81%A9%E5%90%88%E6%89%80%E6%9C%89%E4%BA%BA%E9%A3%B2%E7%94%A8%E5%97%8E%EF%BC%9F"></span>
+
 ### **問題2****：南非國寶茶適合所有人飲用嗎？**
 
 **回覆**：南非國寶茶因其溫和、不含咖啡因的特性，非常適合大多數人，特別是需要提升免疫力、改善腸胃功能或減少壓力的人群。然而，孕婦或哺乳期女性在飲用前應先諮詢專業醫師，確保安全。另外，對某些草本成分敏感的個體需謹慎飲用。
+
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E5%8D%97%E9%9D%9E%E5%9C%8B%E5%AF%B6%E8%8C%B6%E6%9C%89%E5%93%AA%E4%BA%9B%E7%89%B9%E5%AE%9A%E7%9A%84%E5%81%A5%E5%BA%B7%E7%9B%8A%E8%99%95%EF%BC%9F"></span>
 
 ### **問題3****：南非國寶茶有哪些特定的健康益處？**
 
 **回覆**：南非國寶茶富含多酚和類黃酮，能中和自由基，減少氧化壓力，從而提升抗氧化能力。此外，它對免疫系統有顯著幫助，可以降低炎症標誌物，增強免疫細胞的活性。同時，對於腸胃健康，南非國寶茶能促進腸胃蠕動，改善便秘，並增強益生菌的活性。
 
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E5%A6%82%E4%BD%95%E6%B2%96%E6%B3%A1%E5%8D%97%E9%9D%9E%E5%9C%8B%E5%AF%B6%E8%8C%B6%E6%89%8D%E8%83%BD%E7%99%BC%E6%8F%AE%E6%9C%80%E4%BD%B3%E6%95%88%E6%9E%9C%EF%BC%9F"></span>
+
 ### **問題4****：如何沖泡南非國寶茶才能發揮最佳效果？**
 
 **回覆**：正確的沖泡方式能幫助釋放南非國寶茶中的多酚和其他活性成分。建議將茶葉放入90至95℃的熱水中，浸泡5至8分鐘即可。喜歡變化口感的讀者，可以搭配檸檬片或蜂蜜，不僅增添風味，還能進一步增強其抗氧化效果。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E5%8D%97%E9%9D%9E%E5%9C%8B%E5%AF%B6%E8%8C%B6%E8%88%87%E7%B6%A0%E8%8C%B6%E6%9C%89%E4%BB%80%E9%BA%BC%E4%B8%8D%E5%90%8C%EF%BC%9F"></span>
 
 ### **問題5****：南非國寶茶與綠茶有什麼不同？**
 

@@ -18,15 +18,21 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Human-Value-in-the-AI-Era8.jpg)
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E5%9C%A8_AI_%E6%99%82%E4%BB%A3%EF%BC%8C%E3%80%8C%E8%81%B0%E6%98%8E%E3%80%8D%E4%B8%8D%E5%86%8D%E6%98%AF%E7%A8%80%E7%BC%BA%E8%B3%87%E6%BA%90%EF%BC%9F"></span>
+
 ## **為什麼在 AI** **時代，「聰明」不再是稀缺資源？**
 
 你有沒有想過，如果有一天，你最引以為傲的專業能力、反應速度，甚至考試分數，都像自來水一樣隨手可得，會發生什麼事？在醫療現場，這個問題其實早已出現。AI 可以在幾秒內讀完成千上萬筆影像、病歷與數據，精準度往往不輸資深醫師，但臨床研究反覆提醒我們：**高準確率，並不等於高品質決策**。在不確定、風險高、資訊不完整的情境中，真正困難的從來不是「算得對不對」，而是「該不該這樣做」。近年的系統性回顧指出，AI 擅長處理定義清楚、目標明確的任務，卻無法替人類完成價值取捨與責任承擔（註1）。也正因如此，當「聰明」被大量外包後，它不再稀缺；稀缺的，反而是能在模糊中做出選擇的那種判斷力（註2）。
 
 <iframe loading="lazy" title="AI、醫師與人類判斷的力量" width="800" height="450" src="https://www.youtube.com/embed/Ovm1Bbi-hbA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="AI_%E7%82%BA%E4%BB%80%E9%BA%BC%E7%84%A1%E6%B3%95%E5%8F%96%E4%BB%A3%E8%87%A8%E5%BA%8A%E9%86%AB%E5%B8%AB%E7%9A%84%E5%88%A4%E6%96%B7%EF%BC%9F"></span>
+
 ## AI 為什麼無法取代臨床醫師的判斷？
 
 別小看臨床現場的每一次決定。很多時候，醫師面對的不是「對或錯」，而是「哪一個代價你願意承擔」。在腫瘤治療、重症醫學或精神醫療中，數據常常同時指向兩條都合理的路：一條風險較低但效果有限，另一條成功機率較高卻可能帶來巨大傷害。AI 在這裡能做的，是量化不確定性、計算風險區間，甚至透過**最大熵模型或貝葉斯模型**，提醒你「這裡的不確定性仍然很高」。但它無法替你回答那個真正困難的問題：**這個人，值不值得冒這個險**。研究指出，AI 的決策邏輯主要建立在關聯與最佳化之上，缺乏對情境脈絡、倫理優先順序與價值權衡的理解（註3）。而臨床判斷，正是一種高度情境化、受限於現實條件的決策能力——它結合專業知識、過往失敗、病人的人生背景，最後由醫師親自承擔後果（註4）。這也是為什麼在高風險、不確定的場域裡，AI 只能是輔助，而不能成為最後那個按下確認鍵的人。
+
+<span id="%E4%BB%80%E9%BA%BC%E6%98%AF_AI_%E7%AE%97%E4%B8%8D%E5%87%BA%E4%BE%86%E7%9A%84%E3%80%8C%E5%AE%9A%E7%BE%A9%E4%B8%8D%E6%B8%85%E6%A5%9A%E7%9A%84%E5%95%8F%E9%A1%8C%E3%80%8D%EF%BC%9F"></span>
 
 ## **什麼是 AI** **算不出來的「定義不清楚的問題」？**
 
@@ -34,11 +40,15 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Human-Value-in-the-AI-Era3.jpg)
 
+<span id="%E7%95%B6%E8%81%B0%E6%98%8E%E8%AE%8A%E5%BE%97%E5%BB%89%E5%83%B9%EF%BC%8C%E4%BA%BA%E9%A1%9E%E7%9C%9F%E6%AD%A3%E5%80%BC%E9%8C%A2%E7%9A%84%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F"></span>
+
 ## **當聰明變得廉價，人類真正值錢的是什麼？**
 
 如果「聰明」可以被大量複製，那人類真正值錢的，究竟剩下什麼？在醫療決策裡，答案其實早就存在——**不是計算能力，而是品味**。品味並不是藝術性的偏好，而是一種在資訊爆炸、選項無限時，仍能做出**價值排序**的能力。當 AI 能在幾秒內生成上萬種治療策略或行動方案，真正困難的工作，反而變成「哪些應該被捨棄」。在臨床現場，這種能力表現為醫師對風險、尊嚴、生活品質與倫理原則的整體權衡；在 AI 時代，它轉化為一種編輯能力——決定什麼值得被留下、被執行、被承擔後果。研究共識也指出，未來最安全、最可靠的 AI 應用模式，不是取代人類，而是讓人類保有最終判斷權，確保價值導向與倫理原則仍然居於核心（註6）。當聰明不再稀缺，**能在不確定中做出負責任選擇的品味，才會成為唯一無法被複製的昂貴資產**。
 
 ![](/wp-content/uploads/Human-Value-in-the-AI-Era4.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E9%82%A3%E4%BA%9B%E4%B8%8D%E8%83%BD%E8%A2%AB%E8%A4%87%E8%A3%BD%E7%9A%84%EF%BC%8C%E6%89%8D%E6%9C%83%E7%95%99%E4%B8%8B%E4%BE%86"></span>
 
 ## **結論：那些不能被複製的，才會留下來**
 
@@ -52,6 +62,8 @@ AI 可以幫我們看見更多可能，但它不會替我們受傷。那些來�
 **《本文將依據最新提問持續更新》**
 
 <table style="border-collapse: collapse; width: 100%; border: 3px solid #1B5E4A;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="padding: 12px; border: 3px solid #1B5E4A;">比較面向</th><th style="padding: 12px; border: 3px solid #1B5E4A;">AI 的判斷來源</th><th style="padding: 12px; border: 3px solid #1B5E4A;">人類的判斷來源（品味）</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E4A;">判斷基礎</td><td style="padding: 10px; border: 3px solid #1B5E4A;">統計模型、機率計算、最佳化演算法</td><td style="padding: 10px; border: 3px solid #1B5E4A;">經驗、價值排序、對後果的理解</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E4A;">面對不確定性</td><td style="padding: 10px; border: 3px solid #1B5E4A;">量化不確定性，提供風險區間</td><td style="padding: 10px; border: 3px solid #1B5E4A;">接受不確定性，仍需做出選擇</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E4A;">決策邏輯</td><td style="padding: 10px; border: 3px solid #1B5E4A;">從資料中找出最可能的結果</td><td style="padding: 10px; border: 3px solid #1B5E4A;">在多個合理選項中取捨「哪個更值得」</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E4A;">情境理解</td><td style="padding: 10px; border: 3px solid #1B5E4A;">依賴可被結構化的輸入條件</td><td style="padding: 10px; border: 3px solid #1B5E4A;">能整合背景、脈絡與隱含訊號</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E4A;">價值判斷</td><td style="padding: 10px; border: 3px solid #1B5E4A;">無法自行定義價值或優先順序</td><td style="padding: 10px; border: 3px solid #1B5E4A;">能進行倫理、尊嚴與意義的排序</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E4A;">責任承擔</td><td style="padding: 10px; border: 3px solid #1B5E4A;">不承擔後果，只提供建議</td><td style="padding: 10px; border: 3px solid #1B5E4A;">必須為選擇承擔實際後果</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E4A;">對錯標準</td><td style="padding: 10px; border: 3px solid #1B5E4A;">準確率、效能、最佳化程度</td><td style="padding: 10px; border: 3px solid #1B5E4A;">是否對得起這個人與當下情境</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E4A;">在醫療中的角色</td><td style="padding: 10px; border: 3px solid #1B5E4A;">決策支援與風險提示工具</td><td style="padding: 10px; border: 3px solid #1B5E4A;">最終判斷與責任的承擔者</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E4A;">在 AI 時代的價值</td><td style="padding: 10px; border: 3px solid #1B5E4A;">提供算力與可能性</td><td style="padding: 10px; border: 3px solid #1B5E4A;">在不確定中做出有意義的選擇</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

@@ -35,6 +35,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Earth-Day-and-Health-Insight-1024x681.jpg)
 
+<span id="%E5%9C%B0%E7%90%83%E6%97%A5%E6%9C%89%E4%BB%80%E9%BA%BC%E5%A5%BD%E7%8E%A9%E7%9A%84%EF%BC%9F%E5%8E%9F%E4%BE%86%E8%83%8C%E5%BE%8C%E8%97%8F%E8%91%97%E9%80%99%E4%BA%9B%E6%84%9F%E5%8B%95"></span>
+
 ## **地球日有什麼好玩的？原來背後藏著這些感動**
 
 你有想過嗎？每年4月22日的世界地球日，原來是一場連結自然與人心的大型約定。🌎蔡旻堅營養師輕聲笑著回憶，小時候他第一次參加地球日活動，是在一個布滿青草香的校園裡，和同學們一起種下了一棵小樹苗。那一天的陽光特別溫暖，空氣中也彷彿多了一點希望的味道。
@@ -42,6 +44,8 @@ sourceVerbatim: true
 其實，世界地球日的由來與意義，不只是一場節日慶典。它起源於1970年，美國威斯康辛州參議員蓋洛德·尼爾森（Gaylord Nelson）呼籲全國關注環境污染問題，進而催生了這個全球性運動。如今，全球已有超過193個國家響應，每年超過10億人參與（註1）。而蔡營養師特別提醒，「環境就像我們的家，家亂了，身體也不會安好。」這份連結，其實比我們想像中更加深遠。
 
 不過，別小看地球日只是種樹、淨灘這麼簡單喔！蔡旻堅笑著分享，有些人一味追求熱鬧活動，卻忽略了行動背後的初衷——**為了自己的健康，也為了後代子孫的未來。**就像是廚房裡的一鍋好湯，少了耐心與細心，味道終究會變得失衡。
+
+<span id="%E7%92%B0%E5%A2%83%E4%B8%8D%E5%A5%BD%EF%BC%8C%E8%BA%AB%E9%AB%94%E4%B9%9F%E6%9C%83%E6%8A%97%E8%AD%B0%EF%BC%9F%E5%B0%8F%E7%B4%B0%E7%AF%80%E5%BD%B1%E9%9F%BF%E5%A4%A7%E5%81%A5%E5%BA%B7%EF%BC%81"></span>
 
 ## **環境不好，身體也會抗議？小細節影響大健康！**
 
@@ -55,6 +59,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Earth-Day-and-Health-Insight2-1024x684.jpg)
 
+<span id="%E6%88%91%E7%9A%84%E5%81%A5%E5%BA%B7%E5%B0%8F%E7%A5%95%E8%A8%A3%EF%BC%9A%E5%BE%9E%E5%90%83%E5%B0%8D%E3%80%81%E7%94%A8%E5%B0%8D%E3%80%81%E6%B8%9B%E5%B0%91%E6%B5%AA%E8%B2%BB%E9%96%8B%E5%A7%8B"></span>
+
 ## **我的健康小祕訣：從吃對、用對、減少浪費開始**
 
 你知道嗎？日常的一餐一飲，其實就是守護自己與地球的起點。蔡旻堅營養師分享，自己平常最在意的，不只是吃得營養，還要吃得「有意識」。🌱
@@ -65,6 +71,8 @@ sourceVerbatim: true
 
 別小看這些微小改變，它們就像一顆顆撒下的種子，終將在某個晴朗的日子，開出溫柔又堅韌的花。
 
+<span id="%E5%85%B6%E5%AF%A6%EF%BC%8C%E4%BD%A0%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%83%BD%E7%82%BA%E5%9C%B0%E7%90%83%E5%81%9A%E4%B8%80%E9%BB%9E%E5%B0%8F%E4%BA%8B"></span>
+
 ## **其實，你每天都能為地球做一點小事**
 
 你有沒有想過，守護地球其實一點都不難？🌍蔡旻堅營養師笑著說，「很多人以為環保是大事，但其實，日常的一個小動作，就是最溫柔的力量。」
@@ -74,6 +82,8 @@ sourceVerbatim: true
 蔡營養師分享自己的小習慣：「我會在每天早上，泡一壺自己調配的養生茶，既取代瓶裝飲料，也讓身心從一天開始就充滿能量。」這樣的小選擇，就像是一場不聲不響的革命，一點一滴改變世界。
 
 別忘了，環境與人類健康的關聯，就像樹葉和陽光——微妙卻不可或缺。只要你願意，每天的一個善意行動，都能為這個世界添上一抹更好的顏色。🌱
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E7%82%BA%E5%9C%B0%E7%90%83%EF%BC%8C%E4%B9%9F%E7%82%BA%E8%87%AA%E5%B7%B1%EF%BC%8C%E7%A8%AE%E4%B8%8B%E4%B8%80%E9%A1%86%E5%B8%8C%E6%9C%9B%E7%9A%84%E7%A8%AE%E5%AD%90"></span>
 
 ## **結論：為地球，也為自己，種下一顆希望的種子**
 
@@ -101,7 +111,11 @@ sourceVerbatim: true
 
 <table style="border-collapse: collapse; width: 100%; border: 3px solid #264653;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="padding: 12px; border: 3px solid #264653;">主題</th><th style="padding: 12px; border: 3px solid #264653;">傳統地球日認知</th><th style="padding: 12px; border: 3px solid #264653;">蔡旻堅營養師分享視角</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">世界地球日的意義</td><td style="padding: 12px; border: 3px solid #264653;">單純環境保護、植樹與淨灘</td><td style="padding: 12px; border: 3px solid #264653;">守護環境，也是守護自身健康</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">與健康的關聯</td><td style="padding: 12px; border: 3px solid #264653;">少被關注，著重宏觀環境議題</td><td style="padding: 12px; border: 3px solid #264653;">空氣、水源、土壤直接影響人體健康</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">個人行動的重要性</td><td style="padding: 12px; border: 3px solid #264653;">認為需要大規模集體運動</td><td style="padding: 12px; border: 3px solid #264653;">每一個日常小選擇都是關鍵改變</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">推薦的日常實踐</td><td style="padding: 12px; border: 3px solid #264653;">參加大型活動，如淨灘或植樹</td><td style="padding: 12px; border: 3px solid #264653;">從飲食、用品選擇做起，種植生活的種子</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">最終目標</td><td style="padding: 12px; border: 3px solid #264653;">改善地球生態</td><td style="padding: 12px; border: 3px solid #264653;">讓地球與人類共同恢復純淨與活力</td></tr></tbody></table>
 
+<span id="%F0%9F%93%8B_%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **📋** **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%83%E6%97%A5%E8%B7%9F%E6%88%91%E7%9A%84%E5%81%A5%E5%BA%B7%E7%9C%9F%E7%9A%84%E6%9C%89%E9%97%9C%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題1****：世界地球日跟我的健康真的有關嗎？**
 
@@ -110,6 +124,8 @@ sourceVerbatim: true
 蔡旻堅營養師提醒，環境中的空氣、水源、土壤污染，會直接影響呼吸、免疫、心血管等健康問題。  
 就像《黃帝內經》提到的：「人以天地之氣生，四時之法成。」當自然環境失衡，人體也容易出現失調。  
 守護地球，就是在守護我們自己的呼吸與生命力。
+
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E9%99%A4%E4%BA%86%E5%8F%83%E5%8A%A0%E5%9C%B0%E7%90%83%E6%97%A5%E6%B4%BB%E5%8B%95%EF%BC%8C%E6%88%91%E9%82%84%E8%83%BD%E5%81%9A%E5%93%AA%E4%BA%9B%E5%B0%8F%E8%A1%8C%E5%8B%95%E5%B9%AB%E5%8A%A9%E5%9C%B0%E7%90%83%EF%BC%9F"></span>
 
 ### **問題2****：除了參加地球日活動，我還能做哪些小行動幫助地球？**
 
@@ -123,6 +139,8 @@ sourceVerbatim: true
 -   減少不必要的消費與浪費  
     這些看似微小的行動，其實每天都在默默為地球和自己的健康加分。
 
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E5%A6%82%E6%9E%9C%E6%88%91%E4%BD%8F%E5%9C%A8%E5%9F%8E%E5%B8%82%EF%BC%8C%E9%82%84%E8%83%BD%E5%81%9A%E4%BB%80%E9%BA%BC%E4%BE%86%E6%94%B9%E5%96%84%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%9F%E6%B4%BB%E7%92%B0%E5%A2%83%EF%BC%9F"></span>
+
 ### **問題3****：如果我住在城市，還能做什麼來改善自己的生活環境？**
 
 **回覆**：  
@@ -131,6 +149,8 @@ sourceVerbatim: true
 同時選擇天然清潔劑、減少室內化學產品的使用，也是很重要的。  
 根據現代研究，改善室內空氣品質，有助於降低過敏、氣喘、心肺疾病的風險（註1）。  
 小小一盆綠意，就是給自己與地球的一份禮物。
+
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E7%92%B0%E4%BF%9D%E9%A3%B2%E9%A3%9F%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E8%A6%81%E6%80%8E%E9%BA%BC%E5%AF%A6%E8%B8%90%EF%BC%9F"></span>
 
 ### **問題4****：環保飲食是什麼？要怎麼實踐？**
 
@@ -142,6 +162,8 @@ sourceVerbatim: true
 -   選擇當地、當季生產的食材
 -   減少加工食品與高碳排的肉類攝取  
     這不只是飲食習慣的改變，更是「與四時相副、與自然同行」的一種智慧，讓自己與地球一起回歸純粹與健康。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E7%92%B0%E4%BF%9D%E8%A1%8C%E5%8B%95%E9%80%99%E9%BA%BC%E5%B0%8F%EF%BC%8C%E7%9C%9F%E7%9A%84%E6%9C%89%E7%94%A8%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題5****：環保行動這麼小，真的有用嗎？**
 

@@ -13,6 +13,8 @@ legacyPath: "/blog/ultrasound-tcm-training/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80%EF%BD%9C%E4%B8%80%E5%80%8B%E4%B8%AD%E9%86%AB%E5%B8%AB%E7%9A%84%E7%9C%BC%E7%95%8C%EF%BC%8C%E5%BE%9E%E3%80%8C%E7%9C%8B%E4%B8%8D%E8%A6%8B%E3%80%8D%E5%88%B0%E3%80%8C%E7%9C%8B%E5%BE%97%E6%B8%85%E3%80%8D"></span>
+
 ## **引言｜一個中醫師的眼界，從「看不見」到「看得清」**
 
 你是否也曾在診間，面對患者的慢性痠痛與筋膜沾黏，明明手感告訴你有問題，卻無法確認到底哪裡出錯？王凱平醫師也曾走過這段迷惘的路。他從中醫起步，走進以西醫為主體的運動醫學現場，開始中西醫結合的歷程，發現「光靠經驗，有時不夠，因為除了少數脈學與氣功大師，多數的中醫師難以看到深層的真相。」
@@ -25,6 +27,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="【專訪王凱平醫師】為什麼新世代中醫師必學超音波？從傳新教育課程談起 Ultrasound TCM T" width="800" height="450" src="https://www.youtube.com/embed/Ys9p33r0-O4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E6%89%93%E9%96%8B%E8%A6%96%E9%87%8E%EF%BC%9A%E5%BE%9E%E4%B8%AD%E9%86%AB%E8%B5%B0%E5%90%91%E6%95%B4%E5%90%88%E9%86%AB%E5%AD%B8%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5"></span>
+
 ## **打開視野：從中醫走向整合醫學的第一步**
 
 你是否曾經在臨床上感到力不從心，​面對患者的疼痛卻找不到明確的解釋？​王凱平醫師，傳新教育的創辦人，曾經也有過類似的經歷。​作為一位從中醫背景出發，逐步涉足運動醫學與超音波教學的專業人士，​他深知中醫師在現代醫學體系中所面臨的挑戰。​
@@ -36,6 +40,8 @@ sourceVerbatim: true
 ​
 
 正如《黃帝內經》所言：「知其要者，一言而終；不知其要，流散無窮。」​掌握了超音波這項工具，​便能輔助中醫師們看到更深層的結構、更精準地判斷，​實現中西醫結合的理想。
+
+<span id="%E8%B6%85%E9%9F%B3%E6%B3%A2%E4%B8%AD%E9%86%AB%E6%87%89%E7%94%A8%EF%BC%9A%E4%B8%80%E6%89%87%E9%80%9A%E5%BE%80%E4%BA%BA%E9%AB%94%E6%B7%B1%E5%B1%A4%E4%B8%96%E7%95%8C%E7%9A%84%E7%AA%97"></span>
 
 ## **超音波中醫應用：一扇通往人體深層世界的窗**
 
@@ -51,6 +57,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Ultrasound-TCM-Training3-1024x682.jpg)
 
+<span id="%E5%82%B3%E6%96%B0%E6%95%99%E8%82%B2%E7%9A%84%E8%AA%95%E7%94%9F%EF%BC%9A%E7%B5%A6%E6%AF%8F%E4%B8%80%E4%BD%8D%E9%A1%98%E6%84%8F%E7%AA%81%E7%A0%B4%E7%9A%84%E4%B8%AD%E9%86%AB%E5%B8%AB%E4%B8%80%E6%A2%9D%E8%B7%AF"></span>
+
 ## **傳新教育的誕生：給每一位願意突破的中醫師一條路**
 
 你還記得自己第一次想學「超音波」時的那份渴望嗎？王凱平醫師記得，自己當年也是從一場講座、一個機緣開始，對這個充滿影像動能的工具產生濃厚興趣。然而，他也深知，對許多中醫師而言，「想學」與「能學」之間，隔著資源的鴻溝與資訊的迷霧。
@@ -65,6 +73,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Ultrasound-TCM-Training4.jpg)
 
+<span id="2025%E8%AB%96%E5%A3%87%E7%9A%84%E9%82%80%E8%AB%8B%EF%BC%9A%E8%AE%93%E8%B6%85%E9%9F%B3%E6%B3%A2%E6%88%90%E7%82%BA%E4%B8%AD%E9%86%AB%E5%B8%AB%E7%9A%84%E5%85%B1%E5%90%8C%E8%AA%9E%E8%A8%80"></span>
+
 ## **2025****論壇的邀請：讓超音波成為中醫師的共同語言**
 
 你有想過，中醫師之間也能用「影像」對話嗎？王凱平醫師說：「我一直希望，有一天中醫師能透過超音波，和其他醫療專業人員，例如：復健科醫師、物理治療師，像說話一樣自然地交流，至少在多數的針傷科領域，彼此討論的起點是肌腱韌帶、筋膜張力、神經卡壓，而不是只能用模糊的感覺與形容詞。」
@@ -76,6 +86,8 @@ sourceVerbatim: true
 王醫師說，這場論壇就像一鍋藥膳，不只是要溫補知識，更要調和方向、凝聚同行的力量。他希望，參與這場聚會的每位中醫師，都能帶著影像走出一條更寬廣的臨床之路。
 
 如果你也曾對著患者的症狀感到無助，如果你也渴望手中的針能有更清晰的導航——那麼，2025的春天，或許正是你開始「看見」的時候。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E7%95%B6%E4%BD%A0%E5%AD%B8%E6%9C%83%E7%9C%8B%E8%A6%8B%EF%BC%8C%E4%B8%96%E7%95%8C%E4%B9%9F%E6%9C%83%E7%82%BA%E4%BD%A0%E4%BA%AE%E8%B5%B7%E7%87%88"></span>
 
 ## **結論：當你學會看見，世界也會為你亮起燈**
 
@@ -93,23 +105,35 @@ sourceVerbatim: true
 
 <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; border: 3px solid #264653;"><thead><tr style="background-color: #2a9d8f; color: white; font-weight: bold;"><th style="border: 3px solid #264653; padding: 10px;">比較項目</th><th style="border: 3px solid #264653; padding: 10px;">中醫傳統診斷</th><th style="border: 3px solid #264653; padding: 10px;">超音波導引診療</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #264653; padding: 10px;">診斷依據</td><td style="border: 3px solid #264653; padding: 10px;">望聞問切，憑經驗判斷</td><td style="border: 3px solid #264653; padding: 10px;">即時影像，輔助診斷</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #264653; padding: 10px;">視覺化能力</td><td style="border: 3px solid #264653; padding: 10px;">無法直接觀察深層組織</td><td style="border: 3px solid #264653; padding: 10px;">可觀察筋膜、神經等結構</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #264653; padding: 10px;">臨床應用範圍</td><td style="border: 3px solid #264653; padding: 10px;">多用於經絡、氣血判斷</td><td style="border: 3px solid #264653; padding: 10px;">針傷、筋膜、神經導引</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #264653; padding: 10px;">學習門檻</td><td style="border: 3px solid #264653; padding: 10px;">較低，依賴手感與理論</td><td style="border: 3px solid #264653; padding: 10px;">需訓練影像與操作技術</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #264653; padding: 10px;">操作依賴性</td><td style="border: 3px solid #264653; padding: 10px;">依賴個人技術穩定性</td><td style="border: 3px solid #264653; padding: 10px;">依賴設備與判讀準確度</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #264653; padding: 10px;">病患信任度</td><td style="border: 3px solid #264653; padding: 10px;">需靠口語與療效建立</td><td style="border: 3px solid #264653; padding: 10px;">影像解說提高患者理解</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #264653; padding: 10px;">適用症狀</td><td style="border: 3px solid #264653; padding: 10px;">內科調理、慢性不適</td><td style="border: 3px solid #264653; padding: 10px;">肌肉骨骼、疼痛症候群</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## 常見問題與回覆
+
+<span id="%E2%9D%93%E5%95%8F%E9%A1%8C1%EF%BC%9A%E6%88%91%E6%98%AF%E4%B8%80%E5%90%8D%E4%B8%AD%E9%86%AB%E5%B8%AB%EF%BC%8C%E4%BD%86%E5%AE%8C%E5%85%A8%E4%B8%8D%E6%87%82%E5%BD%B1%E5%83%8F%E5%AD%B8%EF%BC%8C%E9%82%84%E9%81%A9%E5%90%88%E5%AD%B8%E8%B6%85%E9%9F%B3%E6%B3%A2%E5%97%8E%EF%BC%9F"></span>
 
 ### **❓****問題1****：我是一名中醫師，但完全不懂影像學，還適合學超音波嗎？**
 
 ✅ 回覆：當然可以，而且這正是為什麼「傳新教育」特別為中醫師設計完整入門課程的原因。課程從基礎解剖圖像開始，逐步帶你認識超音波操作、常見臨床肌肉骨骼結構，甚至安排實作練習。王凱平醫師也強調：「不是要你成為放射科醫師，而是讓你看得懂、用得上，提升診斷與治療的精準度。」你只需要願意開始，學習之路就會逐步清晰。
 
+<span id="%E2%9D%93%E5%95%8F%E9%A1%8C2%EF%BC%9A%E8%B6%85%E9%9F%B3%E6%B3%A2%E6%8A%80%E8%A1%93%E6%98%AF%E5%90%A6%E6%9C%83%E5%8F%96%E4%BB%A3%E4%B8%AD%E9%86%AB%E5%82%B3%E7%B5%B1%E7%9A%84%E8%A8%BA%E6%96%B7%E6%96%B9%E5%BC%8F%EF%BC%9F"></span>
+
 ### **❓****問題2****：超音波技術是否會取代中醫傳統的診斷方式？**
 
 ✅ 回覆：不會取代，而是「補足」。中醫強調望聞問切，而超音波影像提供的是一種「可視化的望診」，能讓我們更清楚地看見筋膜、肌腱或神經的狀況，是一種延伸而非替代。如《黃帝內經》所說：「知其要者，一言而終。」理解身體的內在變化，從來都不只一種方法，科技是我們掌握「要訣」的幫手。
+
+<span id="%E2%9D%93%E5%95%8F%E9%A1%8C3%EF%BC%9A%E5%8F%83%E5%8A%A02025%E8%B6%85%E9%9F%B3%E6%B3%A2%E4%B8%AD%E9%86%AB%E6%87%89%E7%94%A8%E8%AB%96%E5%A3%87%E9%9C%80%E8%A6%81%E5%85%B7%E5%82%99%E4%BB%80%E9%BA%BC%E6%A2%9D%E4%BB%B6%E5%97%8E%EF%BC%9F"></span>
 
 ### **❓****問題3****：參加2025****超音波中醫應用論壇需要具備什麼條件嗎？**
 
 ✅ 回覆：不需要特定資格，只要你是對「影像導引結合中醫應用」感興趣的中醫師或中醫學生，都可以報名參加。論壇會依程度分段設計課程，從入門導引到進階實作一應俱全。更重要的是，這不僅是知識的分享，更是醫師之間的交流與鼓勵，讓你不再一個人摸索。
 
+<span id="%E2%9D%93%E5%95%8F%E9%A1%8C4%EF%BC%9A%E5%AD%B8%E6%9C%83%E8%B6%85%E9%9F%B3%E6%B3%A2%E5%BE%8C%EF%BC%8C%E6%88%91%E7%9A%84%E8%87%A8%E5%BA%8A%E5%8F%AF%E4%BB%A5%E5%81%9A%E5%87%BA%E5%93%AA%E4%BA%9B%E8%BD%89%E8%AE%8A%EF%BC%9F"></span>
+
 ### **❓****問題4****：學會超音波後，我的臨床可以做出哪些轉變？**
 
 ✅ 回覆：最大的改變，是「看得見、講得清、下得準」。你會發現自己在針灸時更有方向感，能避開敏感組織，提高療效，減少患者不適。你也可以將影像作為衛教工具，讓患者「看見」自己身體的問題，提高信任感與配合度。從手感診斷進化為視覺診斷，是提升專業的一大步。
+
+<span id="%E2%9D%93%E5%95%8F%E9%A1%8C5%EF%BC%9A%E5%AD%B8%E7%BF%92%E8%B6%85%E9%9F%B3%E6%B3%A2%E6%9C%83%E4%B8%8D%E6%9C%83%E8%8A%B1%E5%A4%AA%E5%A4%9A%E6%99%82%E9%96%93%EF%BC%9F%E6%9C%83%E4%B8%8D%E6%9C%83%E5%BE%88%E9%9B%A3%EF%BC%9F"></span>
 
 ### **❓****問題5****：學習超音波會不會花太多時間？會不會很難？**
 

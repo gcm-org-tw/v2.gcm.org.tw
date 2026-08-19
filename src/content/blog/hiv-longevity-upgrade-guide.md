@@ -20,25 +20,35 @@ sourceVerbatim: true
 
 1.  Gulick RM, Pau AK, Agwu A, et al. Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents With HIV. *US DHHS*. 2024.
 
+<span id="HIV_%E6%84%9F%E6%9F%93%E8%80%85%E7%9C%9F%E7%9A%84%E8%83%BD%E9%95%B7%E5%A3%BD%E5%97%8E%EF%BC%9F%E6%9C%89%E5%93%AA%E4%BA%9B%E7%A7%91%E5%AD%B8%E8%AD%89%E6%93%9A"></span>
+
 ## **HIV** **感染者真的能長壽嗎？有哪些科學證據**
 
 你有沒有聽過這樣的說法：「感染 HIV 就等於被判了死刑」？其實，這是過去的迷思。隨著抗病毒藥物（ART）的進步，HIV 感染者的壽命已經大幅延長，甚至可以接近一般人。就像廚房裡的防火器，藥物的角色是「及時抑制火源」，只要定期檢查、規律服藥，病毒量壓到「測不到」時，免疫系統就能恢復穩定，讓身體繼續正常運作。最新的國際研究指出，若能早期開始治療並維持 CD4 細胞在 500/μL 以上，感染者的平均壽命與一般人相差不超過五年（註1）。當然，若診斷太晚或用藥中斷，壽命差距仍會拉大，這提醒我們：**長壽的關鍵不只在藥物，更在於「及早、持續」**。
 
 ![](/wp-content/uploads/HIV-Longevity-Upgrade-Guide3.jpg)
 
+<span id="%E6%B2%BB%E7%99%82%E6%96%B0%E9%80%B2%E5%B1%95%EF%BC%9A%E9%95%B7%E6%95%88%E6%B3%A8%E5%B0%84%E8%88%87%E5%8F%A3%E6%9C%8D%E8%97%A5%E6%80%8E%E9%BA%BC%E9%81%B8"></span>
+
 ## **治療新進展：長效注射與口服藥怎麼選**
 
 你是不是也覺得，每天吃藥像是「鬧鐘」不斷提醒自己生病？現在有了新的選擇。長效注射型抗病毒藥物，就像把每天的藥丸濃縮成「月曆記號」，一個月或兩個月打一針，藥效就能穩定維持。這大幅減少了忘記服藥的焦慮，也讓生活安排更自由。臨床試驗顯示，長效注射的療效與每日口服相當，患者滿意度甚至更高（註2）。當然，並不是每個人都適合，像是有藥物過敏史或需要頻繁旅行的人，仍需與醫師討論最合適的方案。**口服藥與長效注射並非「誰好誰壞」的比較，而是「誰更符合你的生活方式」**。
 
+<span id="%E6%97%A5%E5%B8%B8%E4%BF%9D%E9%A4%8A%E4%B8%89%E5%A4%A7%E9%87%8D%E9%BB%9E%EF%BC%9A%E9%A3%B2%E9%A3%9F%E3%80%81%E9%81%8B%E5%8B%95%E3%80%81%E7%9D%A1%E7%9C%A0"></span>
+
 ## **日常保養三大重點：飲食、運動、睡眠**
 
 你知道嗎？抗病毒藥物固然是「根基」，但真正讓身體恢復活力的，往往是日常生活的小習慣。就像煲一鍋湯，藥材固然重要，火候與水分更決定最後滋味。研究顯示，採取地中海飲食的 HIV 感染者，心血管與代謝風險顯著下降（註3）。每天至少攝取五份蔬果、選擇全穀與健康油脂，是保養免疫系統的基礎。運動方面，每週 150 分鐘有氧加上阻力訓練，有助於控制體重、提升骨質與情緒。別忽略睡眠，7–8 小時高品質的睡眠能讓免疫細胞像工人一樣「換班修復」，避免長期疲累累積。這三大面向——吃得均衡、動得規律、睡得安穩，才是藥物之外延長壽命的「隱形方程式」。
+
+<span id="%E5%85%B1%E7%97%85%E8%88%87%E5%89%AF%E4%BD%9C%E7%94%A8%E6%80%8E%E9%BA%BC%E7%AE%A1%EF%BC%9F%E9%86%AB%E5%B8%AB%E5%BB%BA%E8%AD%B0%E7%9A%84%E6%95%B4%E5%90%88%E7%AD%96%E7%95%A5"></span>
 
 ## **共病與副作用怎麼管？醫師建議的整合策略**
 
 很多人以為「病毒壓到測不到就萬事OK」，但別小看共病的影響。隨著壽命延長，HIV 感染者常見的問題不再只是免疫低下，而是心血管疾病、糖尿病、骨質疏鬆，甚至早發性腎病變。這些就像屋子裡的「小裂縫」，若不提早修補，可能造成整體結構的隱患。研究指出，HIV 感染者的心血管疾病風險比一般人高出 1.5 到 2 倍（註4）。此外，部分抗病毒藥物會帶來體重增加或腸胃不適，這些副作用需要醫師監測並調整藥物。**整合策略的重點是「提早檢查、跨科合作、持續追蹤」**，讓每一個潛在風險都能被看見、被照顧，而不是等到問題變大才處理。
 
 ![](/wp-content/uploads/HIV-Longevity-Upgrade-Guide6.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E5%BE%9E%E6%8E%A7%E5%88%B6%E5%88%B0%E9%95%B7%E5%A3%BD%E7%9A%84%E6%97%A5%E5%B8%B8%E6%99%BA%E6%85%A7"></span>
 
 ## **結論：從控制到長壽的日常智慧**
 
@@ -61,9 +71,13 @@ sourceVerbatim: true
 3.  Guaraldi G, Malagoli A, Theou O, et al. The Impact of Mediterranean Diet on Metabolic Comorbidities in People Living with HIV. *Clin Infect Dis*. 2022;75(4):654-662. doi:10.1093/cid/ciac094
 4.  Feinstein MJ, Hsue PY, Benjamin LA, et al. Characteristics, Prevention, and Management of Cardiovascular Disease in People Living With HIV: A Scientific Statement From the American Heart Association. *Circulation*. 2019;140(2):e98–e124. doi:10.1161/CIR.0000000000000695
 
+<span id="%F0%9F%93%8A_HIV_%E6%B2%BB%E7%99%82%E8%88%87%E7%94%9F%E6%B4%BB%E7%AE%A1%E7%90%86%E6%AF%94%E8%BC%83%E8%A1%A8"></span>
+
 ## 📊 HIV 治療與生活管理比較表
 
 <table><tbody><tr><th>項目</th><th>口服藥（每日服用）</th><th>長效注射（每月/雙月）</th><th>生活管理（日常實踐）</th></tr><tr><td>便利性</td><td>需每天定時服用<p></p><div class="tooltip">可能受「忘記吃藥」影響</div></td><td>每 4–8 週打一針<p></p><div class="tooltip">需回診施打</div></td><td>隨時可執行<p></p><div class="tooltip">融入飲食運動即可</div></td></tr><tr><td>依從性</td><td>受個人習慣影響</td><td>藥效穩定，依從性高</td><td>需自律，但可逐步養成</td></tr><tr><td>副作用風險</td><td>可能腸胃不適、體重變化</td><td>注射部位疼痛，需觀察</td><td>幾乎無副作用</td></tr><tr><td>心理壓力</td><td>每天提醒「自己生病」</td><td>降低疾病烙印感</td><td>增強自我掌控感</td></tr><tr><td>醫療需求</td><td>每 3–6 個月回診追蹤</td><td>需定期回診施打</td><td>結合社群支持</td></tr><tr><td>中醫觀點</td><td>「固本培元」，持續補藥力</td><td>如「定時溫補」維持正氣</td><td>《神農本草經》言「安身之本，必資於食」</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

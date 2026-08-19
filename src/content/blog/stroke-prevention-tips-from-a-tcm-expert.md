@@ -23,6 +23,8 @@ sourceVerbatim: true
 
 <figure class="wp-block-image"><img decoding="async" class="wp-image-2220" src="https://shen-nong.com.tw/wp-content/uploads/2019/05/%E4%B8%AD%E9%A2%A8-02-800x800.jpg" alt=""></figure>
 
+<span id="%E4%BD%A0%E7%9F%A5%E9%81%93%EF%BC%8C%E4%B8%AD%E9%A2%A8%E4%B9%9F%E6%9C%89%E5%88%86%E9%A1%9E%E7%9A%84%E5%97%8E"></span>
+
 ## 你知道，中風也有分類的嗎?
 
 中風大致分為兩類，梗塞型腦中風及出血型腦中風，字面上似乎沒甚麼差別
@@ -37,6 +39,8 @@ NO！NO！NO！其實差別可大著呢，讓我好好跟你們介紹
 <figure class="wp-block-image"><img decoding="async" class="wp-image-2222" src="https://shen-nong.com.tw/wp-content/uploads/2019/05/%E4%B8%AD%E9%A2%A8-03-800x1141.jpg" alt=""></figure>
 
 這樣解釋，有讓你們稍微了解了嗎?
+
+<span id="%E4%BD%A0%E7%9F%A5%E9%81%93%EF%BC%8C%E4%B8%AD%E9%A2%A8%E5%A4%A7%E9%83%A8%E5%88%86%E9%83%BD%E6%98%AF%E7%AA%81%E7%84%B6%E7%99%BC%E7%94%9F%E7%9A%84%E5%97%8E"></span>
 
 ## 你知道，中風大部分都是突然發生的嗎?
 
@@ -58,6 +62,8 @@ NO！NO！NO！其實差別可大著呢，讓我好好跟你們介紹
 
 在三個月內發生腦中風的機率比一般人高，千萬不要認為沒甚麼大礙，就不去理他，建議有以上症狀時，還是進一步的檢查，不要鐵齒喔。
 
+<span id="%E5%9B%9B%E5%AD%97%E7%AE%B4%E8%A8%80%EF%BC%81%E8%AE%93%E4%BD%A0%E8%87%A8%E5%8D%B1%E4%B8%8D%E4%BA%82"></span>
+
 ## 四字箴言！讓你臨危不亂
 
 有人會問我，醫師醫師，你剛剛說的這些判別方法有點攏統，有沒有更容易的方法呢?
@@ -74,6 +80,8 @@ NO！NO！NO！其實差別可大著呢，讓我好好跟你們介紹
     
 
 <figure class="wp-block-image"><img decoding="async" class="wp-image-2225" src="https://shen-nong.com.tw/wp-content/uploads/2019/05/%E4%B8%AD%E9%A2%A8-05-800x1420.jpg" alt=""></figure>
+
+<span id="%E8%80%81%E7%94%9F%E5%B8%B8%E8%AB%87%E4%B9%8B%E5%A6%82%E4%BD%95%E9%A0%90%E9%98%B2"></span>
 
 ## 老生常談之如何預防
 
@@ -117,6 +125,8 @@ NO！NO！NO！其實差別可大著呢，讓我好好跟你們介紹
     
 
 <figure class="wp-block-image"><img decoding="async" class="wp-image-2226" src="https://shen-nong.com.tw/wp-content/uploads/2019/05/%E4%B8%AD%E9%A2%A8-06-800x1278.jpg" alt=""></figure>
+
+<span id="%E5%90%8C%E5%A0%B4%E5%8A%A0%E6%98%A0%EF%BC%8C%E4%B8%AD%E9%86%AB%E5%B0%8D%E6%96%BC%E4%B8%AD%E9%A2%A8%E5%9B%A0%E6%87%89%E4%B9%8B%E9%81%93"></span>
 
 ## 同場加映，中醫對於中風因應之道
 

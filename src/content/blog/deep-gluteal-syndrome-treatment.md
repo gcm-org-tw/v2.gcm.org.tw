@@ -13,6 +13,8 @@ legacyPath: "/blog/deep-gluteal-syndrome-treatment/"
 sourceVerbatim: true
 ---
 
+<span id="%E6%B7%B1%E8%87%80%E7%97%87%E5%80%99%E7%BE%A4%E7%9A%84%E8%A8%BA%E6%96%B7%E8%88%87%E6%B2%BB%E7%99%82%EF%BC%9A%E9%87%9D%E7%81%B8%E3%80%81%E4%B9%BE%E9%87%9D%E8%88%87%E7%89%A9%E7%90%86%E6%B2%BB%E7%99%82%E7%9A%84%E6%95%B4%E5%90%88%E6%87%89%E7%94%A8"></span>
+
 ### **深臀症候群的診斷與治療：針灸、乾針與物理治療的整合應用**
 
 你有沒有遇過這樣的情況：臀部深處隱隱作痛，有時放射到大腿後側，做了好幾次腰部的治療，卻始終沒有顯著改善？這種「找不到原因的臀痛」，很可能不是腰的問題，而是深臀症候群（Deep Gluteal Syndrome）的訊號。
@@ -20,6 +22,8 @@ sourceVerbatim: true
 本文彙整王威鵬醫師的臨床診療觀點，說明深臀症候群的辨識關鍵、常見誤解，以及針灸、乾針與物理治療如何形成有效的整合治療策略。
 
 ![](/wp-content/uploads/ChatGPT-Image-2026年6月2日-下午06_05_28.webp)
+
+<span id="%E4%B8%80%E3%80%81%E7%82%BA%E4%BB%80%E9%BA%BC%E6%B7%B1%E8%87%80%E7%97%87%E5%80%99%E7%BE%A4%E9%80%99%E9%BA%BC%E5%B8%B8%E8%A2%AB%E9%81%BA%E6%BC%8F%EF%BC%9F"></span>
 
 ### **一、為什麼深臀症候群這麼常被遺漏？**
 
@@ -35,6 +39,8 @@ sourceVerbatim: true
 -   大腿後側放射感不等於坐骨神經痛，需排除深臀肌群壓迫的可能
 -   影像學上的腰椎變化不一定是疼痛的主因，功能評估同樣關鍵
 -   若腰部或薦髂關節治療效果有限，建議評估深層臀肌是否為真正的問題核心
+
+<span id="%E4%BA%8C%E3%80%81%E5%93%AA%E4%BA%9B%E4%BA%BA%E5%AE%B9%E6%98%93%E5%87%BA%E7%8F%BE%E6%B7%B1%E8%87%80%E7%97%87%E5%80%99%E7%BE%A4%EF%BC%9F"></span>
 
 ### **二、哪些人容易出現深臀症候群？**
 
@@ -53,6 +59,8 @@ sourceVerbatim: true
 
 研究指出，久坐族群的臀大肌活化程度明顯低於規律活動者，是深臀症候群發展的重要背景因素。「久坐是現代人臀肌失能的主要來源之一。長期不使用讓肌肉進入抑制狀態，外觀看起來一切正常，但功能已悄悄退化。」（Reiman et al., 2012, The role of hip adductor muscle strength in knee joint mechanics, PMC）
 
+<span id="%E4%B8%89%E3%80%81%E6%B7%B1%E8%87%80%E7%97%87%E5%80%99%E7%BE%A4%E7%9A%84%E6%A0%B8%E5%BF%83%E8%A7%80%E5%BF%B5%EF%BC%9A%E4%B8%8D%E5%8F%AA%E6%98%AF%E3%80%8C%E5%93%AA%E8%A3%A1%E7%97%9B%E3%80%8D"></span>
+
 ### **三、深臀症候群的核心觀念：不只是「哪裡痛」**
 
 深臀症候群的形成，並非侷限於某一條肌肉的單純問題。王威鵬醫師強調，臨床上實際涉及的是臀部深層肌群的受傷、緊繃、失衡、空間壓迫或結構代償等複合因素，需要從整體的結構評估與功能分析切入，而不是只依「哪裡痛就治哪裡」的直線思維處置。
@@ -64,6 +72,8 @@ sourceVerbatim: true
 <table class="comparison-table" style="width: 100%; border-collapse: collapse; font-size: 0.95em; border: 3px solid #1B5E4B;"><thead><tr><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">類型</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">表現特徵</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">觸診發現</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">處理重點</th></tr></thead><tbody><tr><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">肌肉短縮型</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">臀部明顯僵硬、伸展受限</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">壓痛點集中，觸診緊繃明顯</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">鬆解 + 放鬆</td></tr><tr><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">肌肉過長型</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">外觀緊繃，但核心無力</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">拉筋後未改善甚至加劇</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">強化訓練 + 功能重建</td></tr></tbody></table>
 
 《黃帝內經·素問》有言：「筋傷則弛，骨傷則痿」，指出筋骨損傷的表現並非只有「緊繃」，也涵蓋「弛緩無力」。這與現代臨床對深臀症候群的觀察高度呼應——問題的本質，需要從整體功能角度理解，而非只看表面症狀的位置與強度。
+
+<span id="%E5%9B%9B%E3%80%81%E9%87%9D%E7%81%B8%E3%80%81%E4%B9%BE%E9%87%9D%E8%88%87%E9%87%9D%E5%88%80%EF%BC%9A%E5%90%84%E8%87%AA%E7%9A%84%E8%A7%92%E8%89%B2%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F"></span>
 
 ### **四、針灸、乾針與針刀：各自的角色是什麼？**
 
@@ -79,15 +89,21 @@ sourceVerbatim: true
 
 在深臀症候群的臨床處置中，三者可依評估結果靈活搭配，並結合超音波導引輔助定位，提高對深層肌群處置的精準度。
 
+<span id="%E4%BA%94%E3%80%81%E6%95%B4%E5%90%88%E6%B2%BB%E7%99%82%E7%9A%84%E5%85%A9%E5%80%8B%E9%9A%8E%E6%AE%B5%EF%BC%9A%E5%BE%9E%E6%AD%A2%E7%97%9B%E8%B5%B0%E5%90%91%E7%9C%9F%E6%AD%A3%E4%BF%AE%E5%BE%A9"></span>
+
 ### **五、整合治療的兩個階段：從止痛走向真正修復**
 
 ![](/wp-content/uploads/photo-1706353399656-210cca727a33.jpg)
 
 王威鵬醫師將深臀症候群的處理概分為前期治療（疼痛緩解）與後期治療（功能重建）兩個階段，兩個階段的目標不同，治療工具也有所區別。
 
+<span id="%E5%89%8D%E6%9C%9F%E6%B2%BB%E7%99%82%EF%BC%9A%E6%B8%9B%E7%97%9B%E8%88%87%E9%AC%86%E8%A7%A3"></span>
+
 ### **前期治療：減痛與鬆解**
 
 目標在於減輕深層肌群的壓迫與緊繃，降低對坐骨神經或周邊組織的刺激。臨床上採超音波導引輔助定位，結合針灸、乾針與針刀等方式，針對受傷或緊繃的深層肌群進行精準處置。
+
+<span id="%E5%BE%8C%E6%9C%9F%E6%B2%BB%E7%99%82%EF%BC%9A%E5%BE%A9%E7%99%BC%E9%A0%90%E9%98%B2%E8%88%87%E5%8A%9F%E8%83%BD%E9%87%8D%E5%BB%BA"></span>
 
 ### **後期治療：復發預防與功能重建**
 

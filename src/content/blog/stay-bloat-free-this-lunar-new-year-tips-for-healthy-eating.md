@@ -20,6 +20,8 @@ sourceVerbatim: true
 
 1.  Hall, K. D., et al. (2019). Ultra-processed diets cause excess calorie intake and weight gain: An inpatient randomized controlled trial of ad libitum food intake. *Cell Metabolism*, 30(1), 67–77.
 
+<span id="%E6%98%A5%E7%AF%80%E9%A3%B2%E9%A3%9F%E7%9A%84%E6%8C%91%E6%88%B0%E8%88%87%E5%81%A5%E5%BA%B7%E9%A2%A8%E9%9A%AA"></span>
+
 ## **春節飲食的挑戰與健康風險**
 
 你是否注意到，春節期間的餐桌上總是少不了大魚大肉和豐富的甜點？這些高熱量、高油高鹽的佳餚雖然滿足了味蕾，卻可能讓腸胃不堪負荷。研究表明，過量攝取高鹽食品可能增加高血壓的風險，而高油脂飲食則與心血管疾病密切相關。(註1) (註2)
@@ -33,6 +35,8 @@ sourceVerbatim: true
 1.  He, F. J., & MacGregor, G. A. (2018). Reducing population salt intake worldwide: From evidence to implementation. *Progress in Cardiovascular Diseases*, 61(1), 94–100.
 2.  Mozaffarian, D., Micha, R., & Wallace, S. (2018). Effects on coronary heart disease of increasing polyunsaturated fat in place of saturated fat: A systematic review and meta-analysis of randomized controlled trials. *PLoS Medicine*, 7(3), e1000252.
 
+<span id="%E5%81%A5%E5%BA%B7%E8%8F%9C%E5%96%AE%E8%A8%AD%E8%A8%88%EF%BC%9A%E5%B9%B3%E8%A1%A1%E7%BE%8E%E5%91%B3%E8%88%87%E7%87%9F%E9%A4%8A"></span>
+
 ## **健康菜單設計：平衡美味與營養**
 
 春節餐桌不僅是味覺的饗宴，更是健康管理的考場。一份設計精良的菜單，既能滿足家人對傳統年味的期待，又能減少高油高鹽飲食對健康的影響。這不僅是烹飪技巧的展現，更是對家庭幸福的守護。
@@ -45,6 +49,8 @@ sourceVerbatim: true
 
 1.  Slavin, J. L. (2013). Dietary fiber and body weight. *Nutrition*, 29(3), 411-418.
 2.  Miglio, C., Chiavaro, E., Visconti, A., Fogliano, V., & Pellegrini, N. (2008). Effects of different cooking methods on nutritional and physicochemical characteristics of selected vegetables. *Journal of Agricultural and Food Chemistry*, 56(1), 139-147.
+
+<span id="%E6%98%A5%E7%AF%80%E4%B8%AD%E7%9A%84%E5%B0%8F%E5%A6%99%E6%8B%9B%EF%BC%9A%E5%81%A5%E5%BA%B7%E4%BB%A3%E6%9B%BF%E5%93%81"></span>
 
 ## **春節中的小妙招：健康代替品**
 
@@ -60,6 +66,8 @@ sourceVerbatim: true
 
 1.  Sabaté, J., & Ang, Y. (2009). Nuts and health outcomes: New epidemiologic evidence. *The American Journal of Clinical Nutrition*, 89(5), 1643S–1648S.
 2.  Wu, N., Wu, C., & Zhu, Y. (2018). The health benefits of citrus flavonoids on oxidative stress and inflammation. *Critical Reviews in Food Science and Nutrition*, 59(4), 601–614.
+
+<span id="%E9%A3%B2%E9%A3%9F%E7%BF%92%E6%85%A3%E7%9A%84%E8%AA%BF%E6%95%B4%EF%BC%9A%E5%91%8A%E5%88%A5%E3%80%8C%E8%83%83%E8%84%B9%E6%97%8F%E3%80%8D"></span>
 
 ## **飲食習慣的調整：告別「胃脹族」**
 
@@ -78,6 +86,8 @@ sourceVerbatim: true
 1.  《黃帝內經·素問第二·四氣調神大論》：「飲食有節，起居有常，不妄作勞，故能形與神俱，而盡終其天年。」
 2.  Nakhostin-Roohi, B., et al. (2015). Effects of moderate exercise on digestive health. *Journal of Gastrointestinal and Liver Diseases*, 24(2), 143–147.
 
+<span id="%E4%B8%AD%E9%86%AB%E6%99%BA%E6%85%A7%E4%B8%8B%E7%9A%84%E5%81%A5%E5%BA%B7%E9%A3%B2%E9%A3%9F%E5%95%9F%E7%99%BC"></span>
+
 ## **中醫智慧下的健康飲食啟發**
 
 《黃帝內經》中提到，「治未病」是健康的最高指導原則，而飲食有節正是維護健康的重要基石。春節期間，飲食習慣的改變往往導致腸胃的不適，這些看似微小的不平衡實則是健康隱患的開始。適當調整春節飲食，正是實現「治未病」的最佳時機。
@@ -88,27 +98,39 @@ sourceVerbatim: true
 
 <table border="1" cellspacing="0" cellpadding="10"><thead><tr><th>項目</th><th>傳統飲食方式</th><th>健康飲食建議</th></tr></thead><tbody><tr><td><strong>食材選擇</strong></td><td>高脂肉類（如紅燒肉、炸雞翅）、高糖甜點（如年糕、糖果）</td><td>高纖維低脂食材（如山藥、薏米、冬筍、菠菜）、低糖替代品（如堅果、水果）</td></tr><tr><td><strong>烹飪方式</strong></td><td>油炸、紅燒</td><td>蒸、燉、清炒，保留食材原味與營養</td></tr><tr><td><strong>調味選擇</strong></td><td>高鹽、高糖調味料</td><td>天然香料（如薑片、大蒜、檸檬皮）</td></tr><tr><td><strong>進食方式</strong></td><td>一次性進食大量，長時間聚餐</td><td>少量多餐，每餐七分飽</td></tr><tr><td><strong>飯後活動</strong></td><td>久坐或立即休息</td><td>飯後散步或進行輕量運動（如瑜伽）</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A%E5%A6%82%E4%BD%95%E6%B8%9B%E5%B0%91%E6%98%A5%E7%AF%80%E6%9C%9F%E9%96%93%E7%9A%84%E8%83%83%E8%84%B9%E5%95%8F%E9%A1%8C%EF%BC%9F"></span>
 
 ### **問題 1****：如何減少春節期間的胃脹問題？**
 
 **回覆**：  
 春節期間胃脹的主要原因是進食過量和高油高鹽飲食。為避免胃脹，建議每餐保持七分飽，並將大餐分次少量進食。此外，飯後進行20分鐘的輕量運動，如散步或簡單的瑜伽動作，能促進腸胃蠕動。根據《黃帝內經》，“飲食有節，起居有常”，適度飲食與規律作息能有效維護腸胃健康。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E5%81%A5%E5%BA%B7%E9%A3%9F%E6%9D%90%E5%8F%AF%E4%BB%A5%E6%9B%BF%E4%BB%A3%E5%82%B3%E7%B5%B1%E6%98%A5%E7%AF%80%E9%AB%98%E7%86%B1%E9%87%8F%E8%8F%9C%E9%A4%9A%EF%BC%9F"></span>
+
 ### **問題 2****：有哪些健康食材可以替代傳統春節高熱量菜餚？**
 
 **回覆**：  
 可用高纖低脂的食材替代高熱量的傳統菜餚。例如，用山藥和薏米代替紅燒肉中的高脂肪，既能減少熱量，又能補充膳食纖維。黑木耳和菠菜也是很好的選擇，能幫助降膽固醇並促進腸胃健康。蒸、燉的烹飪方式比油炸更能保留營養。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E6%98%A5%E7%AF%80%E7%94%9C%E5%93%81%E6%87%89%E8%A9%B2%E5%A6%82%E4%BD%95%E5%81%A5%E5%BA%B7%E5%8C%96%EF%BC%9F"></span>
 
 ### **問題 3****：春節甜品應該如何健康化？**
 
 **回覆**：  
 春節甜品可以用堅果和低糖水果來代替糖果和年糕。例如，核桃和杏仁富含有益心臟健康的不飽和脂肪酸，且飽腹感強。此外，含糖飲料可換成檸檬水或薏米茶，不僅降低糖分攝取，還能解膩並促進消化。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A%E5%A6%82%E4%BD%95%E5%9C%A8%E6%98%A5%E7%AF%80%E6%9C%9F%E9%96%93%E5%85%BC%E9%A1%A7%E7%BE%8E%E5%91%B3%E8%88%87%E5%81%A5%E5%BA%B7%EF%BC%9F"></span>
+
 ### **問題 4****：如何在春節期間兼顧美味與健康？**
 
 **回覆**：  
 保持健康與美味的平衡，可以從烹飪方式和調味開始改變。例如，清蒸魚或燉雞不僅保留了菜餚的原味，還減少了多餘的油脂。同時，使用天然香料如薑、蒜或檸檬取代過量鹽分，既增添風味，又不會給身體造成負擔。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9A%E6%98%A5%E7%AF%80%E5%BE%8C%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E6%81%A2%E5%BE%A9%E8%85%B8%E8%83%83%E5%81%A5%E5%BA%B7%EF%BC%9F"></span>
 
 ### **問題 5****：春節後如何快速恢復腸胃健康？**
 

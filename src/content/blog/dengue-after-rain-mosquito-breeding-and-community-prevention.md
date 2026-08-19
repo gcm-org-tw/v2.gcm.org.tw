@@ -15,6 +15,10 @@ sourceVerbatim: true
 
 ⚖️AI 法規審查通過📚實證文獻取證🩺上醫預防醫學發展協會 醫師具名發表
 
+<span id="sec-0"></span>
+
+<span id="%E4%B8%80%E5%A0%B4%E5%8D%88%E5%BE%8C%E9%9B%B7%E9%99%A3%E9%9B%A8%EF%BC%8C%E5%85%A9%E9%80%B1%E5%BE%8C%E7%9A%84%E8%9A%8A%E5%AD%90%E7%88%86%E9%87%8F%E5%B7%B2%E6%82%84%E6%82%84%E5%80%92%E6%95%B8"></span>
+
 ## 一場午後雷陣雨，兩週後的蚊子爆量已悄悄倒數
 
 台灣每年進入夏季後，衛生單位一再呼籲民眾雨後清除積水，但疫情仍一再重演。公衛研究顯示，累積雨量與後續兩週的病媒蚊密度之間存在顯著的時間滯後關聯（註4）——今天的雨，是兩週後蚊子爆量的伏筆，而非今天立即可見的危機。
@@ -22,6 +26,10 @@ sourceVerbatim: true
 埃及斑蚊與白線斑蚊的活動半徑不超過100公尺，意味著孳生源幾乎就在自家附近。等到民眾察覺「蚊子變多了」，孳生源往往已完成數個世代的繁殖。真正阻斷風險的窗口，是雨後的48小時。
 
 —
+
+<span id="sec-1"></span>
+
+<span id="%E9%9B%A8%E5%BE%8C%E8%9A%8A%E5%AD%90%E7%82%BA%E4%BD%95%E6%9A%B4%E5%A2%9E%EF%BC%9F%E7%A9%8D%E6%B0%B4%E8%88%87%E7%97%85%E5%AA%92%E8%9A%8A%E7%9A%84%E7%94%9F%E6%85%8B%E9%97%9C%E4%BF%82"></span>
 
 ## 雨後蚊子為何暴增？積水與病媒蚊的生態關係
 
@@ -32,6 +40,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/f84eaee9-3666-4c39-ab40-ac3006d836b9/paragraph-seg-2-1783588574135-e6d9cdb8.jpg" alt="雨後蚊子為何暴增？積水與病媒蚊的生態關係"></figure>
+
+<span id="sec-2"></span>
+
+<span id="%E5%AE%B6%E4%B8%AD%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9%E6%98%AF%E5%AD%B3%E7%94%9F%E7%86%B1%E9%BB%9E%EF%BC%9F%E9%80%99%E4%BA%9B%E8%A7%92%E8%90%BD%E6%9C%80%E5%B8%B8%E8%A2%AB%E5%BF%BD%E7%95%A5"></span>
 
 ## 家中哪些地方是孳生熱點？這些角落最常被忽略
 
@@ -47,6 +59,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/f84eaee9-3666-4c39-ab40-ac3006d836b9/paragraph-seg-3-1783588590681-49bc369a.jpg" alt="家中哪些地方是孳生熱點？這些角落最常被忽略"></figure>
+
+<span id="sec-3"></span>
+
+<span id="%E3%80%8C%E5%B7%A1%E3%80%81%E5%80%92%E3%80%81%E6%B8%85%E3%80%81%E5%88%B7%E3%80%8D%E5%A6%82%E4%BD%95%E5%AF%A6%E9%9A%9B%E5%9F%B7%E8%A1%8C%EF%BC%9F"></span>
 
 ## 「巡、倒、清、刷」如何實際執行？
 
@@ -66,6 +82,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/f84eaee9-3666-4c39-ab40-ac3006d836b9/paragraph-seg-4-1783588731144-6ab65a15.jpg" alt="「巡、倒、清、刷」如何實際執行？"></figure>
 
+<span id="sec-4"></span>
+
+<span id="%E5%80%8B%E4%BA%BA%E9%98%B2%E8%AD%B7%E6%80%8E%E9%BA%BC%E9%81%B8%E6%89%8D%E6%9C%89%E6%95%88%EF%BC%9F%E9%98%B2%E8%9A%8A%E6%B6%B2%E3%80%81%E7%B4%97%E7%AA%97%E3%80%81%E8%A1%A3%E7%89%A9%E7%9A%84%E9%81%B8%E6%93%87%E5%8E%9F%E5%89%87"></span>
+
 ## 個人防護怎麼選才有效？防蚊液、紗窗、衣物的選擇原則
 
 清除孳生源是源頭截斷，但高風險環境下**個人防護**同樣不可缺。斑蚊叮咬高峰集中於清晨和傍晚，且偏好在室內或有遮蔽空間活動，待在家中並不代表安全。
@@ -76,6 +96,8 @@ sourceVerbatim: true
 
 值得注意的是，若鄰近社區仍有孳生源，個人防護仍難以完全規避感染風險。登革熱防治本質上是集體行動問題（註18）。
 
+<span id="%E4%B8%8D%E5%90%8C%E7%A9%8D%E6%B0%B4%E9%A1%9E%E5%9E%8B%E7%9A%84%E5%AD%B3%E7%94%9F%E9%A2%A8%E9%9A%AA%E6%AF%94%E8%BC%83"></span>
+
 ### 不同積水類型的孳生風險比較
 
 <table><thead><tr><th>比較項目</th><th>🪴 盆栽底盤／花器積水</th><th>🪣 廢棄容器／水桶</th><th>🌿 天然積水（樹洞、竹節、落葉堆）</th><th>🏗️ 建築死角（屋頂排水孔、冷氣滴水盤）</th></tr></thead><tbody><tr><td><strong>孳生速度</strong></td><td>快（24–48小時可產卵）</td><td>快（水量充足，幼蟲存活率高）</td><td>中（視積水深度與遮蔽程度）</td><td>極快（隱蔽、不易蒸發，全年可孳生）</td></tr><tr><td><strong>積水持續時間</strong></td><td>短至中（視澆水習慣）</td><td>中至長（常被遺忘）</td><td>視降雨頻率，雨後迅速補水</td><td>長（蔭蔽處蒸發慢，易長期積存）</td></tr><tr><td><strong>被發現的難度</strong></td><td>低（視線可及，但常被忽略）</td><td>低至中（廢棄後易遺忘）</td><td>高（位置隱蔽，需主動巡查）</td><td>極高（需爬高或拆設備才能確認）</td></tr><tr><td><strong>清除難易度</strong></td><td>易（倒水、改用無底盤）</td><td>易（翻轉或清除容器）</td><td>中（填土、移除天然積水點）</td><td>難（需定期維護，部分需專業協助）</td></tr><tr><td><strong>對病媒蚊密度的貢獻度</strong></td><td>⭐⭐⭐⭐⭐ 高</td><td>⭐⭐⭐⭐ 高</td><td>⭐⭐⭐ 中</td><td>⭐⭐⭐⭐ 高（易被低估）</td></tr><tr><td><strong>優先清除建議</strong></td><td>🔴 立即處理</td><td>🔴 立即處理</td><td>🟡 定期巡查</td><td>🔴 雨後必查</td></tr></tbody></table>
@@ -85,6 +107,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/f84eaee9-3666-4c39-ab40-ac3006d836b9/paragraph-seg-5-1783588738086-1dbcb497.jpg" alt="個人防護怎麼選才有效？防蚊液、紗窗、衣物的選擇原則"></figure>
+
+<span id="sec-5"></span>
+
+<span id="%E5%BE%9E%E3%80%8C%E8%A2%AB%E5%8B%95%E7%AD%89%E5%99%B4%E8%97%A5%E3%80%8D%E5%88%B0%E3%80%8C%E4%B8%BB%E5%8B%95%E6%B8%85%E7%A9%8D%E6%B0%B4%E3%80%8D%EF%BC%9A%E7%99%BB%E9%9D%A9%E7%86%B1%E9%98%B2%E6%B2%BB%E7%9A%84%E6%A0%B8%E5%BF%83%E8%BD%89%E8%AE%8A"></span>
 
 ## 從「被動等噴藥」到「主動清積水」：登革熱防治的核心轉變
 
@@ -97,6 +123,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/f84eaee9-3666-4c39-ab40-ac3006d836b9/paragraph-seg-6-1783588735634-299d62d6.jpg" alt="從「被動等噴藥」到「主動清積水」：登革熱防治的核心轉變"></figure>
+
+<span id="sec-6"></span>
+
+<span id="%E7%99%BB%E9%9D%A9%E7%86%B1%E9%98%B2%E6%B2%BB%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94"></span>
 
 ## 登革熱防治常見問題解答
 

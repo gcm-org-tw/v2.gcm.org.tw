@@ -15,6 +15,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Shrimp-Boosts-Mens-Vitality3-1024x585.jpg)
 
+<span id="%E8%9D%A6%E7%9A%84%E7%87%9F%E9%A4%8A%E6%88%90%E5%88%86%E8%A7%A3%E6%9E%90%EF%BC%9A%E5%B9%B4%E9%95%B7%E8%80%85%E8%A3%9C%E5%85%85%E5%81%A5%E5%BA%B7%E7%9A%84%E5%9F%BA%E7%9F%B3"></span>
+
 ## **蝦的營養成分解析：年長者補充健康的基石**
 
 蝦，作為高蛋白質且低脂肪的海鮮食品，對於年長者的健康具有多方面的營養價值。每100公克的蝦含有約21.9公克的蛋白質，這對於預防年齡相關的肌肉流失至關重要。隨著年齡增長，肌肉量會逐漸減少，導致體能下降，而蝦中的高蛋白能有效維持和修復肌肉組織(註1)。此外，蝦富含鋅、鈣、鐵、磷等礦物質，其中鋅對於免疫系統有著顯著的支持作用，能夠幫助年長者增強抵抗力，降低感染風險(註1)。
@@ -27,6 +29,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="蝦能改善年長男性的體能與精力，你知道嗎？ Shrimp Boosts Men&amp;apos;s Vitality" width="800" height="450" src="https://www.youtube.com/embed/tphoOXQ68mY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E8%9D%A6%E8%83%BD%E5%B0%8D%E7%94%B7%E6%80%A7%E6%B4%BB%E5%8A%9B%E7%9A%84%E6%8F%90%E5%8D%87%E4%BD%9C%E7%94%A8%E7%82%BA%E4%BD%95_%E8%8D%B7%E7%88%BE%E8%92%99%E5%B9%B3%E8%A1%A1%E8%88%87%E8%83%BD%E9%87%8F%E8%A3%9C%E5%85%85"></span>
+
 ## **蝦能對男性活力的提升作用為何?** **荷爾蒙平衡與能量補充**
 
 年長男性隨著年齡增長，睪固酮水平會逐漸下降，導致疲勞感增加、體能下降和活力減退的現象。蝦中富含的鋅是一種促進睪固酮合成的重要元素(註3)。研究顯示，適量補充富含鋅的食物能有效提升男性體內睪固酮水平，進而改善精力和性功能。同時，蝦的高蛋白含量能為肌肉提供必需的營養支持，有助於修復運動或日常活動後的損傷。
@@ -37,6 +41,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Shrimp-Boosts-Mens-Vitality4-1024x592.jpg)
 
+<span id="%E8%9D%A6%E5%9C%A8%E9%A0%90%E9%98%B2%E5%B9%B4%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7%E5%95%8F%E9%A1%8C%E4%B8%AD%E7%9A%84%E8%A7%92%E8%89%B2"></span>
+
 ## **蝦在預防年長者健康問題中的角色**
 
 年長者常面臨多種健康問題，如心血管疾病、骨質疏鬆和免疫功能下降。蝦中所含的Omega-3脂肪酸被廣泛認為有助於降低心血管疾病的風險。研究顯示，Omega-3能減少體內發炎反應，並改善血管彈性，對於預防動脈粥樣硬化和高血壓具有顯著效果(註5)。定期食用富含Omega-3的食物，對於年長者保持心臟健康至關重要。
@@ -44,6 +50,8 @@ sourceVerbatim: true
 除了心臟健康，蝦中的鈣和磷對骨骼強健也有明顯作用。隨著年齡增長，骨密度會逐漸下降，增加骨折和骨質疏鬆的風險。蝦中豐富的礦物質能夠有效補充骨骼所需的養分，幫助維持骨骼結構的穩定性(註6)。
 
 然而，過量攝取蝦可能會引發尿酸升高，對患有痛風的個體不利。因此，建議攝取時應控制適量，並搭配其他富含膳食纖維的食物，以促進尿酸代謝，減少健康風險。
+
+<span id="%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A2%BA%E9%A3%9F%E7%94%A8%E8%9D%A6%E4%BB%A5%E7%8D%B2%E5%BE%97%E6%9C%80%E4%BD%B3%E5%81%A5%E5%BA%B7%E7%9B%8A%E8%99%95"></span>
 
 ## **如何正確食用蝦以獲得最佳健康益處**
 
@@ -54,6 +62,8 @@ sourceVerbatim: true
 此外，為進一步提升健康效益，可將蝦搭配富含維生素C的食物，如綠色蔬菜、番茄或檸檬，這有助於促進礦物質吸收，並提高抗氧化能力。良好的膳食搭配能讓年長者的營養更加均衡，為日常生活帶來更多的活力與健康。
 
 ![](/wp-content/uploads/Shrimp-Boosts-Mens-Vitality5-1024x592.jpg)
+
+<span id="%E4%B8%AD%E9%86%AB%E6%99%BA%E6%85%A7%E5%8A%A9%E5%8A%9B%E5%B9%B4%E9%95%B7%E8%80%85%E5%81%A5%E5%BA%B7%E8%88%87%E6%B4%BB%E5%8A%9B"></span>
 
 ## **中醫智慧助力年長者健康與活力**
 
@@ -73,6 +83,8 @@ sourceVerbatim: true
 8.  Sicherer, S. H., & Sampson, H. A. (2020). Food allergy: A review and update on epidemiology, pathogenesis, diagnosis, prevention, and management. *Journal of Allergy and Clinical Immunology*, 145(5), 1359–1374. DOI: 10.1016/j.jaci.2020.02.010
 
 <table><tbody><tr><th>比較項目</th><th>營養成分與功效</th><th>注意事項</th></tr><tr><td>蛋白質</td><td>提供肌肉修復與維持，預防肌肉流失</td><td>適量攝取，避免超過每日建議攝取量</td></tr><tr><td>鋅</td><td>促進睪固酮分泌，提升男性活力與免疫力</td><td>過量可能導致腸胃不適，干擾其他礦物質吸收</td></tr><tr><td>Omega-3脂肪酸</td><td>改善心血管健康，減少血管發炎風險</td><td>對海鮮過敏者需謹慎食用</td></tr><tr><td>牛磺酸</td><td>促進能量代謝與血液循環，減少疲勞感</td><td>無重大副作用，但需適量攝取</td></tr><tr><td>鈣與磷</td><td>增強骨骼強度，預防骨質疏鬆</td><td>搭配富含維生素D的食物以提高吸收率</td></tr><tr><td>烹飪方式</td><td>清蒸、水煮、包入水餃，能保留營養成分，低脂低鹽</td><td>避免油炸或重鹽料理</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

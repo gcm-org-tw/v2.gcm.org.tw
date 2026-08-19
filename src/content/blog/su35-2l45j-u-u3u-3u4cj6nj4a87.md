@@ -20,6 +20,8 @@ sourceVerbatim: true
 
 「阿姨，是葉黃素啦！」
 
+<span id="%E8%91%89%E9%BB%83%E7%B4%A0%E7%A9%B6%E7%AB%9F%E6%98%AF%E7%94%9A%E9%BA%BC"></span>
+
 ## 葉黃素究竟是甚麼
 
 研究證實，葉黃素「可能」有預防老年黃斑部病變的功效。而且，葉黃素和類胡蘿蔔素有吸收藍光和抗氧化的能力，對保護黃斑「可能」有作用。
@@ -40,6 +42,8 @@ sourceVerbatim: true
 
 來來來，就讓草本上膳醫廚帶你們了解，枸杞，對保護我們靈魂之窗有甚麼幫助吧。
 
+<span id="%E6%9E%B8%E6%9D%9E%E7%9A%84%E5%8A%9F%E6%95%88"></span>
+
 ## 枸杞的功效
 
 * * *
@@ -54,6 +58,8 @@ sourceVerbatim: true
 
 <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="800" class="wp-image-219 aligncenter" src="/wp-content/uploads/2021/10/枸杞葉黃素-06-800x800-1.jpg" alt="" srcset="/wp-content/uploads/2021/10/枸杞葉黃素-06-800x800-1.jpg 800w, /wp-content/uploads/2021/10/枸杞葉黃素-06-800x800-1-300x300.jpg 300w, /wp-content/uploads/2021/10/枸杞葉黃素-06-800x800-1-150x150.jpg 150w, /wp-content/uploads/2021/10/枸杞葉黃素-06-800x800-1-768x768.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
 
+<span id="%E6%9E%B8%E6%9D%9E%E6%B3%A1%E8%8C%B6%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%E5%97%8E%EF%BC%9F"></span>
+
 ## 枸杞泡茶就可以了嗎?？
 
 * * *
@@ -63,6 +69,8 @@ sourceVerbatim: true
 很多人都知道要泡「枸杞茶」來喝，其實，這樣單純的泡法效果並不好。因為，枸杞中的胡蘿蔔素及葉黃素皆為脂溶性的物質，單純泡熱水並不會讓裡頭的葉黃素釋放出來。
 
 <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="800" class="wp-image-220 aligncenter" src="/wp-content/uploads/2021/10/枸杞葉黃素-07-800x800-1.jpg" alt="" srcset="/wp-content/uploads/2021/10/枸杞葉黃素-07-800x800-1.jpg 800w, /wp-content/uploads/2021/10/枸杞葉黃素-07-800x800-1-300x300.jpg 300w, /wp-content/uploads/2021/10/枸杞葉黃素-07-800x800-1-150x150.jpg 150w, /wp-content/uploads/2021/10/枸杞葉黃素-07-800x800-1-768x768.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
+
+<span id="%E6%89%80%E4%BB%A5%E6%88%91%E8%AA%AA%E9%86%AB%E5%B8%AB%E9%98%BF%EF%BC%8C%E6%9E%B8%E6%9D%9E%E8%A6%81%E6%80%8E%E9%BA%BC%E6%9C%8D%E7%94%A8"></span>
 
 ## 所以我說醫師阿，枸杞要怎麼服用?
 
@@ -78,6 +86,8 @@ sourceVerbatim: true
 
 這裡有一點要注意，糖尿病患以及腎功能差的人，因為可能會影響血糖上升或需控制鉀離子攝取，建議詢問過專業醫師或營養師建議再食用。
 
+<span id="%E6%9E%B8%E6%9D%9E%E6%8C%91%E9%81%B8%E4%BA%94%E6%AD%A5%E9%A9%9F%EF%BC%8C%E7%9C%8B%E3%80%81%E7%9C%8B%E3%80%81%E7%9C%8B%E3%80%81%E6%91%B8%E3%80%81%E8%81%9E"></span>
+
 ## 枸杞挑選五步驟，看、看、看、摸、聞
 
 * * *
@@ -91,6 +101,8 @@ sourceVerbatim: true
 **4.摸**：在挑選、購買時，可將枸杞拿起來於手部肌膚簡單搓摩（勿弄破枸杞，老闆會生氣），若皮膚表層出現一層橘紅色塊，則表示枸杞恐有染色的疑慮。如果無法拆封，則建議選擇外觀呈現暗橘或暗紅色，比較有保障。
 
 **5.聞**：若枸杞散發淡淡酸味，則代表期已損壞、變質，不建議購買、食用
+
+<span id="%E6%9E%B8%E6%9D%9E%E4%BF%9D%E5%AD%98%E8%88%87%E9%A3%9F%E7%94%A8%E6%96%B9%E6%B3%95"></span>
 
 ## 枸杞保存與食用方法
 

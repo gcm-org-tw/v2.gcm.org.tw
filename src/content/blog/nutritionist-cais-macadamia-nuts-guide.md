@@ -21,9 +21,13 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Nutritionist-Cais-Macadamia-Nuts-Guide.jpg)
 
+<span id="%E7%82%BA%E4%BD%95%E5%A4%8F%E5%A8%81%E5%A4%B7%E8%B1%86%E7%9A%84%E9%85%A5%E8%84%86%E5%8E%9F%E5%91%B3%E4%BB%A4%E4%BA%BA%E9%A9%9A%E8%B1%94%EF%BC%9F"></span>
+
 ## **為何夏威夷豆的酥脆原味令人驚豔？**
 
 採訪中，蔡旻堅營養師表示，第一次品嚐整粒夏威夷豆時，就被那股天然香氣深深吸引，猶如拆開一份素食小禮物。他特別強調，所有豆仁皆經手工揀選，剔除壞粒、蟲蛀與破片，並以低溫輕焙工藝鎖住酥脆與原味，全程不添加化學防腐劑、香料、色素、糖鹽等調味成分。這樣的做法不僅保留了夏威夷豆豐富的單元不飽和脂肪酸與多酚，還能強化其抗氧化效果。研究顯示，經低溫烘焙後的夏威夷豆，多酚含量提升25.6%，氧化穩定性增強21.6%，口感與營養兼具優勢(註1) 。考量其熱量密度較高，蔡營養師建議，一天以約28克（一小把）為宜，才能在享受酥脆口感的同時，維持健康均衡。
+
+<span id="%E5%A4%8F%E5%A8%81%E5%A4%B7%E8%B1%86%E5%8A%9F%E6%95%88%E8%88%87%E5%89%AF%E4%BD%9C%E7%94%A8%EF%BC%9A%E8%A9%B2%E6%B3%A8%E6%84%8F%E4%BB%80%E9%BA%BC%EF%BC%9F"></span>
 
 ## **夏威夷豆功效與副作用：該注意什麼？**
 
@@ -33,9 +37,13 @@ sourceVerbatim: true
 
 營養師最後提醒：選擇無添加調味、低溫輕焙的整粒夏威夷豆，並將每日攝取量控制在一小把（約28克）以內，才能在享受酥脆原味的同時，將健康風險降到最低。
 
+<span id="%E5%9C%A8%E5%AE%B6%E7%B0%A1%E5%96%AEDIY%EF%BC%9A%E6%95%B4%E7%B2%92%E5%A4%8F%E5%A8%81%E5%A4%B7%E8%B1%86%E8%BC%95%E7%84%99%E6%96%99%E7%90%86"></span>
+
 ## **在家簡單DIY****：整粒夏威夷豆輕焙料理**
 
 想在家輕鬆DIY酥脆夏威夷豆嗎？營養師建議先預熱烤箱至125 °C，將手工揀選的整粒夏威夷豆均勻鋪在鋪好烘焙紙的烤盤上，如同給堅果一場溫柔的日光浴。烘焙15分鐘後取出，放涼5分鐘，讓水分散失，口感更酥脆。研究指出，在150 °C以下的低溫輕焙可顯著提升多酚含量與感官品質，同時抑制脂質氧化，有助保留天然抗氧化活性(註4) [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10252238/)。請注意，若溫度過高或時間過長，恐破壞維生素E與蛋白質結構，影響營養價值；就像廚房裡的防火器，合適溫度才能達到最佳保護與酥脆(註5) [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10000569/)。
+
+<span id="%E6%89%8B%E5%B7%A5%E6%8F%80%E9%81%B8%E8%88%87%E4%BF%9D%E5%AD%98%E7%A7%98%E8%A8%A3%EF%BC%9A%E8%AE%93%E5%A4%8F%E5%A8%81%E5%A4%B7%E8%B1%86%E6%9B%B4%E6%8C%81%E4%B9%85%E6%96%B0%E9%AE%AE"></span>
 
 ## **手工揀選與保存秘訣：讓夏威夷豆更持久新鮮**
 
@@ -46,6 +54,8 @@ sourceVerbatim: true
 最後，營養師提醒，雖然手工揀選保證品質，保存得當也能延長新鮮，但仍應於開封後1–2個月內食用完畢，才能最佳地享受低溫輕焙帶來的酥脆與香氣。
 
 ![](/wp-content/uploads/Nutritionist-Cais-Macadamia-Nuts-Guide4.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E9%99%B0%E9%99%BD%E8%AA%BF%E5%92%8C%E4%B8%8B%E7%9A%84%E5%81%A5%E5%BA%B7%E5%A0%A1%E5%A3%98"></span>
 
 ## **結論：陰陽調和下的健康堡壘**
 
@@ -62,6 +72,8 @@ sourceVerbatim: true
 7.  Mexis SF, Kontominas MG. Effect of storage temperature on oxidative stability and sensory quality of nuts and seeds. Food Res Int. 2021;140:110044.
 
 <table style="border: 3px solid #006400; border-collapse: collapse;"><thead><tr><th style="border: 3px solid #006400; background-color: #2a9d8f; color: #ffffff; font-weight: bold; padding: 8px;">比較項目</th><th style="border: 3px solid #006400; background-color: #2a9d8f; color: #ffffff; font-weight: bold; padding: 8px;">特點與優勢</th><th style="border: 3px solid #006400; background-color: #2a9d8f; color: #ffffff; font-weight: bold; padding: 8px;">注意事項</th></tr></thead><tbody><tr style="background-color: #d4e9e2;"><td style="border: 3px solid #006400; color: #333333; padding: 8px;">加工工藝</td><td style="border: 3px solid #006400; color: #333333; padding: 8px;">手工揀選→剔除壞粒、蟲蛀→低溫輕焙，保留酥脆與原味</td><td style="border: 3px solid #006400; color: #333333; padding: 8px;">無添加防腐劑、香料、色素；需控制烘焙溫度與時間</td></tr><tr style="background-color: #ffffff;"><td style="border: 3px solid #006400; color: #333333; padding: 8px;">營養成分</td><td style="border: 3px solid #006400; color: #333333; padding: 8px;">富含單元不飽和脂肪酸、多酚；多酚含量提升25.6%；含優質蛋白及維生素E</td><td style="border: 3px solid #006400; color: #333333; padding: 8px;">熱量高（28克約200大卡），建議每日28克</td></tr><tr style="background-color: #d4e9e2;"><td style="border: 3px solid #006400; color: #333333; padding: 8px;">健康功效</td><td style="border: 3px solid #006400; color: #333333; padding: 8px;">降低心血管疾病風險21%；增強抗氧化；支持心血管健康</td><td style="border: 3px solid #006400; color: #333333; padding: 8px;">過敏者需注意，約5%堅果過敏體質可能產生反應</td></tr><tr style="background-color: #ffffff;"><td style="border: 3px solid #006400; color: #333333; padding: 8px;">副作用與過敏</td><td style="border: 3px solid #006400; color: #333333; padding: 8px;">識別出過敏原 Maci 1 與 Maci 2；極少數可引發過敏性休克</td><td style="border: 3px solid #006400; color: #333333; padding: 8px;">初次嘗試或有過敏史者，建議先少量試用並備腎上腺素</td></tr><tr style="background-color: #d4e9e2;"><td style="border: 3px solid #006400; color: #333333; padding: 8px;">保存方式</td><td style="border: 3px solid #006400; color: #333333; padding: 8px;">室溫（15–20 °C）密封可保存3–6月；冷藏可存12–18月；冷凍可延長至數年</td><td style="border: 3px solid #006400; color: #333333; padding: 8px;">高溫高濕易氧化產生異味；存放前須完全冷卻乾燥；開封後1–2月內食用</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

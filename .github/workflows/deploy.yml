@@ -54,8 +54,33 @@ jobs:
         with:
           path: dist/
 
-  deploy:
+      # 站內連結檢查要吃 dist/，所以留在 build 之後、當成獨立 job 的輸入
+      - name: Upload dist for link check
+        uses: actions/upload-artifact@v5
+        with:
+          name: dist-for-links
+          path: dist/
+          retention-days: 1
+
+  # 用戶要求（2026-08-19）：站內連結全部有效才可以上線。
+  # 獨立成 job 而不是塞進 build——這樣「程式沒問題但內容有壞連結」看得出來是哪一種紅，
+  # 而 deploy 兩個都過才會動。
+  links:
     needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+      - uses: actions/download-artifact@v5
+        with:
+          name: dist-for-links
+          path: dist
+      - run: node scripts/check-links.mjs
+
+  deploy:
+    needs: [build, links]
     if: vars.PAGES_LIVE == 'true'
     runs-on: ubuntu-latest
     environment:

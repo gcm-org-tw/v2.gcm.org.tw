@@ -14,6 +14,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="從痛到睡，從冒險到精準：麻醉手術的百年演變 Evolution of Surgical Anesth" width="800" height="450" src="https://www.youtube.com/embed/uMHoBp6amHY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E5%BC%95%E8%A8%80%EF%BD%9C%E7%95%B6%E4%BD%A0%E8%B5%B0%E9%80%B2%E6%89%8B%E8%A1%93%E5%AE%A4%EF%BC%8C%E5%85%B6%E5%AF%A6%E4%BA%A4%E5%87%BA%E5%8E%BB%E7%9A%84%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%84%8F%E8%AD%98"></span>
+
 ## **引言｜當你走進手術室，其實交出去的不只是意識**
 
 你是不是也曾站在手術室外，心裡反覆想著：  
@@ -25,6 +27,8 @@ sourceVerbatim: true
 從早年「只要不痛就好」的麻醉開始，走到今天講求預測、協作與持續照護的麻醉手術。你會發現，所謂的百年演變，不只是技術更精準，而是醫療終於學會，把安全放在事情發生之前，而不是等風險出現才補救。
 
 ![](/wp-content/uploads/Evolution-of-Surgical-Anesthesia2.jpg)
+
+<span id="%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%B5%B0%E9%80%B2%E6%89%8B%E8%A1%93%E5%AE%A4%EF%BC%8C%E5%8D%BB%E4%B8%8D%E7%9F%A5%E9%81%93%E9%BA%BB%E9%86%89%E6%89%8B%E8%A1%93%E5%9C%A8%E5%AE%88%E4%BB%80%E9%BA%BC"></span>
 
 ## **很多人走進手術室，卻不知道麻醉手術在守什麼**
 
@@ -38,6 +42,8 @@ sourceVerbatim: true
 如果你是即將手術的人，或陪伴家人走這一段的人，理解麻醉手術在守什麼，本身就是安全的一部分。你知道自己要被保護的，不只是疼痛。
 
 ![](/wp-content/uploads/Evolution-of-Surgical-Anesthesia7.jpg)
+
+<span id="%E6%89%8B%E8%A1%93%E5%BE%88%E9%A0%86%E5%88%A9%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E9%BA%BB%E9%86%89%E5%9C%98%E9%9A%8A%E5%8F%8D%E8%80%8C%E6%9B%B4%E7%B7%8A%E7%B9%83"></span>
 
 ## **手術很順利，為什麼麻醉團隊反而更緊繃**
 
@@ -53,6 +59,8 @@ sourceVerbatim: true
 但這裡也需要釐清一個常見誤解：  
 不是「交班本身」帶來風險，而是**沒有被好好設計的交班**。目前的專業建議與指引強調，只要流程清楚、資訊完整，交班反而是圍手術期安全的一部分，而不是破口（註4）。這正是**麻醉手術演變史**中，一個很少被看見、卻極為關鍵的轉折。
 
+<span id="%E9%AB%98%E9%BD%A1%E7%97%85%E4%BA%BA%E5%81%9A%E9%BA%BB%E9%86%89%E6%89%8B%E8%A1%93%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E9%9C%80%E8%A6%81%E4%B8%8D%E4%B8%80%E6%A8%A3%E7%9A%84%E8%80%83%E9%87%8F"></span>
+
 ## **高齡病人做麻醉手術，為什麼需要不一樣的考量**
 
 你有沒有發現，同樣一個手術，年輕人恢復得快，長輩卻常常多卡幾關？  
@@ -63,6 +71,8 @@ sourceVerbatim: true
 需要提醒的是，並非「年紀大就不能麻醉」。真正的關鍵在於**事前是否被完整看見、事後是否被持續追蹤**。臨床經驗與研究都指出，圍手術期若能把注意力放在高風險族群的早期辨識、團隊溝通與術後觀察，往往比更換麻醉藥物本身，更能影響恢復走向（註5）。反過來說，若只把焦點放在手術當下，忽略術後變化，高齡病人反而更容易被低估風險。
 
 對家屬與病人而言，理解這一點很重要。高齡麻醉的「不一樣」，不是因為多做了什麼，而是因為**每一個環節都更需要被慢慢照顧**。
+
+<span id="%E5%A6%82%E6%9E%9C%E6%8A%8A%E9%BA%BB%E9%86%89%E6%89%8B%E8%A1%93%E7%95%B6%E6%88%90%E4%B8%80%E5%80%8B%E5%AE%89%E5%85%A8%E7%B3%BB%E7%B5%B1%EF%BC%8C%E6%88%91%E5%80%91%E8%83%BD%E6%80%8E%E9%BA%BC%E9%85%8D%E5%90%88"></span>
 
 ## **如果把麻醉手術當成一個安全系統，我們能怎麼配合**
 
@@ -76,6 +86,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Evolution-of-Surgical-Anesthesia6.jpg)
 
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E7%95%B6%E4%BD%A0%E7%9C%8B%E6%87%82%E7%B3%BB%E7%B5%B1%EF%BC%8C%E7%84%A6%E6%85%AE%E8%87%AA%E7%84%B6%E6%9C%83%E6%85%A2%E6%85%A2%E9%80%80%E5%A0%B4"></span>
+
 ## **結論：當你看懂系統，焦慮自然會慢慢退場**
 
 走完**麻醉手術**的百年演變，我們會發現，真正讓人安心的，從來不是某一項技術有多先進，而是整個過程是否被理解、被設計、被持續照看。
@@ -88,6 +100,8 @@ sourceVerbatim: true
 **《本文將依據最新提問持續更新》**
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #1F5F55;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="padding: 12px; border: 3px solid #1F5F55;">比較面向</th><th style="padding: 12px; border: 3px solid #1F5F55;">早期麻醉思維</th><th style="padding: 12px; border: 3px solid #1F5F55;">現代圍手術期麻醉思維</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1F5F55;">核心目標</td><td style="padding: 10px; border: 3px solid #1F5F55;">讓病人不痛、不動，完成手術</td><td style="padding: 10px; border: 3px solid #1F5F55;">讓病人安全走完整段手術與恢復歷程</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1F5F55;">時間視角</td><td style="padding: 10px; border: 3px solid #1F5F55;">聚焦「手術當下」</td><td style="padding: 10px; border: 3px solid #1F5F55;">放眼「手術前＋手術中＋手術後」的連續過程</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1F5F55;">風險理解</td><td style="padding: 10px; border: 3px solid #1F5F55;">風險被視為突發事件</td><td style="padding: 10px; border: 3px solid #1F5F55;">風險被視為可預測、可提前介入的累積結果</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1F5F55;">麻醉角色定位</td><td style="padding: 10px; border: 3px solid #1F5F55;">技術執行者（給藥、維持睡眠）</td><td style="padding: 10px; border: 3px solid #1F5F55;">圍手術期安全的協調者與守門者</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1F5F55;">評估重點</td><td style="padding: 10px; border: 3px solid #1F5F55;">年齡、基本生命徵象</td><td style="padding: 10px; border: 3px solid #1F5F55;">慢性病、衰弱、認知、用藥、整體耐受度</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1F5F55;">流程觀念</td><td style="padding: 10px; border: 3px solid #1F5F55;">依賴個人經驗與臨場判斷</td><td style="padding: 10px; border: 3px solid #1F5F55;">倚重制度化流程、清單與團隊共識</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1F5F55;">交班與溝通</td><td style="padding: 10px; border: 3px solid #1F5F55;">非核心環節，常被忽略</td><td style="padding: 10px; border: 3px solid #1F5F55;">被視為高風險節點，需結構化設計</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1F5F55;">術後關注焦點</td><td style="padding: 10px; border: 3px solid #1F5F55;">是否甦醒、是否疼痛</td><td style="padding: 10px; border: 3px solid #1F5F55;">譫妄、功能恢復、併發症與長期影響</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1F5F55;">病人角色</td><td style="padding: 10px; border: 3px solid #1F5F55;">被動接受照護</td><td style="padding: 10px; border: 3px solid #1F5F55;">被視為資訊提供者與安全夥伴</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1F5F55;">安全判斷依據</td><td style="padding: 10px; border: 3px solid #1F5F55;">手術是否順利完成</td><td style="padding: 10px; border: 3px solid #1F5F55;">是否平安恢復、功能是否回到基線</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

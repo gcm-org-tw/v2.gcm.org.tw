@@ -14,6 +14,8 @@ sourceVerbatim: true
 
 你還在等「疼痛明顯」才就醫嗎？調查顯示，近 40% 的梅毒患者在第一期完全無痛潰瘍，而超過 50% 的淋病感染者初期也毫無感覺(註1)(註2)。當「無感」不再等於「安全」，錯過的可不只是幾天，而是一整條未曾斷裂的隱形傳播鏈。依賴症狀出現才行動，就像等到大火才打電話報警，已經為時已晚。唯一能真正阻絕這場無聲疫情的是：定期篩檢、伴侶同步治療，以及將「篩檢」變成生活習慣，才能切斷病毒的每一次潛伏與蔓延。
 
+<span id="%E8%80%81%E5%85%AC%E8%AA%AA%E5%8F%AA%E6%98%AF%E3%80%8C%E4%B8%8A%E7%81%AB%E3%80%8D%EF%BC%8C%E6%98%AF%E6%80%8E%E9%BA%BC%E8%A2%AB%E7%99%BC%E7%8F%BE%E5%87%BA%E5%95%8F%E9%A1%8C%E7%9A%84%EF%BC%9F"></span>
+
 ## **老公說只是「上火」，是怎麼被發現出問題的？**
 
 你知道嗎？男性輕微的尿道灼熱或透明分泌物，經常被誤認為“上火”或下焦濕熱初起，殊不知這可能是**淋病症狀** **男性**的早期警訊。王先生以為只是加班疲勞，直到妻子發現內褲上的黃膿，才陪他去診所。醫師一看分泌物，就懷疑是淋病，不是單純尿道炎。根據最近文獻，只有45%–85%**的男性感染者會出現典型尿道灼痛與膿液，其餘約**15%–55%**無明顯症狀 (****註1)****；另一項研究指出，約**42%的初期感染者根本沒有任何自覺，潛伏期可長達數月 (註2)。
@@ -24,11 +26,15 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Hidden-Gonorrhea-Signs2.jpg)
 
+<span id="%E6%B7%8B%E7%97%85%E8%88%87%E6%A2%85%E6%AF%92%E7%9A%84%E5%B7%AE%E5%88%A5%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F"></span>
+
 ## **淋病與梅毒的差別是什麼？**
 
 你可能不知道，雖然淋病與梅毒都屬於性病，但它們在初期的表現大相逕庭。淋病通常在感染後**1–5****天**就出現排尿灼熱和白黃色膿狀分泌物，而且病程急性；相對地，梅毒的潛伏期可長達**10–90****天**，先在生殖器或口腔出現無痛潰瘍，再轉為全身性皮疹與淋巴腫大 [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK560808/?utm_source=chatgpt.com)[ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/books/NBK534780/?utm_source=chatgpt.com)。這意味著，若只看「疼痛或分泌物」，容易把梅毒早期當作其他小病，或把淋病誤以為「小小尿道炎」。(註3)
 
 根據臨床觀察，約有30%–40% 的梅毒患者在第一期無痛潰瘍時不自覺 (註4)，而淋病若延誤治療，菌體迅速繁殖，也可能感染至前列腺或睪丸。
+
+<span id="%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E6%AA%A2%E6%B8%AC%E5%85%A9%E7%A8%AE%E7%96%BE%E7%97%85%EF%BC%9F"></span>
 
 ## **如何快速檢測兩種疾病？**
 
@@ -36,15 +42,21 @@ sourceVerbatim: true
 
 別小看「快速」，PCR 雖敏感卻也可能受採樣不當影響而出現假陰性，建議若高風險暴露後首次陰性，兩週後再複檢以確保準確(註6)。同時，伴侶共治時可同時進行這兩種檢測，既省時也能避免重複感染。
 
+<span id="%E9%80%99%E7%A8%AE%E7%97%85%E6%9C%83%E4%B8%80%E7%9B%B4%E5%8F%8D%E8%A6%86%E5%97%8E%EF%BC%9F%E5%A6%BB%E5%AD%90%E6%9C%83%E8%A2%AB%E5%82%B3%E6%9F%93%E5%97%8E%EF%BC%9F"></span>
+
 ## **這種病會一直反覆嗎？妻子會被傳染嗎？**
 
 你是否擔心，治療後淋病還會再度找上門？事實上，若僅醫治患者，不同步為伴侶施治，**重複感染率可達****20%****以上**。一項研究指出，使用「快效伴侶治療」（Expedited Partner Therapy，EPT）能將淋病復發率降低約**29%**(註7)。另一項回顧也顯示，男性中有\*\*15%\*\*同時感染其他細菌性性病，合併或重複感染問題逐年升高(註8)，這意味著若忽略伴侶篩檢，傳染鏈無法中斷。
 
 別以為「只治一次就好」，這就像一道鹹湯，若只撈掉一碗浮油，湯面還是會再浮油。唯有你和伴侶同時接受檢測與治療，並在療程後至少**3** **個月內**再次追蹤檢驗，才能有效避免再次「中獎」。此外，固定使用保險套與降低高風險性行為頻率，也是抗拒反覆感染的關鍵步驟。
 
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E8%A1%8C%E5%8B%95%E5%B0%B1%E6%98%AF%E6%9C%80%E5%BC%B7%E7%9A%84%E8%89%AF%E6%96%B9"></span>
+
 ## **結論：行動就是最強的良方**
 
 當無形的火牢在身體深處燃起，最終引爆的不只是身體，更可能燃燒你與伴侶的信任。「火者，熱邪之變也，入於下焦而為病。」—《黃帝內經·素問》提醒我們，濕熱若不及時撲滅，就如鍋底餘火越積越旺，終將燒穿防線。
+
+<span id="%E7%AB%8B%E5%8D%B3%E8%90%BD%E5%AF%A6%E7%AF%84%E4%BE%8B"></span>
 
 ### **立即落實範例**
 
@@ -69,6 +81,8 @@ sourceVerbatim: true
 8.  男性細菌性性病合併或重複感染盛行率達15%。PMC10311681 (2023) [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10311681/?utm_source=chatgpt.com)
 
 <table style="border: 3px solid #006400; border-collapse: collapse; width: 100%;"><thead><tr style="background-color: #2a9d8f;"><th style="color: #ffffff; font-weight: bold; border: 3px solid #006400; padding: 8px;">指標</th><th style="color: #ffffff; font-weight: bold; border: 3px solid #006400; padding: 8px;">淋病</th><th style="color: #ffffff; font-weight: bold; border: 3px solid #006400; padding: 8px;">梅毒</th></tr></thead><tbody><tr style="background-color: #d4e9e2;"><td style="color: #333333; border: 3px solid #006400; padding: 8px;">初期症狀</td><td style="color: #333333; border: 3px solid #006400; padding: 8px;">排尿灼熱、黃白膿液；約15%–55%無症狀</td><td style="color: #333333; border: 3px solid #006400; padding: 8px;">生殖器／口腔無痛潰瘍；約30%–40%無症狀</td></tr><tr style="background-color: #ffffff;"><td style="color: #333333; border: 3px solid #006400; padding: 8px;">潛伏期</td><td style="color: #333333; border: 3px solid #006400; padding: 8px;">1–5 天</td><td style="color: #333333; border: 3px solid #006400; padding: 8px;">10–90 天</td></tr><tr style="background-color: #d4e9e2;"><td style="color: #333333; border: 3px solid #006400; padding: 8px;">檢測方法</td><td style="color: #333333; border: 3px solid #006400; padding: 8px;">尿液 PCR 或拭子 PCR，2–5 天內出結果</td><td style="color: #333333; border: 3px solid #006400; padding: 8px;">血清 RPR／TPHA，需4–6 週後確認</td></tr><tr style="background-color: #ffffff;"><td style="color: #333333; border: 3px solid #006400; padding: 8px;">治療方式</td><td style="color: #333333; border: 3px solid #006400; padding: 8px;">抗生素注射＋口服藥（數日內可控）</td><td style="color: #333333; border: 3px solid #006400; padding: 8px;">長療程抗生素（需持續追蹤）</td></tr><tr style="background-color: #d4e9e2;"><td style="color: #333333; border: 3px solid #006400; padding: 8px;">重複感染風險</td><td style="color: #333333; border: 3px solid #006400; padding: 8px;">&gt;20%；使用 EPT 可降低約29%</td><td style="color: #333333; border: 3px solid #006400; padding: 8px;">合併其他性病比例約15%；需伴侶同步治療</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E8%A9%B3%E7%B4%B0%E5%9B%9E%E8%A6%86"></span>
 
 ## 常見問題與詳細回覆
 

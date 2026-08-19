@@ -18,6 +18,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="基督徒中醫師的過年保健攻略：飲食與穴位的智慧 Christian TCM Guide： New Year Health Tips with Diet &amp; Acupoints" width="800" height="450" src="https://www.youtube.com/embed/nV4pJfcJlp8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E9%81%8E%E5%B9%B4%E9%A3%B2%E9%A3%9F%E7%9A%84%E6%8C%91%E6%88%B0%E8%88%87%E6%A9%9F%E6%9C%83%EF%BC%9A%E5%81%A5%E5%BA%B7%E5%BE%9E%E9%A4%90%E6%A1%8C%E9%96%8B%E5%A7%8B"></span>
+
 ## **過年飲食的挑戰與機會：健康從餐桌開始**
 
 **你是否曾在過年期間感到胃脹氣或消化不良？** 過年總是充滿著琳琅滿目的美食，從大魚大肉到甜點飲料，家家戶戶的餐桌都洋溢著節日的豐盛。然而，這樣的飲食方式往往會加重身體的負擔，特別是對於消化系統而言。根據中醫的理論，飲食不節容易導致脾胃虛弱，進而影響全身氣血運行。《黃帝內經》指出：“脾胃為後天之本，氣血生化之源”，因此，過年期間的飲食平衡尤為重要。
@@ -28,6 +30,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/hristian-TCM-Guide：-New-Year-Health-Tips-with-Diet-Acupoints２-1024x582.jpg)
 
+<span id="%E5%85%A8%E5%AE%B6%E5%85%B1%E4%BA%AB%E7%9A%84%E5%81%A5%E5%BA%B7%E8%8C%B6%E9%A3%B2%EF%BC%9A%E7%B0%A1%E5%96%AE%E5%AF%A6%E7%94%A8%E7%9A%84%E9%A4%8A%E7%94%9F%E6%96%B9"></span>
+
 ## **全家共享的健康茶飲：簡單實用的養生方**
 
 **過年期間，如何準備既能禦寒又能促消化的茶飲，讓全家人受益？** 在寒冷的冬季，選擇適合全家飲用的茶飲不僅可以暖身，還能幫助平衡節日飲食的負擔。中醫認為，生薑、紅棗和桂圓是冬季養生的佳品，不僅能溫補脾胃，還具有促進血液循環和增強免疫力的功效。《神農本草經》中記載，生薑“主咳逆上氣，溫中止血”，這說明其在中醫養生中的重要地位。
@@ -35,6 +39,8 @@ sourceVerbatim: true
 建議您試試這款簡單的養生茶飲：將生薑片、紅棗和桂圓放入熱水中煮10分鐘，稍加蜂蜜調味即可飲用。這款茶飲不僅操作簡單，還能促進消化、舒緩胃部不適，同時為家人提供一份暖心的關懷。科學研究也支持這些食材的功效，例如紅棗中的多酚類化合物具有顯著的抗氧化與抗炎作用，能改善消化系統的健康（註2）。
 
 雖然此茶飲適合大多數人，但對於胃酸分泌過多或對生薑過敏的人群，建議減少薑的使用量，或者諮詢專業中醫師以獲取更適合的茶飲配方。通過這樣一份養生茶，不僅能提升全家的健康，也能在節日的團聚中，增添一份暖暖的幸福感。
+
+<span id="%E7%94%A8%E5%BF%83%E5%91%B5%E8%AD%B7%EF%BC%9A%E5%AE%B6%E5%BA%AD%E6%8C%89%E6%91%A9%E8%88%87%E6%84%9B%E7%9A%84%E6%9C%8D%E5%8B%99"></span>
 
 ## **用心呵護：家庭按摩與愛的服務**
 
@@ -46,6 +52,8 @@ sourceVerbatim: true
 
 然而，按摩力度應以適中為宜，過度用力可能造成不適或瘀傷。此外，針對孕婦或患有某些慢性病的家庭成員，建議在專業指導下進行穴位保健。透過這些簡單的按摩手法，讓家人在互動中不僅感受到溫暖，更能享受健康帶來的美好生活。
 
+<span id="%E6%96%B0%E5%B9%B4%E5%81%A5%E5%BA%B7%E6%96%B0%E8%B5%B7%E9%BB%9E%EF%BC%9A%E5%B0%87%E4%BF%9D%E5%81%A5%E7%90%86%E5%BF%B5%E8%9E%8D%E5%85%A5%E7%94%9F%E6%B4%BB"></span>
+
 ## **新年健康新起點：將保健理念融入生活**
 
 **過年後，如何將飲食與穴位保健的智慧延續到日常生活？** 健康並非僅僅是節日的專屬話題，而是一種需要長期堅持的生活方式。中醫講究“天人合一”，強調順應自然規律來維持身心平衡。過年期間，通過飲食和穴位保健，我們學會了如何在節日中保持健康，這些智慧同樣可以融入日常生活，成為您和家人健康管理的基石。
@@ -55,6 +63,8 @@ sourceVerbatim: true
 在日常保健中，適度的穴位按摩也可以成為生活的一部分。例如，早晨起床後按摩足三里，能夠為一天的活動提供充足的能量；睡前輕按湧泉穴，則有助於放鬆身心，提升睡眠質量。研究表明，這些小小的改變能顯著改善生活質量和健康指數（註4）。
 
 新的一年是新的開始，也是重新審視健康習慣的契機。透過簡單而可行的飲食與保健方案，讓健康成為您和家人每天的主題，為未來帶來更多的幸福與活力。
+
+<span id="%E5%81%A5%E5%BA%B7%E7%9A%84%E6%81%A9%E5%85%B8%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BE%9E%E6%84%9B%E8%88%87%E9%97%9C%E6%87%B7%E9%96%8B%E5%A7%8B"></span>
 
 ## **健康的恩典：新年從愛與關懷開始**
 
@@ -74,6 +84,8 @@ sourceVerbatim: true
 2.  Zhang, L., Yang, L., Wang, X., et al. (2021). Jujube (Ziziphus jujuba) polyphenols improve digestion and gastrointestinal health: Evidence from animal and clinical studies. *Food & Function, 12*(3), 1378–1390. DOI: 10.1039/d0fo01234h
 3.  Lee, S. H., Lim, S. M., & Kim, J. Y. (2020). Effects of acupuncture and acupressure on immune function and winter health: A systematic review. *Acupuncture in Medicine, 38*(2), 84–92. DOI: 10.1177/0964528420912732
 4.  Zhang, Y., & Wang, R. (2022). The role of daily acupressure on sleep quality and stress reduction: Evidence from clinical trials. *Journal of Integrative Medicine, 20*(1), 15–24. DOI: 10.1016/j.joim.2021.09.005
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

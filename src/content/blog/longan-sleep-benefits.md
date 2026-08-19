@@ -11,6 +11,8 @@ legacyPath: "/blog/longan-sleep-benefits/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80"></span>
+
 ## **引言**
 
 《黃帝內經》有言：「心藏神，神安則寐。」意思是睡眠的品質，取決於心神是否安定。龍眼，自古以來被視為能養心安神的果實。《本草綱目》記載：「久服安魂魄」，點出了它在調和心神、輔助睡眠的應用。從中醫角度來看，龍眼性味甘溫，能補益心脾，氣血充盈則心神自安，夜裡自然更容易入睡。
@@ -23,11 +25,15 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="沒想到龍眼竟然有助眠的效果，我身為老闆只好貼心溫柔的幫她入睡了⋯⋯ #水果 #龍眼 #中醫 #助眠" width="563" height="1000" src="https://www.youtube.com/embed/MjcYqVTmg28?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E9%BE%8D%E7%9C%BC%E7%9A%84%E5%8A%9F%E6%95%88%EF%BC%9A%E8%A3%9C%E8%A1%80%E5%AE%89%E7%A5%9E%E8%88%87%E7%9D%A1%E7%9C%A0%E6%94%AF%E6%8C%81"></span>
+
 ## **龍眼的功效：補血安神與睡眠支持**
 
 你最近是不是常常躺下卻腦袋還像電風扇轉不停？龍眼，被稱為「心脾之果」，在《本草綱目》中記載「久服安魂魄」，意思是它能安定心神，幫助入眠。從中醫觀點來看，龍眼性味甘溫，最擅長補益心脾，當氣血充盈、心神得養，夜裡自然比較容易進入沉睡。你知道嗎？這顆小小的甜果子，其實就像廚房裡的一盞暖燈，默默安撫著全身的節奏。
 
 現代營養學也給予龍眼另一層解釋。它富含葡萄糖、維生素C、多酚和鐵質，不僅能補充能量，還可能透過抗氧化作用降低神經緊繃感（註1）。研究指出，龍眼萃取物或許具有神經保護與抗焦慮的潛力，對睡眠品質改善有正面影響（註2）。不過別忘了，它屬於溫熱性水果，體質偏燥、容易上火或血糖不穩的人，吃多反而會「補過頭」，夜裡更難入眠。養生的智慧，從來都不是多吃，而是吃得剛剛好。
+
+<span id="%E9%BE%8D%E7%9C%BC%E4%B9%BE%E6%B3%A1%E6%B0%B4%E7%9A%84%E5%A5%BD%E8%99%95%E8%88%87%E6%AD%A3%E7%A2%BA%E9%A3%9F%E7%94%A8%E6%96%B9%E6%B3%95"></span>
 
 ## **龍眼乾泡水的好處與正確食用方法**
 
@@ -35,11 +41,15 @@ sourceVerbatim: true
 
 從營養角度來看，龍眼乾泡水能釋放多酚、維生素與天然糖分，對能量補充和抗氧化有幫助（註3）。臨床觀察也指出，龍眼乾與其他藥食同源食材搭配，能改善因氣血不足造成的睡眠障礙（註4）。不過別小看它的甜度！龍眼乾含糖量高，熱量約是鮮果的三倍，對血糖偏高或容易長痘的人，不宜天天當茶水猛灌。建議一天控制在 **20–30** **克**，用熱水沖泡即可，避免熬煮過久導致糖分過高。
 
+<span id="%E9%BE%8D%E7%9C%BC%E5%8A%A9%E7%9C%A0%E7%9A%84%E7%A7%91%E5%AD%B8%E4%BE%9D%E6%93%9A%E8%88%87%E9%99%90%E5%88%B6"></span>
+
 ## **龍眼助眠的科學依據與限制**
 
 你知道嗎？龍眼不只是甜美水果，還被研究過可能與「睡眠質量」有關。現代藥理實驗發現，龍眼多酚與黃酮類化合物具有抗氧化與抗焦慮作用，能調節神經系統的興奮度，間接改善失眠狀況（註5）。在動物模型中，龍眼萃取物可提升大腦 γ-氨基丁酸（GABA）受體活性，這是一種讓神經「放鬆下來」的重要訊號分子，就像給大腦一個「安靜休息」的指令（註6）。
 
 但別把它想成萬靈丹。龍眼的功效屬於「輔助性」，並不能取代規律作息或醫師處方藥物。如果你經常熬夜、長期喝咖啡或滑手機到深夜，再多的龍眼也難以真正改善睡眠。更重要的是，部分研究指出，龍眼雖能幫助安神，但過量攝取反而可能因血糖波動或燥熱體質導致失眠加重。換句話說，它像一杯溫熱的甜湯，可以幫你舒緩，但不是讓你一覺到天亮的保證書。
+
+<span id="%E9%BE%8D%E7%9C%BC%E7%9A%84%E7%A6%81%E5%BF%8C%EF%BC%9A%E5%93%AA%E4%BA%9B%E4%BA%BA%E8%A6%81%E5%B0%8F%E5%BF%83%EF%BC%9F"></span>
 
 ## **龍眼的禁忌：哪些人要小心？**
 
@@ -48,6 +58,8 @@ sourceVerbatim: true
 現代醫學也提醒，龍眼含糖量高，每100公克鮮果約70大卡，乾果則超過250大卡（註7）。對於糖尿病患者或血糖不穩的人來說，大量食用容易引起血糖波動。此外，孕婦雖然常聽說龍眼能「養胎補血」，但若體質燥熱，反而可能出現腹痛或出血的風險（註8）。因此，最安全的方式是適量享用，一天 **20–30** **克龍眼乾** 或 **5–6** **顆鮮果**，就能獲得滋養而不過量。養生不是追求「多」，而是找到與自己身體相合的「度」。
 
 <iframe loading="lazy" title="以為龍眼是良藥，卻有四種人不適合吃龍眼！？#水果 #龍眼" width="563" height="1000" src="https://www.youtube.com/embed/2wzScLfu45o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<span id="_%E7%B5%90%E8%AB%96%EF%BC%9A%E5%BE%9E%E5%A4%9C%E7%9A%84%E8%BA%81%E5%8B%95%E5%88%B0%E5%BF%83%E7%9A%84%E5%AE%89%E5%AE%9A"></span>
 
 ##  **結論：從夜的躁動到心的安定**
 
@@ -65,9 +77,13 @@ sourceVerbatim: true
 👉你也有過靠龍眼調整睡眠的經驗嗎？歡迎在留言中分享你的感受與方法！  
 《本文將依據最新提問持續更新》
 
+<span id="%E9%BE%8D%E7%9C%BC%E5%8A%A9%E7%9C%A0%E8%88%87%E9%A3%9F%E7%94%A8%E6%96%B9%E5%BC%8F%E6%AF%94%E8%BC%83%E8%A1%A8"></span>
+
 ## 龍眼助眠與食用方式比較表
 
 <table aria-label="龍眼助眠與食用方式比較表"><colgroup><col> <col> <col> <col></colgroup><thead><tr><th>項目</th><th>鮮龍眼</th><th>龍眼乾泡水</th><th>龍眼甜湯（龍眼乾＋紅棗/百合/蓮子）</th></tr></thead><tbody><tr><th>功效焦點</th><td data-title="功效焦點">補益心脾、補血安神；日常少量作為點心，清甜易入口（註1）</td><td data-title="功效焦點">濃縮釋放多酚與抗氧化物，舒緩焦慮、支持睡眠（註3）</td><td data-title="功效焦點">溫養心神、緩解緊繃；搭配百合/蓮子更偏安神、穩定情緒（註4）</td></tr><tr><th>助眠體感</th><td data-title="助眠體感">輔助性、較輕；適合作為晚餐後少量水果</td><td data-title="助眠體感">輔助性中等；晚間溫熱飲品更有「放鬆儀式感」</td><td data-title="助眠體感">輔助性中等偏高；暖身、安定，特別適合秋冬夜間</td></tr><tr><th>營養/熱量</th><td data-title="營養/熱量">約70 kcal/100 g；天然糖份較高（註7）</td><td data-title="營養/熱量">乾品沖泡，糖份較易浸出；注意總攝取量（註3,7）</td><td data-title="營養/熱量">依配方而定；紅棗、龍眼乾皆增糖量，熱量較高</td></tr><tr><th>建議份量</th><td data-title="建議份量"><strong>5–6 顆/日</strong>（依個人狀況微調）</td><td data-title="建議份量"><strong>龍眼乾 20–30 g/日</strong>，以熱水沖泡；避免久熬</td><td data-title="建議份量"><strong>每次一小碗</strong>；每週 2–3 回作為夜間舒緩飲</td></tr><tr><th>最佳時機</th><td data-title="最佳時機">晚餐後或睡前 2–3 小時內</td><td data-title="最佳時機">晚間、工作壓力大時；避免睡前大量飲水</td><td data-title="最佳時機">秋冬或手腳冰冷、緊張難眠時</td></tr><tr><th>適合對象</th><td data-title="適合對象">氣血不足、偶爾失眠、想以食療輔助者</td><td data-title="適合對象">想以溫飲取代含咖啡因飲品者</td><td data-title="適合對象">需要情緒安定與暖身的人（如熬夜後調節）</td></tr><tr><th>避免/慎用</th><td data-title="避免/慎用">糖尿病、易上火、痤瘡、便祕、孕期燥熱者（註7,8）</td><td data-title="避免/慎用">同左；腸胃易敏感者避免過濃、過甜</td><td data-title="避免/慎用">同左；控制總糖量，避免「越晚越甜」</td></tr><tr><th>常見誤區</th><td data-title="常見誤區">以為多吃就更好睡；臨睡前大量進食反而影響</td><td data-title="常見誤區">把養生茶當水猛喝；過量導致夜尿或反而心煩</td><td data-title="常見誤區">當甜品解饞；忽略份量與總糖，反讓睡眠更亂</td></tr><tr><th>佐證（經典/研究）</th><td data-title="佐證">《本草綱目》安魂魄；營養成分與抗氧化（註1）</td><td data-title="佐證">乾製品之多酚、抗氧化（註3）</td><td data-title="佐證">失眠食療整體證據、配伍思路（註4）</td></tr></tbody></table>
+
+<span id="%F0%9F%A7%A0_%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86%EF%BC%88Q_A%EF%BC%89"></span>
 
 ## **🧠** **常見問題與回覆（Q&A****）**
 

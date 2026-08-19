@@ -12,6 +12,8 @@ legacyPath: "/blog/red-dot-health-design/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80_%E5%BE%9E%E5%AE%89%E5%BF%83%E6%84%9F%E5%88%B0%E5%81%A5%E5%BA%B7%E7%90%86%E8%A7%A3%EF%BC%9A%E8%A8%AD%E8%A8%88%E8%83%BD%E5%81%9A%E5%88%B0%E7%9A%84%E6%AF%94%E4%BD%A0%E6%83%B3%E7%9A%84%E6%9B%B4%E5%A4%9A"></span>
+
 ## **引言** **從安心感到健康理解：設計能做到的比你想的更多**
 
 一位設計師曾說：「我最想做的，不是讓你記住產品，是讓你在藥局裡感受到一種安心感。」這句話，來自紅點設計師[陳秉辰](http://www.delight-tw.com)。
@@ -24,6 +26,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Red-Dot-Health-Design.jpg)
 
+<span id="%E5%A6%82%E4%BD%95%E8%AE%93%E8%A8%AD%E8%A8%88%E6%88%90%E7%82%BA%E5%81%A5%E5%BA%B7%E6%BA%9D%E9%80%9A%E7%9A%84%E3%80%8C%E5%AA%92%E4%BB%8B%E3%80%8D%EF%BC%9F"></span>
+
 ## **如何讓設計成為健康溝通的「媒介」？**
 
 你有發現嗎？走進一間藥局，會想停下腳步看展示架，其實是視覺設計在引導。設計不僅美觀，更是讓「大眾知道健康怎麼做」的有力工具。
@@ -31,6 +35,8 @@ sourceVerbatim: true
 「我不只是設計圖案，而是幫醫學資訊說話。」紅點設計師[陳秉辰](https://www.delight-tw.com/)說。他將獲獎經驗應用於 **健康溝通**，把預防醫學理念轉譯為藥局中的輔銷品、展示架、指示牌等多重接觸點。這些設計像是一種「視覺菜餚」，把抽象的健康資訊煮熟、調味，變成容易消化的實用知識。你知道嗎？一張有圖與文字結合的健康宣傳圖表，比純文字能提升記憶力與理解度20%以上，尤其對於閱讀能力較弱的族群效果更明顯。
 
 不過，設計也有風險。若圖像與文字對不上，會讓人反而困惑，因此整合 **視覺轉譯** 時必需「緊密連結」。設計師必須像廚師一樣把材料（醫訊）切得好看、擺得恰當，否則再美也沒人吃。
+
+<span id="%E9%A0%90%E9%98%B2%E9%86%AB%E5%AD%B8%E5%9C%A8%E8%97%A5%E5%B1%80%E7%8F%BE%E5%A0%B4%EF%BC%8C%E8%A9%B2%E6%80%8E%E9%BA%BC%E8%A2%AB%E3%80%8C%E8%A8%AD%E8%A8%88%E5%8C%96%E3%80%8D%EF%BC%9F"></span>
 
 ## **預防醫學在藥局現場，該怎麼被「設計化」？**
 
@@ -41,6 +47,8 @@ sourceVerbatim: true
 這些設計，就像為身體補充營養時加了一匙好喝的湯頭，讓健康不再難入口。但也得注意，設計不能只追求「看起來好看」，過度簡化反而可能誤導，因此他強調每個視覺訊號都必須「準確對應使用者的理解路徑」。
 
 ![](/wp-content/uploads/Red-Dot-Health-Design3.jpg)
+
+<span id="%E8%A8%AD%E8%A8%88%E8%83%BD%E8%A2%AB%E9%87%8F%E5%8C%96%E5%97%8E%EF%BC%9F%E9%80%99%E4%BA%9B%E6%95%B8%E6%93%9A%E8%88%87%E7%B4%B0%E7%AF%80%E8%AA%AA%E6%9C%8D%E4%BA%86%E8%97%A5%E5%B8%AB%E8%88%87%E9%A1%A7%E5%AE%A2"></span>
 
 ## **設計能被量化嗎？這些數據與細節說服了藥師與顧客**
 
@@ -54,6 +62,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Red-Dot-Health-Design5-.jpg)
 
+<span id="%E6%9C%AA%E4%BE%86%E7%9A%84%E8%97%A5%E5%B1%80%E6%9C%83%E6%98%AF%E4%BB%80%E9%BA%BC%E6%A8%A1%E6%A8%A3%EF%BC%9F%E4%BB%96%E8%AA%AA%E6%98%AF%E3%80%8C%E5%81%A5%E5%BA%B7%E8%A2%AB%E7%9C%8B%E8%A6%8B%E7%9A%84%E7%A9%BA%E9%96%93%E3%80%8D"></span>
+
 ## **未來的藥局會是什麼模樣？他說是「健康被看見的空間」**
 
 你想像過未來的藥局嗎？沒有冰冷燈光、沒有滿牆藥袋，而是像一間生活選品店，柔和色彩與溫暖木質展示，讓你不再只是「領藥」，而是在「選擇健康」。
@@ -63,6 +73,8 @@ sourceVerbatim: true
 他觀察，未來的社區藥局將走向聯盟型整合，不同品牌與領域的跨界合作將變得越來越普遍——設計師必須懂醫療、懂溝通，也要懂得傾聽現場每一位藥師與顧客的聲音。這種設計，才是真正與人「活在一起」的。
 
 ![](/wp-content/uploads/Red-Dot-Health-Design4.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E7%95%B6%E5%81%A5%E5%BA%B7%E4%B8%8D%E5%86%8D%E5%8F%AA%E6%98%AF%E8%B2%AC%E4%BB%BB%EF%BC%8C%E8%A8%AD%E8%A8%88%E5%B0%B1%E6%88%90%E4%BA%86%E6%BA%AB%E6%9F%94%E7%9A%84%E6%8F%90%E9%86%92"></span>
 
 ## **結論：當健康不再只是責任，設計就成了溫柔的提醒**
 
@@ -88,15 +100,23 @@ sourceVerbatim: true
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #264d3d; font-family: sans-serif;"><thead><tr style="background-color: #2a9d8f; color: white; font-weight: bold;"><th style="padding: 12px; border: 3px solid #264d3d;">面向</th><th style="padding: 12px; border: 3px solid #264d3d;">設計優化前</th><th style="padding: 12px; border: 3px solid #264d3d;">設計優化後</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #264d3d;">視覺呈現</td><td style="padding: 12px; border: 3px solid #264d3d;">資訊密集、缺乏焦點，色彩與標示不一致</td><td style="padding: 12px; border: 3px solid #264d3d;">色塊清楚、分區明確，導視系統具一致性</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px; border: 3px solid #264d3d;">行為引導</td><td style="padding: 12px; border: 3px solid #264d3d;">顧客動線雜亂，無主動互動點</td><td style="padding: 12px; border: 3px solid #264d3d;">動線順暢、有視覺節奏點，引導顧客停留</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #264d3d;">健康資訊理解率</td><td style="padding: 12px; border: 3px solid #264d3d;">約38% 顧客能理解產品資訊（註1）</td><td style="padding: 12px; border: 3px solid #264d3d;">提升至74% 理解率，資訊結構更親民（註1）</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px; border: 3px solid #264d3d;">藥師與顧客互動機會</td><td style="padding: 12px; border: 3px solid #264d3d;">問診對話多依賴主動提問</td><td style="padding: 12px; border: 3px solid #264d3d;">顧客被動引導轉為主動詢問，對話機會提升</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E8%A8%AD%E8%A8%88%E7%9C%9F%E7%9A%84%E8%83%BD%E6%8F%90%E5%8D%87%E5%81%A5%E5%BA%B7%E8%B3%87%E8%A8%8A%E7%9A%84%E7%90%86%E8%A7%A3%E7%8E%87%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題1****：設計真的能提升健康資訊的理解率嗎？**
 
 回覆：是的。研究與現場觀察皆顯示，當健康資訊以圖像＋簡潔文字呈現，顧客的理解率可從約38%提升至74%。這是因為人腦對「視覺」的處理比「文字」快約60,000倍。特別是在保健領域，設計不只是美學，更是資訊的轉譯工具。
 
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E4%BB%80%E9%BA%BC%E6%A8%A3%E7%9A%84%E8%97%A5%E5%B1%80%E8%A8%AD%E8%A8%88%E8%83%BD%E8%AE%93%E6%88%91%E5%81%9C%E4%B8%8B%E8%85%B3%E6%AD%A5%E3%80%81%E6%83%B3%E4%BA%86%E8%A7%A3%E5%81%A5%E5%BA%B7%EF%BC%9F"></span>
+
 ### **問題2****：什麼樣的藥局設計能讓我停下腳步、想了解健康？**
 
 回覆：關鍵在「視覺節奏」與「語言親和」。例如設計師陳秉辰會運用溫暖色塊、生活化語句（如「今天選這個，是為明天的自己留一份力氣」）引導顧客主動靠近。設計就像中醫講的「調氣機」：不是強推，而是柔和引導，讓身體自然回應。
+
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E5%A6%82%E6%9E%9C%E6%88%91%E6%98%AF%E8%97%A5%E5%B1%80%E7%B6%93%E7%87%9F%E8%80%85%EF%BC%8C%E8%A9%B2%E5%BE%9E%E5%93%AA%E8%A3%A1%E9%96%8B%E5%A7%8B%E6%94%B9%E5%96%84%E8%A8%AD%E8%A8%88%EF%BC%9F"></span>
 
 ### **問題3****：如果我是藥局經營者，該從哪裡開始改善設計？**
 
@@ -106,9 +126,13 @@ sourceVerbatim: true
 2.  加入動線箭頭與「每日一問」的提問卡片，引發顧客主動停留與詢問  
     記得，好的設計不是華麗，而是讓人覺得「懂你」。
 
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E4%BF%9D%E5%81%A5%E8%B3%87%E8%A8%8A%E9%80%99%E9%BA%BC%E5%A4%9A%EF%BC%8C%E6%80%8E%E9%BA%BC%E8%A8%AD%E8%A8%88%E6%89%8D%E8%83%BD%E4%B8%8D%E8%AE%93%E4%BA%BA%E6%84%9F%E8%A6%BA%E5%A3%93%E5%8A%9B%EF%BC%9F"></span>
+
 ### **問題4****：保健資訊這麼多，怎麼設計才能不讓人感覺壓力？**
 
 回覆：讓設計說話比說教有效。使用日常比喻、步驟式視覺與不評價的語句（例如：「這是一個照顧自己呼吸的小建議」）會讓顧客更願意接受。正如《草本上膳醫廚》說：「和而不猛，補而不燥」，設計也應當溫潤而有節奏。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E8%A8%AD%E8%A8%88%E4%B9%8B%E5%A4%96%EF%BC%8C%E6%88%91%E9%82%84%E8%83%BD%E5%81%9A%E4%BB%80%E9%BA%BC%EF%BC%8C%E8%AE%93%E8%97%A5%E5%B1%80%E6%88%90%E7%82%BA%E9%A0%90%E9%98%B2%E9%86%AB%E5%AD%B8%E7%9A%84%E5%A0%B4%E5%9F%9F%EF%BC%9F"></span>
 
 ### **問題5****：設計之外，我還能做什麼，讓藥局成為預防醫學的場域？**
 

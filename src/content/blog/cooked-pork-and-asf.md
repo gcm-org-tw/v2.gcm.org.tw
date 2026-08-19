@@ -36,6 +36,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Cooked-Pork-and-ASF2.jpg)
 
+<span id="%E9%9D%9E%E6%B4%B2%E8%B1%AC%E7%98%9F%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E7%97%85%E6%AF%92%E5%8F%AA%E6%94%BB%E6%93%8A%E8%B1%AC%EF%BC%8C%E4%B8%8D%E6%84%9F%E6%9F%93%E4%BA%BA"></span>
+
 ## **非洲豬瘟是什麼？病毒只攻擊豬，不感染人**
 
 你知道嗎？非洲豬瘟（African Swine Fever, ASF）其實是豬隻之間的「絕症」，卻與人類完全無關。它由**非洲豬瘟病毒（****ASFV****）**引起，屬於雙股 DNA 病毒，極度頑強，能在冷凍肉中存活數月，但對人類細胞卻毫無感染力。這就像一把只開某個「豬鎖」的病毒鑰匙，對人類的細胞門完全插不進去。
@@ -45,6 +47,8 @@ sourceVerbatim: true
 然而，它對養豬產業的打擊極為沉重。感染後的豬幾乎無法存活，目前**尚無有效疫苗或治療藥物**（註2）。因此，全世界的防疫重點在於「阻止病毒進豬場」，而不是「防止人感染」。
 
 從預防醫學的角度看，ASF 帶給人們的提醒是——食安不僅是吃得安全，更是整個生態鏈的平衡。當人類尊重防疫規範，也是在守護自己的餐桌。
+
+<span id="%E5%90%83%E5%88%B0%E6%84%9F%E6%9F%93%E8%B1%AC%E7%98%9F%E7%9A%84%E8%B1%AC%E8%82%89%E6%9C%83%E6%80%8E%E6%A8%A3%EF%BC%9F%E4%BA%BA%E9%AB%94%E4%B8%8D%E6%9C%83%E5%BE%97%E7%97%85"></span>
 
 ## **吃到感染豬瘟的豬肉會怎樣？人體不會得病**
 
@@ -57,6 +61,8 @@ sourceVerbatim: true
 現代科學實驗證實，ASF 病毒在攝氏 70 °C 加熱 30 分鐘、或沸騰幾分鐘後即完全失活（註4）。  
 因此，只要肉品**來源合法、充分加熱、避免交叉污染**，吃下去是安全的。  
 若你誤食了疑似受污染的豬肉，也不用恐慌，人體會如常代謝，但請務必**不要讓這些殘餘肉品再進入豬場或餵食鏈**，那才是防疫的真正破口。
+
+<span id="%E7%85%AE%E7%86%9F%E9%82%84%E5%AE%89%E5%85%A8%E5%97%8E%EF%BC%9F%E5%AE%89%E5%85%A8%E6%BA%AB%E5%BA%A6%E8%88%87%E7%83%B9%E8%AA%BF%E6%99%82%E9%96%93"></span>
 
 ## **煮熟還安全嗎？安全溫度與烹調時間**
 
@@ -71,6 +77,8 @@ sourceVerbatim: true
 所以，與其擔心吃進病毒，不如確認你的廚房火候夠不夠。  
 一鍋熱氣騰騰的湯，不只是溫暖，更是一道最天然的防線。
 
+<span id="%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E9%A2%A8%E9%9A%AA%EF%BC%9F%E9%98%B2%E6%AA%A2%E8%88%87%E5%AE%B6%E5%BA%AD%E6%B6%88%E6%AF%92%E8%A6%81%E5%90%8C%E6%AD%A5"></span>
+
 ## **如何避免風險？防檢與家庭消毒要同步**
 
 防非洲豬瘟，關鍵不是「不吃豬肉」，而是「別讓病毒有機會再進豬圈」。  
@@ -84,6 +92,8 @@ sourceVerbatim: true
 最後，防疫不只在豬場，也在餐桌。  
 「乾淨的廚房，是最小的防疫前線。」  
 這份乾淨，不只是衛生習慣，更是一種守護生命鏈的溫柔責任。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E4%B8%80%E7%A2%97%E6%B9%AF%E7%9A%84%E6%BA%AB%E5%BA%A6%EF%BC%8C%E8%83%BD%E7%86%84%E6%BB%85%E6%81%90%E6%87%BC"></span>
 
 ## **結論：一碗湯的溫度，能熄滅恐懼**
 
@@ -122,7 +132,11 @@ sourceVerbatim: true
 
 <table style="border-collapse: collapse; width: 100%; border: 3px solid #006d5b; font-family: 'Microsoft JhengHei',sans-serif; color: #333333;"><thead style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><tr><th style="padding: 10px; border: 3px solid #006d5b;">面向</th><th style="padding: 10px; border: 3px solid #006d5b;">情境A：煮熟合格（≥70°C／中心熟透）</th><th style="padding: 10px; border: 3px solid #006d5b;">情境B：未煮熟或來源不明</th><th style="padding: 10px; border: 3px solid #006d5b;">情境C：攜帶入境／檢疫規範</th></tr></thead><tbody><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #006d5b; font-weight: bold;">人體感染風險</td><td style="padding: 10px; border: 3px solid #006d5b;">不會感染人；食用安全</td><td style="padding: 10px; border: 3px solid #006d5b;">不會感染人；但不建議食用</td><td style="padding: 10px; border: 3px solid #006d5b;">不涉及食用風險；<strong>涉及防疫違規</strong></td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #006d5b; font-weight: bold;">病毒存活性</td><td style="padding: 10px; border: 3px solid #006d5b;">高溫滅活；70°C×30分或沸騰數分可失活</td><td style="padding: 10px; border: 3px solid #006d5b;">可能殘留活病毒（尤其風乾、醃製、半熟）</td><td style="padding: 10px; border: 3px solid #006d5b;">真空／乾貨中病毒可存活數週～數月</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #006d5b; font-weight: bold;">對豬場／環境風險</td><td style="padding: 10px; border: 3px solid #006d5b;">低；勿把剩食餵豬</td><td style="padding: 10px; border: 3px solid #006d5b;">中～高；殘渣若進入餵飼鏈是重大風險</td><td style="padding: 10px; border: 3px solid #006d5b;">極高；非法肉品是跨境傳播主因之一</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #006d5b; font-weight: bold;">是否可食</td><td style="padding: 10px; border: 3px solid #006d5b;">可；前提是「充分加熱＋避免交叉污染」</td><td style="padding: 10px; border: 3px solid #006d5b;">不建議；應丟棄，<strong>勿餵豬</strong></td><td style="padding: 10px; border: 3px solid #006d5b;">不可攜帶；依法沒收並重罰</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #006d5b; font-weight: bold;">建議處置</td><td style="padding: 10px; border: 3px solid #006d5b;">使用料理溫度計、中心≥70°C；熟食與生食分流</td><td style="padding: 10px; border: 3px solid #006d5b;">立即停止食用；器具與檯面以漂白水1:100清潔</td><td style="padding: 10px; border: 3px solid #006d5b;">切勿攜帶肉品入境；遵循申報與檢疫</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #006d5b; font-weight: bold;">家庭SOP</td><td style="padding: 10px; border: 3px solid #006d5b;">砧板刀具有色分流；熟後冷藏≤2小時、48小時內食畢</td></tr></tbody></table>
 
+<span id="%F0%9F%A7%BE%E6%AD%A5%E9%A9%9F%E5%85%AB%EF%BC%9A%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86%EF%BC%88FAQ%EF%BC%89"></span>
+
 ## **🧾****步驟八：常見問題與回覆（FAQ****）**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E5%90%83%E5%88%B0%E6%84%9F%E6%9F%93%E9%9D%9E%E6%B4%B2%E8%B1%AC%E7%98%9F%E7%9A%84%E8%B1%AC%E8%82%89%EF%BC%8C%E4%BA%BA%E9%AB%94%E6%9C%83%E8%A2%AB%E5%82%B3%E6%9F%93%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題1****：吃到感染非洲豬瘟的豬肉，人體會被傳染嗎？**
 
@@ -130,16 +144,22 @@ sourceVerbatim: true
 即使誤食受感染豬肉，也不會造成任何疾病。只要食材充分加熱到 70°C 以上、確保中心熟透，就能安全食用。  
 中醫也說「熱能化濕，熟則無害」，意指火候足夠即可化去病氣。
 
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E5%A6%82%E6%9E%9C%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%90%83%E5%88%B0%E5%8D%8A%E7%86%9F%E8%B1%AC%E8%82%89%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F"></span>
+
 ### **問題2****：如果不小心吃到半熟豬肉怎麼辦？**
 
 **回覆：** 請先冷靜，人體不會因此感染非洲豬瘟。  
 但若懷疑肉品未煮熟，建議重新加熱至沸騰幾分鐘，並清洗相關的器具與砧板。  
 切勿將剩餘肉或廚餘餵豬，因為病毒可能透過這條路重新回到豬隻族群中。
 
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E9%9D%9E%E6%B4%B2%E8%B1%AC%E7%98%9F%E7%97%85%E6%AF%92%E5%9C%A8%E5%86%B7%E5%87%8D%E8%82%89%E4%B8%AD%E8%83%BD%E6%B4%BB%E5%A4%9A%E4%B9%85%EF%BC%9F"></span>
+
 ### **問題3****：非洲豬瘟病毒在冷凍肉中能活多久？**
 
 **回覆：** 根據《Scientific Reports》研究，ASF 病毒在冷凍肉中可存活數月，  
 在低溫環境下更具耐性。因此，請務必確認肉品來源合法且經過檢疫，不購買或攜帶來路不明的冷凍豬肉製品。
+
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E5%AE%B6%E8%A3%A1%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A2%BA%E9%98%B2%E6%AD%A2%E7%97%85%E6%AF%92%E4%BA%A4%E5%8F%89%E6%B1%A1%E6%9F%93%EF%BC%9F"></span>
 
 ### **問題4****：家裡如何正確防止病毒交叉污染？**
 
@@ -147,6 +167,8 @@ sourceVerbatim: true
 建議砧板、刀具分色使用；生熟食分開處理；餐具、流理台可使用 **漂白水1:100** 濃度擦拭。  
 煮熟的肉請在兩小時內冷藏，並於48小時內食用完畢。  
 這不只是衛生習慣，更是「守界之德」——保護家庭與環境的智慧。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E7%82%BA%E4%BB%80%E9%BA%BC%E4%B8%8D%E8%83%BD%E6%94%9C%E5%B8%B6%E8%82%89%E4%B9%BE%E6%88%96%E9%A6%99%E8%85%B8%E5%9B%9E%E5%8F%B0%E7%81%A3%EF%BC%9F"></span>
 
 ### **問題5****：為什麼不能攜帶肉乾或香腸回台灣？**
 

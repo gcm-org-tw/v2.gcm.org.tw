@@ -18,6 +18,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/child-attention-types-ot-guide_11zon.webp)
 
+<span id="%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%9A%84%E4%BA%94%E5%A4%A7%E5%88%86%E9%A1%9E%EF%BC%8C%E4%BA%86%E8%A7%A3%E5%AD%A9%E5%AD%90%E7%9A%84%E5%B0%88%E6%B3%A8%E5%8A%9B%E8%A1%A8%E7%8F%BE"></span>
+
 ## **注意力的五大分類，了解孩子的專注力表現**
 
 一、集中性注意力：是最基礎的能力，當環境出現任何的訊息，包括看/聽/摸/聞到的等，大腦能夠接收並做出反應，如聞到臭味時會找尋味道來源；
@@ -32,9 +34,13 @@ sourceVerbatim: true
 
 <table style="border-collapse: collapse; width: 100%; max-width: 940px;" border="1" cellspacing="0" cellpadding="8"><thead><tr><th style="width: 25%;">注意力分類</th><th style="width: 75%;">定義與生活範例</th></tr></thead><tbody><tr><td><strong>集中性注意力</strong></td><td>最基礎的注意力。環境出現任何訊息（看、聽、摸、聞等）時，大腦能即時接收並反應。<br>例：聞到臭味時立刻尋找味道來源。</td></tr><tr><td><strong>持續性注意力</strong></td><td>能將注意力長時間放在同一事物上。<br>例：從頭到尾閱讀完一本書。</td></tr><tr><td><strong>選擇性注意力</strong></td><td>在多重刺激中，選擇特定目標並執行。<br>例：看電視時聽到媽媽呼喊，忽略電視聲改去回應媽媽。</td></tr><tr><td><strong>交替性注意力</strong></td><td>能在不同目標間快速切換注意力並完成任務。<br>例：將黑板上的字抄寫到作業簿上。</td></tr><tr><td><strong>分散性注意力</strong></td><td>同時注意兩項以上活動（即一心二用）。<br>例：邊看電視邊吃飯。</td></tr></tbody></table>
 
+<span id="3C%E7%94%A2%E5%93%81%E9%81%8E%E5%BA%A6%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%89%8A%E5%BC%B1%E5%AD%A9%E5%AD%90%E9%9D%9C%E6%85%8B%E5%B0%88%E6%B3%A8%E5%8A%9B"></span>
+
 ## 3C產品過度使用，削弱孩子靜態專注力
 
 隨著科技日新月異，孩子經常接觸過度的感官刺激，如電視、手機遊戲或影片、電子遊戲場等，這樣會導致孩子對於較單調的課本或靜態活動失去興趣。衛福部國民健康署建議，0~2歲的孩子建議完全不使用3C產品，這個階段家長全心的陪伴才是最重要的；而若要給2~3歲的孩子使用3C產品，建議將時間控制在15分鐘內，且全程由家長陪同，同時最好選擇靜態的內容，如電子書；3~4歲孩子，則建議使用不超過30分鐘，家長可以和孩子一起選擇喜歡的內容觀看；4~6歲的孩子則要注意使用時間不超過1小時，且用眼30分鐘要休息10分鐘，建議家長可以把3C的內容搭配使用，進一步帶領孩子在日常生活中實際找找看，並認識曾在3C世界看過的內容。
+
+<span id="%E7%B2%BE%E7%B7%BB%E7%B3%96%E6%94%9D%E5%8F%96%E9%81%8E%E9%87%8F%EF%BC%8C%E5%BD%B1%E9%9F%BF%E6%B3%A8%E6%84%8F%E5%8A%9B%E8%88%87%E7%99%BC%E8%82%B2"></span>
 
 ## 精緻糖攝取過量，影響注意力與發育
 

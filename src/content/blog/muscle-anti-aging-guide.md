@@ -24,6 +24,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Muscle-Anti-Aging-Guide2-1024x585.jpg)
 
+<span id="%E8%82%8C%E8%82%89%E6%98%AF%E4%BD%A0%E7%9A%84%E6%8A%97%E8%A1%B0%E8%80%81%E2%80%9C%E4%BF%9D%E9%9A%AA%E2%80%9D%EF%BC%9A%E5%81%A5%E5%BA%B7%E9%95%B7%E5%A3%BD%E7%9A%84%E7%A7%98%E5%AF%86"></span>
+
 ## **肌肉是你的抗衰老“****保險”****：健康長壽的秘密**
 
 你知道肌肉不僅能讓人看起來更結實，還是對抗衰老的“長壽器官”嗎？隨著年齡增長，肌肉量會逐漸減少，導致行動能力下降、跌倒風險增加，甚至骨質疏鬆等健康問題。科學研究顯示，肌肉健康對於維持新陳代謝、血糖穩定、免疫系統功能以及器官運作至關重要。肌肉如同身體的“穩定器”，透過力量訓練和適當的營養補充，可有效延緩老化進程（註1）。
@@ -31,6 +33,8 @@ sourceVerbatim: true
 在中醫理論中，肌肉與“脾土”相關，《黃帝內經》曾指出“脾主肌肉”，認為健脾能助於養護肌肉，使身體充盈、抵抗衰老。中西醫的共識皆強調，保持肌肉量能讓人年老時仍能輕鬆行走、站立。反之，若肌肉流失（肌少症）得不到及時干預，將嚴重影響生活品質。因此，從中年開始，規律性的運動如抗阻訓練、結合含高蛋白質的食療，如食用牛肉、雞胸肉或豆製品，能有效維護肌肉健康，達到抗衰老的效果（註2）。
 
 <iframe loading="lazy" title="肌肉抗衰老全解析：為什麼它是你的長壽器官？ Muscle Anti Aging Guide" width="800" height="450" src="https://www.youtube.com/embed/ZGZmWviDTjw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<span id="%E8%BC%95%E9%AC%86%E6%B4%BB%E5%8B%95%E5%88%B0%E8%80%81%E5%B9%B4%EF%BC%9A%E8%82%8C%E8%82%89%E5%B0%8D%E8%A1%8C%E5%8B%95%E8%83%BD%E5%8A%9B%E7%9A%84%E9%97%9C%E9%8D%B5%E5%BD%B1%E9%9F%BF"></span>
 
 ## **輕鬆活動到老年：肌肉對行動能力的關鍵影響**
 
@@ -42,6 +46,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Muscle-Anti-Aging-Guide3-1024x590.jpg)
 
+<span id="%E9%A0%90%E9%98%B2%E9%AA%A8%E8%B3%AA%E7%96%8F%E9%AC%86%E7%9A%84%E6%9C%80%E4%BD%B3%E6%8B%8D%E6%AA%94%EF%BC%9A%E8%82%8C%E8%82%89%E7%9A%84%E4%BF%9D%E8%AD%B7%E5%8A%9B"></span>
+
 ## **預防骨質疏鬆的最佳拍檔：肌肉的保護力**
 
 你是否知道肌肉對骨骼健康也有著不可忽視的影響？許多人在談及骨質疏鬆時，往往只想到補充鈣質，卻忽略了肌肉的支撐作用。科學研究表明，肌肉對骨骼的張力能促進骨骼密度的增強，減少骨折風險(註5)。骨骼與肌肉之間有著密切的相互作用，特別是在成年人（約40歲之後），骨骼密度每年會下降約1-3%。此時，如果肌肉質量和力量不足，骨密度下降的速度會進一步加快。
@@ -51,6 +57,8 @@ sourceVerbatim: true
 中醫亦強調“筋骨並重”，《黃帝內經》中提到，保養筋骨需要平衡氣血與肌肉的協調發展，強調運動與飲食兼顧。日常食療中，搭配富含鈣、鎂及維生素D的食材，如芝麻、深綠色蔬菜、牛奶等，能進一步助益骨骼與肌肉的健康(註6)。
 
 想要有效防治骨質疏鬆，從中年起就應開始重視肌肉的鍛鍊與飲食管理。透過日常規律的運動和營養補充，讓身體保持最佳的支撐力與穩定性。
+
+<span id="%E5%A4%A7%E8%85%BF%E8%82%8C%E8%82%89%E5%8A%9B%E9%87%8F%E6%8F%90%E5%8D%87%E6%8C%87%E5%8D%97%EF%BC%9A%E5%81%A5%E5%BA%B7%E5%BE%9E%E2%80%9C%E7%AC%AC%E4%BA%8C%E5%BF%83%E8%87%9F%E2%80%9D%E9%96%8B%E5%A7%8B"></span>
 
 ## **大腿肌肉力量提升指南：健康從“****第二心臟”****開始**
 
@@ -63,6 +71,8 @@ sourceVerbatim: true
 透過肌肉鍛鍊與中醫保健結合，你能擁有更強壯的大腿肌肉，進一步支持身體健康，讓“第二顆心臟”更為強健。
 
 ![](/wp-content/uploads/Muscle-Anti-Aging-Guide4-1024x591.jpg)
+
+<span id="%E6%89%93%E9%80%A0%E5%85%85%E6%BB%BF%E5%8A%9B%E9%87%8F%E8%88%87%E5%B8%8C%E6%9C%9B%E7%9A%84%E6%9C%AA%E4%BE%86"></span>
 
 ## **打造充滿力量與希望的未來**
 
@@ -84,6 +94,8 @@ sourceVerbatim: true
 6.  《黃帝內經·素問·脈要精微論》：“筋骨並重，氣血調和，則身體健康。”
 7.  Sandoo, A., et al. (2021). Muscle pump and its role in lower limb venous circulation: Implications for health and disease. *Circulation Research*, 128(9), 1372-1384. DOI: 10.1161/CIRCRESAHA.120.317500
 8.  《本草綱目．卷十四當歸》：引李杲語曰︰「頭，止血而上行；身，養血而中守；梢，破血而下流；全，活血而不走。」故傳統認為，補血宜用歸身，破血宜用歸尾，和血宜用全歸。
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

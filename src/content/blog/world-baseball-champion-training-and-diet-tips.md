@@ -21,6 +21,8 @@ sourceVerbatim: true
 
 1.  Thomas, D. T., Erdman, K. A., & Burke, L. M. (2016). Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance. *Journal of the Academy of Nutrition and Dietetics*, 116(3), 501-528.
 
+<span id="%E6%A3%92%E7%90%83%E4%B8%96%E7%95%8C%E5%86%A0%E8%BB%8D%E6%88%90%E5%8A%9F%E7%9A%84%E9%97%9C%E9%8D%B5%EF%BC%9A%E8%A8%93%E7%B7%B4%E8%88%87%E9%A3%B2%E9%A3%9F%E7%9A%84%E5%AE%8C%E7%BE%8E%E7%B5%90%E5%90%88"></span>
+
 ## **棒球世界冠軍成功的關鍵：訓練與飲食的完美結合**
 
 在棒球運動中，優秀的選手並非僅靠天賦，而是憑藉長期堅持的訓練計劃與精確的飲食管理，逐步邁向巔峰。訓練計劃的設計如同烹飪時挑選不同食材，必須根據運動員的需求量身打造。以力量訓練為例，根據研究，持續進行高強度間歇訓練（HIIT）有助於提升爆發力與耐力，這是棒球選手快速移動與擊球時不可或缺的能力(註1)。
@@ -32,6 +34,8 @@ sourceVerbatim: true
 **參考文獻**
 
 1.  Helms, E., Aragon, A., & Fitschen, P. (2015). Evidence-based recommendations for natural bodybuilding contest preparation: nutrition and supplementation. *Journal of the International Society of Sports Nutrition*, 12, 20.
+
+<span id="%E9%81%8B%E5%8B%95%E8%A1%A8%E7%8F%BE%E6%8F%90%E5%8D%87%E7%9A%84%E7%A7%91%E5%AD%B8%E5%9F%BA%E7%A4%8E"></span>
 
 ## **運動表現提升的科學基礎**
 
@@ -45,6 +49,8 @@ sourceVerbatim: true
 
 1.  Thomas, D. T., Erdman, K. A., & Burke, L. M. (2016). Position of the Academy of Nutrition and Dietetics, Dietitians of Canada, and the American College of Sports Medicine: Nutrition and Athletic Performance. *Journal of the Academy of Nutrition and Dietetics*, 116(3), 501-528.
 2.  Lavallee, M. E., & Balam, T. (2010). An overview of strength training injuries: acute and chronic. *Current Sports Medicine Reports*, 9(5), 307-313.
+
+<span id="%E6%A3%92%E7%90%83%E9%81%8B%E5%8B%95%E5%93%A1%E7%9A%84%E9%A3%B2%E9%A3%9F%E7%B4%B0%E7%AF%80%E8%88%87%E8%A8%93%E7%B7%B4%E7%AE%A1%E7%90%86"></span>
 
 ## **棒球運動員的飲食細節與訓練管理**
 
@@ -61,6 +67,8 @@ sourceVerbatim: true
 1.  Burke, L. M., Hawley, J. A., Wong, S. H. S., & Jeukendrup, A. E. (2011). Carbohydrates for training and competition. *Journal of Sports Sciences*, 29(sup1), S17-S27.
 2.  《黃帝內經•素問》: 均衡飲食對人體調養的指導原則與應用價值。
 3.  Beelen, M., Burke, L. M., Gibala, M. J., & van Loon, L. J. C. (2010). Nutritional strategies to promote postexercise recovery. *International Journal of Sport Nutrition and Exercise Metabolism*, 20(6), 515-532.
+
+<span id="%E5%B0%88%E5%AE%B6%E5%BB%BA%E8%AD%B0%EF%BC%9A%E5%A6%82%E4%BD%95%E9%81%A9%E6%87%89%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A8%93%E7%B7%B4%E8%88%87%E9%A3%B2%E9%A3%9F%E7%9B%AE%E6%A8%99"></span>
 
 ## **專家建議：如何適應自己的訓練與飲食目標**
 
@@ -80,6 +88,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/棒球世界冠軍的訓練計劃與飲食調理技巧-1024x181.jpg)
 
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E5%BE%9E%E4%BB%8A%E5%A4%A9%E9%96%8B%E5%A7%8B%EF%BC%8C%E7%82%BA%E8%87%AA%E5%B7%B1%E6%88%90%E5%B0%B1%E5%86%A0%E8%BB%8D%E5%81%A5%E5%BA%B7"></span>
+
 ## **結論：從今天開始，為自己成就冠軍健康**
 
 世界冠軍的成功，不僅僅是一場比賽的榮耀，更是無數次堅持與努力的累積。每一次揮棒，每一口精心調理的飲食，都蘊含著他們對自我突破的追求。您是否也想像冠軍一樣，擁有充沛的活力與健康的體魄？
@@ -90,27 +100,39 @@ sourceVerbatim: true
 
 如果您準備好了，現在就是最好的時機，為自己點燃這場健康的革命！
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A%E5%A6%82%E4%BD%95%E9%96%8B%E5%A7%8B%E8%A8%AD%E8%A8%88%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A8%93%E7%B7%B4%E8%A8%88%E5%8A%83%EF%BC%9F"></span>
 
 ### **問題 1****：如何開始設計自己的訓練計劃？**
 
 **回覆：**  
 開始設計訓練計劃時，應考慮自己的目標（如增強體能、減少脂肪或提高比賽表現）。首先，選擇適合的訓練類型，如力量訓練與有氧運動的結合。其次，設定每週的運動頻率，例如每週3至5次，每次30至60分鐘。此外，根據自己的體能水平，循序漸進地增加訓練強度。正如中醫所言：“陰陽調和，筋骨健壯。”注意訓練與休息的平衡，避免過度訓練帶來的身體負擔。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E8%B3%BD%E5%89%8D%E6%87%89%E8%A9%B2%E5%90%83%E4%BB%80%E9%BA%BC%E9%A3%9F%E7%89%A9%E6%89%8D%E8%83%BD%E6%8F%90%E9%AB%98%E8%A1%A8%E7%8F%BE%EF%BC%9F"></span>
+
 ### **問題 2****：賽前應該吃什麼食物才能提高表現？**
 
 **回覆：**  
 賽前3小時建議攝取高碳水化合物、低脂肪、適量蛋白質的食物，如全麥麵包搭配香蕉和蜂蜜。這能提供穩定的能量，避免比賽中出現疲勞。避免高糖分或油膩的食物，因為它們可能引發消化不適或血糖波動。根據《黃帝內經》的觀點，“飲食有節，形乃不弊”，平衡的飲食能幫助身體在比賽中保持最佳狀態。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E5%A4%A9%E7%84%B6%E9%A3%9F%E6%9D%90%E5%8F%AF%E4%BB%A5%E5%B9%AB%E5%8A%A9%E8%A8%93%E7%B7%B4%E5%BE%8C%E6%81%A2%E5%BE%A9%EF%BC%9F"></span>
 
 ### **問題 3****：有哪些天然食材可以幫助訓練後恢復？**
 
 **回覆：**  
 訓練後，選擇富含蛋白質的食物如雞蛋、魚肉，以及含抗氧化劑的蔬果如藍莓和菠菜，可以促進肌肉修復與減少炎症。此外，補充電解質飲品如椰子水，幫助平衡體內鹽分。中醫強調“補陰陽，養氣血”，訓練後選擇滋補的湯品（如雞湯或紅棗湯）也有助於恢復體力。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E9%81%8E%E5%BA%A6%E8%A8%93%E7%B7%B4%E5%B0%8D%E8%BA%AB%E9%AB%94%E7%9A%84%E5%82%B7%E5%AE%B3%EF%BC%9F"></span>
+
 ### **問題 4****：如何避免過度訓練對身體的傷害？**
 
 **回覆：**  
 過度訓練可能導致疲勞、肌肉酸痛或免疫力下降。為避免這些問題，建議每週至少安排一天完全休息，並在高強度訓練後進行拉伸或低強度活動（如瑜伽或散步）。此外，確保充足的睡眠和營養補充，能加速身體恢復。中醫理念中強調“形勞則氣耗”，過度消耗身體需要及時調養以恢復元氣。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9A%E9%81%8B%E5%8B%95%E8%A3%9C%E5%85%85%E5%8A%91%E6%98%AF%E5%90%A6%E5%BF%85%E8%A6%81%EF%BC%9F"></span>
 
 ### **問題 5****：運動補充劑是否必要？**
 

@@ -16,6 +16,10 @@ sourceVerbatim: true
 
 食品中毒預防的核心，關鍵在幾個被反覆驗證有效的習慣。衛生福利部食品藥物管理署長期推廣的「五要原則」，正是把這幾個習慣濃縮成好記的口訣（註1）。這篇文章會用「概念、清單、情境、警訊」的順序，把五要原則、海鮮的腸炎弧菌風險、便當與烤肉的保存細節，以及該送醫的時機，一次講清楚。
 
+<span id="section-0"></span>
+
+<span id="%E4%B8%80%E3%80%81%E5%A4%8F%E5%A4%A9%E7%82%BA%E4%BB%80%E9%BA%BC%E7%89%B9%E5%88%A5%E5%AE%B9%E6%98%93%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%EF%BC%9F"></span>
+
 ## 一、夏天為什麼特別容易食物中毒？
 
 <figure class="article-figure" style="margin: 24px auto; text-align: center;"><img loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 0;" src="https://writer.weiqi.kids/articles/appi.news/%E8%8D%89%E6%9C%AC%E4%B8%8A%E8%86%B3%E9%86%AB%E5%BB%9A-%E5%AD%90%E5%BD%A5(%E9%98%BF%E5%8D%A1%E8%A5%BF%E6%91%BA%E7%96%8A%E7%89%88)/issue-394/images/1.jpg" alt="台灣媽媽在廚房水槽仔細洗手，砧板上生鮮蔬果與海鮮分開擺放" width="1536" height="1024"><figcaption style="font-size: 0.85em; color: #666; margin-top: 8px; line-height: 1.5;">台灣媽媽在廚房水槽仔細洗手，砧板上生鮮蔬果與海鮮分開擺放</figcaption></figure>
@@ -27,6 +31,10 @@ sourceVerbatim: true
 衛福部食藥署也提醒，每年5月到10月是食品中毒的高峰期，原因正是氣溫與濕度同時升高，讓微生物在食材、砧板、手部之間都更容易孳生（註1）。這也是為什麼同樣的便當，冬天放著沒事，夏天卻可能出狀況。
 
 理解「為什麼」比死背「怎麼做」更重要。當你知道風險來自溫度與時間的累積，接下來的五要原則就不再是抽象規定，而是每一步都在對付同一件事：不讓細菌有機會坐大。
+
+<span id="section-1"></span>
+
+<span id="%E4%BA%8C%E3%80%81%E9%A3%9F%E5%AE%89%E4%BA%94%E8%A6%81%EF%BC%9A%E5%BE%9E%E6%B4%97%E6%89%8B%E5%88%B0%E4%BF%9D%E5%AD%98%E6%BA%AB%E5%BA%A6%E7%9A%84%E5%AE%8C%E6%95%B4%E9%98%B2%E7%B7%9A"></span>
 
 ## 二、食安五要：從洗手到保存溫度的完整防線
 
@@ -52,6 +60,10 @@ sourceVerbatim: true
 -   檢查砧板數量，生食與熟食至少各備一塊
 -   把「食品中心溫度70度」記成一個數字，煮海鮮、肉類時多留意熟度而不是只看外觀變色
 
+<span id="section-2"></span>
+
+<span id="%E4%B8%89%E3%80%81%E5%86%B0%E5%93%81%E3%80%81%E6%B5%B7%E9%AE%AE%E3%80%81%E4%BE%BF%E7%95%B6%E3%80%81%E7%83%A4%E8%82%89%EF%BC%9A%E5%9B%9B%E7%A8%AE%E5%A4%8F%E5%AD%A3%E6%83%85%E5%A2%83%E7%9A%84%E9%A3%9F%E5%AE%89%E5%9C%B0%E9%9B%B7"></span>
+
 ## 三、冰品、海鮮、便當、烤肉：四種夏季情境的食安地雷
 
 **冰品、海鮮、便當、烤肉**是夏季食品中毒通報最集中的四種情境，各自的風險點不完全相同。
@@ -61,6 +73,10 @@ sourceVerbatim: true
 ![鍋中烹煮海鮮，插入食物溫度計測量中心溫度](https://writer.weiqi.kids/articles/appi.news/%E8%8D%89%E6%9C%AC%E4%B8%8A%E8%86%B3%E9%86%AB%E5%BB%9A-%E5%AD%90%E5%BD%A5\(%E9%98%BF%E5%8D%A1%E8%A5%BF%E6%91%BA%E7%96%8A%E7%89%88\)/issue-394/images/2.jpg)鍋中烹煮海鮮，插入食物溫度計測量中心溫度四種情境雖然場合不同，但共通的解法其實回到同一件事：讓食物待在安全溫度的時間愈短愈好，生熟食之間的距離愈明確愈好。
 
 <table class="comparison-table" style="width: 100%; border-collapse: collapse; font-size: 0.95em; border: 3px solid #1B5E4B;"><thead><tr><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">情境</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">常見風險點</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">家庭可做的因應</th></tr></thead><tbody><tr><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">冰品／手搖飲</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">冰塊或原料衛生標準不符、貯存逾期</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">選擇店內用水源清楚、標示完整的店家；自製冰品用飲用水並儘速食用</td></tr><tr><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">海鮮料理</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">腸炎弧菌等細菌污染，生食或半熟風險最高</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">中心溫度確實加熱、避免與熟食共用刀具砧板</td></tr><tr><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">便當（外帶或自製）</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">室溫放置過久、保溫效果不足</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">兩小時內食用，若需久放應冷藏並在食用前徹底復熱</td></tr><tr><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">烤肉／露營</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">生熟食共用夾子、戶外保存溫度失控</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">生熟食各用一組夾子與盤子，肉品確認熟透再食用，剩食妥善冷藏</td></tr></tbody></table>
+
+<span id="section-3"></span>
+
+<span id="%E5%9B%9B%E3%80%81%E8%85%B8%E7%82%8E%E5%BC%A7%E8%8F%8C%EF%BC%9A%E8%97%8F%E5%9C%A8%E6%B5%B7%E9%AE%AE%E8%A3%A1%E7%9A%84%E9%9A%B1%E5%BD%A2%E9%A2%A8%E9%9A%AA"></span>
 
 ## 四、腸炎弧菌：藏在海鮮裡的隱形風險
 
@@ -73,6 +89,10 @@ sourceVerbatim: true
 它的潛伏期約4到90小時，平均落在17小時左右，症狀以噁心、嘔吐、腹痛、腹瀉為主，有時合併發燒與發冷（註2）。多數患者可在數天內自行恢復，死亡率低於千分之一，但幼兒、長者與慢性病患者的病程可能較嚴重。
 
 預防的方法很直觀：生鮮魚貝類先用大量自來水清洗，因為腸炎弧菌在攝氏10度以下不易繁殖且容易死亡；烹煮時確保中心溫度足夠且時間充分；熟食與生食的刀具、砧板、餐盤都分開使用（註2）。這幾個步驟，剛好就是食安五要的具體應用，不是另一套新規則。
+
+<span id="section-4"></span>
+
+<span id="%E4%BA%94%E3%80%81%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%97%8F%E7%BE%A4%E8%88%87%E5%B0%B1%E9%86%AB%E8%AD%A6%E8%A8%8A%EF%BC%9A%E4%BB%80%E9%BA%BC%E6%99%82%E5%80%99%E4%B8%8D%E8%83%BD%E5%86%8D%E7%AD%89"></span>
 
 ## 五、高風險族群與就醫警訊：什麼時候不能再等
 
@@ -126,6 +146,10 @@ sourceVerbatim: true
 
 這個夏天，不妨把食安五要貼在廚房或冰箱上，讓每一次用餐，不管是在家、露營還是買杯冰飲，都更安心一點。
 
+<span id="section-5"></span>
+
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB"></span>
+
 ## 參考文獻
 
 1.  衛生福利部（2017）。遵守五要原則，預防食品中毒。[https://www.mohw.gov.tw/cp-3250-29716-1.html](https://www.mohw.gov.tw/cp-3250-29716-1.html)
@@ -133,6 +157,8 @@ sourceVerbatim: true
 3.  World Health Organization. Five Keys to Safer Food. [https://www.who.int/activities/promoting-safe-food-handling/five-key-to-safer-food](https://www.who.int/activities/promoting-safe-food-handling/five-key-to-safer-food)
 4.  元氣網（udn health）。食物中毒怎麼辦？常見食物中毒6類型，原因及症狀詳解。[https://health.udn.com/health/story/6010/7861132](https://health.udn.com/health/story/6010/7861132)
 5.  NOWnews今日新聞。手搖飲品、現做冰品稽查結果揭曉，知名連鎖業者違規遭罰。[https://www.nownews.com/news/5134015](https://www.nownews.com/news/5134015)
+
+<span id="%E8%8D%89%E6%9C%AC%E4%B8%8A%E8%86%B3%E9%86%AB%E5%BB%9A%EF%BC%8D%E9%BB%83%E5%AD%90%E5%BD%A5"></span>
 
 ### 草本上膳醫廚－黃子彥
 

@@ -18,6 +18,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Blueberry-Cognitive-Function1.jpg)
 
+<span id="%E5%B8%B8%E8%A6%BA%E5%BE%97%E8%85%A6%E8%A2%8B%E4%B8%8D%E9%9D%88%E5%85%89%EF%BC%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A9%B2%E5%BE%9E%E9%A4%90%E6%A1%8C%E8%AA%BF%E6%95%B4%EF%BC%9F"></span>
+
 ## **常覺得腦袋不靈光，是不是該從餐桌調整？**
 
 你有沒有發現，最近明明沒熬夜，腦袋卻常常慢半拍？  
@@ -29,6 +31,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Blueberry-Cognitive-Function8.jpg)
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E8%97%8D%E8%8E%93%E5%B8%B8%E8%A2%AB%E6%8F%90%E5%88%B0%E5%92%8C%E8%A8%98%E6%86%B6%E5%8A%9B%E6%9C%89%E9%97%9C%EF%BC%9F"></span>
+
 ## **為什麼藍莓常被提到和記憶力有關？**
 
 你知道嗎？藍莓之所以在「補腦」話題裡反覆被提起，關鍵不在名氣，而在**證據的重複性**。多項隨機對照試驗觀察到，規律攝取藍莓後，受試者在**情節記憶**與**執行功能**的表現出現小幅但一致的改善，這不是單一測驗的巧合，而是跨不同測量工具反覆出現的趨勢（註2）。
@@ -38,6 +42,8 @@ sourceVerbatim: true
 但要提醒的是，效果多半屬於**中等幅度**，且需要時間累積；把它想成長期飲食策略的一塊拼圖，而不是立刻翻轉表現的捷徑，會更貼近真實。
 
 **![](/wp-content/uploads/Blueberry-Cognitive-Function3.jpg)**
+
+<span id="%E5%90%83%E8%97%8D%E8%8E%93%E5%A4%9A%E4%B9%85%EF%BC%8C%E6%89%8D%E5%8F%AF%E8%83%BD%E6%84%9F%E8%A6%BA%E5%88%B0%E8%AE%8A%E5%8C%96%EF%BC%9F"></span>
 
 ## **吃藍莓多久，才可能感覺到變化？**
 
@@ -49,6 +55,8 @@ sourceVerbatim: true
 
 **![](/wp-content/uploads/Blueberry-Cognitive-Function5.jpg)**
 
+<span id="%E8%A3%9C%E8%85%A6%E9%80%99%E4%BB%B6%E4%BA%8B%EF%BC%8C%E8%97%8D%E8%8E%93%E8%A9%B2%E6%94%BE%E5%9C%A8%E4%BB%80%E9%BA%BC%E4%BD%8D%E7%BD%AE%EF%BC%9F"></span>
+
 ## **補腦這件事，藍莓該放在什麼位置？**
 
 說到這裡，其實重點已經慢慢浮現了。你可能發現，藍莓並不是那種「吃了馬上有感」的東西。那它該擺在哪？更像是一道**每天端得上桌、卻不搶戲的配菜**。研究整理指出，規律攝取藍莓，與認知功能、情緒穩定度與腦部相關指標的改善有關，但效果屬於**溫和、累積型**，需要時間與整體生活節奏配合（註4）。
@@ -56,6 +64,8 @@ sourceVerbatim: true
 換個角度想，補腦從來就不是單點工程。睡眠、壓力、活動量，就像廚房裡的火、水、鍋；藍莓比較像那把提味的香料，用得對，整鍋會更平衡，用得再多，也不會自己變主菜。
 
 因此，最公道的期待是：把藍莓當成**支持腦力與血管健康的飲食策略之一**，而不是替代其他關鍵生活因素的捷徑。這樣放位置，反而比較長久，也比較不會失望。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BD%9C%E5%9C%A8%E6%97%A5%E5%B8%B8%E7%9A%84%E7%B8%AB%E9%9A%99%E8%A3%A1%EF%BC%8C%E6%85%A2%E6%85%A2%E6%8A%8A%E8%87%AA%E5%B7%B1%E8%A3%9C%E5%A5%BD"></span>
 
 ## **結論｜在日常的縫隙裡，慢慢把自己補好**
 
@@ -68,6 +78,8 @@ sourceVerbatim: true
 當你願意這樣陪著自己走一段路，改變往往會在你不盯著它的時候出現。你可以從下一次吃水果的時候開始，靜靜觀察身體的反應；若有疑問或新的感受，也歡迎留下來一起討論。《本文將依據最新提問持續更新》
 
 <table style="border-collapse: collapse; width: 100%; border: 3px solid #1F4D3A;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="border: 3px solid #1F4D3A; padding: 10px;">面向</th><th style="border: 3px solid #1F4D3A; padding: 10px;">多數人對「吃藍莓補腦」的期待</th><th style="border: 3px solid #1F4D3A; padding: 10px;">研究實際觀察到的變化</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1F4D3A; padding: 10px;">效果出現速度</td><td style="border: 3px solid #1F4D3A; padding: 10px;">吃了幾天就覺得腦袋變清楚、反應變快</td><td style="border: 3px solid #1F4D3A; padding: 10px;">多數研究需 12 週以上，屬於中長期累積效果</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1F4D3A; padding: 10px;">主觀感受</td><td style="border: 3px solid #1F4D3A; padding: 10px;">應該會有明顯「提神、變聰明」的感覺</td><td style="border: 3px solid #1F4D3A; padding: 10px;">改善多表現在測驗與影像指標，主觀感受不一定強烈</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1F4D3A; padding: 10px;">作用方式</td><td style="border: 3px solid #1F4D3A; padding: 10px;">直接作用在大腦神經</td><td style="border: 3px solid #1F4D3A; padding: 10px;">主要與血管內皮功能、腦部血流調節有關</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1F4D3A; padding: 10px;">影響範圍</td><td style="border: 3px solid #1F4D3A; padding: 10px;">各種腦力都會全面提升</td><td style="border: 3px solid #1F4D3A; padding: 10px;">較一致出現在記憶力、執行功能，非全面性</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1F4D3A; padding: 10px;">劑量期待</td><td style="border: 3px solid #1F4D3A; padding: 10px;">吃越多越有效</td><td style="border: 3px solid #1F4D3A; padding: 10px;">研究多使用約 1 杯／天等量，非越多越好</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1F4D3A; padding: 10px;">對血糖／代謝的影響</td><td style="border: 3px solid #1F4D3A; padding: 10px;">會順便改善血糖、代謝問題</td><td style="border: 3px solid #1F4D3A; padding: 10px;">結果不一致，部分研究未見顯著改變</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1F4D3A; padding: 10px;">安全性想像</td><td style="border: 3px solid #1F4D3A; padding: 10px;">天然食物應該完全沒限制</td><td style="border: 3px solid #1F4D3A; padding: 10px;">整體安全性高，但長期最佳劑量仍在研究中</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1F4D3A; padding: 10px;">在補腦策略中的位置</td><td style="border: 3px solid #1F4D3A; padding: 10px;">可當成主要解方或替代其他調整</td><td style="border: 3px solid #1F4D3A; padding: 10px;">屬於支持型飲食策略的一環，需搭配睡眠與生活節奏</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

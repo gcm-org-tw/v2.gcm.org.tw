@@ -15,6 +15,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="世界自閉症關懷日由來：你知道這個藍色日子背後的故事嗎？World Autism Awareness" width="800" height="450" src="https://www.youtube.com/embed/lkexyExYxF0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E4%B8%96%E7%95%8C%E8%87%AA%E9%96%89%E7%97%87%E9%97%9C%E6%87%B7%E6%97%A5%EF%BC%9A%E4%B8%8D%E5%8F%AA%E6%98%AF%E7%B4%80%E5%BF%B5%EF%BC%8C%E8%80%8C%E6%98%AF%E7%90%86%E8%A7%A3%E8%88%87%E5%90%8C%E8%A1%8C%E7%9A%84%E9%96%8B%E5%A7%8B"></span>
+
 ## **世界自閉症關懷日：不只是紀念，而是理解與同行的開始**
 
 你知道每年的4月2日是世界自閉症關懷日嗎？​這個特別的日子由聯合國大會於2007年通過決議設立，旨在提升全球對自閉症的認識與關注。 ​自2008年首次舉辦以來，世界各地紛紛響應，透過各種活動促進社會對自閉症的理解與包容。​
@@ -27,6 +29,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/World-Autism-Awareness-Day.jpg)
 
+<span id="%E6%99%BA%E6%85%A7%E7%B5%B2%E5%B8%B6%E8%88%87%E4%BA%9E%E6%96%AF%E4%BC%AF%E6%A0%BC%E7%89%B9%E8%B3%AA%EF%BC%9A%E9%82%A3%E4%BA%9B%E8%A2%AB%E5%BF%BD%E7%95%A5%E7%9A%84%E5%85%89%E8%8A%92"></span>
+
 ## **智慧絲帶與亞斯伯格特質：那些被忽略的光芒**
 
 你是否曾注意過那條由紅、黃、藍等多彩拼圖組成的絲帶？​這是自閉症關懷的象徵，旨在展現自閉症族群的多樣性與獨特性。然而，這個符號也引發了一些討論。​有些人認為，拼圖圖案暗示自閉症者缺少某些部分，或是他們是難以理解的謎題。 ​[National Council on Severe Autism+1Reddit+1](https://www.ncsautism.org/blog/the-autism-puzzle-piece-logo-what-it-really-means?utm_source=chatgpt.com)
@@ -37,26 +41,36 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/World-Autism-Awareness-Day4.jpg)
 
+<span id="%E6%8F%90%E9%AB%98%E8%87%AA%E9%96%89%E7%97%87%E8%AA%8D%E8%AD%98%E8%88%87%E6%94%AF%E6%8C%81%EF%BC%9A%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E8%83%BD%E5%81%9A%E7%9A%843%E4%BB%B6%E4%BA%8B"></span>
+
 ## **提高自閉症認識與支持：每個人都能做的3****件事**
 
 你是否想過，自己可以如何為自閉症群體貢獻一份力量？以下是三個具體行動，幫助你提升對自閉症的認識並提供支持：
 
-1.  ### **參與社區活動，推廣自閉症認知**
+1.  <span id="%E5%8F%83%E8%88%87%E7%A4%BE%E5%8D%80%E6%B4%BB%E5%8B%95%EF%BC%8C%E6%8E%A8%E5%BB%A3%E8%87%AA%E9%96%89%E7%97%87%E8%AA%8D%E7%9F%A5"></span>
+    
+    ### **參與社區活動，推廣自閉症認知**
     
 
 積極參與或組織社區內的自閉症相關活動，如研討會、工作坊或募款活動，能有效提升公眾對自閉症的理解與接受度。
 
-1.  ### **創造包容性的環境**
+1.  <span id="%E5%89%B5%E9%80%A0%E5%8C%85%E5%AE%B9%E6%80%A7%E7%9A%84%E7%92%B0%E5%A2%83"></span>
+    
+    ### **創造包容性的環境**
     
 
 在學校、工作場所或公共場合，推動建立對自閉症人士友善的環境。例如，提供感官友善的空間，減少強烈的聲光刺激，或設置清楚的指示標誌，協助自閉症人士更自在地融入社會。
 
-1.  ### **支持自閉症相關組織**
+1.  <span id="%E6%94%AF%E6%8C%81%E8%87%AA%E9%96%89%E7%97%87%E7%9B%B8%E9%97%9C%E7%B5%84%E7%B9%94"></span>
+    
+    ### **支持自閉症相關組織**
     
 
 透過捐款、志願服務或參與倡導活動，直接支持自閉症相關的非營利組織，協助他們提供資源與服務，改善自閉症人士及其家庭的生活品質。
 
 透過以上行動，你不僅能夠增進對自閉症的了解，還能實際支持自閉症群體，促進社會的包容與多元。
+
+<span id="%E8%AE%93%E4%B8%96%E7%95%8C%E8%87%AA%E9%96%89%E7%97%87%E9%97%9C%E6%87%B7%E6%97%A5%EF%BC%8C%E6%88%90%E7%82%BA%E6%88%91%E5%80%91%E6%97%A5%E5%B8%B8%E9%97%9C%E6%87%B7%E7%9A%84%E6%8F%90%E9%86%92"></span>
 
 ## **讓世界自閉症關懷日，成為我們日常關懷的提醒**
 
@@ -70,6 +84,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/World-Autism-Awareness-Day5.jpg)
 
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E9%BB%9E%E4%BA%AE%E8%97%8D%E7%87%88%E7%9A%84%E9%82%A3%E4%B8%80%E5%88%BB%EF%BC%8C%E4%B9%9F%E9%BB%9E%E4%BA%AE%E4%BA%86%E7%90%86%E8%A7%A3%E7%9A%84%E6%98%9F%E7%A9%BA"></span>
+
 ## **結論：點亮藍燈的那一刻，也點亮了理解的星空**
 
 自閉症，就像一幅浩瀚無邊的星圖。每一位自閉症者，都是一顆不依慣性運行、卻閃耀獨特光芒的星星。他們的語言節奏、思考方式、情感表達或許與我們不同，卻也正因此，在某些角落閃爍出無可取代的才華與堅韌。
@@ -80,22 +96,32 @@ sourceVerbatim: true
 
 <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; border: 3px solid #264653;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="padding: 12px; border: 3px solid #264653;">比較項目</th><th style="padding: 12px; border: 3px solid #264653;">世界自閉症關懷日</th><th style="padding: 12px; border: 3px solid #264653;">自閉症光譜（ASD）理解</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #264653;">設立由來</td><td style="padding: 10px; border: 3px solid #264653;">聯合國於2007年通過決議，2008年起訂為4月2日</td><td style="padding: 10px; border: 3px solid #264653;">透過臨床觀察與神經學研究建立，屬於神經發展狀況</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #264653;">象徵意義</td><td style="padding: 10px; border: 3px solid #264653;">藍色燈光代表平靜、支持與尊重；智慧絲帶象徵多元與潛能</td><td style="padding: 10px; border: 3px solid #264653;">星星比喻常用於形容其獨特節奏與能力差異</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #264653;">社會參與形式</td><td style="padding: 10px; border: 3px solid #264653;">換上藍色服飾、參與點燈活動、社群宣導、自閉症教育</td><td style="padding: 10px; border: 3px solid #264653;">推動包容性教育、家庭支持系統、公共環境適應設計</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #264653;">常見誤解</td><td style="padding: 10px; border: 3px solid #264653;">僅是一日活動、形式宣傳</td><td style="padding: 10px; border: 3px solid #264653;">自閉症=低能、難以溝通、無社交能力等刻板印象</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #264653;">推薦行動</td><td style="padding: 10px; border: 3px solid #264653;">每年參與活動、關注議題、轉發內容以擴散認識</td><td style="padding: 10px; border: 3px solid #264653;">平日以接納、理解、調整互動方式支持自閉症者</td></tr></tbody></table>
 
+<span id="5_%E5%80%8B%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **5** **個常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E8%87%AA%E9%96%89%E7%97%87%E6%98%AF%E7%B2%BE%E7%A5%9E%E7%96%BE%E7%97%85%E5%97%8E%EF%BC%9F%E6%87%89%E8%A9%B2%E7%9C%8B%E5%BF%83%E7%90%86%E9%86%AB%E5%B8%AB%E9%82%84%E6%98%AF%E7%A5%9E%E7%B6%93%E7%A7%91%E9%86%AB%E5%B8%AB%EF%BC%9F"></span>
 
 ### **問題1****：自閉症是精神疾病嗎？應該看心理醫師還是神經科醫師？**
 
 **回覆：**  
 自閉症不是精神疾病，而是一種神經發展狀況，屬於「自閉症光譜障礙（ASD）」。它主要影響的是語言溝通、社交互動與行為表現。通常由**兒童精神科醫師或小兒神經科醫師**進行診斷，也可結合語言治療師與職能治療師的協助。別擔心，「理解」比「標籤」更重要。現代醫學與社會資源已越來越強調支持與陪伴，而非單純治療。
 
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E4%B8%96%E7%95%8C%E8%87%AA%E9%96%89%E7%97%87%E9%97%9C%E6%87%B7%E6%97%A5%E7%9A%84%E3%80%8C%E8%97%8D%E8%89%B2%E7%87%88%E5%85%89%E3%80%8D%E5%88%B0%E5%BA%95%E4%BB%A3%E8%A1%A8%E4%BB%80%E9%BA%BC%EF%BC%9F"></span>
+
 ### **問題2****：世界自閉症關懷日的「藍色燈光」到底代表什麼？**
 
 **回覆：**  
 藍色燈光象徵「平靜、穩定與希望」，是在2008年開始由美國自閉症倡議組織推動的全球點燈行動，希望大家以正向溫暖的方式理解與支持自閉症族群。藍色也反映出許多自閉症兒童喜愛的色彩之一，有助於降低感官刺激帶來的不適。這道藍光，其實是一種無聲的擁抱，邀請我們走近、而不是遠離。
 
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E6%88%91%E7%9A%84%E5%AD%A9%E5%AD%90%E6%9C%89%E4%BA%9E%E6%96%AF%E4%BC%AF%E6%A0%BC%E7%89%B9%E8%B3%AA%EF%BC%8C%E9%80%99%E7%AE%97%E6%98%AF%E8%87%AA%E9%96%89%E7%97%87%E5%97%8E%EF%BC%9F%E6%9C%83%E9%9C%80%E8%A6%81%E6%B2%BB%E7%99%82%E5%97%8E%EF%BC%9F"></span>
+
 ### **問題3****：我的孩子有亞斯伯格特質，這算是自閉症嗎？會需要治療嗎？**
 
 **回覆：**  
 亞斯伯格症候群過去被認為是獨立分類，但目前已納入自閉症光譜的一部分。這些孩子通常智力正常，甚至在特定領域表現出色，但在人際互動與情緒理解上較有挑戰。是否需要「治療」，取決於孩子是否在生活、學習或社交方面出現困難。建議與**專業團隊合作進行功能性評估與早期介入**，不僅幫助孩子發揮潛能，也能減少成長中的挫折感。
+
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E9%99%A4%E4%BA%86%E5%8F%83%E5%8A%A0%E6%B4%BB%E5%8B%95%EF%BC%8C%E6%88%91%E9%82%84%E8%83%BD%E6%80%8E%E9%BA%BC%E6%94%AF%E6%8C%81%E8%87%AA%E9%96%89%E7%97%87%E6%97%8F%E7%BE%A4%EF%BC%9F"></span>
 
 ### **問題4****：除了參加活動，我還能怎麼支持自閉症族群？**
 
@@ -107,6 +133,8 @@ sourceVerbatim: true
 3.  **鼓勵社區共融**：在學校、職場或生活中，推動更包容的政策與環境。
 
 正如中醫強調「順其性，養其勢」，每個人都值得在自己的節奏中被理解與接納。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E8%87%AA%E9%96%89%E7%97%87%E6%97%8F%E7%BE%A4%E7%9C%9F%E7%9A%84%E6%9C%89%E7%89%B9%E5%88%A5%E7%9A%84%E5%A4%A9%E8%B3%A6%E5%97%8E%EF%BC%9F%E9%82%84%E6%98%AF%E5%8F%AA%E6%98%AF%E5%82%B3%E8%AA%AA%EF%BC%9F"></span>
 
 ### **問題5****：自閉症族群真的有特別的天賦嗎？還是只是傳說？**
 

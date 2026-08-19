@@ -14,6 +14,8 @@ legacyPath: "/blog/high-heels-plantar-fasciitis-prevention/"
 sourceVerbatim: true
 ---
 
+<span id="%E4%BD%A0%E6%AF%8F%E5%A4%A9%E7%A9%BF%E7%9A%84%E9%9E%8B%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%AD%A3%E5%9C%A8%E9%BB%98%E9%BB%98%E5%82%B7%E5%AE%B3%E4%BD%A0%E7%9A%84%E9%9B%99%E8%85%B3"></span>
+
 ## **你每天穿的鞋，可能正在默默傷害你的雙腳**
 
 身為一名物理治療師，我常常接觸到許多因足底疼痛而前來復健的患者，而其中一種常見的原因就是**足底筋膜炎**。這種疼痛雖然看似小毛病，但如果不積極處理，會嚴重影響往後的日常活動，更令人遺憾的是，許多患者的足底筋膜炎與他們長期穿著不適當的鞋子有關，而其中「高跟鞋」是最常見的元兇之一。
@@ -22,9 +24,13 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/high-heels-plantar-fasciitis-prevention_11zon.webp)
 
+<span id="%E4%BB%80%E9%BA%BC%E6%98%AF%E8%B6%B3%E5%BA%95%E7%AD%8B%E8%86%9C%E7%82%8E%EF%BC%9F"></span>
+
 ### **什麼是足底筋膜炎？**
 
 足底筋膜是一片從腳跟延伸至腳掌前端的纖維組織，主要的作用是支撐足弓並吸收步行或跑步時產生的衝擊。當它持續的過度拉扯、壓力過大或長期不當使用就容易引起發炎，這個發炎反應就是常聽到的**足底筋膜炎（Plantar Fasciitis）**。
+
+<span id="%E8%B6%B3%E5%BA%95%E7%AD%8B%E8%86%9C%E7%82%8E%E5%B8%B8%E8%A6%8B%E7%97%87%E7%8B%80%E5%8C%85%E6%8B%AC%EF%BC%9A"></span>
 
 ### **足底筋膜炎常見症狀包括：**
 
@@ -33,9 +39,13 @@ sourceVerbatim: true
 -   腳底特定區域（多為腳跟內側）出現壓痛
 -   久坐後再起身活動會有足底疼痛情形
 
+<span id="%E8%B6%B3%E5%BA%95%E7%AD%8B%E8%86%9C%E7%82%8E%E8%88%87%E7%A9%BF%E9%9E%8B%E7%9A%84%E9%97%9C%E8%81%AF"></span>
+
 ### **足底筋膜炎與穿鞋的關聯**
 
 足底筋膜炎的成因眾多，其中「穿鞋習慣」是常見造成影響的原因之一。當鞋子無法提供足夠的足弓支撐、避震或過度壓迫足部時，足底筋膜就容易發炎。
+
+<span id="%E4%BB%A5%E4%B8%8B%E6%98%AF%E5%B9%BE%E7%A8%AE%E5%B8%B8%E8%A6%8B%E6%9C%83%E5%BC%95%E7%99%BC%E8%B6%B3%E5%BA%95%E7%AD%8B%E8%86%9C%E7%82%8E%E7%9A%84%E7%A9%BF%E9%9E%8B%E7%BF%92%E6%85%A3%EF%BC%9A"></span>
 
 ### **以下是幾種常見會引發足底筋膜炎的穿鞋習慣：**
 
@@ -45,9 +55,13 @@ sourceVerbatim: true
 4.  **鞋頭(楦頭)過窄，擠壓前腳掌根腳趾**
 5.  **缺乏避震功能的老舊鞋款**
 
+<span id="%E7%A9%BF%E9%9E%8B%E7%BF%92%E6%85%A3%E5%A6%82%E4%BD%95%E5%BD%B1%E9%9F%BF%E8%B6%B3%E5%BA%95%E7%AD%8B%E8%86%9C%E7%82%8E%EF%BC%9F"></span>
+
 ### **穿鞋習慣如何影響足底筋膜炎？**
 
 不合適的鞋子往往會改變足部的負重方式。如高跟鞋會在後跟墊高，足部的重心自然會往前移動，造成前足過度受力，同時也會拉長足底筋膜。長時間下來，足底筋膜無法負荷，就容易發炎。此外，許多鞋頭過窄的鞋子，也會擠壓足部，導致其他問題如拇趾外翻或小趾疼痛的症狀。
+
+<span id="%E7%A9%BF%E8%91%97%E9%AB%98%E8%B7%9F%E9%9E%8B%E5%B0%B1%E4%B8%80%E5%AE%9A%E6%9C%83%E5%82%B7%E8%85%B3%E5%97%8E%EF%BC%9F"></span>
 
 ## **  
 穿著高跟鞋就一定會傷腳嗎？**
@@ -66,6 +80,8 @@ sourceVerbatim: true
     -   防止腳趾擠壓變形，也有助於血液循環。
 5.  **有避震中底（如PU、EVA等材質）**
     -   能吸收行走時產生的衝擊，保護足底。
+
+<span id="%E7%89%A9%E7%90%86%E6%B2%BB%E7%99%82%E5%B8%AB%E5%BB%BA%E8%AD%B0%EF%BC%9A%E5%A6%82%E4%BD%95%E7%A9%BF%E9%AB%98%E8%B7%9F%E9%9E%8B%E4%B8%8D%E5%82%B7%E8%85%B3%EF%BC%9F"></span>
 
 ## **物理治療師建議：如何穿高跟鞋不傷腳？**
 
@@ -86,6 +102,8 @@ sourceVerbatim: true
 
 <table style="border-collapse: collapse; width: 100%; max-width: 980px;" border="1" cellspacing="0" cellpadding="8"><thead><tr><th style="width: 26%;">分類</th><th style="width: 46%;">重點原則</th><th style="width: 28%;">目的／好處</th></tr></thead><tbody><tr><td style="text-align: center;" rowspan="5"><strong>適合的高跟鞋條件</strong></td><td>鞋跟高度 ≤ 3 cm</td><td>減少跟腱拉力，重心不過度前移。</td></tr><tr><td>後跟寬穩（粗跟或楔形跟）</td><td>提升穩定度，降低扭傷風險。</td></tr><tr><td>鞋墊具足弓支撐</td><td>分散足底壓力，減輕筋膜負擔。</td></tr><tr><td>鞋頭空間充足</td><td>避免趾部擠壓變形，促進血循。</td></tr><tr><td>中底具避震材質（PU、EVA）</td><td>吸收衝擊，保護足底與關節。</td></tr><tr><td style="text-align: center;" rowspan="5"><strong>穿高跟鞋護足守則</strong></td><td>每日穿著時間 &lt; 4 小時</td><td>避免久站，降低足底、腰膝負擔。</td></tr><tr><td>備一雙舒適平底鞋</td><td>通勤與長距離步行時可替換，讓足部休息。</td></tr><tr><td>每日足底／小腿伸展</td><td>腳底滾球、拉筋可舒緩筋膜緊繃。</td></tr><tr><td>交替不同高度鞋款</td><td>避免足部長期固定同角度，預防肌力失衡。</td></tr><tr><td>使用足弓／減壓鞋墊</td><td>補足支撐與避震，進一步保護足底。</td></tr></tbody></table>
 
+<span id="%E5%A6%82%E6%9E%9C%E8%B6%B3%E5%BA%95%E7%AD%8B%E8%86%9C%E7%82%8E%E5%B7%B2%E7%B6%93%E7%99%BC%E7%94%9F%E4%BA%86%E5%8F%88%E8%A9%B2%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F"></span>
+
 ## **如果足底筋膜炎已經發生了又該怎麼辦？**
 
 如果你已經感覺到如腳底刺痛或早晨起床時腳跟疼痛這些類似足底筋膜炎的症狀，建議盡早就醫檢查，並可參考以下物理治療建議：
@@ -95,6 +113,8 @@ sourceVerbatim: true
 -   **貼紮技術（如肌內效貼布）**：減少足底張力
 -   **步態分析與鞋墊訂製**：根據個人步態設計支撐鞋墊
 -   **改變穿鞋習慣與日常姿勢**
+
+<span id="%E8%AD%B7%E8%B6%B3%E5%BE%9E%E6%AF%8F%E5%A4%A9%E9%81%B8%E5%B0%8D%E9%9E%8B%E9%96%8B%E5%A7%8B"></span>
 
 ## **護足從每天選對鞋開始**
 

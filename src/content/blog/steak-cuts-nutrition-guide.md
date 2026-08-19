@@ -21,11 +21,15 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="史迪克牛排【成功人士為什麼愛吃牛排？】巴菲特、貝佐斯都超愛 #巴菲特 #貝佐斯 #富總推薦#台中美食 #台中必吃 #台中親子#史迪克先生 #牛排控 #品牌行銷 #台中牛排#找富總生意好#台中餐廳" width="563" height="1000" src="https://www.youtube.com/embed/ynojkq-f7gM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E5%A6%82%E4%BD%95%E6%A0%B9%E6%93%9A%E7%87%9F%E9%A4%8A%E5%83%B9%E5%80%BC%E9%81%B8%E6%93%87%E7%89%9B%E6%8E%92%E9%83%A8%E4%BD%8D"></span>
+
 ## **如何根據營養價值選擇牛排部位**
 
 你知道嗎？不同牛排部位的高蛋白與鐵質含量差異，其實像是為身體量身訂製的保健方程式。牛排部位推薦及營養價值中，菲力因含蛋白質高達26 g／100 g，最適合運動後增肌修復；而肋眼則富含3.5 mg／100 g的鐵質，可助氣血循環，讓你元氣滿滿 (註1)。若想兼顧美味與嚼勁，嫩肩沙朗的筋膜與油花平衡，咀嚼時能釋放深層風味，像是在味蕾上演微型舞台。別小看這一點：過度攝取高脂部位，可能造成飽和脂肪過量，建議每餐控制在100–150 g並搭配青蔬，如芥藍或蘆筍，平衡膳食。想要用料理中的「藥材效應」，可在煎封前抹些迷迭香與蒜片，既去腥又活血行氣，讓牛排成為你最安心的防護盾。
 
 ![](/wp-content/uploads/Steak-Cuts-Nutrition-Guide2.jpg)
+
+<span id="%E7%89%9B%E6%8E%92%E8%88%87%E8%B1%AC%E8%82%89%E7%86%9F%E5%BA%A6%E5%AE%89%E5%85%A8%E5%B7%AE%E7%95%B0%E6%8F%AD%E7%A7%98"></span>
 
 ## **牛排與豬肉熟度安全差異揭秘**
 
@@ -33,15 +37,21 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Steak-Cuts-Nutrition-Guide3.jpg)
 
+<span id="%E7%83%B9%E8%AA%BF%E4%BF%9D%E7%95%99%E7%87%9F%E9%A4%8A%E8%88%87%E9%A2%A8%E5%91%B3%E7%9A%84%E4%B8%AD%E8%A5%BF%E5%90%88%E7%92%A7%E6%B3%95"></span>
+
 ## **烹調保留營養與風味的中西合璧法**
 
 你想在家也能煎出既保留營養又鮮嫩多汁的牛排嗎？採用西式煎封搭配中式蔥薑去腥，是本篇「牛排部位推薦及營養價值全攻略」中必學的中西合璧法。先以少許橄欖油中火加熱，將牛排表面迅速鎖住肉汁；接著放上蔥段與薑片同煎，既能去腥又有活血行氣的作用，宛如給牛排穿上防護罩。煎至內層63 °C後，務必靜置3分鐘，讓肉汁在切面間回潮，口感更均勻。（註4）
 
 別小看火候掌握：過高溫度或長時間烹煮，會破壞不飽和脂肪與水溶性維生素，產生異環胺和烷基多環芳香族碳氫化合物，反而讓營養打折扣（註5）。建議低油嫩煎，每面2–3分鐘，避免反覆翻面，並搭配以蒸或微波輔助的輕烹方式，最大限度減少養分流失。最後與芥藍或蘆筍同盤，不僅補充纖維，更能提升整體膳食平衡。這樣的烹調步驟，就像用廚房裡的細膩工法，為你的健康按下「封存鮮味」鍵。
 
+<span id="%E4%B8%89%E6%AC%BE%E4%BA%BA%E6%B0%A3%E7%89%9B%E6%8E%92%E9%83%A8%E4%BD%8D%E6%8E%A8%E8%96%A6"></span>
+
 ## **三款人氣牛排部位推薦**
 
 在「牛排部位推薦及營養價值全攻略」中，美國特選牛肉（USDA Prime）以絕佳的大理石花紋著稱，每100 g提供約26 g優質蛋白與18 g油花，油脂香氣與肉質鮮嫩並存，適合追求「豐富風味」與適度補充蛋白的你（註6）。若想「低脂增肌兼顧美味」，紐西蘭普羅旺斯菲力（菲力）是不二之選：脂肪僅5–7 g，蛋白質高達28 g，入口即化卻能迅速飽足（註7）。最後，嫩肩沙朗因筋膜與油花平衡，嚼勁十足，蛋白與脂肪比例適中，特別適合想在口感與營養間取得最佳平衡的饕客。選對部位後，搭配前述中西合璧烹調法，讓牛排在保留營養的同時，也能綻放最美味的層次。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E5%B9%B3%E8%A1%A1%E6%BB%8B%E9%A4%8A%EF%BC%8C%E5%BE%9E%E5%88%87%E5%89%B2%E5%88%B0%E9%A0%93%E6%82%9F"></span>
 
 ## **結論：平衡滋養，從切割到頓悟**
 
@@ -65,6 +75,8 @@ sourceVerbatim: true
 7.  Moughan PJ, Wolfe RR. Red Meat Amino Acids for Beginners: A Narrative Review. *Journal of Nutrition*. 2019;149(6):1001–1012. PMC11946737. [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11946737/?utm_source=chatgpt.com)
 
 <table style="border-collapse: collapse; border: 3px solid #006400;"><thead><tr><th style="background-color: #2a9d8f; color: #ffffff; font-weight: bold; border: 3px solid #006400; padding: 8px;">部位</th><th style="background-color: #2a9d8f; color: #ffffff; font-weight: bold; border: 3px solid #006400; padding: 8px;">蛋白質 (g/100g)</th><th style="background-color: #2a9d8f; color: #ffffff; font-weight: bold; border: 3px solid #006400; padding: 8px;">脂肪 (g/100g)</th><th style="background-color: #2a9d8f; color: #ffffff; font-weight: bold; border: 3px solid #006400; padding: 8px;">推薦熟度</th><th style="background-color: #2a9d8f; color: #ffffff; font-weight: bold; border: 3px solid #006400; padding: 8px;">推薦用途</th></tr></thead><tbody><tr style="background-color: #d4e9e2;"><td style="border: 3px solid #006400; padding: 8px; color: #333333;">美國特選牛肉 (USDA Prime)</td><td style="border: 3px solid #006400; padding: 8px; color: #333333;">26</td><td style="border: 3px solid #006400; padding: 8px; color: #333333;">18</td><td style="border: 3px solid #006400; padding: 8px; color: #333333;">63 °C / 五分熟</td><td style="border: 3px solid #006400; padding: 8px; color: #333333;">豐富油花，風味濃郁</td></tr><tr style="background-color: #ffffff;"><td style="border: 3px solid #006400; padding: 8px; color: #333333;">紐西蘭普羅旺斯菲力 (菲力)</td><td style="border: 3px solid #006400; padding: 8px; color: #333333;">28</td><td style="border: 3px solid #006400; padding: 8px; color: #333333;">6</td><td style="border: 3px solid #006400; padding: 8px; color: #333333;">63 °C / 五分熟</td><td style="border: 3px solid #006400; padding: 8px; color: #333333;">低脂高蛋白，增肌首選</td></tr><tr style="background-color: #d4e9e2;"><td style="border: 3px solid #006400; padding: 8px; color: #333333;">嫩肩沙朗 (Sirloin)</td><td style="border: 3px solid #006400; padding: 8px; color: #333333;">24</td><td style="border: 3px solid #006400; padding: 8px; color: #333333;">12</td><td style="border: 3px solid #006400; padding: 8px; color: #333333;">63 °C / 五分熟</td><td style="border: 3px solid #006400; padding: 8px; color: #333333;">平衡口感，嚼勁十足</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E8%A9%B3%E7%B4%B0%E5%9B%9E%E8%A6%86"></span>
 
 ## 常見問題與詳細回覆
 

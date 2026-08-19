@@ -12,6 +12,8 @@ legacyPath: "/blog/neck-pain-headache-prevention/"
 sourceVerbatim: true
 ---
 
+<span id="%E6%9C%AC%E6%96%87%E9%87%8D%E9%BB%9E"></span>
+
 ## 本文重點
 
 -   靜態姿勢讓肌肉持續收縮、血流受阻，這是疼痛的直接來源
@@ -36,6 +38,10 @@ sourceVerbatim: true
 ![一名女性在辦公室中雙手交叉胸前、閉眼頭微仰，身體語言顯示頸肩緊繃與疲憊](https://images.unsplash.com/photo-1685541087053-c9cab78e4a9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4ODgwMzN8MHwxfHNlYXJjaHwyfHxvZmZpY2UlMjB3b3JrZXIlMjBuZWNrJTIwcGFpbnxlbnwwfDB8fHwxNzc2Njg4NTc2fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 * * *
+
+<span id="section-0"></span>
+
+<span id="%E4%B8%80%E3%80%81%E7%82%BA%E4%BB%80%E9%BA%BC%E9%9B%BB%E8%85%A6%E6%97%8F%E7%89%B9%E5%88%A5%E5%AE%B9%E6%98%93%E3%80%8C%E9%8E%96%E4%BD%8F%E3%80%8D%E8%82%A9%E9%A0%B8%EF%BC%9F"></span>
 
 ## 一、為什麼電腦族特別容易「鎖住」肩頸？
 
@@ -64,6 +70,10 @@ sourceVerbatim: true
 
 * * *
 
+<span id="section-1"></span>
+
+<span id="%E4%BA%8C%E3%80%81%E7%BF%92%E6%85%A3%E4%B8%80%EF%BC%9A%E8%AE%93%E5%B7%A5%E4%BD%9C%E7%AB%99%E6%9B%BF%E4%BD%A0%E3%80%8C%E6%89%98%E4%BD%8F%E3%80%8D%E9%A0%B8%E6%A4%8E"></span>
+
 ## 二、習慣一：讓工作站替你「托住」頸椎
 
 ![現代雙螢幕人體工學辦公桌設置，搭配螢幕架、筆電與人體工學椅，整齊有序](https://images.unsplash.com/photo-1759322945173-76b604965b2f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4ODgwMzN8MHwxfHNlYXJjaHwxfHxlcmdvbm9taWMlMjB3b3Jrc3RhdGlvbiUyMGRlc2slMjBzZXR1cHxlbnwwfDB8fHwxNzc2Njg4NTc2fDA&ixlib=rb-4.1.0&q=80&w=1080)
@@ -85,6 +95,10 @@ sourceVerbatim: true
 > 「符合個人人體測量學的工作站調整，能顯著降低頸部、肩膀、上背及腕部的疼痛強度，但對下背和手肘的效果有限——這提醒我們，人體工學介入需要針對具體症狀部位精準設計。」——《Industrial Health》2021 年隨機對照試驗（Lee et al.）
 > 
 > * * *
+
+<span id="section-2"></span>
+
+<span id="%E4%B8%89%E3%80%81%E7%BF%92%E6%85%A3%E4%BA%8C%EF%BC%9A%E6%AF%8F%E5%B0%8F%E6%99%82%E5%8B%95%E4%B8%80%E6%AC%A1%EF%BC%8C%E6%8A%8A%E5%A3%9E%E5%A7%BF%E5%8B%A2%E7%9A%84%E6%95%88%E6%87%89%E3%80%8C%E6%B8%85%E9%9B%B6%E3%80%8D"></span>
 
 ## 三、習慣二：每小時動一次，把壞姿勢的效應「清零」
 
@@ -117,6 +131,10 @@ sourceVerbatim: true
 -   執行門檻幾乎為零，是三個習慣中最容易立即開始的
 
 * * *
+
+<span id="section-3"></span>
+
+<span id="%E5%9B%9B%E3%80%81%E7%BF%92%E6%85%A3%E4%B8%89%EF%BC%9A%E5%9B%BA%E5%AE%9A%E9%A0%B8%E8%82%A9%E9%81%8B%E5%8B%95%EF%BC%8C%E5%BE%9E%E6%A0%B9%E6%9C%AC%E5%BC%B7%E5%8C%96%E6%94%AF%E6%92%90"></span>
 
 ## 四、習慣三：固定頸肩運動，從根本強化支撐
 
@@ -168,6 +186,10 @@ sourceVerbatim: true
     坐在椅子上，雙手交叉抱頸後，上背緩慢向後仰過椅背，維持 10 秒，重複 5 次。改善胸椎活動度，減少頸椎代償負荷。
 
 * * *
+
+<span id="section-4"></span>
+
+<span id="%E4%BA%94%E3%80%81%E4%BD%A0%E7%9A%84%E9%A0%AD%E7%97%9B%EF%BC%8C%E5%8F%AF%E8%83%BD%E5%BE%9E%E8%84%96%E5%AD%90%E9%96%8B%E5%A7%8B"></span>
 
 ## 五、你的頭痛，可能從脖子開始
 
@@ -229,6 +251,10 @@ sourceVerbatim: true
 人體工學調整通常最快有感——調整到符合個人比例的工作站後，幾天之內肌肉負荷就開始改變。運動方面，6 週的訓練就能有可量測的改善（斜方肌張力下降、自覺不適降低）（註5）；12 週時效果更明顯（頸痛強度降低 36%）（註1、6）。但最重要的前提是：\*\*運動效益需要持續維持\*\*（註6）——這不是「做一陣子就好」的事。
 
 * * *
+
+<span id="section-5"></span>
+
+<span id="%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99"></span>
 
 ## 參考資料
 

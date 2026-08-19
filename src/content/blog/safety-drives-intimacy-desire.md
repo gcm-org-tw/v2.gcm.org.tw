@@ -12,6 +12,8 @@ legacyPath: "/blog/safety-drives-intimacy-desire/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80%EF%BD%9C%E5%AE%89%E5%85%A8%E6%84%9F%EF%BC%8C%E5%A6%82%E4%BD%95%E6%88%90%E7%82%BA%E8%A6%AA%E5%AF%86%E8%A3%A1%E6%9C%80%E5%BC%B7%E7%9A%84%E5%88%BA%E6%BF%80"></span>
+
 ## **引言｜安全感，如何成為親密裡最強的刺激**
 
 你可能以為，親密關係裡最讓人著迷的，是刺激、強度，  
@@ -45,6 +47,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Safety-Drives-Intimacy-Desire1.jpg)
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E5%AE%89%E5%85%A8%E6%84%9F%EF%BC%8C%E6%9C%83%E6%88%90%E7%82%BA%E8%A6%AA%E5%AF%86%E8%A3%A1%E6%9C%80%E5%BC%B7%E7%9A%84%E5%88%BA%E6%BF%80%EF%BC%9F"></span>
+
 ## **為什麼安全感，會成為親密裡最強的刺激？**
 
 你有沒有想過，  
@@ -67,6 +71,8 @@ sourceVerbatim: true
 
 近年的研究也指出，安全依附與較佳的情緒調節能力、關係滿意度與心理安全高度相關，而依附焦慮或逃避者，則更容易在親密互動中出現失衡與不信任（註1）（註2）。  
 別小看這一點，安全感不是配角，它往往才是親密真正開始的地方。
+
+<span id="%E7%95%8C%E7%B7%9A%E5%9C%A8%E6%AC%8A%E5%8A%9B%E4%BA%92%E5%8B%95%E4%B8%AD%EF%BC%8C%E7%9C%9F%E6%AD%A3%E6%89%AE%E6%BC%94%E4%BB%80%E9%BA%BC%E8%A7%92%E8%89%B2%EF%BC%9F"></span>
 
 ## **界線在權力互動中，真正扮演什麼角色？**
 
@@ -93,6 +99,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Safety-Drives-Intimacy-Desire3.jpg)
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E8%B6%8A%E6%A8%A1%E7%B3%8A%E7%9A%84%E7%95%8C%E7%B7%9A%EF%BC%8C%E9%A2%A8%E9%9A%AA%E5%8F%8D%E8%80%8C%E8%B6%8A%E9%AB%98%EF%BC%9F"></span>
+
 ## **為什麼越模糊的界線，風險反而越高？**
 
 你有沒有發現，  
@@ -115,6 +123,8 @@ sourceVerbatim: true
 別小看這一點。  
 界線模糊，不會讓關係更自由，  
 只會讓風險悄悄升高。
+
+<span id="%E5%A6%82%E4%BD%95%E7%94%A8%E3%80%8C%E4%BA%8B%E5%89%8D%E3%80%81%E4%BA%8B%E4%B8%AD%E3%80%81%E4%BA%8B%E5%BE%8C%E3%80%8D%E5%AE%88%E4%BD%8F%E5%BF%83%E7%90%86%E5%AE%89%E5%85%A8%EF%BC%9F"></span>
 
 ## **如何用「事前、事中、事後」守住心理安全？**
 
@@ -141,6 +151,8 @@ sourceVerbatim: true
 
 安全感，從來不是一個瞬間。  
 它是在每一次被尊重、被承接的經驗中，慢慢長出來的。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E6%8A%8A%E5%AE%89%E5%85%A8%E6%84%9F%EF%BC%8C%E6%94%BE%E5%9B%9E%E8%A6%AA%E5%AF%86%E7%9A%84%E4%B8%AD%E5%BF%83"></span>
 
 ## **結論：把安全感，放回親密的中心**
 
@@ -177,27 +189,39 @@ sourceVerbatim: true
 
 <table style="border-collapse: collapse; width: 100%; border: 3px solid #1f4f45;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="border: 3px solid #1f4f45; padding: 12px;">比較面向</th><th style="border: 3px solid #1f4f45; padding: 12px;">短期刺激取向</th><th style="border: 3px solid #1f4f45; padding: 12px;">長期信任取向</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1f4f45; padding: 10px;">核心追求</td><td style="border: 3px solid #1f4f45; padding: 10px;">當下強度、感官衝擊、快速升溫</td><td style="border: 3px solid #1f4f45; padding: 10px;">穩定安全、可持續的親密連結</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1f4f45; padding: 10px;">對權力的理解</td><td style="border: 3px solid #1f4f45; padding: 10px;">權力＝控制、掌握、壓制</td><td style="border: 3px solid #1f4f45; padding: 10px;">權力＝承接、照顧、回應</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1f4f45; padding: 10px;">界線態度</td><td style="border: 3px solid #1f4f45; padding: 10px;">界線被視為掃興或限制</td><td style="border: 3px solid #1f4f45; padding: 10px;">界線被視為安全與信任的基礎</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1f4f45; padding: 10px;">互動節奏</td><td style="border: 3px solid #1f4f45; padding: 10px;">快速推進、忽略調整空間</td><td style="border: 3px solid #1f4f45; padding: 10px;">有節奏的靠近，允許隨時調整</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1f4f45; padding: 10px;">身體訊號解讀</td><td style="border: 3px solid #1f4f45; padding: 10px;">忍耐不適、忽略疲勞與麻木</td><td style="border: 3px solid #1f4f45; padding: 10px;">將不適視為重要提醒</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1f4f45; padding: 10px;">情緒後座力</td><td style="border: 3px solid #1f4f45; padding: 10px;">事後空虛、焦慮、抽離感增加</td><td style="border: 3px solid #1f4f45; padding: 10px;">事後安心、連結感延續</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1f4f45; padding: 10px;">對伴侶的影響</td><td style="border: 3px solid #1f4f45; padding: 10px;">易造成誤解、壓力累積</td><td style="border: 3px solid #1f4f45; padding: 10px;">增加信任、關係穩定度</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1f4f45; padding: 10px;">長期關係結果</td><td style="border: 3px solid #1f4f45; padding: 10px;">強度遞減、關係不易持久</td><td style="border: 3px solid #1f4f45; padding: 10px;">親密感隨時間深化</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1f4f45; padding: 10px;">常見自我對話</td><td style="border: 3px solid #1f4f45; padding: 10px;">「撐一下就好」</td><td style="border: 3px solid #1f4f45; padding: 10px;">「我可以隨時停」</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1f4f45; padding: 10px;">適合的探索階段</td><td style="border: 3px solid #1f4f45; padding: 10px;">偶發嘗試、風險自負</td><td style="border: 3px solid #1f4f45; padding: 10px;">長期關係、反覆互動</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A%E7%82%BA%E4%BB%80%E9%BA%BC%E5%AE%89%E5%85%A8%E6%84%9F%E6%9C%83%E5%BD%B1%E9%9F%BF%E8%A6%AA%E5%AF%86%E6%84%9F%E5%8F%97%EF%BC%9F"></span>
 
 ### **問題 1****：為什麼安全感會影響親密感受？**
 
 **回覆：**  
 因為安全感會直接影響情緒調節與身體是否放鬆。當心理安全存在，大腦較不啟動防衛反應，反而更容易感受到愉悅與連結。反之，若內在仍處在警戒狀態，即使互動看似親密，身體也可能只是在撐著。中醫講「心安則神定」，心神不安，身體自然難以真正投入。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E7%95%8C%E7%B7%9A%E6%9C%83%E4%B8%8D%E6%9C%83%E8%AE%93%E8%A6%AA%E5%AF%86%E4%BA%92%E5%8B%95%E8%AE%8A%E5%BE%97%E4%B8%8D%E5%A4%A0%E5%88%BA%E6%BF%80%EF%BC%9F"></span>
+
 ### **問題 2****：界線會不會讓親密互動變得不夠刺激？**
 
 **回覆：**  
 恰好相反。清楚的界線，往往會讓互動更安心，也更敢深入。界線的作用不是限制，而是讓人知道「這裡可以停、那裡會被尊重」。當身體知道自己有退路，反而更願意往前。這就像河岸，並不是阻擋水流，而是讓水流不致失序。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E5%A6%82%E6%9E%9C%E6%88%91%E5%B8%B8%E5%B8%B8%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%E8%AA%AA%E5%81%9C%EF%BC%8C%E8%A9%B2%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F"></span>
 
 ### **問題 3****：如果我常常不好意思說停，該怎麼辦？**
 
 **回覆：**  
 可以從「預先約定」開始，而不是當下硬撐。事前先和伴侶說好，一旦出現某些反應（例如變得安靜、呼吸急促），就自動放慢或暫停，能大幅降低臨場壓力。這不是示弱，而是為關係建立更長久的安全結構。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A%E4%BA%8B%E5%BE%8C%E5%9B%9E%E9%A1%A7%E7%9C%9F%E7%9A%84%E6%9C%89%E9%82%A3%E9%BA%BC%E9%87%8D%E8%A6%81%E5%97%8E%EF%BC%9F"></span>
+
 ### **問題 4****：事後回顧真的有那麼重要嗎？**
 
 **回覆：**  
 是的，而且往往比當下更關鍵。事後簡短對齊感受，能幫助神經系統回到穩定狀態，也能避免誤解累積。你不需要檢討誰對誰錯，只要問一句：「剛剛哪一刻讓你最安心？」這個問題，能讓信任慢慢加深。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9A%E6%80%8E%E9%BA%BC%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E7%8F%BE%E5%9C%A8%E8%BF%BD%E6%B1%82%E7%9A%84%E6%98%AF%E5%88%BA%E6%BF%80%EF%BC%8C%E9%82%84%E6%98%AF%E4%BF%A1%E4%BB%BB%EF%BC%9F"></span>
 
 ### **問題 5****：怎麼知道自己現在追求的是刺激，還是信任？**
 

@@ -12,11 +12,15 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Wax-Apple-and-Blood-Sugar-1-1024x576.png)
 
+<span id="%E5%BC%95%E8%A8%80"></span>
+
 ## 引言
 
 「糖尿病患者在選擇水果時常面臨兩難：既想攝取維生素與膳食纖維，又擔心血糖升高。蓮霧（Wax Apple）因口感清爽、熱量低而成為熱門選擇，但它真的適合糖尿病患者嗎？『我可以吃蓮霧嗎？』這是許多糖尿病患者最常問的問題。本文將從**營養成分、血糖影響到實際食用建議**，完整解析蓮霧在糖尿病飲食中的定位，幫助你做出安心選擇。」
 
 ![](/wp-content/uploads/Wax-Apple-and-Blood-Sugar-2-1024x576.png)
+
+<span id="%E3%80%8C%E7%B3%96%E5%B0%BF%E7%97%85%E5%8F%AF%E4%BB%A5%E5%90%83%E8%93%AE%E9%9C%A7%E5%97%8E%EF%BC%9F%E3%80%8D%E5%85%88%E5%BE%9E%E7%87%9F%E9%A4%8A%E6%88%90%E5%88%86%E7%9C%8B%E8%B5%B7"></span>
 
 ## **「糖尿病可以吃蓮霧嗎？」先從營養成分看起**
 
@@ -27,6 +31,8 @@ sourceVerbatim: true
 不過，這裡有一個關鍵觀念必須建立：**「甜不甜」不等於「升不升糖」**。有些水果吃起來不甜，但仍可能影響血糖；反之，有些口感清爽的水果（像蓮霧），在適量攝取下反而較容易被納入糖尿病飲食中。因此，在評估蓮霧時，我們不能只看味道，而要進一步理解它對血糖的實際影響機制。
 
 ![](/wp-content/uploads/Wax-Apple-and-Blood-Sugar-3-1024x576.png)
+
+<span id="%E8%93%AE%E9%9C%A7%E5%B0%8D%E8%A1%80%E7%B3%96%E7%9A%84%E5%BD%B1%E9%9F%BF%EF%BC%9A%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9C%89%E4%BA%9B%E6%B0%B4%E6%9E%9C%E6%9C%83%E8%AE%93%E8%A1%80%E7%B3%96%E4%B8%8A%E5%8D%87%EF%BC%9F"></span>
 
 ## **蓮霧對血糖的影響：為什麼有些水果會讓血糖上升？**
 
@@ -39,6 +45,8 @@ GI 代表的是「某種食物讓血糖上升的速度」，而 GL 則進一步�
 但這並不代表「可以無限制食用」。當攝取量增加時，總碳水仍會累積，血糖也會隨之上升。此外，每個人的**胰島素敏感度、用藥狀況與餐後反應**不同，同樣的蓮霧份量，對不同人可能產生不同的血糖曲線。
 
 ![](/wp-content/uploads/Wax-Apple-and-Blood-Sugar-4-1024x576.png)
+
+<span id="%E8%93%AE%E9%9C%A7%E5%9C%A8%E6%B0%B4%E6%9E%9C%E4%B8%AD%E7%9A%84%E4%BD%8D%E7%BD%AE%EF%BC%9A%E5%AE%89%E5%85%A8%E9%82%84%E6%98%AF%E5%9C%B0%E9%9B%B7%EF%BC%9F%E7%87%9F%E9%A4%8A%E5%AD%B8%E8%A7%A3%E6%9E%90"></span>
 
 ## **蓮霧在水果中的位置：安全還是地雷？營養學解析**
 
@@ -53,6 +61,8 @@ GI 代表的是「某種食物讓血糖上升的速度」，而 GL 則進一步�
 
 ![](/wp-content/uploads/Wax-Apple-and-Blood-Sugar-5-1024x576.png)
 
+<span id="%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%9C%83%E6%80%8E%E9%BA%BC%E5%BB%BA%E8%AD%B0%E4%BD%A0%E5%90%83%E8%93%AE%E9%9C%A7%EF%BC%9F%E4%BB%BD%E9%87%8F%E3%80%81%E6%99%82%E9%96%93%E8%88%87%E6%90%AD%E9%85%8D%E7%AD%96%E7%95%A5"></span>
+
 ## **營養師會怎麼建議你吃蓮霧？份量、時間與搭配策略**
 
 針對糖尿病或血糖控制需求，蓮霧的食用建議重點主要有三個：**份量控制、進食時間，以及餐搭配**。
@@ -65,11 +75,15 @@ GI 代表的是「某種食物讓血糖上升的速度」，而 GL 則進一步�
 
 總結來說，**掌握「少量、搭配、分時」三原則**，蓮霧可以是糖尿病飲食中安全且清爽的水果選擇。
 
+<span id="%E7%B5%90%E8%AB%96"></span>
+
 ## 結論
 
 綜合前述分析，蓮霧（Wax Apple）在糖尿病飲食中屬於**中低風險水果**。雖然它含有天然糖分，但高水分、低熱量及膳食纖維特性，使其在**適量攝取下**，血糖反應通常可控。透過**份量控制、進食時間與餐搭配**，糖尿病患者可以將蓮霧納入日常飲食，享受水果的清爽與營養，同時維持血糖穩定。這也呼應現代保健營養學的核心理念：水果並非禁忌，而是智慧攝取，為日常健康加分。
 
 <table style="border-collapse: collapse; border: 3px solid #006400;"><thead style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><tr><th>水果</th><th>每100g熱量 (kcal)</th><th>總糖量 (g)</th><th>膳食纖維 (g)</th><th>維生素C (mg)</th><th>鉀 (mg)</th><th>升糖負荷 (GL)</th><th>安全性建議</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td>蓮霧</td><td>25</td><td>8</td><td>1.1</td><td>23</td><td>120</td><td>中低</td><td>可納入飲食，建議一次 100–150g，搭配蛋白質或全穀食用</td></tr><tr style="background-color: #ffffff; color: #333333;"><td>蘋果</td><td>52</td><td>10</td><td>2.4</td><td>4.6</td><td>107</td><td>中</td><td>可少量食用，建議搭配膳食纖維或蛋白質</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td>芭樂</td><td>68</td><td>9</td><td>5.4</td><td>228</td><td>417</td><td>中低</td><td>高維生素C，糖分較低，適量即可</td></tr><tr style="background-color: #ffffff; color: #333333;"><td>芒果</td><td>60</td><td>14</td><td>1.6</td><td>36</td><td>168</td><td>高</td><td>糖密度高，糖尿病需嚴格控制份量</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td>葡萄</td><td>69</td><td>16</td><td>0.9</td><td>10</td><td>191</td><td>高</td><td>高糖高GL，建議限制攝取量</td></tr><tr style="background-color: #ffffff; color: #333333;"><td>奇異果</td><td>61</td><td>9</td><td>3</td><td>92</td><td>312</td><td>中</td><td>適量攝取，搭配蛋白質可降低血糖波動</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## 常見問題與回覆
 

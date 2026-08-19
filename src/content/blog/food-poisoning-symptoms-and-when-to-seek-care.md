@@ -19,6 +19,8 @@ sourceVerbatim: true
 
 * * *
 
+<span id="%E5%8F%B0%E7%81%A3%E8%BF%91%E5%85%A9%E5%B9%B4%E9%A3%9F%E5%93%81%E4%B8%AD%E6%AF%92%E9%80%9A%E5%A0%B1%E9%80%BE%E5%8D%83%E4%BB%B6%EF%BC%8C%E4%BD%86%E5%A4%A7%E5%A4%9A%E6%95%B8%E4%BA%BA%E5%85%B6%E5%AF%A6%E4%B8%8D%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E5%9C%A8%E7%AD%89%E4%BB%80%E9%BA%BC"></span>
+
 ## 台灣近兩年食品中毒通報逾千件，但大多數人其實不知道自己在等什麼
 
 台灣近兩年食品中毒通報逾千件；歷年通報件數會隨年度波動，實際就醫人次遠高於統計數字（註1）。但大多數人遇到嘔吐腹瀉，第一個動作仍是「先等等看」——而不是判斷。
@@ -32,6 +34,8 @@ sourceVerbatim: true
 * * *
 
 ![段落插圖：引言](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/03ce5f73-f5a8-4bcf-9d7c-bedceea736f0/paragraph-seg-1-1784699026958-df072812.jpg)
+
+<span id="%E9%A3%9F%E5%93%81%E4%B8%AD%E6%AF%92%E7%97%87%E7%8B%80%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F%E8%BA%AB%E9%AB%94%E5%85%B6%E5%AF%A6%E5%9C%A8%E4%BF%9D%E8%AD%B7%E4%BD%A0"></span>
 
 ## 食品中毒症狀有哪些？身體其實在保護你
 
@@ -57,6 +61,8 @@ sourceVerbatim: true
 
 ![段落插圖：段落1：食品中毒症狀有哪些？](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/03ce5f73-f5a8-4bcf-9d7c-bedceea736f0/paragraph-seg-2-1784699031288-047dd683.jpg)
 
+<span id="%E9%A3%9F%E5%93%81%E4%B8%AD%E6%AF%92%E6%8B%89%E8%82%9A%E5%AD%90%E4%B8%80%E7%9B%B4%E5%90%90%EF%BC%8C%E5%9C%A8%E5%AE%B6%E8%A6%81%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F"></span>
+
 ## 食品中毒拉肚子一直吐，在家要怎麼辦？
 
 食品中毒的恢復時間因病原種類不同而差異很大，但一般腸毒素型的腸胃道食品中毒，症狀通常在**24至72小時內自然緩解**；身體在這段時間最需要的支援，是充足的水分與電解質補充，而不是急著用藥止瀉。
@@ -75,6 +81,8 @@ sourceVerbatim: true
 
 ![段落插圖：段落2：病原體種類不同，危險速度截然不同](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/03ce5f73-f5a8-4bcf-9d7c-bedceea736f0/paragraph-seg-3-1784699052396-3dfc3ab9.jpg)
 
+<span id="%E5%87%BA%E7%8F%BE%E5%93%AA%E4%BA%9B%E7%97%87%E7%8B%80%EF%BC%8C%E4%BB%A3%E8%A1%A8%E9%A3%9F%E5%93%81%E4%B8%AD%E6%AF%92%E5%B7%B2%E7%B6%93%E4%B8%8D%E8%83%BD%E5%86%8D%E7%AD%89%EF%BC%9F"></span>
+
 ## 出現哪些症狀，代表食品中毒已經不能再等？
 
 以下任一警示症狀出現時，不應再等待觀察，應立即前往急診或盡快就醫：**持續高燒超過38.5°C**、糞便帶有血絲或明顯血便、嘔吐或腹瀉超過24小時仍未緩解、頭暈站不穩、尿量極少或完全無尿、意識混亂或肌肉無力。
@@ -92,6 +100,8 @@ sourceVerbatim: true
 * * *
 
 ![段落插圖：段落3：居家處理 vs 立即就醫的判斷邏輯](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/03ce5f73-f5a8-4bcf-9d7c-bedceea736f0/paragraph-seg-4-1784699654933-93f218b0.jpg)
+
+<span id="%E9%A3%9F%E5%93%81%E4%B8%AD%E6%AF%92%E8%A6%81%E7%9C%8B%E5%93%AA%E4%B8%80%E7%A7%91%EF%BC%9F%E5%BE%9E%E5%B1%85%E5%AE%B6%E8%99%95%E7%90%86%E5%88%B0%E5%B0%B1%E9%86%AB%E7%9A%84%E5%AE%8C%E6%95%B4%E8%B7%AF%E5%BE%91"></span>
 
 ## 食品中毒要看哪一科？從居家處理到就醫的完整路徑
 
@@ -123,6 +133,8 @@ sourceVerbatim: true
 
 ![段落插圖：段落4：夏季食安實戰：冰品、海鮮、便當與烤肉怎麼吃](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/03ce5f73-f5a8-4bcf-9d7c-bedceea736f0/paragraph-seg-5-1784699630200-53e079aa.jpg)
 
+<span id="%E8%AE%80%E6%87%82%E8%BA%AB%E9%AB%94%E7%9A%84%E8%A8%8A%E8%99%9F%EF%BC%8C%E4%BD%A0%E5%B0%B1%E6%98%AF%E5%AE%B6%E8%A3%A1%E6%9C%80%E6%B8%85%E9%86%92%E7%9A%84%E9%82%A3%E5%80%8B%E7%85%A7%E9%A1%A7%E8%80%85"></span>
+
 ## 讀懂身體的訊號，你就是家裡最清醒的那個照顧者
 
 我們習慣把食品中毒當成「意外」，但沒有無緣無故的腹瀉。《傷寒論》論述「太陰之為病，腹滿而吐，食不下，自利益甚」——這描述的不只是一組症狀，而是整個腸胃系統在失衡狀態下的集體抗議。身體不是壞掉了，而是在用最激烈的方式清場。
@@ -138,6 +150,8 @@ sourceVerbatim: true
 * * *
 
 ![段落插圖：結論](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/03ce5f73-f5a8-4bcf-9d7c-bedceea736f0/paragraph-seg-6-1784699693282-cfe968e8.jpg)
+
+<span id="%E9%97%9C%E6%96%BC%E9%A3%9F%E5%93%81%E4%B8%AD%E6%AF%92%EF%BC%8C%E4%BD%A0%E6%9C%80%E6%83%B3%E5%95%8F%E7%9A%84_8_%E5%80%8B%E5%95%8F%E9%A1%8C"></span>
 
 ## 關於食品中毒，你最想問的 8 個問題
 
@@ -206,6 +220,8 @@ sourceVerbatim: true
 *© GCM 上醫預防醫學發展協會｜gcm.org.tw*
 
 ![四格衛教漫畫](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/03ce5f73-f5a8-4bcf-9d7c-bedceea736f0/comic-grid-1784700439701-ad6008b9.jpg)
+
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB"></span>
 
 ## 參考文獻
 

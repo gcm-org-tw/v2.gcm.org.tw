@@ -22,6 +22,8 @@ sourceVerbatim: true
 
 1.  Sun, X., He, Y., & Zhang, X. (2019). Antioxidant and anti-inflammatory properties of Ophiopogon japonicus extract in experimental models. *Journal of Ethnopharmacology*, 230, 180–187. DOI:10.1016/j.jep.2019.05.052
 
+<span id="%E9%BA%A5%E9%96%80%E5%86%AC%E7%9A%84%E5%8A%9F%E6%95%88%EF%BC%9A%E5%BE%9E%E4%B8%AD%E9%86%AB%E5%88%B0%E7%8F%BE%E4%BB%A3%E4%BF%9D%E5%81%A5%E7%9A%84%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90"></span>
+
 ## **麥門冬的功效：從中醫到現代保健的全面解析**
 
 麥門冬（又稱麥冬）是一種常用的中藥材，因其滋陰潤肺、養胃生津及清心除煩的多重功效而廣受歡迎。作為中醫學中的「上品藥」，《神農本草經》記載麥門冬具有「久服輕身延年」的特性。它既可用於日常養生，也可在治療多種疾病中發揮輔助作用（註1）。
@@ -39,6 +41,8 @@ sourceVerbatim: true
 3.  Li, Y., Xu, Y., & Wu, T. (2020). Safety profile of Ophiopogon japonicus: Clinical evidence and experimental studies. *Phytotherapy Research*, 34(2), 234–245. DOI:10.1002/ptr.6521
 
 <iframe loading="lazy" title="Ophiopogon Benefits  Uses, Precautions, and Common Mistakes" width="800" height="450" src="https://www.youtube.com/embed/j0fohVhBwVc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<span id="%E9%BA%A5%E9%96%80%E5%86%AC%E7%9A%84%E7%A6%81%E5%BF%8C%E8%88%87%E5%89%AF%E4%BD%9C%E7%94%A8"></span>
 
 ## **麥門冬的禁忌與副作用**
 
@@ -61,6 +65,8 @@ sourceVerbatim: true
 2.  《本草正義》：詳細分析麥門冬的適應症與禁忌。
 3.  Sun, X., He, Y., & Zhang, X. (2019). Antioxidant and anti-inflammatory properties of Ophiopogon japonicus extract in experimental models. *Journal of Ethnopharmacology*, 230, 180–187. DOI:10.1016/j.jep.2019.05.052
 
+<span id="%E9%BA%A5%E9%96%80%E5%86%AC%E7%9A%84%E7%94%A8%E6%B3%95%EF%BC%9A%E5%BE%9E%E8%86%A0%E5%9B%8A%E5%88%B0%E6%97%A5%E5%B8%B8%E9%A4%8A%E7%94%9F%E7%9A%84%E9%81%B8%E6%93%87"></span>
+
 ## **麥門冬的用法：從膠囊到日常養生的選擇**
 
 麥門冬的應用範圍廣泛，既可作為傳統中藥材煎煮使用，也能融入現代膠囊形式以便於日常保健。了解正確的使用方法，有助於更好地發揮其滋陰潤燥的功效。
@@ -82,6 +88,8 @@ sourceVerbatim: true
 2.  《本草正義》：提醒藥材使用的劑量與搭配注意事項。
 3.  Sun, X., He, Y., & Zhang, X. (2019). Antioxidant and anti-inflammatory properties of Ophiopogon japonicus extract in experimental models. *Journal of Ethnopharmacology*, 230, 180–187. DOI:10.1016/j.jep.2019.05.052
 
+<span id="%E9%A4%8A%E7%94%9F%E6%96%B0%E8%B6%A8%E5%8B%A2%EF%BC%9A%E5%A6%82%E4%BD%95%E9%81%B8%E6%93%87%E9%81%A9%E5%90%88%E4%BD%A0%E7%9A%84%E9%BA%A5%E9%96%80%E5%86%AC%E8%86%A0%E5%9B%8A%E7%94%A2%E5%93%81"></span>
+
 ## **養生新趨勢：如何選擇適合你的麥門冬膠囊產品**
 
 在現代健康管理中，膠囊形式的麥門冬產品已逐漸成為忙碌人士的養生首選。然而，市面上的產品種類繁多，如何挑選適合自己的麥門冬膠囊？以下提供一些建議。
@@ -96,6 +104,8 @@ sourceVerbatim: true
     目前尚無充分臨床證據表明麥門冬對某些重大疾病有確切療效（如癌症或慢性炎症）。若遇到聲稱有奇效的產品，需保持警惕，並優先選擇有科學數據支持的品牌，並根據專業建議調整使用方式。
 
 麥門冬膠囊產品的普及反映了現代人對健康管理的重視，但選擇適合自己的產品是關鍵。只要在選購時謹慎評估，搭配健康飲食與生活方式，麥門冬的益處便能被充分發揮。
+
+<span id="%E4%B8%AD%E9%86%AB%E6%99%BA%E6%85%A7%E4%B8%AD%E7%9A%84%E5%81%A5%E5%BA%B7%E5%AF%86%E7%A2%BC"></span>
 
 ## **中醫智慧中的健康密碼**
 
@@ -112,22 +122,32 @@ sourceVerbatim: true
 
 <table border="1" cellspacing="0" cellpadding="8"><thead><tr><th>項目</th><th>傳統用法</th><th>現代膠囊用法</th></tr></thead><tbody><tr><td><strong>使用方式</strong></td><td>煎煮成藥湯、藥膳搭配（如麥門冬湯、滋補粥）</td><td>每日固定劑量服用膠囊</td></tr><tr><td><strong>適合對象</strong></td><td>偏好傳統養生方法、有時間自行煎煮的人</td><td>忙碌人士、追求方便和精準劑量的人</td></tr><tr><td><strong>優勢</strong></td><td>配方靈活，可根據需求調整搭配藥材</td><td>攜帶方便、保存容易，劑量穩定，適合長期使用</td></tr><tr><td><strong>潛在挑戰</strong></td><td>煎煮過程繁瑣，需掌握藥材配比和烹煮技術</td><td>可能因不當選購導致品質參差，需注意產品成分與純度</td></tr><tr><td><strong>注意事項</strong></td><td>適量控制用量，避免與寒性藥材過度搭配</td><td>根據體質選擇，避免盲目服用過量</td></tr><tr><td><strong>常見用途</strong></td><td>用於滋陰潤肺、養胃生津的季節性調理</td><td>作為日常免疫調節、抗氧化功能的保健補充品</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E9%BA%A5%E9%96%80%E5%86%AC%E9%81%A9%E5%90%88%E6%89%80%E6%9C%89%E4%BA%BA%E4%BD%BF%E7%94%A8%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題1****：麥門冬適合所有人使用嗎？**
 
 **回覆：**  
 麥門冬並不適合所有人使用。中醫認為麥門冬性微寒，適合陰虛體質的人群，如經常感到口乾舌燥、乾咳少痰的人。然而，寒性體質者（如經常怕冷、手腳冰涼）以及脾胃虛寒的人應慎用，因為過多攝取可能加重腸胃負擔。此外，孕婦和6歲以下兒童使用前應先諮詢專業醫師，以免產生不良反應。
 
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E6%88%91%E6%87%89%E8%A9%B2%E9%81%B8%E6%93%87%E5%82%B3%E7%B5%B1%E7%85%8E%E7%85%AE%E9%82%84%E6%98%AF%E8%86%A0%E5%9B%8A%E5%BD%A2%E5%BC%8F%E7%9A%84%E9%BA%A5%E9%96%80%E5%86%AC%EF%BC%9F"></span>
+
 ### **問題2****：我應該選擇傳統煎煮還是膠囊形式的麥門冬？**
 
 **回覆：**  
 這取決於您的生活方式和健康需求。傳統煎煮適合有時間且希望靈活調配藥膳的人，特別是在季節性調理（如秋冬養陰）中使用效果較佳。膠囊形式則適合忙碌人士，方便攜帶和服用，同時確保劑量穩定。如果您追求日常保健，可選擇膠囊；如果是針對特定症狀調理，建議諮詢中醫師進行煎煮處方。
 
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E9%95%B7%E6%9C%9F%E6%9C%8D%E7%94%A8%E9%BA%A5%E9%96%80%E5%86%AC%E8%86%A0%E5%9B%8A%E6%9C%83%E6%9C%89%E5%89%AF%E4%BD%9C%E7%94%A8%E5%97%8E%EF%BC%9F"></span>
+
 ### **問題3****：長期服用麥門冬膠囊會有副作用嗎？**
 
 **回覆：**  
 如果根據建議的劑量使用麥門冬膠囊，一般不會有副作用。但過量使用可能引起腸胃不適、腹瀉或身體寒性加重。長期服用時，建議每3個月停用1至2週，讓身體調整適應。根據中醫「辨證施治」的原則，最好在使用前諮詢專業醫師，確保與個人體質相符。
+
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E9%BA%A5%E9%96%80%E5%86%AC%E6%9C%89%E5%93%AA%E4%BA%9B%E6%90%AD%E9%85%8D%E9%A3%9F%E6%9D%90%E8%83%BD%E5%A2%9E%E5%BC%B7%E6%95%88%E6%9E%9C%EF%BC%9F"></span>
 
 ### **問題4****：麥門冬有哪些搭配食材能增強效果？**
 
@@ -138,6 +158,8 @@ sourceVerbatim: true
 -   與生薑、紅棗搭配：中和寒性，適合寒性體質的人。
 -   與黃耆、當歸搭配：增強補氣補血效果。  
     這些搭配方式均基於中醫「相須相使」的配伍原則，可更有效發揮麥門冬的養生功能。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%B7%E8%87%AA%E5%B7%B1%E6%98%AF%E5%90%A6%E9%9C%80%E8%A6%81%E6%9C%8D%E7%94%A8%E9%BA%A5%E9%96%80%E5%86%AC%EF%BC%9F"></span>
 
 ### **問題5****：如何判斷自己是否需要服用麥門冬？**
 

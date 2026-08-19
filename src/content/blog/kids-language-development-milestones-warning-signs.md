@@ -20,6 +20,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/kids-language-development-milestones-warning-signs_11zon.webp)
 
+<span id="%E4%B8%80%E3%80%81%E5%AD%A9%E5%AD%90%E8%AA%9E%E8%A8%80%E7%99%BC%E5%B1%95%E9%87%8C%E7%A8%8B%E7%A2%91%EF%BC%9A%E5%90%84%E5%B9%B4%E9%BD%A1%E8%A9%B2%E6%9C%83%E4%BB%80%E9%BA%BC%EF%BC%9F"></span>
+
 ## 一、孩子語言發展里程碑：各年齡該會什麼？
 
 以下是一般兒童常見的語言與溝通發展指標（包含表達性語言與理解能力），若孩子繼續落後過多，建議尋求專業協助。
@@ -84,6 +86,8 @@ sourceVerbatim: true
 
 <table><caption>孩子語言與溝通發展里程碑（0–5 歲）</caption><thead><tr><th scope="col">年齡</th><th scope="col">表達（說／發聲）</th><th scope="col">理解與互動（聽得懂／回應）</th><th scope="col">家長觀察重點</th></tr></thead><tbody><tr><th scope="row">0–6 個月</th><td><ul><li>會發出咿呀聲、咿咿啊啊</li><li>用哭聲表達需求（哭聲逐漸有差異）</li></ul></td><td><ul><li>聽到聲音會轉頭</li><li>被叫名字偶爾有反應</li></ul></td><td><ul><li>是否會對聲音有「轉頭／停頓」反應</li><li>是否有多樣化的發聲</li></ul></td></tr><tr><th scope="row">6–12 個月</th><td><ul><li>牙牙學語（babbling），如「ba-ba」「ma-ma」</li><li>會模仿語音或表情</li></ul></td><td><ul><li>聽得懂簡單指令，如「不要」「來」</li><li>看到熟人會興奮、會互動</li></ul></td><td><ul><li>是否開始出現「重複音節」的牙牙聲</li><li>是否會模仿、會看人臉互動</li></ul></td></tr><tr><th scope="row">1 歲（12 個月）</th><td><ul><li>能說 1–2 個有意義的詞（如「爸爸」「媽媽」「抱」）</li></ul></td><td><ul><li>聽懂生活語言，如「拿來」「再見」</li></ul></td><td><ul><li>是否出現「有意義的詞」而非只有聲音</li><li>叫名字是否有反應</li></ul></td></tr><tr><th scope="row">1.5 歲（18 個月）</th><td><ul><li>約能說 5–20 個詞</li><li>會用手勢加語音表達需求</li></ul></td><td><ul><li>會指認身體部位或熟悉物品</li></ul></td><td><ul><li>是否會「指物命名／指認」</li><li>是否會用手勢＋聲音來溝通</li></ul></td></tr><tr><th scope="row">2 歲（24 個月）</th><td><ul><li>能說 50 個詞以上</li><li>開始會用兩字語句，如「媽媽抱」「我要喝」</li></ul></td><td><ul><li>能理解簡單兩步驟指令（如「拿球給媽媽」）</li></ul></td><td><ul><li>是否能「兩字句」表達需求</li><li>是否能跟著做兩步驟指令</li></ul></td></tr><tr><th scope="row">3 歲</th><td><ul><li>詞彙增加至 200–500 個</li><li>會用 3 字以上句子，表達較完整需求</li></ul></td><td><ul><li>能回答簡單「什麼／哪裡／誰」問題</li><li>多數陌生人可聽懂約 75% 的語言</li></ul></td><td><ul><li>陌生人是否聽得懂大部分內容</li><li>是否能用句子說「想要什麼」</li></ul></td></tr><tr><th scope="row">4–5 歲</th><td><ul><li>會用完整句子描述事件</li><li>語言清晰，構音問題減少</li></ul></td><td><ul><li>能進行簡單對話</li><li>理解基本情緒概念</li></ul></td><td><ul><li>是否能輪流對話、講述經過</li><li>發音是否清楚、可被理解</li></ul></td></tr></tbody></table>
 
+<span id="%E4%BA%8C%E3%80%81%E8%AA%9E%E8%A8%80%E7%99%BC%E5%B1%95%E8%90%BD%E5%BE%8C%E7%9A%84%E5%B8%B8%E8%A6%8B%E5%8E%9F%E5%9B%A0"></span>
+
 ## 二、語言發展落後的常見原因
 
 語言遲緩並不是單一原因造成，通常涉及多面向因素，以下為臨床上常見的幾種：
@@ -137,6 +141,8 @@ sourceVerbatim: true
 
 如肌張力異常、先天代謝疾病、染色體異常等。
 
+<span id="%E4%B8%89%E3%80%81%E5%93%AA%E4%BA%9B%E6%83%85%E6%B3%81%E6%98%AF%E8%AA%9E%E8%A8%80%E7%99%BC%E5%B1%95%E7%9A%84%E3%80%8C%E8%AD%A6%E8%A8%8A%E3%80%8D%EF%BC%9F"></span>
+
 ## 三、哪些情況是語言發展的「警訊」？
 
 以下紅旗（Red Flags）代表可能存在語言或整體發展問題，建議儘快諮詢復健科醫師、兒童神經科醫師或發展科醫師：
@@ -189,6 +195,8 @@ sourceVerbatim: true
 許多家長常後悔地說：「早知道就不要等那麼久。」  
 當孩子已經明顯語言落後，等待不會讓孩子追上，只會讓落差拉得更大。
 
+<span id="%E4%BA%94%E3%80%81%E5%AE%B6%E9%95%B7%E5%8F%AF%E4%BB%A5%E5%85%88%E5%81%9A%E4%BB%80%E9%BA%BC%EF%BC%9F%EF%BC%88%E5%B1%85%E5%AE%B6%E8%AA%9E%E8%A8%80%E5%88%BA%E6%BF%80%EF%BC%89"></span>
+
 ## 五、家長可以先做什麼？（居家語言刺激）
 
 多與孩子說話、描述生活情境  
@@ -209,6 +217,8 @@ sourceVerbatim: true
 固定儀式語言  
 如刷牙、睡覺都有固定語句，孩子更容易模仿。
 
+<span id="%E5%85%AD%E3%80%81%E4%BD%95%E6%99%82%E6%87%89%E8%A9%B2%E5%B0%8B%E6%B1%82%E5%BE%A9%E5%81%A5%E7%A7%91%E6%88%96%E8%AA%9E%E8%A8%80%E6%B2%BB%E7%99%82%EF%BC%9F"></span>
+
 ## 六、何時應該尋求復健科或語言治療？
 
 建議在以下情況找復健科醫師評估：
@@ -226,6 +236,8 @@ sourceVerbatim: true
 ✔ 家長直覺覺得孩子「不太對」
 
 臨床上「家長直覺」往往準確，應該重視。
+
+<span id="%E4%B8%8D%E8%A6%81%E7%AD%89%E5%BE%85%EF%BC%8C%E8%AA%9E%E8%A8%80%E7%99%BC%E5%B1%95%E9%BB%83%E9%87%91%E6%9C%9F%E4%B8%80%E5%8E%BB%E4%B8%8D%E5%9B%9E"></span>
 
 ## 不要等待，語言發展黃金期一去不回
 

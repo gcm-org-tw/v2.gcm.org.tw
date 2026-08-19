@@ -26,11 +26,19 @@ sourceVerbatim: true
 8.  [中暑從來不是一個人的問題：你現在就能做的一件事](#sec-7)
 9.  [你還想知道什麼？八個最常見的問題](#sec-8)
 
+<span id="sec-0"></span>
+
+<span id="%E4%B8%89%E9%AB%98%E8%88%87%E6%85%A2%E6%80%A7%E7%97%85%E6%97%8F%E7%BE%A4%E9%9C%80%E7%95%99%E6%84%8F%E9%AB%98%E6%BA%AB%E5%BD%B1%E9%9F%BF"></span>
+
 ## 三高與慢性病族群需留意高溫影響
 
 中暑原因不只是環境溫度過高。三高與慢性病族群在高溫環境下，可能面臨身體調節失衡的警訊，相關風險需受到重視。
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/19de2c75-d759-4e25-bc19-065fd2b9e94a/paragraph-seg-1-1782798862352-7952f066.jpg" alt="三高與慢性病族群需留意高溫影響"></figure>
+
+<span id="sec-1"></span>
+
+<span id="%E9%AB%98%E6%BA%AB%E9%A2%A8%E9%9A%AA%E4%B8%8D%E5%AE%9C%E7%B0%A1%E5%8C%96%E7%82%BA%E3%80%8C%E5%A4%AA%E7%86%B1%E3%80%8D"></span>
 
 ## 高溫風險不宜簡化為「太熱」
 
@@ -39,6 +47,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/19de2c75-d759-4e25-bc19-065fd2b9e94a/paragraph-seg-2-1782798865608-ac6c242b.jpg" alt="高溫風險不宜簡化為「太熱」"></figure>
+
+<span id="sec-2"></span>
+
+<span id="%E6%AF%8F%E5%B9%B4%E5%A4%8F%E5%A4%A9%E9%83%BD%E6%9C%89%E4%BA%BA%E3%80%8C%E7%84%A1%E6%95%85%E3%80%8D%E4%B8%AD%E6%9A%91%EF%BC%8C%E5%95%8F%E9%A1%8C%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E5%A4%A9%E6%B0%A3%E5%A4%AA%E7%86%B1%E5%97%8E%EF%BC%9F"></span>
 
 ## 每年夏天都有人「無故」中暑，問題真的只是天氣太熱嗎？
 
@@ -51,6 +63,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/19de2c75-d759-4e25-bc19-065fd2b9e94a/paragraph-seg-3-1782798977792-0020d5e9.jpg" alt="每年夏天都有人「無故」中暑，問題真的只是天氣太熱嗎？"></figure>
+
+<span id="sec-3"></span>
+
+<span id="%E8%BA%AB%E9%AB%94%E6%80%8E%E9%BA%BC%E6%95%A3%E7%86%B1%EF%BC%9F%E6%B5%81%E6%B1%97%E5%92%8C%E8%A1%80%E7%AE%A1%E6%93%B4%E5%BC%B5%E6%98%AF%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E9%81%93%E9%98%B2%E7%B7%9A"></span>
 
 ## 身體怎麼散熱？流汗和血管擴張是你的第一道防線
 
@@ -68,6 +84,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/19de2c75-d759-4e25-bc19-065fd2b9e94a/paragraph-seg-4-1782799139851-70b3da8b.jpg" alt="身體怎麼散熱？流汗和血管擴張是你的第一道防線"></figure>
 
+<span id="sec-4"></span>
+
+<span id="%E5%A4%A9%E6%B0%A3%E7%86%B1%E8%AE%93%E6%88%91%E5%BF%83%E8%B7%B3%E5%BE%88%E5%BF%AB%E3%80%81%E8%A1%80%E5%A3%93%E4%B8%8D%E7%A9%A9%EF%BC%8C%E9%80%99%E6%AD%A3%E5%B8%B8%E5%97%8E%EF%BC%9F"></span>
+
 ## 天氣熱讓我心跳很快、血壓不穩，這正常嗎？
 
 高溫暴露時，心跳加速與血壓波動是**血管擴張與體液流失**共同作用的結果，這種對心血管系統的壓力，遠比大多數人想像的更直接，對三高族群而言更是一個需要正視的每日風險。
@@ -83,6 +103,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/19de2c75-d759-4e25-bc19-065fd2b9e94a/paragraph-seg-5-1782799110110-358d0fe8.jpg" alt="天氣熱讓我心跳很快、血壓不穩，這正常嗎？"></figure>
+
+<span id="sec-5"></span>
+
+<span id="%E6%9C%89%E9%AB%98%E8%A1%80%E5%A3%93%E6%88%96%E7%B3%96%E5%B0%BF%E7%97%85%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%A4%8F%E5%A4%A9%E5%90%83%E8%97%A5%E9%9C%80%E8%A6%81%E7%89%B9%E5%88%A5%E6%B3%A8%E6%84%8F%E4%BB%80%E9%BA%BC%EF%BC%9F"></span>
 
 ## 有高血壓或糖尿病的人，夏天吃藥需要特別注意什麼？
 
@@ -102,6 +126,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/19de2c75-d759-4e25-bc19-065fd2b9e94a/paragraph-seg-6-1782799106902-dfdb444d.jpg" alt="有高血壓或糖尿病的人，夏天吃藥需要特別注意什麼？"></figure>
 
+<span id="sec-6"></span>
+
+<span id="%E5%A4%8F%E5%A4%A9%E5%87%BA%E7%8F%BE%E5%93%AA%E4%BA%9B%E7%8B%80%E6%B3%81%EF%BC%8C%E6%88%91%E6%87%89%E8%A9%B2%E4%B8%BB%E5%8B%95%E5%8E%BB%E7%9C%8B%E9%86%AB%E7%94%9F%EF%BC%9F"></span>
+
 ## 夏天出現哪些狀況，我應該主動去看醫生？
 
 慢性病患者在夏天若出現持續口渴卻不敢喝水、頭暈或站起來眼前發黑、尿量明顯減少、血壓數值比平常波動更大，應主動聯繫醫療團隊，而不是等到症狀加劇再就醫——這些都可能是身體在高溫下**熱傷害**失衡的早期訊號。
@@ -120,6 +148,8 @@ sourceVerbatim: true
 
 若你或家人有三高、腎臟病或心臟病，夏天的補水方式與避暑策略，請在每次回診時主動提出討論——**預防，永遠比急救更值得你花時間**。
 
+<span id="%E7%86%B1%E5%82%B7%E5%AE%B3%E9%A1%9E%E5%9E%8B%E9%80%99%E6%A8%A3%E5%88%86%EF%BC%8C%E4%B8%80%E5%BC%B5%E8%A1%A8%E7%9C%8B%E6%B8%85%E6%A5%9A"></span>
+
 ### 熱傷害類型這樣分，一張表看清楚
 
 <table><thead><tr><th>比較項目</th><th>熱痙攣</th><th>熱衰竭</th><th>熱中風</th></tr></thead><tbody><tr><td><strong>嚴重程度</strong></td><td>輕度</td><td>中度</td><td>重度／危及生命</td></tr><tr><td><strong>核心體溫</strong></td><td>正常或略升高</td><td>升高但通常 &lt; 40°C</td><td>超過 40°C，且持續上升</td></tr><tr><td><strong>主要症狀</strong></td><td>肌肉抽搐、痙攣（常見於小腿、腹部）</td><td>大量出汗、頭暈、噁心、皮膚濕冷、血壓下降</td><td>皮膚乾燙發紅、意識混亂、可能無汗、抽搐</td></tr><tr><td><strong>身體散熱功能</strong></td><td>仍在運作，但電解質耗盡</td><td>部分失調，出汗過度造成循環不穩</td><td>完全崩潰，下視丘調節失靈</td></tr><tr><td><strong>意識狀態</strong></td><td>清醒</td><td>清醒但虛弱、可能輕度混亂</td><td>意識障礙、譫妄、甚至昏迷</td></tr><tr><td><strong>急救處置</strong></td><td>補充電解質、休息、伸展</td><td>移至陰涼處、補水、平躺抬腿</td><td>立即送醫、冰敷大血管處（頸部、腋下、鼠蹊）、不可延誤</td></tr><tr><td><strong>後遺症風險</strong></td><td>低，休息後通常恢復</td><td>中，若未妥善處理可能轉為熱中風</td><td>高，器官損傷、腎衰竭、腦部損傷皆有可能</td></tr></tbody></table>
@@ -127,6 +157,10 @@ sourceVerbatim: true
 **關鍵解讀：** 三種熱傷害的差距，不只是「熱多一點」那麼簡單。熱痙攣是電解質的警報、熱衰竭是循環系統快撐不住的訊號、熱中風則是調節系統全面宕機。辨認清楚當下是哪一種狀況，才能在對的時間點做出正確處置——尤其是熱中風，多猶豫一分鐘，後遺症的風險就多一分。
 
 * * *
+
+<span id="sec-7"></span>
+
+<span id="%E4%B8%AD%E6%9A%91%E5%BE%9E%E4%BE%86%E4%B8%8D%E6%98%AF%E4%B8%80%E5%80%8B%E4%BA%BA%E7%9A%84%E5%95%8F%E9%A1%8C%EF%BC%9A%E4%BD%A0%E7%8F%BE%E5%9C%A8%E5%B0%B1%E8%83%BD%E5%81%9A%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B"></span>
 
 ## 中暑從來不是一個人的問題：你現在就能做的一件事
 
@@ -139,6 +173,10 @@ sourceVerbatim: true
 **你現在就能做的一件事：** 在下次回診前，把夏天的用藥清單拍下來，主動問醫師或藥師：「這些藥在高溫環境下，有沒有什麼要特別注意的？」這一句話，可能就是讓高溫季節安全度過的關鍵起點。
 
 —
+
+<span id="sec-8"></span>
+
+<span id="%E4%BD%A0%E9%82%84%E6%83%B3%E7%9F%A5%E9%81%93%E4%BB%80%E9%BA%BC%EF%BC%9F%E5%85%AB%E5%80%8B%E6%9C%80%E5%B8%B8%E8%A6%8B%E7%9A%84%E5%95%8F%E9%A1%8C"></span>
 
 ## 你還想知道什麼？八個最常見的問題
 
@@ -207,6 +245,8 @@ sourceVerbatim: true
 
 本文內容由 **上醫預防醫學發展協會** 之 **上醫預防醫學發展協會**編寫,僅供一般健康資訊參考,**不構成個人化醫療建議**。 若您有特定症狀或健康疑慮,請諮詢您的家庭醫師或專業醫療人員。  
 本文經 AI 律師合規審查 + 實證文獻佐證。
+
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB"></span>
 
 ## 參考文獻
 

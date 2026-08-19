@@ -12,6 +12,8 @@ legacyPath: "/blog/what-is-shingles-learn-symptoms-and-risks-in-3-minutes/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%81%A5%E5%BA%B7%E7%9A%84%E9%9A%B1%E5%BD%A2%E5%A8%81%E8%84%85%EF%BC%8C%E4%BD%A0%E6%BA%96%E5%82%99%E5%A5%BD%E4%BA%86%E5%97%8E%EF%BC%9F"></span>
+
 ## **健康的隱形威脅，你準備好了嗎？**
 
 如果有一天，你的身體傳來刺痛與灼熱的信號，皮膚上卻無端冒出紅疹和水疱，這種情況是否讓你感到恐慌？這並非罕見現象，可能是帶狀皰疹正在悄悄侵襲你的健康。
@@ -21,6 +23,8 @@ sourceVerbatim: true
 忙碌的現代人，往往忽視了這些潛在的健康隱患。但好消息是，通過了解帶狀皰疹的成因、症狀和預防策略，你可以更早地保護自己和家人，避免陷入這場看似無形卻深遠的健康風暴。
 
 現在就一起來深入認識這位隱形對手，掌握對抗它的方法，守護你的健康吧！
+
+<span id="%E5%B8%B6%E7%8B%80%E7%9A%B0%E7%96%B9%E7%9A%84%E7%97%85%E6%AF%92%E6%A0%B9%E6%BA%90%EF%BC%9A%E5%BE%9E%E6%B0%B4%E7%97%98%E7%97%85%E6%AF%92%E5%88%B0%E7%9A%AE%E8%9B%87"></span>
 
 ## **帶狀皰疹的病毒根源：從水痘病毒到皮蛇**
 
@@ -36,6 +40,8 @@ sourceVerbatim: true
 
 1.  臺北榮民總醫院皮膚部 – 帶狀皰疹 ([vghtpe.gov.tw](https://www.vghtpe.gov.tw/derm/Fpage.action?fid=15849&muid=17578&utm_source=chatgpt.com))
 2.  《黃帝內經·素問》：「正氣存內，邪不可干。」
+
+<span id="%E5%88%9D%E6%9C%9F%E7%97%87%E7%8B%80%E8%A7%A3%E6%9E%90%EF%BC%9A%E5%A6%82%E4%BD%95%E8%A8%BA%E6%96%B7%E5%B8%B6%E7%8B%80%E7%9A%B0%E7%96%B9%EF%BC%9F"></span>
 
 ## **初期症狀解析：如何診斷帶狀皰疹？**
 
@@ -57,6 +63,8 @@ Epidemiology, treatment and prevention of herpes zoster: A comprehensive review 
 
 1.  《本草綱目》：「蒲公英性味甘寒，入肝胃二經，能清熱解毒，消腫散結。」
 
+<span id="%E5%B8%B6%E7%8B%80%E7%9A%B0%E7%96%B9%E7%9A%84%E5%8D%B1%E9%9A%AA%E6%80%A7%EF%BC%9A%E7%A7%91%E5%AD%B8%E8%AD%89%E6%93%9A%E8%88%87%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90"></span>
+
 ## **帶狀皰疹的危險性：科學證據與數據分析**
 
 帶狀皰疹不僅僅是一種皮膚病，更可能引發多種併發症，對健康造成長期影響。最常見的併發症是**帶狀皰疹後神經痛（****Postherpetic Neuralgia, PHN****）**，這是一種疼痛在皮疹消退後仍然持續數月甚至數年的病症。根據研究，約20%-30%的帶狀皰疹患者可能會發展為後遺神經痛，尤其是年齡超過50歲的患者，其風險顯著增加(註1)。這種疼痛可能嚴重影響生活品質，如睡眠障礙、情緒低落，甚至導致社交和工作能力下降。
@@ -72,6 +80,8 @@ Epidemiology, treatment and prevention of herpes zoster: A comprehensive review 
 1.  Yawn, B. P., & Gilden, D. (2013). The global epidemiology of herpes zoster. *Neurology*, 81(10), 928-930. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/27703368/))
 2.  Cohen, J. I., et al. (2015). Herpes Zoster. *The New England Journal of Medicine*, 372(22), 2085-2092. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/))
 3.  Gagliardi, A. M., et al. (2019). Vaccines for preventing herpes zoster in older adults. *Cochrane Database of Systematic Reviews*, (2). ([PubMed](https://pubmed.ncbi.nlm.nih.gov/))
+
+<span id="%E6%9C%80%E6%96%B0%E7%9A%84%E6%B2%BB%E7%99%82%E8%88%87%E9%A0%90%E9%98%B2%E9%80%B2%E5%B1%95%EF%BC%9A%E8%A5%BF%E9%86%AB%E8%88%87%E4%B8%AD%E9%86%AB%E7%9A%84%E7%B5%90%E5%90%88%E7%AD%96%E7%95%A5"></span>
 
 ## **最新的治療與預防進展：西醫與中醫的結合策略**
 
@@ -89,6 +99,8 @@ Epidemiology, treatment and prevention of herpes zoster: A comprehensive review 
 2.  Cunningham, A. L., et al. (2016). Efficacy of the Herpes Zoster Subunit Vaccine in Adults 70 Years of Age or Older. *The New England Journal of Medicine*, 375(11), 1019-1032. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/))
 3.  《神農本草經》：「蒲公英清熱解毒，消腫散結，治療癰腫瘡毒。」
 
+<span id="%E8%A1%8C%E5%8B%95%EF%BC%8C%E5%AE%88%E8%AD%B7%E5%81%A5%E5%BA%B7%E7%9A%84%E6%9C%80%E4%BD%B3%E7%A6%AE%E7%89%A9"></span>
+
 ## **行動，守護健康的最佳禮物**
 
 健康是我們一生中最珍貴的財富，而帶狀皰疹提醒我們，這份財富需要用心守護。它不僅是一種身體疾病，更是對我們生活方式的一次警示：免疫力是否充足？壓力是否得以有效紓解？我們是否為自己和家人的健康建立了足夠的保障？
@@ -99,11 +111,17 @@ Epidemiology, treatment and prevention of herpes zoster: A comprehensive review 
 
 <table class="dataframe" border="1"><thead><tr style="text-align: center;"><th>項目</th><th>內容（文章總結）</th></tr></thead><tbody><tr><td>成因</td><td>由水痘-帶狀皰疹病毒（Varicella-Zoster Virus）引起，病毒潛伏於神經節，當免疫力下降時被激活。</td></tr><tr><td>症狀</td><td>刺痛、灼熱感、小水疱和紅疹沿著神經呈帶狀分布，常見於胸部、腰部或面部的一側。</td></tr><tr><td>危險性</td><td>可能引發後遺神經痛（PHN）、視力喪失、面癱或聽力受損，特別影響免疫功能低下者。</td></tr><tr><td>治療方法</td><td>西醫：使用抗病毒藥物（acyclovir、valacyclovir）及神經調節劑（pregabalin）。<br>中醫：清熱解毒，常用藥材包括蒲公英、金銀花。</td></tr><tr><td>預防措施</td><td>接種疫苗（如Shingrix），並透過規律運動、均衡飲食和減少壓力來提升免疫力。</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A%E4%BB%80%E9%BA%BC%E6%98%AF%E5%B8%B6%E7%8B%80%E7%9A%B0%E7%96%B9%EF%BC%9F%E5%AE%83%E5%92%8C%E6%99%AE%E9%80%9A%E7%9A%AE%E8%86%9A%E7%97%85%E6%9C%89%E4%BB%80%E9%BA%BC%E4%B8%8D%E5%90%8C%EF%BC%9F"></span>
 
 ### **問題 1****：什麼是帶狀皰疹？它和普通皮膚病有什麼不同？**
 
 **回覆：** 帶狀皰疹是一種由水痘-帶狀皰疹病毒（Varicella-Zoster Virus）引起的病毒性疾病。與普通皮膚病不同，帶狀皰疹通常伴隨刺痛或灼熱感，並且皮疹呈帶狀分布，沿著神經分布於身體的一側。此外，帶狀皰疹可能引發嚴重的併發症，如後遺神經痛（PHN），這是普通皮膚病無法引起的問題。
+
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E5%B8%B6%E7%8B%80%E7%9A%B0%E7%96%B9%E6%9C%83%E5%82%B3%E6%9F%93%E5%97%8E%EF%BC%9F%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%82%B3%E6%9F%93%E7%B5%A6%E5%AE%B6%E4%BA%BA%EF%BC%9F"></span>
 
 ### **問題 2****：帶狀皰疹會傳染嗎？如何避免傳染給家人？**
 
@@ -112,6 +130,8 @@ Epidemiology, treatment and prevention of herpes zoster: A comprehensive review 
 1.  **避免直接接觸**：不要觸碰帶狀皰疹的水疱或滲液。
 2.  **保持清潔**：勤洗手並覆蓋患處，避免分泌物與他人接觸。
 3.  **接種疫苗**：建議高風險人群接種水痘或帶狀皰疹疫苗。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E5%93%AA%E4%BA%9B%E4%BA%BA%E7%BE%A4%E6%9C%80%E5%AE%B9%E6%98%93%E6%82%A3%E5%B8%B6%E7%8B%80%E7%9A%B0%E7%96%B9%EF%BC%9F"></span>
 
 ### **問題 3****：哪些人群最容易患帶狀皰疹？**
 
@@ -122,6 +142,8 @@ Epidemiology, treatment and prevention of herpes zoster: A comprehensive review 
 3.  **免疫功能受損者**：如接受化療或長期服用免疫抑制劑的人群。  
     為降低風險，建議這些人群接種疫苗並保持健康生活方式。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A%E5%B8%B6%E7%8B%80%E7%9A%B0%E7%96%B9%E7%9A%84%E7%96%BC%E7%97%9B%E5%8F%AF%E4%BB%A5%E7%94%A8%E4%BB%80%E9%BA%BC%E6%96%B9%E6%B3%95%E7%B7%A9%E8%A7%A3%EF%BC%9F"></span>
+
 ### **問題 4****：帶狀皰疹的疼痛可以用什麼方法緩解？**
 
 **回覆：** 帶狀皰疹的疼痛可以通過以下方法緩解：
@@ -129,6 +151,8 @@ Epidemiology, treatment and prevention of herpes zoster: A comprehensive review 
 1.  **抗病毒治療**：及早使用抗病毒藥物（如acyclovir或valacyclovir）可減輕症狀。
 2.  **止痛藥物**：使用神經調節劑（如pregabalin）或局部麻醉貼片（如lidocaine patches）緩解神經痛。
 3.  **中醫輔助療法**：根據中醫觀點，帶狀皰疹屬於「火毒攻心」，可使用蒲公英、金銀花等清熱解毒的藥材作為輔助治療。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9A%E5%A6%82%E4%BD%95%E9%A0%90%E9%98%B2%E5%B8%B6%E7%8B%80%E7%9A%B0%E7%96%B9%E7%9A%84%E7%99%BC%E7%94%9F%EF%BC%9F"></span>
 
 ### **問題 5****：如何預防帶狀皰疹的發生？**
 

@@ -22,6 +22,8 @@ sourceVerbatim: true
 
 <iframe style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px;" src="https://embed.podcasts.apple.com/tw/podcast/28%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E9%9B%86-%E8%81%BD%E4%BA%86%E8%82%9A%E5%AD%90%E6%9C%83%E9%A3%BD%E7%9A%84%E9%9F%B3%E6%A8%82-vs-%E8%81%BD%E5%AE%8C%E7%9A%AE%E8%86%9A%E6%9C%83%E8%AE%8A%E5%A5%BD%E7%9A%84%E9%9F%B3%E6%A8%82-%E9%83%BD%E5%B9%BE-feat-%E9%BB%83%E5%AD%90%E5%BD%A5%E9%86%AB%E5%B8%AB-%E4%B8%8A%E4%B8%80%E7%94%9F%E9%86%AB%E5%89%B5%E8%BE%A6%E4%BA%BA/id1796649170?i=1000724795476" height="175" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"></iframe>
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E8%81%BD%E9%9F%B3%E6%A8%82%E8%83%BD%E9%A4%8A%E7%94%9F%EF%BC%9F%E4%BA%94%E8%A1%8C%E5%B0%8D%E6%87%89%E4%BA%94%E8%87%9F%E7%9A%84%E7%A5%95%E5%AF%86"></span>
+
 ## **為什麼聽音樂能養生？五行對應五臟的祕密**
 
 你有沒有發現，心情急躁時聽首輕柔樂曲，壓力彷彿被柔聲攬進懷裡？其實，**音樂與健康**的連結，遠比你想像中更深。例如，音樂治療能透過影響大腦與自律神經，進而改善睡眠與情緒——最新系統性回顧指出，約 74% 的研究顯示音樂治療能顯著提升主觀睡眠品質，雖然對客觀睡眠指標的效果仍有差異 (註1)。
@@ -29,6 +31,8 @@ sourceVerbatim: true
 在中醫的智慧中，更早就以「**五行養生**」揭露聲音與臟腑的深刻連結，[**五音調理**](https://podcasts.apple.com/tw/podcast/%E6%9A%A2%E5%BD%88%E6%9A%A2%E8%A8%80%E5%B0%8F%E9%80%B1%E6%9C%AB/id1796649170?i=1000724795476)不是玄學，而是「角—肝、徵—心、宮—脾、商—肺、羽—腎」的調理智慧。就像你拿一把溫柔的笛子，吹出角音，不僅為肝氣梳理，也像喝一碗清淡的菊花茶，讓肝的失衡被輕輕撫平。
 
 這種對應關係，像生活中一點點香草或蔬菜的小巧安排，既微妙又實用。然而，也別小看溫和的聲音養護，它不是立即見效的強力補劑。在真正合併生活作息不良或情緒壓力時，音樂的力量還需要搭配規律作息與情緒調適，才能發揮最大療癒效益。
+
+<span id="%E4%BA%94%E9%9F%B3%E8%AA%BF%E7%90%86%E5%9C%A8%E6%97%A5%E5%B8%B8%EF%BC%9A%E7%9D%A1%E7%9C%A0%E3%80%81%E5%A3%93%E5%8A%9B%E3%80%81%E5%B0%88%E6%B3%A8%E5%8A%9B%E7%9A%84%E8%81%B2%E9%9F%B3%E6%96%B9%E6%A1%88"></span>
 
 ## **五音調理在日常：睡眠、壓力、專注力的聲音方案**
 
@@ -40,6 +44,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Gymnema-Sugar-Control-4.jpg)
 
+<span id="%E4%BA%94%E8%A1%8C%E9%A4%8A%E7%94%9F%E9%A3%9F%E7%99%82%EF%BC%8B%E9%9F%B3%E6%A8%82%EF%BC%9A%E8%81%B2%E9%9F%B3%E8%88%87%E9%A3%B2%E9%A3%9F%E7%9A%84%E9%9B%99%E9%87%8D%E8%AA%BF%E7%90%86"></span>
+
 ## **五行養生食療＋音樂：聲音與飲食的雙重調理**
 
 想像一下，你端起一杯玫瑰花茶，輕啜的同時，背景響起悠揚的徵音，這就是「**五行養生**」與「食療」相遇的畫面。古人早就強調「藥食同源」，《黃帝內經》提到「五穀為養，五果為助，五畜為益，五菜為充」，若再搭配**五音調理**，就像在料理裡多加了一味提鮮佐料，讓身體更快恢復平衡。
@@ -50,6 +56,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Five-Tones-Organ-Healing5.jpg)
 
+<span id="%E4%BA%94%E8%87%9F%E5%A4%B1%E8%A1%A1%E7%9A%84%E8%81%B2%E9%9F%B3%E8%AD%A6%E8%A8%8A%EF%BC%9A%E4%BD%A0%E8%81%BD%E8%A6%8B%E8%BA%AB%E9%AB%94%E7%9A%84%E6%8F%90%E9%86%92%E4%BA%86%E5%97%8E%EF%BC%9F"></span>
+
 ## **五臟失衡的聲音警訊：你聽見身體的提醒了嗎？**
 
 你有沒有過這樣的經驗：莫名常歎氣、心跳忽快忽慢、或是夜裡總覺得氣短？這些，其實都是**五臟保健**中提醒我們注意的聲音警訊。根據五行對應五臟的理論，肝對應角音，若肝氣鬱結，人就容易長嘆；心對應徵音，失衡時常伴隨心悸或語速過快；脾對應宮音，失調時會有「語聲低弱、說話無力」的感覺；肺對應商音，氣虛時容易出現咳聲短促；腎對應羽音，若虛弱，聲音會顯得沉重無力。
@@ -57,6 +65,8 @@ sourceVerbatim: true
 現代醫學也發現，聲音變化與神經系統、呼吸功能甚至情緒狀態息息相關。最新研究指出，聲音頻率與音樂介入可作為焦慮與憂鬱的輔助診斷與治療工具，因為聲音能反映自律神經活性與壓力狀態 (註4)。
 
 然而，別把任何聲音變化都過度解讀為疾病徵兆。若聲音持續異常或伴隨嚴重不適，應及早就醫檢查，把音樂調理作為輔助，而非延誤治療的理由。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E8%AE%93%E8%81%B2%E9%9F%B3%E6%88%90%E7%82%BA%E8%BA%AB%E9%AB%94%E8%88%87%E5%BF%83%E9%9D%88%E7%9A%84%E8%89%AF%E8%97%A5"></span>
 
 ## **結論：讓聲音成為身體與心靈的良藥**
 
@@ -83,6 +93,8 @@ sourceVerbatim: true
 4.  Front Psychiatry. 2021 Nov 25;12:794782. doi: 10.3389/fpsyt.2021.794782
 
 <table style="border: 3px solid #006400; border-collapse: collapse; width: 100%; text-align: center;"><tbody><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th>五音</th><th>五行</th><th>對應臟腑</th><th>主要情志</th><th>典型失衡訊號</th><th>推薦時段／情境</th><th>建議音樂應用（音樂與健康）</th><th>食療／茶飲搭配（五行養生）</th><th>呼吸／發聲SOP</th><th>注意事項</th></tr><tr style="background-color: #d4e9e2; color: #333333;"><td>角</td><td>木</td><td>肝</td><td>怒、鬱悶</td><td>易怒、目澀、筋緊、夜醒</td><td>早晨整理情緒、春季保養</td><td>中低音域、古箏／簫、60–80 BPM、5–10 分鐘</td><td>菊花枸杞茶、綠 leafy 蔬菜</td><td>鼻吸4拍、口呼6拍；輕哼「嗯」放鬆肋骨</td><td>肝病／眼疾就醫；夜間避免高刺激曲目</td></tr><tr style="background-color: #ffffff; color: #333333;"><td>徵</td><td>火</td><td>心</td><td>喜（躁）、焦慮</td><td>心悸、煩躁、淺眠</td><td>睡前放鬆、壓力後回復</td><td>中音至中高音、鋼琴／弦樂、60–70 BPM、音量50–60 dB</td><td>玫瑰蓮子茶、百合銀耳飲</td><td>4–7–8 呼吸法×3迴圈；胸鎖乳突肌放鬆</td><td>心律不整、胸痛優先就醫；避免過度低頻重拍</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td>宮</td><td>土</td><td>脾</td><td>思、勞倦</td><td>食慾差、腹脹、集中力差</td><td>飯後輕聽、午後提神</td><td>中音域、手碟／輕打擊、穩定節拍 60–70 BPM</td><td>薏仁小米粥、陳皮茶</td><td>腹式呼吸5分鐘；「da-da」輕點舌尖促節律</td><td>腸胃不適者留意乳糖／辛辣；慢食細嚼搭配</td></tr><tr style="background-color: #ffffff; color: #333333;"><td>商</td><td>金</td><td>肺</td><td>憂、悲</td><td>咳聲短促、鼻塞、易嘆氣</td><td>早晚呼吸訓練、秋季潤燥</td><td>木管／洞簫、延長吐氣節奏、60–70 BPM</td><td>梨湯、百合潤肺茶、白蘿蔔湯</td><td>縮唇呼吸：吸4拍／呼6拍×5輪；輕哼「hmm」</td><td>急性氣喘、呼吸困難請就醫；避免過冷空調</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td>羽</td><td>水</td><td>腎</td><td>恐、虛</td><td>腰膝酸軟、易疲倦、畏寒</td><td>睡前安神、冬季養藏</td><td>低音域、大提琴／低鼓、40–60 BPM或自然聲（雨聲、溪流）</td><td>山藥枸杞湯、黑芝麻糊</td><td>緩慢延長呼氣：吸4／呼8；溫和鼻腔共鳴「m」</td><td>慢性腎病遵醫囑；睡前音量勿超60 dB，避免頻繁換曲</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

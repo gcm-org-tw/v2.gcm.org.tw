@@ -25,6 +25,8 @@ sourceVerbatim: true
         *Frozen Shoulder: Diagnosis and Treatment of Adhesive Capsulitis.*  
         Journal: **The American Journal of Medicine.**
 
+<span id="%E4%BA%94%E5%8D%81%E8%82%A9%E5%A4%9A%E4%B9%85%E6%9C%83%E5%A5%BD%EF%BC%9F%E7%82%BA%E4%BB%80%E9%BA%BC%E5%BE%88%E5%A4%9A%E4%BA%BA%E7%97%9B%E8%B6%85%E9%81%8E%E4%B8%80%E5%B9%B4"></span>
+
 ## **五十肩多久會好？為什麼很多人痛超過一年**
 
 一般人最常問的問題是：「**五十肩多久會好？**」其實，典型的五十肩病程，常被描述為三階段：
@@ -40,6 +42,8 @@ sourceVerbatim: true
 另外，糖尿病或甲狀腺疾病患者，恢復期往往更長，需要更早介入治療與復健（註2）。所以，若肩膀疼痛持續數月、活動角度逐漸變小，就應該及早評估，而不是單純等待時間過去。
 
 ![](/wp-content/uploads/Frozen-Shoulder-Recovery-Time3-1.jpg)
+
+<span id="%E4%BA%94%E5%8D%81%E8%82%A9%E6%81%A2%E5%BE%A9%E6%9C%9F%E6%80%8E%E9%BA%BC%E5%88%A4%E6%96%B7%EF%BC%9F%E4%B8%89%E5%80%8B%E8%AE%8A%E5%A5%BD%E7%9A%84%E8%A8%8A%E8%99%9F"></span>
 
 ## **五十肩恢復期怎麼判斷？三個變好的訊號**
 
@@ -57,6 +61,8 @@ sourceVerbatim: true
 
 但如果肩膀完全沒有進步，甚至越來越痛，那就可能不是單純的恢復期，而需要醫師再進一步評估（註4）。
 
+<span id="%E4%BA%94%E5%8D%81%E8%82%A9%E6%83%A1%E5%8C%96%E6%9C%9F%E6%9C%89%E5%93%AA%E4%BA%9B%E8%AD%A6%E8%A8%8A%EF%BC%9F%E9%86%AB%E5%B8%AB%E6%8F%90%E9%86%92%E5%88%A5%E5%BF%BD%E7%95%A5%E9%80%99%E4%BA%9B%E8%AE%8A%E5%8C%96"></span>
+
 ## **五十肩惡化期有哪些警訊？醫師提醒別忽略這些變化**
 
 很多人會問：「如果肩膀一直痛，是不是代表五十肩在惡化？」其實，五十肩從**疼痛期到黏連期**，整個主觀上變嚴重的過程，常會出現幾個比較明顯的訊號。
@@ -72,6 +78,8 @@ sourceVerbatim: true
 另外，也要注意一個常被忽略的情況：若疼痛突然加劇或活動度快速惡化，提醒要讓醫師評估是否存在其他肩部問題，例如：旋轉肌袖損傷或鈣化性肌腱炎（註6）。
 
 記住，當肩膀疼痛持續惡化時，與其忍耐等待，不如及早尋求專業評估。
+
+<span id="%E4%BA%94%E5%8D%81%E8%82%A9%E6%B2%BB%E7%99%82%E6%80%8E%E9%BA%BC%E9%81%B8%EF%BC%9F%E5%BC%B5%E5%AE%B6%E8%AA%A0%E9%86%AB%E5%B8%AB%E7%9A%84%E6%95%B4%E5%90%88%E8%A7%80%E9%BB%9E"></span>
 
 ## **五十肩治療怎麼選？張家誠醫師的整合觀點**
 
@@ -93,6 +101,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Frozen-Shoulder-Recovery-Time6-1.jpg)
 
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E7%95%B6%E8%82%A9%E8%86%80%E9%96%8B%E5%A7%8B%E6%85%A2%E6%85%A2%E9%AC%86%E9%96%8B"></span>
+
 ## **結論：當肩膀開始慢慢鬆開**
 
 很多人問「**五十肩多久會好**」，其實答案往往不只在時間，而在於你是否看懂身體正在發出的訊號，當夜間疼痛慢慢減少、抬手角度一點一點回來、穿衣梳頭不再那麼卡，通常代表身體正走向 **五十肩恢復期**。但如果肩膀越來越僵、夜間痛反覆加重，就可能需要重新評估治療方向。
@@ -106,9 +116,13 @@ sourceVerbatim: true
 
 如果你現在正被肩膀疼痛困擾，也許這篇文章就是一個新的開始。試著觀察自己的肩膀變化，或把文章分享給同樣受困的人吧。
 
+<span id="%E4%BA%94%E5%8D%81%E8%82%A9%E6%B2%BB%E7%99%82%E6%96%B9%E5%BC%8F%E6%87%B6%E4%BA%BA%E5%8C%85"></span>
+
 ## 五十肩治療方式懶人包
 
 <table style="height: 672px;" width="1577"><tbody><tr><td width="50"><strong>治療項目</strong></td><td width="160"><strong>針刀治療</strong><strong> (Acupotomy)</strong></td><td width="178"><strong>浮針療法</strong><strong> (FSN)</strong></td><td width="166"><strong>乾針治療</strong><strong> (Dry Needling)</strong></td></tr><tr><td width="50"><strong>核心定位</strong></td><td width="160"><strong>破除沾黏的主要手段</strong></td><td width="178"><strong>功能修復與運動矯正</strong></td><td width="166"><strong>精準鬆解目標肌肉</strong></td></tr><tr><td width="50"><strong>生理機制</strong></td><td width="160">針對纖維化、沾黏的關節囊與韌帶進行物理性鬆解。</td><td width="178">透過遠端掃散與再灌注，恢復肌肉彈性與肌力。</td><td width="166">針對肌肉內的激痛點進行物理刺激，重啟神經肌肉系統。</td></tr><tr><td width="50"><strong>生物力學目標</strong></td><td width="160"><strong>「開門」</strong>：解除關節囊的物理性束縛，增加活動空間。</td><td width="178"><strong>「導正」</strong>：恢復肌肉功能、找回消失的肌力，導正錯誤代償。</td><td width="166"><strong>「釋壓」</strong>：精準鬆解特定有問題的肌肉張力。</td></tr><tr><td width="50"><strong>治療體感</strong></td><td width="160">針對病灶局部微創處理，精準且直接。</td><td width="178"><strong>治療過程無痛</strong>，適合對疼痛較敏感的患者。</td><td width="166">局部肌肉會有酸脹跳動感，鬆解點位精確。</td></tr><tr><td width="50"><strong>臨床價值</strong></td><td width="160">打破僵硬期「角度卡死」的瓶頸。</td><td width="178">提供運動矯正的基礎，讓復健運動更有效率。</td><td width="166">排除特定肌肉緊繃對肩關節力學的干擾。</td></tr><tr><td width="50"><strong>整合復健觀點</strong></td><td width="160">鬆解後是增加關節活動度的黃金期。</td><td width="178">治療後可立即進行肌力訓練與姿勢重塑。</td><td width="166">鬆解後能改善特定角度的刺痛感。</td></tr></tbody></table>
+
+<span id="%E8%87%A8%E5%BA%8A%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## 臨床常見問題與回覆
 

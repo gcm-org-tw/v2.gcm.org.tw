@@ -19,6 +19,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/outdoor-hydration-formula_11zon.webp)
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E4%B8%8D%E8%83%BD%E7%AD%89%E5%88%B0%E5%8F%A3%E6%B8%B4%E6%89%8D%E5%96%9D%E6%B0%B4%EF%BC%9F"></span>
+
 ## **為什麼不能等到口渴才喝水？**
 
 根據研究，當人體水分流失 1～2%（約等於體重的 1～2%）時，運動表現就會明顯下降；但此時我們還不一定會覺得口渴。真正產生口渴感，往往已經是水分流失達 3～5% 的時候。
@@ -31,11 +33,15 @@ sourceVerbatim: true
 
 換句話說，「渴了才喝」其實已經太遲。尤其是在戶外運動或高溫環境中，更需要主動補水來預防脫水。
 
+<span id="%E8%A3%9C%E6%B0%B4%E4%B8%8D%E5%8F%AA%E6%98%AF%E5%96%9D%E6%B0%B4%EF%BC%8C%E9%82%84%E8%A6%81%E8%A3%9C%E3%80%8C%E9%9B%BB%E8%A7%A3%E8%B3%AA%E3%80%8D"></span>
+
 ## **補水不只是喝水，還要補「電解質」**
 
 當你流汗時，除了水分，還會流失鈉、鉀、鎂等電解質，這些都是神經與肌肉正常運作所必需的礦物質。如果大量流汗後只補充白開水，可能導致體內電解質過低，進一步引發頭暈、虛弱、抽筋，甚至危及健康。
 
 因此，當運動超過 1 小時、或流汗量特別大時，建議補充**含電解質的運動飲料**，維持水鹽平衡與體液穩定。
+
+<span id="%E5%AF%A6%E7%94%A8%E8%A3%9C%E6%B0%B4%E5%BB%BA%E8%AD%B0%EF%BC%9A%E9%81%8B%E5%8B%95%E5%89%8D%E3%80%81%E4%B8%AD%E3%80%81%E5%BE%8C%E8%A9%B2%E6%80%8E%E9%BA%BC%E5%96%9D%EF%BC%9F"></span>
 
 ## **實用補水建議：運動前、中、後該怎麼喝？**
 
@@ -57,6 +63,8 @@ sourceVerbatim: true
 
 -   若有條件，建議「運動前後量體重」：每減少 1 公斤體重，應補充約 1.5 公升水分。
 -   沒有量體重的話，也可依口渴感與尿液顏色（呈淡黃色為佳）做判斷，持續小口補水 1～2 小時。
+
+<span id="%E6%97%A5%E5%B8%B8%E8%A3%9C%E6%B0%B4%E7%9A%84%E7%A7%91%E5%AD%B8%E5%85%AC%E5%BC%8F"></span>
 
 ## **日常補水的科學公式**
 
@@ -81,6 +89,8 @@ sourceVerbatim: true
 <table><thead><tr><td><strong>體重(</strong><strong>公斤)</strong></td><td><strong>輕度活動（日常）</strong></td><td><strong>中等活動（一般運動）</strong></td><td><strong>高強度活動（流汗多）</strong></td></tr></thead><tbody><tr><td>50</td><td>1500 ml</td><td>2000 ml</td><td>2500 ml</td></tr><tr><td>60</td><td>1800 ml</td><td>2400 ml</td><td>3000 ml</td></tr><tr><td>70</td><td>2100 ml</td><td>2800 ml</td><td>3500 ml</td></tr><tr><td>80</td><td>2400 ml</td><td>3200 ml</td><td>4000 ml</td></tr></tbody></table>
 
 *以上數值包含從飲水與食物中攝取的總水分量，一般建議以白開水作為主要來源。*
+
+<span id="%E9%A4%8A%E6%88%90%E4%B8%BB%E5%8B%95%E5%96%9D%E6%B0%B4%E7%9A%84%E7%BF%92%E6%85%A3%EF%BC%8C%E5%B0%B1%E6%98%AF%E4%BF%9D%E8%AD%B7%E8%87%AA%E5%B7%B1"></span>
 
 ## **養成主動喝水的習慣，就是保護自己**
 

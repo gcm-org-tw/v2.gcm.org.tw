@@ -25,6 +25,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="保濕洗面乳真的能保濕嗎？" width="563" height="1000" src="https://www.youtube.com/embed/y6PES7gmzBQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E6%B4%97%E8%87%89%E7%9A%84%E6%AD%A3%E7%A2%BA%E9%A0%86%E5%BA%8F%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F"></span>
+
 ## **洗臉的正確順序是什麼？**
 
 你有沒有發現，明明每天洗臉，臉卻越洗越乾？  
@@ -38,6 +40,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="你洗的臉正確嗎？" width="563" height="1000" src="https://www.youtube.com/embed/FnOsyt182vQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E6%B4%97%E5%AE%8C%E8%87%89%E5%BE%8C%E9%9C%80%E8%A6%81%E4%BF%9D%E6%BF%95%EF%BC%9F"></span>
+
 ## **為什麼洗完臉後需要保濕？**
 
 你有沒有這樣的經驗？洗完臉不到五分鐘，臉頰開始乾癢、緊繃，甚至覺得「笑起來皮膚都快裂了」——這不是錯覺，而是**皮脂膜正在向你抗議**。
@@ -50,6 +54,8 @@ sourceVerbatim: true
 
 別小看這幾分鐘的黃金保濕時機，你不補，環境就會幫你「蒸乾」。
 
+<span id="%E6%B4%97%E8%87%89%E7%94%A2%E5%93%81%E9%81%B8%E6%93%87%E6%9C%89%E5%93%AA%E4%BA%9B%E9%87%8D%E9%BB%9E%EF%BC%9F"></span>
+
 ## **洗臉產品選擇有哪些重點？**
 
 「泡泡越多越乾淨」這句話，其實是保養界的都市傳說。你知道嗎？真正適合肌膚、尤其是敏感肌的洗臉產品，**反而是泡泡少、成分溫和的類型。**
@@ -61,6 +67,8 @@ sourceVerbatim: true
 另外一個被忽略的小細節是「搓泡方式」。與其直接把洗面乳抹在臉上，不如用起泡網或掌心打出細緻泡沫，減少與皮膚的摩擦傷害，也更容易深入毛孔清潔。
 
 簡單來說，**你選什麼洗臉產品，就決定了肌膚接下來的「命運走向」**。清得乾淨不是本事，清得剛剛好，才是高手。
+
+<span id="%E6%B4%97%E5%AE%8C%E8%87%89%E5%BE%8C%E4%BF%9D%E9%A4%8A%E6%AD%A5%E9%A9%9F%E8%A9%B2%E6%80%8E%E9%BA%BC%E5%81%9A%EF%BC%9F"></span>
 
 ## **洗完臉後保養步驟該怎麼做？**
 
@@ -75,6 +83,8 @@ sourceVerbatim: true
 如果你想讓臉不只是「洗完舒服」，而是「隔天還亮著」，那麼這套洗後保養步驟，真的不能少。
 
 ![](/wp-content/uploads/Face-Wash-Hydration-Boost2.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E6%B4%97%E8%87%89%EF%BC%8C%E6%98%AF%E4%BD%A0%E5%B0%8D%E7%94%9F%E6%B4%BB%E7%A7%A9%E5%BA%8F%E7%9A%84%E7%AC%AC%E4%B8%80%E5%8F%A5%E5%95%8F%E5%80%99"></span>
 
 ## **結論：洗臉，是你對生活秩序的第一句問候**
 
@@ -110,27 +120,39 @@ sourceVerbatim: true
 
 <table><tbody><tr><th>項目</th><th>常見錯誤做法</th><th>正確做法建議</th></tr><tr><td>水溫選擇</td><td>使用過熱水，導致角質層受損</td><td>使用微溫水潤膚，清潔同時保護皮脂膜</td></tr><tr><td>清潔產品</td><td>高泡泡、含刺激界面劑的洗面乳</td><td>胺基酸系低泡洗面乳，溫和潔淨不過度去油</td></tr><tr><td>清潔手法</td><td>直接用手搓或用毛巾摩擦臉部</td><td>起泡後輕柔打圈清潔，用毛巾輕按吸水</td></tr><tr><td>洗完處理</td><td>放任自然風乾或忘記保濕</td><td>3分鐘內塗抹保濕精華＋乳液鎖水</td></tr><tr><td>保濕順序</td><td>只擦化妝水或敷面膜</td><td>先補水（精華液），後鎖水（乳液/凝膠）</td></tr><tr><td>保養節奏</td><td>隨心情，忽快忽慢、日夜不一</td><td>穩定的清潔與保濕節奏，有助皮膚自我修復</td></tr></tbody></table>
 
+<span id="%E2%9C%85_%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86%EF%BC%88FAQ%EF%BC%89"></span>
+
 ## **✅** **常見問題與回覆（FAQ****）**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E4%B8%80%E5%A4%A9%E6%87%89%E8%A9%B2%E6%B4%97%E5%B9%BE%E6%AC%A1%E8%87%89%E6%89%8D%E5%89%9B%E5%A5%BD%EF%BC%9F"></span>
 
 ### **問題1****：一天應該洗幾次臉才剛好？**
 
 **回覆：**  
 大多數人一天洗臉 **1****～2****次** 為宜。早上洗臉可以清除夜間皮脂代謝產物，晚上則是卸妝與清潔灰塵。若過度清潔，反而會讓肌膚變得更乾，甚至導致皮脂過度分泌進而出油長痘。**尤其是乾性或敏感肌，早上可只用清水，晚間再做完整清潔。**
 
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E6%B4%97%E8%87%89%E5%BE%8C%E5%A4%9A%E4%B9%85%E5%85%A7%E8%A6%81%E4%BF%9D%E6%BF%95%E6%89%8D%E6%9C%89%E6%95%88%EF%BC%9F"></span>
+
 ### **問題2****：洗臉後多久內要保濕才有效？**
 
 **回覆：**  
 **3****分鐘內**是保濕的黃金時機。洗完臉後，水分會快速從皮膚表層蒸發，如果未即時補上保濕精華或乳液，皮膚會處於缺水狀態。中醫也提到「津液內守，肌膚得潤」，意思就是要讓水留在體內與皮膚，外在要靠你「蓋住那層蓋子」。
+
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E6%B3%A1%E6%B3%A1%E5%A4%9A%E7%9A%84%E6%B4%97%E9%9D%A2%E4%B9%B3%E6%AF%94%E8%BC%83%E5%A5%BD%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題3****：泡泡多的洗面乳比較好嗎？**
 
 **回覆：**  
 不一定。泡泡多通常代表清潔力強，但也容易破壞皮膚天然的油脂屏障。**對於乾性或敏感性肌膚，胺基酸系低泡潔顏產品更溫和安全。**判斷好壞的標準應該是洗後皮膚是否舒適、不緊繃，而不是泡沫多少。
 
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E6%B4%97%E5%AE%8C%E8%87%89%E4%B9%8B%E5%BE%8C%E7%94%A8%E6%AF%9B%E5%B7%BE%E6%90%93%E4%B9%BE%E5%8F%AF%E4%BB%A5%E5%97%8E%EF%BC%9F"></span>
+
 ### **問題4****：洗完臉之後用毛巾搓乾可以嗎？**
 
 **回覆：**  
 **不建議使用摩擦力大的方式搓乾臉部。**這樣容易拉扯肌膚，造成表層微傷，長期下來可能導致鬆弛或泛紅。最理想的方式是用柔軟毛巾輕輕「按壓」吸水，就像給臉一個溫柔的擁抱。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E4%BF%9D%E6%BF%95%E4%B8%80%E5%AE%9A%E8%A6%81%E7%B2%BE%E8%8F%AF%E6%B6%B2%EF%BC%8B%E4%B9%B3%E6%B6%B2%E5%85%A9%E5%B1%A4%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題5****：保濕一定要精華液＋乳液兩層嗎？**
 

@@ -12,6 +12,10 @@ legacyPath: "/blog/enterovirus-symptoms-fever-mouth-sores-rashes-warning-signs/"
 sourceVerbatim: true
 ---
 
+<span id="sec-0"></span>
+
+<span id="%E7%97%87%E7%8B%80%E8%A1%A8%E7%8F%BE%E5%A4%9A%E5%85%83%EF%BC%8C%E3%80%8C%E5%98%B4%E7%A0%B4%E6%89%8B%E8%85%B3%E7%96%B9%E3%80%8D%E4%B8%A6%E9%9D%9E%E5%94%AF%E4%B8%80%E6%8C%87%E6%A8%99"></span>
+
 ## 症狀表現多元，「嘴破手腳疹」並非唯一指標
 
 根據疾病管制署歷年監測資料，台灣腸病毒就診人次於高峰期單週可突破十萬。然而，臨床觀察顯示，相當比例的感染兒童僅出現發燒與喉嚨痛，並無典型的口腔潰瘍或手腳皮疹，外觀與一般上呼吸道感染難以區分（註1）。
@@ -26,6 +30,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/a544e87e-fa04-459c-8358-ef8b2926a340/paragraph-seg-1-1783944141772-c0e87c7d.jpg" alt="症狀表現多元，「嘴破手腳疹」並非唯一指標"></figure>
 
+<span id="sec-1"></span>
+
+<span id="%E9%87%8D%E7%97%87%E5%89%8D%E5%85%86%EF%BC%9A%E9%80%80%E7%87%92%E5%BE%8C%E7%9A%84%E7%A5%9E%E7%B6%93%E7%B3%BB%E7%B5%B1%E8%AD%A6%E8%A8%8A%E4%B8%8D%E5%AE%B9%E5%BF%BD%E8%A6%96"></span>
+
 ## 重症前兆：退燒後的神經系統警訊不容忽視
 
 腸病毒重症前兆往往並非突發，而是在一般症狀緩解階段悄然浮現。臨床上最需即時警覺的五項警訊為：**嗜睡、肌抽躍（入睡或清醒時突發性肢體抖動）、持續嘔吐、呼吸急促，以及臉色發白或發灰**，出現任何一項均應立即就醫，不宜觀察等待。
@@ -39,6 +47,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/a544e87e-fa04-459c-8358-ef8b2926a340/paragraph-seg-2-1783944226495-73e65867.jpg" alt="重症前兆：退燒後的神經系統警訊不容忽視"></figure>
+
+<span id="sec-2"></span>
+
+<span id="%E5%B1%85%E5%AE%B6%E7%85%A7%E8%AD%B7%EF%BC%9A%E6%8C%81%E7%BA%8C%E8%BF%BD%E8%B9%A4%E4%BA%94%E9%A0%85%E9%97%9C%E9%8D%B5%E6%8C%87%E6%A8%99"></span>
 
 ## 居家照護：持續追蹤五項關鍵指標
 
@@ -56,6 +68,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/a544e87e-fa04-459c-8358-ef8b2926a340/paragraph-seg-3-1783944194480-4d41cb25.jpg" alt="居家照護：持續追蹤五項關鍵指標"></figure>
 
+<span id="sec-3"></span>
+
+<span id="%E9%9A%94%E9%9B%A2%E8%88%87%E7%92%B0%E5%A2%83%E6%B6%88%E6%AF%92%EF%BC%9A%E5%AE%B6%E5%BA%AD%E5%85%A7%E5%82%B3%E6%92%AD%E9%A2%A8%E9%9A%AA%E4%B8%8D%E5%8F%AF%E4%BD%8E%E4%BC%B0"></span>
+
 ## 隔離與環境消毒：家庭內傳播風險不可低估
 
 依台灣現行防疫規範，腸病毒確診後孩子應居家休息，不得進入學校或托育機構，一般建議隔離至發病後至少七天，且急性症狀明顯改善後方可考慮返校。
@@ -68,6 +84,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/a544e87e-fa04-459c-8358-ef8b2926a340/paragraph-seg-4-1783944363145-27259c2e.jpg" alt="隔離與環境消毒：家庭內傳播風險不可低估"></figure>
 
+<span id="sec-4"></span>
+
+<span id="%E8%85%B8%E7%97%85%E6%AF%92%E5%B8%B8%E8%A6%8B%E7%97%87%E7%8B%80%E5%88%86%E5%9E%8B%E6%AF%94%E8%BC%83"></span>
+
 ## 腸病毒常見症狀分型比較
 
 <table><thead><tr><th>比較項目</th><th>手足口病</th><th>疱疹性咽峽炎</th><th>輕症／類感冒型</th><th>重症前期（EV-A71 相關）</th></tr></thead><tbody><tr><td><strong>主要症狀</strong></td><td>發燒＋口腔潰瘍＋手腳紅疹或水泡</td><td>發燒＋喉嚨後方水泡＋吞嚥疼痛</td><td>低燒或無燒、輕微喉嚨不適</td><td>嗜睡、肌抽躍、持續嘔吐、呼吸急促</td></tr><tr><td><strong>嘴破位置</strong></td><td>舌頭、上顎、頰黏膜（前段）</td><td>咽喉後方、懸雍垂附近（後段）</td><td>多無明顯口腔潰瘍</td><td>可能合併口腔病灶，但不是主要警訊</td></tr><tr><td><strong>手腳皮疹</strong></td><td>有，手掌腳掌為主；CVA6 可能擴及軀幹</td><td>通常無</td><td>通常無</td><td>可有可無，不是判斷重症的依據</td></tr><tr><td><strong>發燒程度</strong></td><td>38–39°C，持續 2–3 天</td><td>38–40°C，可能較高</td><td>輕微或無發燒</td><td>退燒後精神仍差，是關鍵警訊</td></tr><tr><td><strong>常見好發年齡</strong></td><td>5 歲以下，尤其 1–3 歲</td><td>5 歲以下</td><td>任何年齡皆可</td><td>3 歲以下風險最高</td></tr><tr><td><strong>傳染途徑</strong></td><td>飛沫、接觸、糞口</td><td>飛沫、接觸、糞口</td><td>飛沫、接觸</td><td>同左，病毒量大時傳染力強</td></tr><tr><td><strong>病程長度</strong></td><td>約 5–7 天</td><td>約 4–6 天</td><td>約 2–4 天</td><td>快速惡化，需即時就醫</td></tr><tr><td><strong>需要就醫緊急度</strong></td><td>⭐⭐⭐（症狀明顯應就診確認）</td><td>⭐⭐⭐（高燒難退需就醫）</td><td>⭐⭐（持續觀察為主）</td><td>⭐⭐⭐⭐⭐（立即急診，不可等待）</td></tr></tbody></table>
@@ -77,6 +97,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/a544e87e-fa04-459c-8358-ef8b2926a340/paragraph-seg-5-1783944354950-2a9c276f.jpg" alt="腸病毒常見症狀分型比較"></figure>
+
+<span id="sec-5"></span>
+
+<span id="FAQ%EF%BC%9A%E8%87%A8%E5%BA%8A%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%9E%90"></span>
 
 ## FAQ：臨床常見問題解析
 

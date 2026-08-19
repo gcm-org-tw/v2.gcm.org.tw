@@ -12,6 +12,8 @@ legacyPath: "/blog/wctrafficbombing070426/"
 sourceVerbatim: true
 ---
 
+<span id="%E8%AA%B2%E7%A8%8B%E7%B0%A1%E4%BB%8B"></span>
+
 ## 課程簡介
 
 **你的第一堂白袍IP養成實戰課｜撕掉粉絲數的標籤**
@@ -54,17 +56,25 @@ GCM上醫預防醫學發展協會為協助白袍醫事人員在與民眾推廣�
 
 它只屬於願意花 2 小時來到現場的我們。
 
+<span id="%E8%AA%B2%E7%A8%8B%E8%B2%BB%E7%94%A8"></span>
+
 ## **課程費用**
 
 **NT.1,690**
+
+<span id="%E4%BB%98%E6%AC%BE%E6%96%B9%E5%BC%8F"></span>
 
 ## 付款方式
 
 **現場繳費**
 
+<span id="%E5%90%8D%E9%A1%8D%E9%99%90%E5%88%B6"></span>
+
 ## 名額限制
 
 **本次課程為實體，限額 30 名**
+
+<span id="%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A"></span>
 
 ## 課程資訊
 
@@ -76,9 +86,13 @@ GCM上醫預防醫學發展協會為協助白袍醫事人員在與民眾推廣�
 
 交通：捷運台北車站步行 5 分鐘
 
+<span id="LINE%E5%AE%A2%E6%9C%8D%E5%AE%98%E6%96%B9%E5%B8%B3%E8%99%9F"></span>
+
 ## **LINE客服官方帳號**
 
 [https://lin.ee/8A0TxgR](https://lin.ee/8A0TxgR)
+
+<span id="%E8%81%AF%E5%90%88%E4%B8%BB%E8%BE%A6"></span>
 
 ## **聯合主辦**
 
@@ -87,6 +101,8 @@ GCM上醫預防醫學發展協會為協助白袍醫事人員在與民眾推廣�
 **凌崇傳媒股份有限公司**
 
 **GCM上醫預防醫學發展協會**
+
+<span id="%E7%AB%8B%E5%8D%B3%E5%A0%B1%E5%90%8D"></span>
 
 ## **立即報名**
 

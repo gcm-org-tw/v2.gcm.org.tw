@@ -12,6 +12,8 @@ legacyPath: "/blog/inflammation-resolution-failure/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80%EF%BD%9C%E5%BE%88%E5%A4%9A%E4%BA%BA%E9%83%BD%E5%9C%A8%E6%8A%97%E7%99%BC%E7%82%8E%EF%BC%8C%E5%8D%BB%E4%B8%8D%E7%9F%A5%E9%81%93%E8%BA%AB%E9%AB%94%E5%85%B6%E5%AF%A6%E9%82%84%E6%B2%92%E6%94%B6%E5%A0%B4"></span>
+
 ## **引言｜很多人都在抗發炎，卻不知道身體其實還沒收場**
 
 你有沒有發現一件事？  
@@ -42,6 +44,8 @@ sourceVerbatim: true
 **研究線索**  
 （註1）Panigrahy D., Gilligan M. M., Serhan C. N., Kashfi K. (2021). *Resolution of Inflammation: An Organizing Principle in Biology and Medicine*. **Pharmacology & Therapeutics**, 227, 107879.
 
+<span id="%E5%BE%88%E5%A4%9A%E7%97%87%E7%8B%80%E5%8F%8D%E8%A6%86%E5%87%BA%E7%8F%BE%EF%BC%8C%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E7%99%BC%E7%82%8E%E6%B2%92%E5%A3%93%E4%B8%8B%E4%BE%86%E5%97%8E%EF%BC%9F"></span>
+
 ## **很多症狀反覆出現，真的只是發炎沒壓下來嗎？**
 
 你有沒有這樣的經驗？  
@@ -71,6 +75,8 @@ SPM（specialized pro-resolving mediators）並不是去「壓」發炎，
 其實它只是還沒被帶到「可以安心修復」的那一步。
 
 ![](/wp-content/uploads/Inflammation-Resolution-Failure3.jpg)
+
+<span id="SPM_%E4%BD%9C%E7%94%A8%E6%A9%9F%E5%88%B6%EF%BC%8C%E8%B7%9F%E6%88%91%E5%80%91%E7%86%9F%E6%82%89%E7%9A%84%E6%8A%97%E7%99%BC%E7%82%8E%E5%88%B0%E5%BA%95%E5%B7%AE%E5%9C%A8%E5%93%AA%EF%BC%9F"></span>
 
 ## **SPM** **作用機制，跟我們熟悉的抗發炎到底差在哪？**
 
@@ -104,6 +110,8 @@ SPM 正是在這個階段出現，
 抗發炎是在「讓聲音小一點」，  
 而 SPM，是在告訴免疫系統：  
 **這一局結束了，可以開始修復了**。
+
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9C%83%E6%85%A2%E6%80%A7%E7%99%BC%E7%82%8E%EF%BC%9F%E5%95%8F%E9%A1%8C%E5%85%B6%E5%AF%A6%E5%87%BA%E5%9C%A8%E3%80%8C%E6%B2%92%E6%94%B6%E5%A0%B4%E3%80%8D"></span>
 
 ## **為什麼會慢性發炎？問題其實出在「沒收場」**
 
@@ -141,6 +149,8 @@ SPM 正是在這個階段出現，
 沒有收場，就沒有真正的癒合。
 
 **![](/wp-content/uploads/Inflammation-Resolution-Failure7.jpg)**
+
+<span id="%E6%80%8E%E9%BA%BC%E5%88%A4%E6%96%B7%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9A%84%E6%98%AF%E6%8A%97%E7%99%BC%E7%82%8E%EF%BC%8C%E9%82%84%E6%98%AF%E7%99%BC%E7%82%8E%E6%B6%88%E9%80%80%EF%BC%9F"></span>
 
 ## **怎麼判斷你需要的是抗發炎，還是發炎消退？**
 
@@ -181,6 +191,8 @@ SPM 正是在這個階段出現，
 
 幫身體走完流程，  
 比單純把症狀壓下來，更接近健康。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BD%9C%E6%8A%8A%E7%99%BC%E7%82%8E%E5%A5%BD%E5%A5%BD%E6%94%B6%E5%A0%B4%EF%BC%8C%E8%BA%AB%E9%AB%94%E6%89%8D%E8%B5%B0%E5%BE%97%E5%9B%9E%E4%BE%86"></span>
 
 ## **結論｜把發炎好好收場，身體才走得回來**
 
@@ -223,6 +235,8 @@ SPM 正是在這個階段出現，
 **《本文將依據最新提問持續更新》**
 
 <table class="gcm-compare-table" role="table" aria-label="抗發炎 vs 發炎消退（SPM）比較表"><thead><tr><th class="col-dimension">比較面向</th><th class="col-left">抗發炎</th><th class="col-right">發炎消退（SPM）</th></tr></thead><tbody><tr><td class="col-dimension">介入的時間點</td><td>介入在發炎正在進行中，目的是降低發炎強度、減少不適。</td><td>介入在發炎任務完成之後，目的是啟動收尾與修復流程。</td></tr><tr><td class="col-dimension">免疫系統的角色定位</td><td>讓免疫「暫時安靜下來」，避免過度攻擊造成傷害。</td><td>引導免疫「轉換角色」，從攻擊者變成清理者與修復協調者。</td></tr><tr><td class="col-dimension">對免疫流程的影響方式</td><td>抑制發炎訊號、降低免疫反應強度。</td><td>完成發炎流程，停止不必要的免疫增援，讓修復順利接手。</td></tr><tr><td class="col-dimension">對修復與恢復的影響</td><td>有助於短期舒緩，但不一定能推動後續修復。</td><td>有助於清除殘留發炎產物，為組織修復創造條件。</td></tr><tr><td class="col-dimension">長期使用可能出現的盲點</td><td>若長期單一使用，可能讓發炎「被壓住但未結案」，症狀反覆。</td><td>若忽略急性期直接使用，可能錯過必要的初期防禦反應。</td></tr><tr><td class="col-dimension">適合考慮的情境</td><td>急性期、紅腫熱痛明顯、需要立即降溫的狀況。</td><td>症狀反覆、恢復拖慢、檢查正常但身體「還沒回來」的狀況。</td></tr><tr><td class="col-dimension">核心判斷問題（給讀者用）</td><td>「現在的發炎，會不會繼續造成傷害？」</td><td>「這場發炎，是不是已經該被好好收場？」</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

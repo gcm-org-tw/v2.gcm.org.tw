@@ -14,13 +14,19 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/芒果引言1-1024x576.png)
 
+<span id="%E5%BC%95%E8%A8%80"></span>
+
 ## **引言**
 
 **愛文芒果怎麼挑才甜？**答案不是單看果皮紅不紅。真正影響口感的，是香氣、成熟度、果肉狀態與採收後保存方式。很多人買芒果時會同時遇到幾個問題：價格為什麼差很多？皮有黑點還能不能吃？放冰箱可以放多久？這些問題看似分開，其實都指向同一件事：你要判斷這顆芒果現在「到哪個階段」。懂得看熟度，就比較不會買錯，也比較不會浪費。
 
+<span id="%E6%84%9B%E6%96%87%E8%8A%92%E6%9E%9C%E6%80%8E%E9%BA%BC%E6%8C%91%E6%89%8D%E7%94%9C%EF%BC%9F%E5%85%88%E7%9C%8B%E9%A6%99%E6%B0%A3%E3%80%81%E6%9E%9C%E8%82%A9%E8%88%87%E7%86%9F%E5%BA%A6"></span>
+
 ## **愛文芒果怎麼挑才甜？先看香氣、果肩與熟度**
 
 你知道嗎？挑愛文芒果，很多人第一眼只看「紅不紅」，但這樣很容易失準。真正甜不甜，要看三件事：**香氣、果肩、熟度**。成熟的愛文芒果，靠近果蒂會有自然果香，不是酒味、酸味或悶臭味；果肩要飽滿，拿起來有沉手感，代表果肉水分與成熟度比較完整。果皮顏色可以參考，但不能當唯一標準，因為芒果的香氣與成熟階段會受品種與熟度影響，研究也指出芒果揮發性香氣成分可用來區分不同品種與成熟狀態（註1）。所以買愛文芒果，別只挑最紅的，應該像買好茶一樣：先聞香，再看型，最後判斷熟度。這樣挑，才比較公道。
+
+<span id="%E6%84%9B%E6%96%87%E8%8A%92%E6%9E%9C%E7%82%BA%E4%BB%80%E9%BA%BC%E5%83%B9%E6%A0%BC%E5%B7%AE%E5%BE%88%E5%A4%9A%EF%BC%9F%E7%94%A2%E5%9C%B0%E3%80%81%E7%AD%89%E7%B4%9A%E3%80%81%E6%99%82%E9%96%93%E9%BB%9E%E9%83%BD%E6%9C%89%E9%97%9C"></span>
 
 ## **愛文芒果為什麼價格差很多？產地、等級、時間點都有關**
 
@@ -28,13 +34,19 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/段落三1-1024x576.png)
 
+<span id="%E6%84%9B%E6%96%87%E8%8A%92%E6%9E%9C%E7%9A%AE%E9%BB%91%E9%BB%9E%E9%82%84%E8%83%BD%E5%90%83%E5%97%8E%EF%BC%9F%E5%93%AA%E4%BA%9B%E9%BB%91%E9%BB%9E%E8%A6%81%E6%B3%A8%E6%84%8F%EF%BC%9F"></span>
+
 ## **愛文芒果皮黑點還能吃嗎？哪些黑點要注意？**
 
 愛文芒果皮有黑點，先別急著丟，但也不要硬吃。這件事要分清楚。農業部曾說明，芒果表皮黑點常見原因包括炭疽病、黑斑病等，這類造成果實黑點的病菌一般不會感染人體；如果只是表皮輕微受損，把受害部位切除後，其餘果肉通常仍可食用。可是，要注意喔，若黑點已經擴大、凹陷、果肉變褐、流汁，或聞起來有酸味、酒味、腐敗味，那就不是「外表不好看」而已，而是可能已經變質，就不建議再吃。芒果炭疽病在成熟果實上常見灰黑、凹陷斑塊，也可能影響採後品質（註4、註5）。所以判斷黑點能不能吃，重點不是看「有沒有黑點」，而是看黑點有沒有深入果肉、有沒有異味、有沒有軟爛。小斑點切掉，大腐壞丟掉，這樣才公道。
 
+<span id="%E6%84%9B%E6%96%87%E8%8A%92%E6%9E%9C%E4%BF%9D%E5%AD%98%E6%96%B9%E5%BC%8F%E6%80%8E%E9%BA%BC%E5%81%9A%EF%BC%9F%E5%86%B7%E8%97%8F%E5%8F%AF%E4%BB%A5%E6%94%BE%E5%A4%9A%E4%B9%85%EF%BC%9F"></span>
+
 ## **愛文芒果保存方式怎麼做？冷藏可以放多久？**
 
 別小看保存，愛文芒果買回家放錯地方，甜味和香氣真的會走樣。還沒熟的愛文芒果，不要急著冰，先放在室內陰涼通風處，讓它慢慢後熟；等到果蒂旁邊聞得到香氣、輕按有一點彈性，再放進冰箱冷藏，才比較能保住風味。農業知識入口網也建議，若買了一箱芒果，可先打開紙箱透風，手指輕壓果蒂周圍，微微凹軟時就可食用；若已經過熟又必須冷藏，可用紙袋或報紙包好放冷藏蔬果室，並避免用塑膠袋悶住，以免水氣加速腐爛（註6）。一般來說，**整顆熟芒果冷藏約 2–5 天內吃完較理想**；若已經切開，就要密封冷藏，最好 1–2 天內吃完。記得喔，芒果不是越冰越好，是「熟了再冰、切了快吃」，這樣才吃得到愛文芒果最漂亮的香甜味。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E8%B2%B7%E6%84%9B%E6%96%87%E8%8A%92%E6%9E%9C%EF%BC%8C%E6%87%82%E5%BE%97%E5%88%A4%E6%96%B7%E6%AF%94%E5%8F%AA%E7%9C%8B%E6%BC%82%E4%BA%AE%E6%9B%B4%E9%87%8D%E8%A6%81"></span>
 
 ## **結論：買愛文芒果，懂得判斷比只看漂亮更重要**
 
@@ -48,23 +60,35 @@ sourceVerbatim: true
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #1F5F4A; font-family: 'Noto Sans TC', Arial, sans-serif;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="border: 3px solid #1F5F4A; padding: 12px; text-align: left;">愛文芒果類型</th><th style="border: 3px solid #1F5F4A; padding: 12px; text-align: left;">適合誰買</th><th style="border: 3px solid #1F5F4A; padding: 12px; text-align: left;">價格通常差在哪</th><th style="border: 3px solid #1F5F4A; padding: 12px; text-align: left;">外觀狀態</th><th style="border: 3px solid #1F5F4A; padding: 12px; text-align: left;">甜度與熟度重點</th><th style="border: 3px solid #1F5F4A; padding: 12px; text-align: left;">購買建議</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1F5F4A; padding: 12px;"><strong>自吃果</strong></td><td style="border: 3px solid #1F5F4A; padding: 12px;">自己家裡切來吃、打果汁、做甜點</td><td style="border: 3px solid #1F5F4A; padding: 12px;">外觀可能有小擦傷、大小不一、果型沒那麼漂亮</td><td style="border: 3px solid #1F5F4A; padding: 12px;">可能有小斑、小傷、顏色不一定均勻</td><td style="border: 3px solid #1F5F4A; padding: 12px;">只要果蒂有香氣、輕按微彈、果肉沒有異味或軟爛，就有機會很好吃</td><td style="border: 3px solid #1F5F4A; padding: 12px;">最划算，重點看熟度，不要只嫌外表不漂亮</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1F5F4A; padding: 12px;"><strong>家庭分享果</strong></td><td style="border: 3px solid #1F5F4A; padding: 12px;">一家人飯後吃、親友聚餐</td><td style="border: 3px solid #1F5F4A; padding: 12px;">果型較整齊，大小中等以上，成熟度較穩</td><td style="border: 3px solid #1F5F4A; padding: 12px;">外觀比自吃果漂亮，傷痕較少</td><td style="border: 3px solid #1F5F4A; padding: 12px;">適合挑已接近成熟、買回家 1–2 天內可吃的狀態</td><td style="border: 3px solid #1F5F4A; padding: 12px;">適合一般家庭，價格與品質比較平衡</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1F5F4A; padding: 12px;"><strong>送禮果</strong></td><td style="border: 3px solid #1F5F4A; padding: 12px;">拜訪長輩、節慶送禮、公司往來</td><td style="border: 3px solid #1F5F4A; padding: 12px;">大小一致、果皮漂亮、果型端正、包裝成本較高</td><td style="border: 3px solid #1F5F4A; padding: 12px;">外觀要求高，黑點、擦傷、果型歪斜都會影響等級</td><td style="border: 3px solid #1F5F4A; padding: 12px;">不只看甜，也要看整體賣相與成熟控制</td><td style="border: 3px solid #1F5F4A; padding: 12px;">買的是體面與穩定度，不只是果肉本身</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1F5F4A; padding: 12px;"><strong>高級禮盒果</strong></td><td style="border: 3px solid #1F5F4A; padding: 12px;">正式送禮、企業禮盒、重要場合</td><td style="border: 3px solid #1F5F4A; padding: 12px;">精選規格、產地品牌、包裝設計、採收與配送管理</td><td style="border: 3px solid #1F5F4A; padding: 12px;">外觀完整度最高，大小一致，視覺效果最好</td><td style="border: 3px solid #1F5F4A; padding: 12px;">通常追求穩定品質，但仍要注意收到後的保存與熟度</td><td style="border: 3px solid #1F5F4A; padding: 12px;">價格最高，不一定代表甜度差距最大，而是等級、包裝與挑選成本都算進去了</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E6%84%9B%E6%96%87%E8%8A%92%E6%9E%9C%E8%B6%8A%E7%B4%85%E5%B0%B1%E4%B8%80%E5%AE%9A%E8%B6%8A%E7%94%9C%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題1：愛文芒果越紅就一定越甜嗎？**
 
 回覆：不一定。愛文芒果的紅色可以當參考，但不能當保證。真正要看的是果蒂附近有沒有自然香氣、果蒂旁邊兩側是否飽滿、輕按是否微微有彈性。紅得漂亮，有時是日照好；但甜不甜，還是要回到熟度和香氣來判斷。
 
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E6%84%9B%E6%96%87%E8%8A%92%E6%9E%9C%E8%B2%B7%E5%9B%9E%E5%AE%B6%E5%BE%88%E7%A1%AC%EF%BC%8C%E8%A6%81%E7%9B%B4%E6%8E%A5%E6%94%BE%E5%86%B0%E7%AE%B1%E5%97%8E%EF%BC%9F"></span>
+
 ### **問題2：愛文芒果買回家很硬，要直接放冰箱嗎？**
 
 回覆：不要急著冰。還很硬、沒有香氣的愛文芒果，通常還沒熟，先放在室內陰涼通風處後熟比較好。等到聞得到香氣、輕按有一點彈性，再放進冰箱冷藏，這樣比較不會讓香氣和甜味卡住。
+
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E6%84%9B%E6%96%87%E8%8A%92%E6%9E%9C%E5%86%B7%E8%97%8F%E5%8F%AF%E4%BB%A5%E6%94%BE%E5%A4%9A%E4%B9%85%EF%BC%9F"></span>
 
 ### **問題3：愛文芒果冷藏可以放多久？**
 
 回覆：整顆已成熟的愛文芒果，冷藏約 2–5 天內吃完比較理想。若已經切開，要放密封盒冷藏，最好 1–2 天內吃完。切開後最怕水氣、異味和細菌污染，所以不要裸放在冰箱裡，香氣會跑掉，品質也會下降。
 
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E6%84%9B%E6%96%87%E8%8A%92%E6%9E%9C%E7%9A%AE%E6%9C%89%E9%BB%91%E9%BB%9E%E9%82%84%E8%83%BD%E5%90%83%E5%97%8E%EF%BC%9F"></span>
+
 ### **問題4：愛文芒果皮有黑點還能吃嗎？**
 
 回覆：小黑點不一定不能吃。若只是表皮小斑點或輕微擦傷，可以削掉或切除後觀察果肉；只要果肉正常、沒有酸味、酒味、流汁或軟爛，通常還可以食用。但如果黑點凹陷擴大，裡面變褐、濕爛、有異味，就不要勉強吃。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E6%84%9B%E6%96%87%E8%8A%92%E6%9E%9C%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9C%89%E7%9A%84%E5%BE%88%E4%BE%BF%E5%AE%9C%EF%BC%8C%E6%9C%89%E7%9A%84%E5%BE%88%E8%B2%B4%EF%BC%9F"></span>
 
 ### **問題5：愛文芒果為什麼有的很便宜，有的很貴？**
 

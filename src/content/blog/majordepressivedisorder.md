@@ -14,11 +14,15 @@ legacyPath: "/blog/majordepressivedisorder/"
 sourceVerbatim: true
 ---
 
+<span id="%E4%BB%80%E9%BA%BC%E6%98%AF%E6%86%82%E9%AC%B1%E7%97%87%EF%BC%9F"></span>
+
 ## **什麼是憂鬱症****？**
 
 憂鬱症（Major Depressive Disorder，MDD）是一種全球廣泛存在的心理健康問題，屬於情緒障礙之一。根據世界衛生組織（WHO）的資料，憂鬱症影響了超過2.64億人，且患者數量逐年上升。它不僅會干擾日常生活，甚至可能導致自殺風險上升。憂鬱症的主要特徵包括持續的情緒低落、失去對生活的興趣、精力減退等。本文將深入探討憂鬱症的徵兆、如何預防以及可行的治療選項，並引用醫學文獻支援。
 
 <figure id="attachment_24385" aria-describedby="caption-attachment-24385" style="width: 1059px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class=" wp-image-24385" src="/wp-content/uploads/深入解析憂鬱症：症狀、預防及有效治療方法.jpg" alt="深入解析憂鬱症：症狀、預防及有效治療方法" width="1059" height="888" srcset="/wp-content/uploads/深入解析憂鬱症：症狀、預防及有效治療方法.jpg 940w, /wp-content/uploads/深入解析憂鬱症：症狀、預防及有效治療方法-300x251.jpg 300w, /wp-content/uploads/深入解析憂鬱症：症狀、預防及有效治療方法-768x644.jpg 768w" sizes="auto, (max-width: 1059px) 100vw, 1059px"><figcaption id="caption-attachment-24385" class="wp-caption-text">深入解析憂鬱症：症狀、預防及有效治療方法</figcaption></figure>
+
+<span id="%E6%86%82%E9%AC%B1%E7%97%87%E7%9A%84%E7%97%87%E7%8B%80%E8%88%87%E8%A8%BA%E6%96%B7%E4%BE%9D%E6%93%9A"></span>
 
 ## **憂鬱症的症狀與診斷依據**
 
@@ -34,6 +38,8 @@ sourceVerbatim: true
 
 研究顯示，憂鬱症的成因包含生物學、遺傳、心理及環境因素。Kendler et al.（2006）的研究指出，約40%的憂鬱症風險與遺傳因素相關，而環境壓力如重大事件、創傷等則是引發憂鬱症的強烈誘因。根據Dedovic等人（2015）發表於《Neuropsychiatric disease and treatment》的研究，壓力荷爾蒙（如皮質醇）水平在憂鬱症患者中普遍升高，這種激素失衡被認為是引發情緒失調的原因之一。
 
+<span id="%E6%86%82%E9%AC%B1%E7%97%87%E7%9A%84%E9%A0%90%E9%98%B2%E7%AD%96%E7%95%A5"></span>
+
 ## **憂鬱症的預防策略**
 
 預防憂鬱症的方法多樣化，調整生活習慣可大幅降低罹患風險。以下是幾項經研究證實的預防方式：
@@ -42,6 +48,8 @@ sourceVerbatim: true
 2.  **保持社交互動**：良好的社交支持系統可提升心理韌性，減少憂鬱症風險（Brown & Harris, 1978）。
 3.  **管理壓力**：應對壓力的技巧，如冥想、瑜伽等，有助於降低皮質醇水平，避免情緒波動。
 4.  **規律睡眠**：研究發現，良好的睡眠習慣可調節情緒，減少焦慮與抑鬱症狀（Goldstein, 2014）。
+
+<span id="%E6%86%82%E9%AC%B1%E7%97%87%E7%9A%84%E6%B2%BB%E7%99%82%E6%96%B9%E5%BC%8F%EF%BC%9A%E8%97%A5%E7%89%A9%E8%88%87%E5%BF%83%E7%90%86%E6%B2%BB%E7%99%82"></span>
 
 ## **憂鬱症的治療方式：藥物與心理治療**
 
@@ -52,6 +60,8 @@ sourceVerbatim: true
 -   **生活方式的改善**：健康的飲食、規律運動及穩定的生活習慣均有助於提升心理健康。
 
 憂鬱症的早期治療是防止病情惡化的關鍵。對於懷疑自己或親友可能患有憂鬱症的人，建議立即尋求專業心理諮詢或精神科醫師的協助。研究指出，及早介入能減少自殺風險，並加速恢復（World Health Organization, 2017）。
+
+<span id="%E7%B5%90%E8%AA%9E%EF%BC%9A%E7%A9%8D%E6%A5%B5%E9%9D%A2%E5%B0%8D%E6%86%82%E9%AC%B1%E7%97%87%EF%BC%8C%E6%93%81%E6%8A%B1%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB"></span>
 
 ## **結語：積極面對憂鬱症，擁抱健康生活**
 

@@ -22,11 +22,15 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="【蔘苓白朮散的歷史與現代應用】：實用藥膳創新配方 Shenling Baizhu San：Fusion Recipe" width="800" height="450" src="https://www.youtube.com/embed/ens8WmgB8ck?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E4%B8%AD%E9%86%AB%E7%B6%93%E5%85%B8%EF%BC%9A%E8%94%98%E8%8B%93%E7%99%BD%E6%9C%AE%E6%95%A3%E7%9A%84%E6%AD%B7%E5%8F%B2%E8%88%87%E5%82%B3%E6%89%BF"></span>
+
 ## **中醫經典：蔘苓白朮散的歷史與傳承**
 
 你是否曾好奇過，這味傳承千年的藥膳秘方究竟蘊藏了多少智慧？蔘苓白朮散，作為中醫經典中的一顆璀璨明珠，自古以來就被視為健脾益氣、燥濕止瀉及補肺的重要配方。根據《黃帝內經·素問》：「脾者，後天之本，胃者，受納之府；調和脾胃，則氣血運行，陰陽得調，百病自消。」傳統文獻強調，調理脾胃乃是健康的根本(註1)。《神農本草經》等古籍也指出，這類藥材的合理組合能夠預防疾病並改善慢性症狀，如同精心挑選的食材在料理中發揮獨特作用。
 
 然而，這種中藥配方並非適合所有人，過量使用或體質不符者可能會導致脾胃燥熱等副作用，因此，合理劑量和個體化調理至關重要。現代研究也逐步證實，中醫藥在預防醫學中具有調節免疫功能和促進自我修復的作用(註2)。例如，近期一項發表於PubMed的系統性綜述指出，適量使用具有健脾益氣功效的中藥在動物模型中可改善免疫反應與腸道健康(註3)。
+
+<span id="%E5%BE%9E%E7%B6%93%E5%85%B8%E7%9C%8B%E7%8F%BE%E4%BB%A3%EF%BC%9A%E8%94%98%E8%8B%93%E7%99%BD%E6%9C%AE%E6%95%A3%E7%9A%84%E5%81%A5%E8%84%BE%E7%9B%8A%E6%B0%A3%E8%88%87%E8%A3%9C%E8%82%BA%E4%BD%9C%E7%94%A8"></span>
 
 ## **從經典看現代：蔘苓白朮散的健脾益氣與補肺作用**
 
@@ -35,6 +39,8 @@ sourceVerbatim: true
 現代臨床研究也逐步驗證了這一傳統理念。研究顯示，在動物實驗中，使用具有健脾益氣作用的中藥組合能有效改善消化系統功能，促進腸道蠕動，並降低慢性腹瀉的發生率(註4)。此外，一項系統性綜述指出，針對脾胃虛弱所引起的免疫功能低下問題，合理應用補肺藥物能夠顯著提高臨床療效(註5)。當然，需要提醒的是，藥物的使用應根據個人體質進行調整，過量或不當使用可能會導致燥熱或其他不適，這也是中醫強調“辨證施治”的原因所在。
 
 ![](/wp-content/uploads/Shenling-Baizhu-San：Fusion-Recipe2-1024x591.jpg)
+
+<span id="%E8%97%A5%E8%86%B3%E5%89%B5%E6%96%B0%EF%BC%9A%E8%94%98%E8%8B%93%E7%99%BD%E6%9C%AE%E9%9B%9E%E6%B9%AF%E7%9A%84%E9%85%8D%E6%96%B9%E8%88%87%E8%A3%BD%E4%BD%9C%E6%8A%80%E5%B7%A7"></span>
 
 ## **藥膳創新：蔘苓白朮雞湯的配方與製作技巧**
 
@@ -46,6 +52,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Shenling-Baizhu-San：Fusion-Recipe3-1024x583.jpg)
 
+<span id="%E7%8F%BE%E4%BB%A3%E6%87%89%E7%94%A8%EF%BC%9A%E8%94%98%E8%8B%93%E7%99%BD%E6%9C%AE%E6%95%A3%E9%AE%AE%E5%A5%B6%E8%8C%B6%E8%88%87%E9%A4%8A%E7%94%9F%E7%94%9C%E5%93%81%E7%9A%84%E8%AE%8A%E5%8C%96%E6%90%AD%E9%85%8D"></span>
+
 ## **現代應用：蔘苓白朮散鮮奶茶與養生甜品的變化搭配**
 
 你是否也想過，如何在忙碌的現代生活中輕鬆享用既美味又健康的養生甜品？蔘苓白朮散鮮奶茶正是這樣一道創新的藥膳甜品，它將傳統中醫的智慧與現代飲品文化巧妙結合。這款鮮奶茶以2克蔘苓白朮散為基礎，配合濃郁的紅茶、200毫升鮮奶和適量蜂蜜或冰糖，既能健脾益氣，又能促進消化，為早晨或午後提供充沛能量，就像一杯溫暖的陽光灑進心田。
@@ -53,6 +61,8 @@ sourceVerbatim: true
 製作過程簡單卻講究細節：首先用熱水沖泡紅茶包，待茶湯濃郁後與預熱的鮮奶混合，然後待飲品稍降溫至約60°C時加入蔘苓白朮散並充分攪拌，最後依個人口味加入蜂蜜調甜。這樣既能保存藥材的有效成分，又能最大程度地釋放其健脾益氣、幫助消化的功效。然而，需注意的是，由於不同品牌的紅茶或鮮奶品質差異，可能影響最終口感與效果，對於濕熱體質者亦需適量飲用，以免造成體內濕熱積聚。
 
 現代研究亦支持這種藥膳甜品在促進消化與免疫調節方面的潛力。例如，一項2017年發表於PubMed的臨床試驗顯示，含有中藥成分的調配飲品可在短期內改善消化功能並提升能量水平(註8)；另一項動物模型研究則發現，此類藥膳在促進胃腸蠕動與營養吸收方面有顯著效應(註9)。這些數據不僅為中醫藥膳理論提供了科學依據，也讓我們在日常生活中更有信心地運用這些古老智慧，創造出適合現代人飲食習慣的健康飲品。
+
+<span id="%E5%81%A5%E5%BA%B7%E4%B9%8B%E9%81%93%E2%80%94%E5%82%B3%E7%B5%B1%E6%99%BA%E6%85%A7%E8%88%87%E7%8F%BE%E4%BB%A3%E5%89%B5%E6%96%B0%E7%9A%84%E4%BA%A4%E8%9E%8D"></span>
 
 ## **健康之道—****傳統智慧與現代創新的交融**
 
@@ -73,6 +83,8 @@ sourceVerbatim: true
 -   註9：Wu et al. (2019), “Enhancement of Gastrointestinal Motility by Traditional Chinese Herbal Preparations: An Experimental Study”, *BMC Complementary Medicine and Therapies*.
 
 <table border="1" cellspacing="0" cellpadding="8"><thead><tr><th>文章部分</th><th>主題</th><th>主要功能</th><th>核心藥材/食材</th><th>參考文獻與經典</th></tr></thead><tbody><tr><td>中醫經典：蔘苓白朮散的歷史與傳承</td><td>傳承與經典理論</td><td>健脾益氣、調理脾胃</td><td>蔘苓白朮散</td><td>《黃帝內經·素問》：「脾者，後天之本，胃者，受納之府；調和脾胃，則氣血運行，陰陽得調，百病自消」</td></tr><tr><td>從經典看現代：蔘苓白朮散的健脾益氣與補肺作用</td><td>現代實證與理論應用</td><td>改善消化功能、提升免疫</td><td>蔘苓白朮散</td><td>Lin et al. (2017), Huang et al. (2019)</td></tr><tr><td>藥膳創新：蔘苓白朮雞湯的配方與製作技巧</td><td>實用藥膳製作</td><td>溫補脾胃、促進氣血運行</td><td>蔘苓白朮散、雞肉、淮山、枸杞、紅棗及生薑</td><td>Liu et al. (2018), Zhang et al. (2016)</td></tr><tr><td>現代應用：蔘苓白朮散鮮奶茶與養生甜品的變化搭配</td><td>創新藥膳飲品</td><td>促進消化、提升能量</td><td>蔘苓白朮散、紅茶、鮮奶、蜂蜜或冰糖</td><td>Chen et al. (2017), Wu et al. (2019)</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## 常見問題與回覆 :
 

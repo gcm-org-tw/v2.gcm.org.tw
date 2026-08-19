@@ -12,6 +12,8 @@ legacyPath: "/blog/hiv-immune-effects-on-treatment/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80%EF%BD%9C%E7%95%B6%E6%93%94%E5%BF%83%E8%B5%B0%E5%9C%A8%E7%97%85%E6%83%85%E5%89%8D%E9%9D%A2%EF%BC%8C%E6%88%91%E5%80%91%E9%9C%80%E8%A6%81%E7%9A%84%E6%98%AF%E6%AD%A3%E7%A2%BA%E7%90%86%E8%A7%A3"></span>
+
 ## **引言｜當擔心走在病情前面，我們需要的是正確理解**
 
 你有沒有發現，有些人只是走進診間，心裡卻比病情本身還緊張？  
@@ -28,6 +30,8 @@ sourceVerbatim: true
 1.  Te Linde E, Wit FWNM, van Welzen BJ, et al. *Incidence of Community-Acquired Pneumonia and Herpes Zoster in People With HIV Based on CD4-count and Age in the Current Antiretroviral Therapy Era: A Longitudinal Cohort Study.* **Clinical Infectious Diseases**, 2025. DOI: 10.1093/cid/ciaf012
 2.  Horberg M, Thompson M, Agwu A, et al. *Primary Care Guidance for Providers of Care for Persons With Human Immunodeficiency Virus: 2024 Update.* **Clinical Infectious Diseases**, 2024. DOI: 10.1093/cid/ciae046
 
+<span id="%E9%82%A3%E4%B8%80%E6%AC%A1%E5%A4%9A%E5%95%8F%E7%9A%84%E6%AA%A2%E6%9F%A5%EF%BC%8C%E8%AE%93%E4%BB%96%E9%96%8B%E5%A7%8B%E6%87%B7%E7%96%91%E8%87%AA%E5%B7%B1"></span>
+
 ## **那一次多問的檢查，讓他開始懷疑自己**
 
 你有沒有發現，有些人走進診間時，明明只是要處理一個與 HIV 無關的小問題，卻被多問了幾句、被多看了一眼，心裡開始不安？  
@@ -39,6 +43,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/HIV-Immune-Effects-on-Treatment3.jpg)
 
+<span id="%E9%86%AB%E5%B8%AB%E5%85%B6%E5%AF%A6%E5%9C%A8%E7%9C%8B%E4%BB%80%E9%BA%BC%EF%BC%9F%E4%B8%8D%E6%98%AF%E9%82%A3%E5%80%8B%E6%A8%99%E7%B1%A4"></span>
+
 ## **醫師其實在看什麼？不是那個標籤**
 
 你知道嗎？在臨床現場，醫師真正盯著看的，往往不是「是否感染 HIV」，而是三個更實際的指標：**病毒量、****CD4** **計數，以及整體健康狀況**。這三件事，才是判斷治療安全與否的核心。就像做菜前先看火候與食材新鮮度，而不是只看菜名一樣。
@@ -47,6 +53,8 @@ HIV 相關的免疫改變，主要表現在慢性免疫活化與發炎反應；�
 
 需要提醒的是，仍有一小部分人屬於「免疫恢復反應不足者」，即使病毒量長期受控，CD4 回升仍有限，合併心血管疾病或某些癌症的風險較高（註4）。因此，醫師的判斷從來不是一刀切，而是回到整體臨床情境，與你一起做出最合適的治療決策。
 
+<span id="%E7%95%B6%E7%97%85%E6%AF%92%E8%A2%AB%E6%8E%A7%E5%88%B6%E5%BE%8C%EF%BC%8C%E8%BA%AB%E9%AB%94%E5%85%B6%E5%AF%A6%E5%B7%B2%E7%B6%93%E5%9B%9E%E5%88%B0%E8%BB%8C%E9%81%93"></span>
+
 ## **當病毒被控制後，身體其實已經回到軌道**
 
 有沒有想過，為什麼有些人在規律治療後，生活與醫療選擇幾乎與一般人無異？關鍵就在於**病毒被穩定控制後，免疫系統會慢慢「回到軌道」**。這個回到軌道，不是瞬間復原，而是像燉湯一樣，火候對了、時間到了，味道自然會出來。
@@ -54,6 +62,8 @@ HIV 相關的免疫改變，主要表現在慢性免疫活化與發炎反應；�
 研究顯示，若在早期啟動抗病毒治療（ART），並維持病毒量長期抑制，**CD4** **計數多能逐步回升**。當治療滿一年、CD4 ≥500 cells/μL 時，社區型肺炎與帶狀皰疹等感染風險，已接近一般族群水準（註5）。這也支持了多項臨床建議：在免疫恢復良好者身上，疫苗接種、手術與多數疾病治療，原則上可比照一般人進行。
 
 不過，這裡仍要提醒一個容易被忽略的細節。少數免疫恢復不完全者，因年齡較高、共感染或基礎 CD4 偏低，免疫重建速度較慢，治療策略需要更個別化（註6）。也就是說，**安全不是一個口號，而是一個需要持續評估的狀態**。別擔心，這正是醫療專業存在的意義——陪你把風險看清楚，而不是把門關起來。
+
+<span id="%E7%9C%9F%E6%AD%A3%E8%A9%B2%E8%A2%AB%E6%B2%BB%E7%99%82%E7%9A%84%EF%BC%8C%E6%98%AF%E6%88%91%E5%80%91%E5%B0%8D%E7%96%BE%E7%97%85%E7%9A%84%E8%AA%A4%E8%A7%A3"></span>
 
 ## **真正該被治療的，是我們對疾病的誤解**
 
@@ -64,6 +74,8 @@ HIV 相關的免疫改變，主要表現在慢性免疫活化與發炎反應；�
 當誤解被修正，病人更願意及早就醫、規律治療，醫療團隊也能做出更精準的判斷。這是一個正向循環。消除偏見，不只是社會責任，更是提升整體健康結果的關鍵一步。若你正在治療路上，或陪伴他人就醫，請記得：**被平等對待，本來就是醫療的一部分**。
 
 ![](/wp-content/uploads/HIV-Immune-Effects-on-Treatment6.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BD%9C%E7%95%B6%E7%90%86%E8%A7%A3%E5%8F%96%E4%BB%A3%E6%A8%99%E7%B1%A4%EF%BC%8C%E9%86%AB%E7%99%82%E6%89%8D%E8%83%BD%E7%9C%9F%E6%AD%A3%E7%99%BC%E6%8F%AE%E5%8A%9B%E9%87%8F"></span>
 
 ## **結論｜當理解取代標籤，醫療才能真正發揮力量**
 
@@ -80,27 +92,39 @@ HIV 相關的免疫改變，主要表現在慢性免疫活化與發炎反應；�
 
 <table style="border-collapse: collapse; width: 100%; border: 3px solid #1B5E52;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="border: 3px solid #1B5E52; padding: 10px;">免疫狀態條件</th><th style="border: 3px solid #1B5E52; padding: 10px;">免疫系統實際狀況</th><th style="border: 3px solid #1B5E52; padding: 10px;">治療安全判斷原則</th><th style="border: 3px solid #1B5E52; padding: 10px;">臨床常見作法</th><th style="border: 3px solid #1B5E52; padding: 10px;">讀者該注意什麼</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1B5E52; padding: 10px;">病毒量未控制，CD4 偏低</td><td style="border: 3px solid #1B5E52; padding: 10px;">免疫活化明顯，防禦力不足</td><td style="border: 3px solid #1B5E52; padding: 10px;">需謹慎評估，優先穩定免疫</td><td style="border: 3px solid #1B5E52; padding: 10px;">延後非急迫治療；先加強 ART 與感染預防</td><td style="border: 3px solid #1B5E52; padding: 10px;">治療不是不能做，而是時機要對</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1B5E52; padding: 10px;">病毒量受控，CD4 &lt;200</td><td style="border: 3px solid #1B5E52; padding: 10px;">免疫恢復初期，仍有感染風險</td><td style="border: 3px solid #1B5E52; padding: 10px;">可治療，但需個別化調整</td><td style="border: 3px solid #1B5E52; padding: 10px;">治療前加強預防性措施與密切監測</td><td style="border: 3px solid #1B5E52; padding: 10px;">務必讓醫師知道完整免疫數據</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1B5E52; padding: 10px;">病毒量受控，CD4 200–500</td><td style="border: 3px solid #1B5E52; padding: 10px;">免疫功能逐步回穩</td><td style="border: 3px solid #1B5E52; padding: 10px;">多數治療可進行，視共病調整</td><td style="border: 3px solid #1B5E52; padding: 10px;">多數醫療處置與一般人相近</td><td style="border: 3px solid #1B5E52; padding: 10px;">持續追蹤比一次數值更重要</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1B5E52; padding: 10px;">病毒量長期受控，CD4 ≥500</td><td style="border: 3px solid #1B5E52; padding: 10px;">免疫功能接近一般族群</td><td style="border: 3px solid #1B5E52; padding: 10px;">原則上不需特殊限制</td><td style="border: 3px solid #1B5E52; padding: 10px;">手術、慢性病治療依一般標準</td><td style="border: 3px solid #1B5E52; padding: 10px;">不必因身分自行降低醫療選擇</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1B5E52; padding: 10px;">免疫恢復不完全（INR）</td><td style="border: 3px solid #1B5E52; padding: 10px;">CD4 回升有限，慢性發炎存在</td><td style="border: 3px solid #1B5E52; padding: 10px;">需高度個別化評估</td><td style="border: 3px solid #1B5E52; padding: 10px;">跨科共同決策、密集追蹤</td><td style="border: 3px solid #1B5E52; padding: 10px;">重點是整體健康，而非單一指標</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9AHIV_%E6%84%9F%E6%9F%93%E8%80%85%E6%9C%83%E5%9B%A0%E7%82%BA%E5%85%8D%E7%96%AB%E6%AF%94%E8%BC%83%E5%B7%AE%EF%BC%8C%E5%B0%B1%E4%B8%8D%E8%83%BD%E6%B2%BB%E7%99%82%E5%85%B6%E4%BB%96%E7%96%BE%E7%97%85%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題 1****：HIV** **感染者會因為免疫比較差，就不能治療其他疾病嗎？**
 
 **回覆：**  
 不一定。是否能安全接受治療，關鍵不在於是否感染 HIV，而在於**免疫狀態是否穩定**。當病毒量受到良好控制、CD4 數值回升，多數治療方式（包含手術與慢性病治療）的評估原則，與一般人相近。就像《黃帝內經》所說，重點在於正氣是否安定，而不是外在標籤。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E9%86%AB%E5%B8%AB%E5%9C%A8%E8%A9%95%E4%BC%B0%E6%B2%BB%E7%99%82%E9%A2%A8%E9%9A%AA%E6%99%82%EF%BC%8C%E6%9C%80%E9%87%8D%E8%A6%96%E5%93%AA%E4%BA%9B%E5%85%8D%E7%96%AB%E6%8C%87%E6%A8%99%EF%BC%9F"></span>
+
 ### **問題 2****：醫師在評估治療風險時，最重視哪些免疫指標？**
 
 **回覆：**  
 臨床上，醫師通常會綜合看三件事：**病毒量是否受控、****CD4** **數值與變化趨勢，以及整體健康與共病狀況**。單一數字並不足以決定風險，長期追蹤與整體判斷更重要。這也是為什麼規律回診與檢查，會比一次結果來得關鍵。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E5%A6%82%E6%9E%9C_CD4_%E6%95%B8%E5%80%BC%E5%81%8F%E4%BD%8E%EF%BC%8C%E6%B2%BB%E7%99%82%E6%98%AF%E4%B8%8D%E6%98%AF%E5%B0%B1%E4%B8%80%E5%AE%9A%E6%AF%94%E8%BC%83%E5%8D%B1%E9%9A%AA%EF%BC%9F"></span>
 
 ### **問題 3****：如果 CD4** **數值偏低，治療是不是就一定比較危險？**
 
 **回覆：**  
 CD4 偏低代表免疫恢復仍在進行中，確實需要**更細緻的評估與預防措施**，但不等於不能治療。醫師會根據治療的急迫性、感染風險與個人狀況調整策略。就像料理時火力還不穩，並不是不煮，而是需要更耐心顧火。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9AHIV_%E6%84%9F%E6%9F%93%E8%80%85%E5%9C%A8%E6%89%8B%E8%A1%93%E6%88%96%E5%8C%96%E7%99%82%E5%89%8D%EF%BC%8C%E9%9C%80%E8%A6%81%E7%89%B9%E5%88%A5%E5%81%9A%E5%93%AA%E4%BA%9B%E6%BA%96%E5%82%99%EF%BC%9F"></span>
+
 ### **問題 4****：HIV** **感染者在手術或化療前，需要特別做哪些準備？**
 
 **回覆：**  
 最重要的是讓醫療團隊**清楚掌握目前的病毒量、****CD4** **狀況與正在使用的藥物**。在免疫穩定的情況下，多數準備流程與一般人相同；若免疫恢復較慢，則可能加強感染預防或跨科討論。這些調整，是為了安全，而不是限制。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9A%E9%9D%A2%E5%B0%8D%E9%86%AB%E7%99%82%E4%B8%8A%E7%9A%84%E5%B7%AE%E5%88%A5%E5%B0%8D%E5%BE%85%E6%88%96%E4%B8%8D%E5%AE%89%EF%BC%8C%E6%88%91%E5%8F%AF%E4%BB%A5%E6%80%8E%E9%BA%BC%E5%81%9A%EF%BC%9F"></span>
 
 ### **問題 5****：面對醫療上的差別對待或不安，我可以怎麼做？**
 

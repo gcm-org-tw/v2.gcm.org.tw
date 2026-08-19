@@ -38,6 +38,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="你吃的真的乾淨嗎？專家教你 10 秒看懂食品標章真相 Clean Label Guide" width="800" height="450" src="https://www.youtube.com/embed/29JnnFyAQI4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E4%BD%A0%E4%BB%A5%E7%82%BA%E7%9A%84%E3%80%8C%E4%B9%BE%E6%B7%A8%E3%80%8D%EF%BC%8C%E5%85%B6%E5%AF%A6%E5%8F%AA%E6%98%AF%E7%9C%8B%E8%B5%B7%E4%BE%86%E4%B9%BE%E6%B7%A8%EF%BC%9A%E6%BD%94%E6%B7%A8%E6%A8%99%E7%AB%A0%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%90%AB%E7%BE%A9"></span>
+
 ## **你以為的「乾淨」，其實只是看起來乾淨：潔淨標章的真正含義**
 
 你有沒有發現，很多時候我們看到「潔淨標章 Clean Label」就安心了，彷彿這瓶保健食品、這包零食、這杯飲料突然變得像清晨露水般純淨。但你知道嗎？外表的「乾淨」不等於真正進到你身體後的安全。Clean Label 強調的是**成分表短、無人工添加、製程透明**，像一碗只加薑、蔥、鹽的清湯，看起來很簡單——卻不代表它一定沒有農藥殘留、沒有重金屬汙染，也不代表它能改善你的健康。
@@ -47,6 +49,8 @@ sourceVerbatim: true
 《黃帝內經》說：「邪之所湊，其氣必虛。」身體若長期承受微量毒素，就像鍋底積垢，再清澈的湯也會變味。因此，潔淨標章可以參考，但你真正需要優先確認的，是——**農藥殘留檢驗合格、重金屬檢驗合格**。外在的美好，是風景；安全的檢驗，才是底線。
 
 ![](/wp-content/uploads/Clean-Label-Guide2.jpg)
+
+<span id="%E8%B5%B0%E9%80%B2%E8%B6%85%E5%B8%82%EF%BC%8C%E9%82%A3%E4%BA%9B%E4%BD%A0%E7%86%9F%E6%82%89%E5%8D%BB%E4%B8%8D%E4%BA%86%E8%A7%A3%E7%9A%84%E6%A8%99%E7%AB%A0%EF%BC%88SNQ%E3%80%81%E5%B0%8F%E7%B6%A0%E4%BA%BA%E3%80%81AA%E3%80%81Kosher%EF%BC%89"></span>
 
 ## **走進超市，那些你熟悉卻不了解的標章（SNQ****、小綠人、AA****、Kosher****）**
 
@@ -66,6 +70,8 @@ sourceVerbatim: true
 **小綠人＝功能證據；SNQ****＝品質；AA****＝無添加；Kosher****＝宗教；  
 ****而農藥與重金屬檢驗，才是每一口安心的起點。**
 
+<span id="%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E4%B8%8D%E6%98%AF%E9%9B%B6%E6%B7%BB%E5%8A%A0%EF%BC%8C%E8%80%8C%E6%98%AF%E6%87%82%E5%BE%97%E9%81%B8%E6%93%87%EF%BC%9AISO%E3%80%81HACCP%E3%80%81SGS_%E6%80%8E%E9%BA%BC%E7%9C%8B%EF%BC%9F"></span>
+
 ## **食品安全不是零添加，而是懂得選擇：ISO****、HACCP****、SGS** **怎麼看？**
 
 你有沒有注意過——有些產品包裝上滿滿的 ISO、HACCP、FSSC、SGS 標示，看起來像穿了「安全防護盔甲」。但你知道嗎？這些標章所保護的其實是「製程安全」而不是「你身體的健康」。  
@@ -80,6 +86,8 @@ sourceVerbatim: true
 在《本草綱目》中，李時珍談到「水有源，木有本」，提醒人們看事情要從根部去辨識。食品也是如此：  
 **流程安全是枝葉；檢驗安全才是根。**  
 沒有通過重金屬與農藥檢驗，所有的「流程認證」都只是好看的包裝罷了。
+
+<span id="%E4%B8%80%E5%80%8B%E6%87%82%E6%A8%99%E7%AB%A0%E7%9A%84%E5%A4%A7%E4%BA%BA%EF%BC%8C%E6%89%8D%E8%83%BD%E4%BF%9D%E8%AD%B7%E8%87%AA%E5%B7%B1%E8%88%87%E5%AE%B6%E4%BA%BA%E7%9A%84%E9%A3%B2%E9%A3%9F%E5%81%A5%E5%BA%B7"></span>
 
 ## **一個懂標章的大人，才能保護自己與家人的飲食健康**
 
@@ -108,6 +116,8 @@ SGS 代表該批次某項目通過。
 
 ![](/wp-content/uploads/Clean-Label-Guide6.jpg)
 
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E4%B9%BE%E6%B7%A8%E4%B8%8D%E6%98%AF%E6%A8%99%E7%AB%A0%EF%BC%8C%E8%80%8C%E6%98%AF%E4%BD%A0%E7%B5%A6%E8%BA%AB%E9%AB%94%E7%9A%84%E6%BA%AB%E6%9F%94%E6%89%BF%E8%AB%BE"></span>
+
 ## **結論：乾淨不是標章，而是你給身體的溫柔承諾**
 
 有時候，我們以為做得最好的選擇，只因外表看起來很美好。  
@@ -133,7 +143,11 @@ SGS 代表該批次某項目通過。
 
 <table class="comparison-table"><thead><tr><th>類別 / 項目</th><th>認證重點</th><th>主管 / 核可單位</th><th>可否宣稱保健功能</th><th>與健康安全關聯</th><th>提醒事項</th></tr></thead><tbody><tr><td>農藥殘留檢驗合格</td><td>原料或成品農藥量是否在安全範圍</td><td>政府法規＋第三方實驗室</td><td>❌ 不可</td><td>直接影響慢性毒性風險</td><td><span class="tooltip" data-tip="務必查看完整農藥檢驗清單與標準">是否有檢驗？項目是否齊全？</span></td></tr><tr><td>重金屬檢驗合格</td><td>檢測鉛、鎘、汞、砷是否超標</td><td>政府法規＋第三方實驗室</td><td>❌ 不可</td><td>關係肝腎與神經長期安全</td><td><span class="tooltip" data-tip="草本、海藻、魚油特別容易超標">草本與海藻類需特別注意</span></td></tr><tr><td>健康食品認證（小綠人）</td><td>具人體實證的保健功能驗證</td><td>衛福部</td><td>✔️可（限規定功能）</td><td>功能有實證，但需搭配安全檢驗</td><td><span class="tooltip" data-tip="小綠人不等於無農藥無重金屬">功能≠全面安全</span></td></tr><tr><td>SNQ 國家品質標章</td><td>品質與流程穩定</td><td>民間專業團體</td><td>❌ 不可</td><td>提升信任感，不代表療效</td><td>不具保健功能或毒性檢驗意義</td></tr><tr><td>TQF / 其他食品品質標章</td><td>食品品質、衛生管理、產線規範</td><td>協會或認證單位</td><td>❌ 不可</td><td>流程佳但與營養不同層次</td><td>需搭配檢驗與成分判讀</td></tr><tr><td>無添加 AA 標章</td><td>無人工添加物或無特定過敏原</td><td>民間自律標章</td><td>❌ 不可</td><td>減添加但未必更安全</td><td><span class="tooltip" data-tip="無添加與無農藥完全不同概念">定義不一，勿誤以為無毒</span></td></tr><tr><td>Clean Label（潔淨標章概念）</td><td>成分簡單、少加工、強調天然形象</td><td>企業自律或民間規範</td><td>❌ 不可</td><td>多為感覺健康，證據有限</td><td><span class="tooltip" data-tip="研究指出 Clean Label 易造成錯誤健康感">屬印象非科學</span></td></tr><tr><td>Kosher / Halal 認證</td><td>食材來源與製程符合理教規範</td><td>宗教認證機構</td><td>❌ 不可</td><td>滿足宗教需求，不等於較健康</td><td>無關農藥與重金屬安全</td></tr><tr><td>ISO / HACCP / FSSC</td><td>製程衛生、風險控管與品質管理</td><td>國際標準／第三方認證</td><td>❌ 不可</td><td>保護「工廠」，不保護「身體」</td><td>不能代表產品有功能或營養</td></tr><tr><td>SGS 檢驗報告</td><td>特定批次產品通過特定項目</td><td>第三方實驗室</td><td>❌ 不可</td><td>檢驗齊全即能提升安全</td><td><span class="tooltip" data-tip="看有檢哪些，不是看有沒有 SGS">重點是項目，不是標誌</span></td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86%EF%BC%88FAQ%EF%BC%89"></span>
+
 ## **常見問題與回覆（FAQ****）**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E6%BD%94%E6%B7%A8%E6%A8%99%E7%AB%A0%EF%BC%88Clean_Label%EF%BC%89%E7%9C%9F%E7%9A%84%E6%AF%94%E8%BC%83%E5%81%A5%E5%BA%B7%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題1****：潔淨標章（Clean Label****）真的比較健康嗎？**
 
@@ -141,6 +155,8 @@ SGS 代表該批次某項目通過。
 潔淨標章強調「成分短、無人工添加物」，看起來很乾淨，但這並不代表食物就一定比較健康。  
 在預防醫學的角度，真正影響你身體的是：**農藥殘留是否合格、是否含有重金屬**。  
 Clean Label 是一種「加工哲學」，不是安全指標。《黃帝內經》說：「凡病之始，起於不潔。」提醒我們——影響身體的，往往是看不見的微小雜質，而不是外表的自然與否。
+
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E5%A6%82%E6%9E%9C%E9%A3%9F%E5%93%81%E4%B8%8A%E6%9C%89%E5%BE%88%E5%A4%9A%E6%A8%99%E7%AB%A0%EF%BC%88%E4%BE%8B%E5%A6%82_SNQ%E3%80%81%E5%B0%8F%E7%B6%A0%E4%BA%BA%E3%80%81Kosher%EF%BC%89%EF%BC%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E4%B8%80%E5%AE%9A%E6%AF%94%E8%BC%83%E5%AE%89%E5%85%A8%EF%BC%9F"></span>
 
 ### **問題2****：如果食品上有很多標章（例如 SNQ****、小綠人、Kosher****），是不是一定比較安全？**
 
@@ -155,6 +171,8 @@ Clean Label 是一種「加工哲學」，不是安全指標。《黃帝內經�
     食物再多標章，若農藥或重金屬超標，仍然會對身體造成負擔。  
     標章是參考，但 **安全檢驗是底線**。
 
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E6%88%91%E8%A6%81%E6%80%8E%E9%BA%BC%E5%88%A4%E6%96%B7%E9%A3%9F%E5%93%81%E6%98%AF%E5%90%A6%E7%9C%9F%E7%9A%84%E3%80%8C%E6%B2%92%E6%9C%89%E8%BE%B2%E8%97%A5%E3%80%8D%E6%88%96%E3%80%8C%E6%B2%92%E6%9C%89%E9%87%8D%E9%87%91%E5%B1%AC%E3%80%8D%EF%BC%9F"></span>
+
 ### **問題3****：我要怎麼判斷食品是否真的「沒有農藥」或「沒有重金屬」？**
 
 **回覆：**  
@@ -164,6 +182,8 @@ Clean Label 是一種「加工哲學」，不是安全指標。《黃帝內經�
 尤其是草本粉類、海藻粉、魚油、嬰幼兒食品，這些更需要檢查。  
 如《本草綱目》所說：「凡用之必審其本。」  
 來源乾不乾淨，遠比包裝多漂亮更重要。
+
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E7%84%A1%E6%B7%BB%E5%8A%A0%EF%BC%88AA%EF%BC%89%E8%88%87_Clean_Label_%E6%9C%89%E4%BB%80%E9%BA%BC%E4%B8%8D%E5%90%8C%EF%BC%9F%E5%93%AA%E5%80%8B%E6%AF%94%E8%BC%83%E5%AE%89%E5%85%A8%EF%BC%9F"></span>
 
 ### **問題4****：無添加（AA****）與 Clean Label** **有什麼不同？哪個比較安全？**
 
@@ -175,6 +195,8 @@ Clean Label 是一種「加工哲學」，不是安全指標。《黃帝內經�
     但它們都屬「感覺上的安全」，不代表「實質安全」。  
     真正與身體健康高度相關的，是**農藥＋重金屬檢驗合格**。  
     添加物不是唯一風險，**污染才是最深的負擔**。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E5%9C%A8%E8%B6%85%E5%B8%82%E8%A6%81%E6%80%8E%E9%BA%BC%E5%BF%AB%E9%80%9F%E5%88%A4%E6%96%B7%E4%BB%80%E9%BA%BC%E8%83%BD%E8%B2%B7%EF%BC%9F%EF%BC%8810_%E7%A7%92%E5%8E%9F%E5%89%87%EF%BC%89"></span>
 
 ### **問題5****：在超市要怎麼快速判斷什麼能買？（10** **秒原則）**
 

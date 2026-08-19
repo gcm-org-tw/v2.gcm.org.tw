@@ -23,6 +23,8 @@ sourceVerbatim: true
 
 今天，讓我們一起拆解那道「看不見的牆」。給知識一個出口，也給人性一點溫度。
 
+<span id="%E5%AD%A9%E5%AD%90%E5%95%8F%EF%BC%9A%E5%8F%AF%E4%BB%A5%E5%92%8C%E4%BB%96%E6%8F%A1%E6%89%8B%E5%97%8E%EF%BC%9F%E5%AA%BD%E5%AA%BD%E7%9A%84%E5%8F%8D%E6%87%89%E8%83%8C%E5%BE%8C%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F"></span>
+
 ## **孩子問：可以和他握手嗎？媽媽的反應背後是什麼？**
 
 你有沒有聽過這句話：「他有愛滋，我可以握他的手嗎？」  
@@ -31,6 +33,8 @@ sourceVerbatim: true
 科學證據清楚指出：**HIV****（愛滋病毒）不會透過擁抱、握手或共用物品傳染**。病毒離開體液環境後，在空氣中幾分鐘內便失去活性，無法穿透皮膚或藉由唾液、汗水傳播（註1）。這就像在廚房煮湯時，一把鹽灑在砧板上，如果沒有進入鍋中，就無法改變味道——**病毒沒進入體內，就無法感染**。
 
 有研究指出，社會對愛滋的誤解常來自「恐懼而非事實」的教育模式（註2）。這也讓許多家屬選擇沉默，無法坦然解釋。當我們鼓起勇氣對孩子說：「當然可以握他的手，他需要的是朋友，不是隔離。」這句話，其實比所有藥物都來得有療效。
+
+<span id="%E5%AE%B6%E4%BA%BA%E6%88%96%E6%9C%8B%E5%8F%8B%E6%98%AFHIV%E6%84%9F%E6%9F%93%E8%80%85%EF%BC%8C%E6%88%91%E8%A9%B2%E6%80%8E%E9%BA%BC%E5%81%9A%EF%BC%9F"></span>
 
 ## **家人或朋友是HIV****感染者，我該怎麼做？**
 
@@ -44,6 +48,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/HIV-Contact-Fear4.jpg)
 
+<span id="%E9%82%A3%E4%BA%9B%E5%B9%B4%EF%BC%8C%E6%88%91%E5%80%91%E9%83%BD%E8%AA%A4%E6%9C%83%E4%BA%86HIV%E7%9A%84%E5%82%B3%E6%9F%93%E6%96%B9%E5%BC%8F"></span>
+
 ## **那些年，我們都誤會了HIV****的傳染方式**
 
 還記得學生時代的健康教育課嗎？那時的我們被一句話嚇得不敢靠近：「得愛滋會死，而且會傳染。」多年後才發現，**這句話雖然出自保護，卻埋下了偏見的種子。**
@@ -53,6 +59,8 @@ sourceVerbatim: true
 這就像有些人聽說芒果「會過敏」，便從此不碰。但事實是，**並不是每個人都會對芒果過敏，而且吃芒果的方式也很重要**。理解了原理，才不會錯失營養；理解了愛滋的傳染機制，才不會錯失一段好好對待他人的機會。
 
 改變觀念，也是一種健康行動。
+
+<span id="%E6%84%9B%E6%98%AF%E4%B8%80%E7%A8%AE%E7%96%AB%E8%8B%97%EF%BC%9A%E5%B0%8A%E9%87%8D%E8%88%87%E6%8E%A5%E7%B4%8D%E8%83%BD%E6%B8%9B%E5%B0%91%E5%82%B7%E5%AE%B3"></span>
 
 ## **愛是一種疫苗：尊重與接納能減少傷害**
 
@@ -67,6 +75,8 @@ sourceVerbatim: true
 別小看這種溫柔的革命，它會在這個社會悄悄長出新的理解與信任。
 
 ![](/wp-content/uploads/HIV-Contact-Fear5.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E7%90%86%E8%A7%A3%EF%BC%8C%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E8%A7%A3%E6%AF%92%E6%B9%AF"></span>
 
 ## **結論：理解，是最好的解毒湯**
 
@@ -102,6 +112,8 @@ sourceVerbatim: true
 註6、Logie, C. H., et al. (2022). Social support and mental health outcomes in people living with HIV: A global review. *Journal of the International AIDS Society*, 25(4), e25901.
 
 <table style="border-collapse: collapse; width: 100%; border: 3px solid #264653;"><thead><tr style="background-color: #2a9d8f; color: white; font-weight: bold;"><th style="padding: 10px; border: 3px solid #264653;">常見迷思或行為</th><th style="padding: 10px; border: 3px solid #264653;">是否會傳染HIV？</th><th style="padding: 10px; border: 3px solid #264653;">原因說明</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #264653;">擁抱或握手</td><td style="padding: 10px; border: 3px solid #264653;">❌ 不會</td><td style="padding: 10px; border: 3px solid #264653;">HIV無法穿透完整皮膚，也不經由觸碰傳染</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #264653;">共用餐具或馬桶</td><td style="padding: 10px; border: 3px solid #264653;">❌ 不會</td><td style="padding: 10px; border: 3px solid #264653;">HIV需特定體液傳播，無法在空氣或環境表面存活</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #264653;">與感染者一起吃飯或共處一室</td><td style="padding: 10px; border: 3px solid #264653;">❌ 不會</td><td style="padding: 10px; border: 3px solid #264653;">呼吸、汗水、唾液等都不是傳染來源</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #264653;">接吻（無血液或傷口狀況）</td><td style="padding: 10px; border: 3px solid #264653;">❌ 幾乎不會</td><td style="padding: 10px; border: 3px solid #264653;">唾液含有抑制病毒的酵素，且傳染風險極低</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #264653;">性行為（未保護／體液交換情況）</td><td style="padding: 10px; border: 3px solid #264653;">✅ 可能</td><td style="padding: 10px; border: 3px solid #264653;">透過血液、精液、陰道分泌物傳播，需採用保護措施避免感染</td></tr></tbody></table>
+
+<span id="%E2%9C%85%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **✅****常見問題與回覆**
 

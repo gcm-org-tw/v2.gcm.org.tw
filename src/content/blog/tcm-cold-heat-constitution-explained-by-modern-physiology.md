@@ -14,6 +14,8 @@ sourceVerbatim: true
 
 ## ![](/wp-content/uploads/TCM-Cold-Heat-Constitution-Explained-by-Modern-Physiology-1-1024x700.jpg)
 
+<span id="%E5%BC%95%E8%A8%80%EF%BD%9C%E4%BD%A0%E7%9C%9F%E7%9A%84%E3%80%8C%E5%AF%92%E3%80%8D%E6%88%96%E3%80%8C%E7%86%B1%E3%80%8D%E5%97%8E%EF%BC%9F"></span>
+
 ## **引言｜你真的「寒」或「熱」嗎？**
 
 你有沒有這種經驗？
@@ -38,6 +40,8 @@ sourceVerbatim: true
 
 這篇文章，我會帶你把「寒熱體質」翻成現代生理學的語言。  
 不是貼標籤，而是讓你真正理解身體。
+
+<span id="%E5%AF%92%E7%86%B1%E9%AB%94%E8%B3%AA%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%98%AF%E9%AB%94%E6%BA%AB%E9%AB%98%E4%BD%8E%E5%97%8E%EF%BC%9F"></span>
 
 ## **寒熱體質真的只是體溫高低嗎？**
 
@@ -70,6 +74,8 @@ sourceVerbatim: true
 **⚡** **外冷內熱（multi-system imbalance****）**
 
 **![](/wp-content/uploads/TCM-Cold-Heat-Constitution-Explained-by-Modern-Physiology3-1024x679.jpg)**
+
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E5%A3%93%E5%8A%9B%E6%9C%83%E8%AE%93%E4%BD%A0%E5%90%8C%E6%99%82%E3%80%8C%E5%AF%92%E3%80%8D%E5%8F%88%E3%80%8C%E7%86%B1%E3%80%8D%EF%BC%9F"></span>
 
 ## **為什麼壓力會讓你同時「寒」又「熱」？**
 
@@ -107,6 +113,8 @@ sourceVerbatim: true
 
 不是錯亂，而是系統不同步。
 
+<span id="%E5%AF%92%E7%86%B1%E9%AB%94%E8%B3%AA%E8%88%87%E4%BB%A3%E8%AC%9D%E3%80%81%E5%BE%AA%E7%92%B0%E3%80%81%E7%99%BC%E7%82%8E%E7%9A%84%E9%97%9C%E4%BF%82"></span>
+
 ## **寒熱體質與代謝、循環、發炎的關係**
 
 你的冷熱感，其實來自三大系統：
@@ -136,6 +144,8 @@ sourceVerbatim: true
 而是：
 
 **🔥** **身體在不同方向用力**
+
+<span id="%E6%80%8E%E9%BA%BC%E5%88%A4%E6%96%B7%E8%87%AA%E5%B7%B1%E5%81%8F%E5%AF%92%E9%82%84%E6%98%AF%E5%81%8F%E7%86%B1%EF%BC%9F"></span>
 
 ## **怎麼判斷自己偏寒還是偏熱？**
 
@@ -169,6 +179,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/TCM-Cold-Heat-Constitution-Explained-by-Modern-Physiolog5-1024x684.jpg)
 
+<span id="%E7%B5%90%E8%AB%96%EF%BD%9C%E4%BD%A0%E4%B8%8D%E6%98%AF%E5%AF%92%E6%88%96%E7%86%B1%EF%BC%8C%E4%BD%A0%E6%98%AF%E6%AD%A3%E5%9C%A8%E5%A4%B1%E8%A1%A1"></span>
+
 ## **結論｜你不是寒或熱，你是正在失衡**
 
 當我們用現代醫學重新理解寒熱體質，你會發現：
@@ -196,23 +208,33 @@ sourceVerbatim: true
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #0B3D2E;"><tbody><tr style="background-color: #2a9d8f; color: #ffffff;"><th>對照面向</th><th>偏寒</th><th>偏熱</th><th>生理機制</th></tr><tr><td>冷熱感</td><td>怕冷</td><td>怕熱</td><td>體溫調節</td></tr><tr><td>血流</td><td>手腳冷</td><td>潮紅</td><td>血管反應</td></tr><tr><td>神經</td><td>疲倦</td><td>緊繃</td><td>自律神經</td></tr><tr><td>代謝</td><td>低</td><td>高</td><td>能量使用</td></tr><tr><td>睡眠</td><td>嗜睡</td><td>失眠</td><td>壓力軸</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E7%AD%94"></span>
+
 ## 常見問題與回答 :
 
 **Q1****｜怕冷一定是寒性體質嗎？**
 
 不一定，可能與血流、代謝或壓力有關。
 
+<span id="Q2%EF%BD%9C%E9%95%B7%E7%97%98%E5%B0%B1%E6%98%AF%E7%86%B1%E6%80%A7%E9%AB%94%E8%B3%AA%E5%97%8E%EF%BC%9F"></span>
+
 ### **Q2****｜長痘就是熱性體質嗎？**
 
 常與壓力與發炎相關，不一定是體質問題。
+
+<span id="Q3%EF%BD%9C%E5%AF%92%E7%86%B1%E9%AB%94%E8%B3%AA%E5%8F%AF%E4%BB%A5%E6%94%B9%E8%AE%8A%E5%97%8E%EF%BC%9F"></span>
 
 ### **Q3****｜寒熱體質可以改變嗎？**
 
 可以，透過生活調整可改善調節能力。
 
+<span id="Q4%EF%BD%9C%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%B7%B1%E4%BA%82%E8%A3%9C%E6%88%96%E6%B8%85%E7%86%B1%E5%97%8E%EF%BC%9F"></span>
+
 ### **Q4****｜可以自己亂補或清熱嗎？**
 
 不建議，容易讓系統更失衡。
+
+<span id="Q5%EF%BD%9C%E4%BB%80%E9%BA%BC%E6%83%85%E6%B3%81%E9%9C%80%E8%A6%81%E5%B0%B1%E9%86%AB%EF%BC%9F"></span>
 
 ### **Q5****｜什麼情況需要就醫？**
 

@@ -32,6 +32,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="別再傻傻的買新鮮酪梨被盤了！今天中醫師告訴你什麼樣的酪梨吃了更好吸收而且還更便宜 #水果 #酪梨 #中醫 #好吸收 #殺價 #生活" width="563" height="1000" src="https://www.youtube.com/embed/NMvImj0XNmA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E9%85%AA%E6%A2%A8%E6%80%8E%E9%BA%BC%E6%8C%91%E6%89%8D%E4%B8%8D%E8%B8%A9%E9%9B%B7%EF%BC%9F%E7%86%9F%E8%BB%9F%E6%98%AF%E9%97%9C%E9%8D%B5%EF%BC%81"></span>
+
 ## **酪梨怎麼挑才不踩雷？熟軟是關鍵！**
 
 你有沒有想過，為什麼同樣是酪梨，有的吃起來香濃滑順，有的卻澀口又苦？其實，關鍵在於熟度選對了沒。酪梨的變化就像一碗放久的白米——剛煮好最香，放過頭就會變酸變黏，吃起來既不舒服，也失去了原本的營養價值。
@@ -43,6 +45,8 @@ sourceVerbatim: true
 就像懂得分辨一壺好茶的熟成，學會挑酪梨的熟度，是日常裡最溫柔又聰明的養生小智慧。
 
 <iframe loading="lazy" title="以後酪梨買多也不用擔心了！今天教大家中醫師私藏的酪梨保存方法 #水果 #酪梨 #保鮮 #中醫 #gcm #上醫預防醫學發展協會" width="563" height="1000" src="https://www.youtube.com/embed/hZfdqwurW9U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<span id="%E5%86%B7%E5%87%8D%E9%85%AA%E6%A2%A8%E6%80%8E%E9%BA%BC%E8%99%95%E7%90%86%E6%9C%80%E6%96%B9%E4%BE%BF%EF%BC%9F"></span>
 
 ## **冷凍酪梨怎麼處理最方便？**
 
@@ -56,6 +60,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Ripe-Avocado-Benefits3.jpg)
 
+<span id="%E9%85%AA%E6%A2%A8%E6%80%8E%E9%BA%BC%E4%BF%9D%E5%AD%98%E6%89%8D%E8%83%BD%E9%8E%96%E4%BD%8F%E7%87%9F%E9%A4%8A%EF%BC%9F"></span>
+
 ## **酪梨怎麼保存才能鎖住營養？**
 
 你是不是也經常困擾，切開一顆剛熟好的酪梨，隔天就發黑變苦？其實酪梨氧化速度超乎你想像，一旦果肉接觸空氣、溫度升高，**多酚氧化酶（****PPO****）**會迅速作用，使酪梨變色、營養降解。
@@ -66,6 +72,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Ripe-Avocado-Benefits.jpg)
 
+<span id="%E9%85%AA%E6%A2%A8%E5%8F%AF%E4%BB%A5%E5%92%8C%E4%BB%80%E9%BA%BC%E9%A3%9F%E7%89%A9%E4%B8%80%E8%B5%B7%E5%90%83%E6%9B%B4%E6%9C%89%E7%9B%8A%EF%BC%9F"></span>
+
 ## **酪梨可以和什麼食物一起吃更有益？**
 
 你有發現嗎？同樣是吃酪梨，有些人皮膚變亮、有精神，有些人卻只覺得油膩無感。其實，關鍵在於「怎麼搭」。
@@ -73,6 +81,8 @@ sourceVerbatim: true
 酪梨屬於脂溶性營養密度高的果實，若能搭配**植物性蛋白與天然抗氧化物**，不但能提高吸收率，還能產生「營養加乘效應」。研究指出，與堅果（如腰果、杏仁）一同攝取酪梨，不僅能提升**葉黃素、****β-****胡蘿蔔素與維生素E**的生物可用性，還有助於穩定血糖與心血管保護（註7）。搭配**漿果類（如桑葚、藍莓）**可額外提供花青素，對視力與抗老化尤其有益（註8）。
 
 舉個實例，一杯由「冷凍酪梨＋腰果＋桑葚＋無糖豆奶」打成的早餐果昔，不僅口感滑順濃郁，更像一場營養交響曲，涵蓋好油、好纖維、好抗氧化，一杯就夠你撐過一個清晨的疲憊。你知道嗎？這種「搭配有術」的飲食法，比單吃更有效，也更貼近中醫「藥食同源、五味相調」的理念。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E8%AE%93%E8%BA%AB%E9%AB%94%E6%85%A2%E4%B8%8B%E4%BE%86%EF%BC%8C%E5%89%9B%E5%89%9B%E5%A5%BD%E7%9A%84%E7%86%9F%E6%88%90%E6%99%82%E5%85%89"></span>
 
 ## **結論：讓身體慢下來，剛剛好的熟成時光**
 
@@ -114,23 +124,35 @@ sourceVerbatim: true
 
 <table><thead><tr><th>分類項目</th><th>未熟酪梨</th><th>熟軟酪梨</th><th>冷凍熟酪梨</th></tr></thead><tbody><tr><td>成分活性</td><td>澱粉含量高，油脂尚未完全轉化</td><td>油酸、維生素E、葉黃素含量最高</td><td>可穩定保存脂溶性營養與礦物質</td></tr><tr><td>抗氧化力</td><td>抗氧化成分未完全釋放</td><td>抗氧化能力最強</td><td>維生素E與葉黃素保持穩定</td></tr><tr><td>口感與用途</td><td>澀、難入口，不建議生食</td><td>軟滑香濃，適合抹醬、沙拉、果昔</td><td>可做副食品泥、果昔、抹醬，冷凍保存1-3月</td></tr><tr><td>消化吸收率</td><td>低，營養不易吸收</td><td>高，脂溶性營養生物可用率提升</td><td>穩定性高，吸收效果視搭配食材而定</td></tr><tr><td>保存建議</td><td>常溫催熟</td><td>立即食用或冷藏1天內</td><td>去皮去核、加檸檬汁密封冷凍，延長營養保鮮</td></tr></tbody></table>
 
+<span id="%F0%9F%8D%90_%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **🍐** **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E9%85%AA%E6%A2%A8%E5%90%83%E7%A1%AC%E7%9A%84%E9%82%84%E6%98%AF%E8%BB%9F%E7%9A%84%E6%AF%94%E8%BC%83%E5%A5%BD%EF%BC%9F"></span>
 
 ### **問題1****：酪梨吃硬的還是軟的比較好？**
 
 回覆：建議選擇**熟軟、略帶彈性**的酪梨，這時候其中的澱粉已經轉化為對心臟有益的油酸，抗氧化物質如葉黃素、維生素E也最容易被吸收。中醫角度來說，熟軟之物「潤而不滯」，正好調理陰虛燥熱體質，潤腸養膚也不失其氣。
 
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E9%85%AA%E6%A2%A8%E6%94%BE%E9%80%B2%E5%86%B7%E5%87%8D%E5%BA%AB%EF%BC%8C%E9%82%84%E6%9C%89%E7%87%9F%E9%A4%8A%E5%97%8E%EF%BC%9F"></span>
+
 ### **問題2****：酪梨放進冷凍庫，還有營養嗎？**
 
 回覆：只要是在**完全熟軟後切塊冷凍**，營養保留是沒問題的。研究顯示，冷凍可穩定脂溶性營養如油酸、維生素E與礦物質，且不會流失鉀、鎂等元素。冷凍反而能「凍結營養的黃金時刻」，比放到過熟再吃更實際。
+
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E5%88%87%E9%96%8B%E7%9A%84%E9%85%AA%E6%A2%A8%E9%9A%94%E5%A4%A9%E8%AE%8A%E9%BB%91%EF%BC%8C%E9%82%84%E8%83%BD%E5%90%83%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題3****：切開的酪梨隔天變黑，還能吃嗎？**
 
 回覆：若僅表面氧化，刮除表層即可食用。建議切開後**滴些檸檬汁並密封保存**，能抑制氧化反應。中醫認為食物變質則「氣味失中」，雖不致病，亦失其養。若出現異味或黏滑口感，則不宜食用。
 
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E4%B8%80%E5%A4%A9%E5%8F%AF%E4%BB%A5%E5%90%83%E5%B9%BE%E9%A1%86%E9%85%AA%E6%A2%A8%EF%BC%9F%E6%9C%83%E5%A4%AA%E6%B2%B9%E5%97%8E%EF%BC%9F"></span>
+
 ### **問題4****：一天可以吃幾顆酪梨？會太油嗎？**
 
 回覆：一般建議每天攝取**1/4****到1/2****顆酪梨**最為適當。雖然酪梨脂肪含量高，但主要是單元不飽和脂肪酸，屬於「好油」。對於高血壓或需控制體重者，適量搭配堅果或豆類，有助代謝平衡，也符合中醫「以潤養陰，以補氣血」之調法。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E9%85%AA%E6%A2%A8%E6%90%AD%E9%85%8D%E4%BB%80%E9%BA%BC%E5%90%83%E6%9C%80%E7%87%9F%E9%A4%8A%EF%BC%9F"></span>
 
 ### **問題5****：酪梨搭配什麼吃最營養？**
 

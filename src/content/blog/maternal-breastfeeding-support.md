@@ -12,6 +12,8 @@ legacyPath: "/blog/maternal-breastfeeding-support/"
 sourceVerbatim: true
 ---
 
+<span id="%E6%9C%AC%E6%96%87%E9%87%8D%E9%BB%9E"></span>
+
 ## 本文重點
 
 -   哺乳支持的重點是分工，不是監督奶量
@@ -32,6 +34,8 @@ sourceVerbatim: true
 
 不是。親餵順不順利受寶寶吸吮方式、母親身體狀況、睡眠與壓力程度等多重因素影響。把哺乳結果直接等於母職表現，對媽媽並不公平。
 
+<span id="%E7%9B%AE%E9%8C%84"></span>
+
 ## 目錄
 
 1.  [一、當關心變成監督：哺乳壓力從哪裡來](#section-0)
@@ -47,6 +51,10 @@ sourceVerbatim: true
 
 <figure class="article-figure" style="margin: 24px auto; text-align: center;"><figcaption style="font-size: 0.85em; color: #666; margin-top: 8px; line-height: 1.5;">台灣家庭中，伴侶在旁換尿布，母親在沙發上哺乳休息的居家情境</figcaption></figure>
 
+<span id="section-0"></span>
+
+<span id="%E4%B8%80%E3%80%81%E7%95%B6%E9%97%9C%E5%BF%83%E8%AE%8A%E6%88%90%E7%9B%A3%E7%9D%A3%EF%BC%9A%E5%93%BA%E4%B9%B3%E5%A3%93%E5%8A%9B%E5%BE%9E%E5%93%AA%E8%A3%A1%E4%BE%86"></span>
+
 ## 一、當關心變成監督：哺乳壓力從哪裡來
 
 這句話本身沒有惡意，但反覆詢問奶量、拿別人家的哺乳經驗做比較，會讓你在情緒還沒喘過氣時，又多背一份被打分數的壓力。
@@ -56,6 +64,10 @@ sourceVerbatim: true
 想像一個很常見的場景：長輩來探視，第一句話是「奶夠不夠啊」，接著是「怎麼寶寶還沒胖起來」，離開前再補一句「我那時候奶多得很」。每一句單獨聽都不算重話，但三句連在一起，媽媽收到的訊息其實是「妳做得不夠好」。她可能前一晚只睡了兩個多小時，身體還在恢復傷口，卻要在這些問題面前擠出一個笑容回答。這種日常的、看似關心的追問，累積起來才是真正消耗心力的地方。
 
 把哺乳結果和母職表現綁在一起，是這份壓力最深的根。奶量多寡受睡眠、水分、寶寶吸吮方式、母親身體狀況等多重因素影響，不是意志力不夠的證明。你若身邊有正在哺乳的媽媽，先記得這一點，就已經是支持的起點。
+
+<span id="section-1"></span>
+
+<span id="%E4%BA%8C%E3%80%81%E4%BC%B4%E4%BE%B6%E8%83%BD%E5%81%9A%E7%9A%84%E4%BA%8B%EF%BC%9A%E5%88%86%E5%B7%A5%EF%BC%8C%E8%80%8C%E9%9D%9E%E5%B9%AB%E5%BF%99"></span>
 
 ## 二、伴侶能做的事：分工，而非幫忙
 
@@ -79,6 +91,10 @@ sourceVerbatim: true
 
 這些事看起來瑣碎，但每一項都在間接保護哺乳這件事得以持續。哺乳需要穩定的親餵或擠乳頻率，而頻率能不能維持，取決於母親有沒有餘力。當伴侶接手器具清洗與備餐，母親少了雜事纏身，才能把有限的體力留給餵奶本身；當伴侶分擔夜間安撫，母親即使只多睡一段完整的兩三小時，隔天的泌乳狀態與情緒穩定度都會不一樣。換句話說，這些工作不是「額外加分」，而是讓哺乳這件事有條件繼續下去的基礎。
 
+<span id="section-2"></span>
+
+<span id="%E4%B8%89%E3%80%81%E8%A6%AA%E5%8F%8B%E5%8F%AF%E4%BB%A5%E8%AA%AA%E4%BB%80%E9%BA%BC%EF%BC%8C%E4%B8%8D%E5%AE%9C%E8%AA%AA%E4%BB%80%E9%BA%BC"></span>
+
 ## 三、親友可以說什麼，不宜說什麼
 
 支持句聚焦在「妳現在需要什麼」，比較式語句像是「我那時候奶多得很」，即使是無心的分享，也容易讓對方多一層自我懷疑。
@@ -90,6 +106,10 @@ sourceVerbatim: true
 > <figure class="article-figure" style="margin: 24px auto; text-align: center;"><img loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 0;" src="https://writer.weiqi.kids/articles/appi.news/%E8%8D%89%E6%9C%AC%E4%B8%8A%E8%86%B3%E9%86%AB%E5%BB%9A-%E5%AD%90%E5%BD%A5(%E9%98%BF%E5%8D%A1%E8%A5%BF%E6%91%BA%E7%96%8A%E7%89%88)/issue-499/images/3.png" alt="支持句與比較語句的對照圖示，左側為建議說法，右側為容易造成壓力的說法" width="1536" height="1024"><figcaption style="font-size: 0.85em; color: #666; margin-top: 8px; line-height: 1.5;">支持句與比較語句的對照圖示，左側為建議說法，右側為容易造成壓力的說法</figcaption></figure>
 > 
 > 親友到訪時，比起追問細節，更好的方式是直接找一件事做：把水壺加滿、把垂手可得的零食擺好、陪著聊聊其他話題，讓母親感覺自己被照顧，而不是被檢查。
+
+<span id="section-3"></span>
+
+<span id="%E5%9B%9B%E3%80%81%E7%94%A2%E5%BE%8C%E8%AA%BF%E9%A4%8A%EF%BC%9A%E4%B8%8D%E5%8F%AA%E6%98%AF%E8%A3%9C%E5%93%81%EF%BC%8C%E6%98%AF%E7%9D%A1%E7%9C%A0%E3%80%81%E6%83%85%E7%B7%92%E8%88%87%E5%88%86%E5%B7%A5"></span>
 
 ## 四、產後調養：不只是補品，是睡眠、情緒與分工
 
@@ -104,6 +124,10 @@ sourceVerbatim: true
 > 但要注意，傳統調養處理的是身體恢復，能取代的範圍有限。若出現產後憂鬱或焦慮徵兆，需要的是專業心理或精神醫療協助，補品和食療都無法取代這一塊。
 > 
 > <figure class="article-figure" style="margin: 24px auto; text-align: center;"><img loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 0;" src="https://writer.weiqi.kids/articles/appi.news/%E8%8D%89%E6%9C%AC%E4%B8%8A%E8%86%B3%E9%86%AB%E5%BB%9A-%E5%AD%90%E5%BD%A5(%E9%98%BF%E5%8D%A1%E8%A5%BF%E6%91%BA%E7%96%8A%E7%89%88)/issue-499/images/4.jpg" alt="台灣家庭中長輩準備產後餐食，讓年輕媽媽安心休息的居家場景" width="1536" height="1024"><figcaption style="font-size: 0.85em; color: #666; margin-top: 8px; line-height: 1.5;">台灣家庭中長輩準備產後餐食，讓年輕媽媽安心休息的居家場景</figcaption></figure>
+
+<span id="section-4"></span>
+
+<span id="%E4%BA%94%E3%80%81%E4%BB%80%E9%BA%BC%E6%83%85%E6%B3%81%E8%A9%B2%E5%84%98%E9%80%9F%E6%B1%82%E5%8A%A9"></span>
 
 ## 五、什麼情況該儘速求助
 
@@ -143,6 +167,10 @@ sourceVerbatim: true
 
 最直接的一句是「妳現在最需要我幫忙做什麼？」，把選擇權交給她，而不是自己猜。就算猜錯，願意主動開口這件事本身，就已經是支持。
 
+<span id="section-5"></span>
+
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB"></span>
+
 ## 參考文獻
 
 1.  Ogbo FA, et al. (2020). Breastfeeding in the Community—How Can Partners/Fathers Help? A Systematic Review. *International Journal of Environmental Research and Public Health*, 17(2), 413. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7014137/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7014137/)
@@ -150,6 +178,8 @@ sourceVerbatim: true
 3.  衛生福利部心理健康司 (2022). 產後憂鬱症懶人包. [https://dep.mohw.gov.tw/DOMHAOH/cp-4908-57544-107.html](https://dep.mohw.gov.tw/DOMHAOH/cp-4908-57544-107.html)
 4.  衛生福利部心理健康司. 愛丁堡產後憂鬱量表. [https://dep.mohw.gov.tw/DOMHAOH/cp-4908-70179-107.html](https://dep.mohw.gov.tw/DOMHAOH/cp-4908-70179-107.html)
 5.  衛生福利部心理健康司. 1925 安心專線（依舊愛我）. [https://dep.mohw.gov.tw/DOMHAOH/cp-4906-54077-107.html](https://dep.mohw.gov.tw/DOMHAOH/cp-4906-54077-107.html)
+
+<span id="%E8%8D%89%E6%9C%AC%E4%B8%8A%E8%86%B3%E9%86%AB%E5%BB%9A%EF%BC%8D%E9%BB%83%E5%AD%90%E5%BD%A5"></span>
 
 ### 草本上膳醫廚－黃子彥
 

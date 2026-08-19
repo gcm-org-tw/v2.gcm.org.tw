@@ -12,6 +12,8 @@ legacyPath: "/blog/world-health-day-prevention/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80"></span>
+
 ## 引言
 
 你知道嗎？在你閱讀這篇文章的每分鐘，全球就有8位新生兒失去生命，還有近5位孕產婦因併發症失去求生機會──而這些悲劇，多數其實可以預防（註1）。每年的**4****月7****日世界衛生日**，不僅是紀念世界衛生組織（WHO）成立的日子，更是一個全球性提醒：健康，不是等疾病發生才去處理，而是應該早一步，從日常生活中開始守護。
@@ -27,6 +29,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="世界衛生日與預防醫學的關聯：專訪營養師揭開4/7背後的健康意義 World Health Day &amp; Prevention" width="800" height="450" src="https://www.youtube.com/embed/yFS4k377US8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E4%B8%96%E7%95%8C%E8%A1%9B%E7%94%9F%E6%97%A547%EF%BC%9A%E5%85%A8%E7%90%83%E5%81%A5%E5%BA%B7%E5%8D%B1%E6%A9%9F%E4%B8%8B%E7%9A%84%E4%B8%80%E7%B7%9A%E5%B8%8C%E6%9C%9B"></span>
+
 ## **世界衛生日4/7****：全球健康危機下的一線希望**
 
 你知道嗎？每年的4月7日，是世界衛生日（World Health Day），這不只是紀念世界衛生組織（WHO）在1948年成立，更是一次對「全球健康」集體覺醒的號角。2025年的主題是「健康起點，希望未來」，強調從母嬰照護到女性長期健康的關鍵議題──這背後，其實正透露著預防醫學的核心精神。
@@ -37,6 +41,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/World-Health-Day-Prevention3.jpg)
 
+<span id="%E9%A0%90%E9%98%B2%E9%86%AB%E5%AD%B8%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E8%94%A1%E6%97%BB%E5%A0%85%E7%87%9F%E9%A4%8A%E5%B8%AB%E8%A7%A3%E9%87%8B%E4%B8%96%E7%95%8C%E8%A1%9B%E6%97%A5%E8%83%8C%E5%BE%8C%E7%9A%84%E7%AD%96%E7%95%A5%E6%80%9D%E6%83%B3"></span>
+
 ## **預防醫學是什麼？蔡旻堅營養師解釋世界衛日背後的策略思想**
 
 你曾經想過嗎？為什麼有些疾病，等到發作時就已經難以逆轉？蔡旻堅營養師在接受專訪時提到：「其實大部分的慢性病，像是高血壓、糖尿病，甚至失智症，在早期都能從生活習慣中找到破口，只是我們習慣忽略身體的小聲音。」
@@ -44,6 +50,8 @@ sourceVerbatim: true
 所謂的預防醫學，指的是在疾病發生前（第一級）、早期發現（第二級）與減少併發症（第三級）這三個層面，進行有系統的防護策略。而世界衛生日，正是WHO在全球推動這些概念的重要時刻。例如，根據一篇系統性綜述指出，透過社區型健康教育與營養介入，可有效降低心血管疾病與代謝症候群的發生率（註2）。
 
 蔡營養師強調：「健康不是等醫師開藥才開始，而是從我們早晨的第一口早餐就開始了。」他形容預防醫學就像一把雨傘──在風雨來之前張開，才能真正避免被淋濕。不過，他也提醒，預防醫學並非萬能，如果缺乏制度支持與民眾參與，即使理念再好也難以落實。
+
+<span id="%E9%A3%B2%E9%A3%9F%E6%98%AF%E9%A0%90%E9%98%B2%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%9AWHO%E7%87%9F%E9%A4%8A%E7%AD%96%E7%95%A5%E8%88%87%E4%BD%A0%E6%88%91%E7%BF%92%E6%85%A3%E7%9A%84%E8%B7%9D%E9%9B%A2"></span>
 
 ## **飲食是預防的第一步：WHO****營養策略與你我習慣的距離**
 
@@ -57,6 +65,8 @@ WHO近年的營養指南指出，透過均衡攝取蔬果、全穀類與優質�
 
 ![](/wp-content/uploads/World-Health-Day-Prevention.jpg)
 
+<span id="%E4%BD%A0%E4%BB%8A%E5%A4%A9%E5%90%83%E5%B0%8D%E4%BA%86%E5%97%8E%EF%BC%9F%E5%BE%9E%E4%B8%96%E7%95%8C%E8%A1%9B%E6%97%A5%E9%96%8B%E5%A7%8B%E7%9A%84%E9%A0%90%E9%98%B2%E8%A1%8C%E5%8B%95%E6%8C%87%E5%8D%97"></span>
+
 ## **你今天吃對了嗎？從世界衛日開始的預防行動指南**
 
 你是否也曾經下定決心「明天開始要吃得健康一點」，但早餐還是點了奶茶加蛋餅？別擔心，蔡旻堅營養師說，預防醫學不是要你馬上變完美，而是願意從今天開始多一點意識，少一點放縱。
@@ -66,6 +76,8 @@ WHO近年的營養指南指出，透過均衡攝取蔬果、全穀類與優質�
 根據一項開放期刊研究顯示，僅僅改善飲食與作息，就能在6個月內有效改善血壓、血脂與血糖等三高指標，降低20%以上的代謝症候群風險（註4）。蔡營養師補充：「預防醫學不只是理念，而是能讓你從容面對未來的生活方式。」
 
 所以，你今天吃對了嗎？從世界衛日開始，寫下你的健康行動清單：喝一杯溫水、走10分鐘的路、多吃一點綠色蔬菜。當你每天都為自己多做一點，就是向未來的健康多走一步。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E5%BE%9E%E4%BB%8A%E5%A4%A9%E8%B5%B7%EF%BC%8C%E7%82%BA%E8%87%AA%E5%B7%B1%E9%BB%9E%E4%B8%80%E7%9B%9E%E5%81%A5%E5%BA%B7%E7%9A%84%E5%85%89"></span>
 
 ## **結論：從今天起，為自己點一盞健康的光**
 
@@ -84,11 +96,17 @@ WHO近年的營養指南指出，透過均衡攝取蔬果、全穀類與優質�
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #264653;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="padding: 12px; border: 3px solid #264653;">項目</th><th style="padding: 12px; border: 3px solid #264653;">世界衛生日</th><th style="padding: 12px; border: 3px solid #264653;">WHO健康政策導向</th><th style="padding: 12px; border: 3px solid #264653;">預防醫學核心概念</th><th style="padding: 12px; border: 3px solid #264653;">中醫觀點對應</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">發起背景</td><td style="padding: 12px; border: 3px solid #264653;">紀念世界衛生組織於1948年4月7日成立</td><td style="padding: 12px; border: 3px solid #264653;">推動全球健康平權、預防疾病、提倡營養健康</td><td style="padding: 12px; border: 3px solid #264653;">第一級預防：減少疾病發生</td><td style="padding: 12px; border: 3px solid #264653;">治未病：防範於未然，《黃帝內經》強調「形與神俱」</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">每年主題焦點</td><td style="padding: 12px; border: 3px solid #264653;">2025年主題為「健康起點，希望未來」</td><td style="padding: 12px; border: 3px solid #264653;">關注母嬰健康、婦女健康、基層醫療等議題</td><td style="padding: 12px; border: 3px solid #264653;">強調生活型態調整，如飲食、運動、睡眠</td><td style="padding: 12px; border: 3px solid #264653;">食飲有節、起居有常，不妄作勞（素問‧上古天真論）</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">主要介入策略</td><td style="padding: 12px; border: 3px solid #264653;">宣導、教育、跨國合作倡議</td><td style="padding: 12px; border: 3px solid #264653;">制定全球營養指南、推動疫苗、慢病預防</td><td style="padding: 12px; border: 3px solid #264653;">公衛介入、社區健康行動、營養衛教</td><td style="padding: 12px; border: 3px solid #264653;">透過飲食調理、情志管理、順應四時來防病</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">與個人生活的關聯性</td><td style="padding: 12px; border: 3px solid #264653;">強化健康意識、提醒自我照顧</td><td style="padding: 12px; border: 3px solid #264653;">對國家政策與基層系統影響深遠</td><td style="padding: 12px; border: 3px solid #264653;">與日常選擇息息相關，人人可參與</td><td style="padding: 12px; border: 3px solid #264653;">日用即道，從生活飲食起步，自然養生</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E2%9C%85_%E5%95%8F%E9%A1%8C1%EF%BC%9A%E9%A0%90%E9%98%B2%E9%86%AB%E5%AD%B8%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E8%B7%9F%E5%8E%BB%E9%86%AB%E9%99%A2%E7%9C%8B%E7%97%85%E6%9C%89%E4%BB%80%E9%BA%BC%E4%B8%8D%E5%90%8C%EF%BC%9F"></span>
 
 ### **✅** **問題1****：預防醫學到底是什麼？跟去醫院看病有什麼不同？**
 
 **回覆**：預防醫學指的是在「疾病發生前」就開始介入，從飲食、運動、疫苗、環境衛生等方面保護健康，減少生病的機會。這和「等生病了才看醫生」的治療觀念不同，它更像是一把在雨來之前就撐起的傘。蔡旻堅營養師說得好：「健康不是醫療的終點，而是生活的起點。」
+
+<span id="%E2%9C%85_%E5%95%8F%E9%A1%8C2%EF%BC%9A%E6%88%91%E5%B9%B3%E5%B8%B8%E5%B7%A5%E4%BD%9C%E5%BE%88%E5%BF%99%EF%BC%8C%E6%80%8E%E9%BA%BC%E9%96%8B%E5%A7%8B%E5%AF%A6%E8%B8%90%E9%A0%90%E9%98%B2%E9%86%AB%E5%AD%B8%EF%BC%9F"></span>
 
 ### **✅** **問題2****：我平常工作很忙，怎麼開始實踐預防醫學？**
 
@@ -99,13 +117,19 @@ WHO近年的營養指南指出，透過均衡攝取蔬果、全穀類與優質�
 3.  每晚固定時間睡覺、減少滑手機  
     這些看似微小的選擇，其實都在悄悄強化你的健康防線。正如《黃帝內經》所言：「起居有常，不妄作勞」，生活有節，身體自然會感謝你。
 
+<span id="%E2%9C%85_%E5%95%8F%E9%A1%8C3%EF%BC%9A%E4%B8%96%E7%95%8C%E8%A1%9B%E7%94%9F%E6%97%A5%E8%B7%9F%E6%88%91%E6%9C%89%E4%BB%80%E9%BA%BC%E9%97%9C%E4%BF%82%EF%BC%9F"></span>
+
 ### **✅** **問題3****：世界衛生日跟我有什麼關係？**
 
 **回覆**：世界衛生日每年4月7日舉行，主題雖然看似全球性的倡議，但其實核心精神就是提醒「健康是每個人自己的責任」。當你在選擇三餐、作息與情緒管理時，其實就在實踐世界衛生日的價值。這不是政府的事，而是你和我每天都能做到的小事集合。
 
+<span id="%E2%9C%85_%E5%95%8F%E9%A1%8C4%EF%BC%9A%E6%88%91%E5%AE%B6%E9%95%B7%E8%BC%A9%E5%B8%B8%E5%90%83%E4%BF%9D%E5%81%A5%E5%93%81%EF%BC%8C%E9%80%99%E6%A8%A3%E7%AE%97%E9%A0%90%E9%98%B2%E9%86%AB%E5%AD%B8%E5%97%8E%EF%BC%9F"></span>
+
 ### **✅** **問題4****：我家長輩常吃保健品，這樣算預防醫學嗎？**
 
 **回覆**：保健品只是預防的一小部分。真正的預防醫學強調「整體生活方式」──飲食均衡、情緒穩定、運動規律與良好睡眠。若只靠補充品卻忽略飲食結構、生活習慣與壓力管理，效果有限。中醫講求「藥食同源」，也強調應當順應體質與四時來調理，才是真正的預防之道。
+
+<span id="%E2%9C%85_%E5%95%8F%E9%A1%8C5%EF%BC%9A%E5%93%AA%E4%B8%80%E7%A8%AE%E9%A3%B2%E9%A3%9F%E6%9C%80%E7%AC%A6%E5%90%88%E9%A0%90%E9%98%B2%E9%86%AB%E5%AD%B8%E7%9A%84%E7%B2%BE%E7%A5%9E%EF%BC%9F"></span>
 
 ### **✅** **問題5****：哪一種飲食最符合預防醫學的精神？**
 

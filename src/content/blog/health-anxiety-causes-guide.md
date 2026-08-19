@@ -12,6 +12,8 @@ legacyPath: "/blog/health-anxiety-causes-guide/"
 sourceVerbatim: true
 ---
 
+<span id="%E6%9C%AC%E6%96%87%E9%87%8D%E9%BB%9E"></span>
+
 ## 本文重點
 
 -   慮病症不等於「裝病」，患者的痛苦是真實的
@@ -37,6 +39,10 @@ sourceVerbatim: true
 
 * * *
 
+<span id="section-0"></span>
+
+<span id="%E4%B8%80%E3%80%81%E6%85%AE%E7%97%85%E7%97%87%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E4%B8%8D%E6%98%AF%E7%A5%9E%E7%B6%93%E8%B3%AA%EF%BC%8C%E6%98%AF%E7%9C%9F%E5%AF%A6%E7%9A%84%E7%84%A6%E6%85%AE%E7%97%87"></span>
+
 ## 一、慮病症是什麼？不是神經質，是真實的焦慮症
 
 **慮病症的核心，是對疾病的持續性恐懼，且這份恐懼無法被正常的檢查結果所消解。** 一般人擔心身體，通常在醫師確認「沒問題」後就可以放下；但慮病症患者的焦慮像是一個沒有出口的迴圈——確認過了，又開始懷疑，懷疑之後繼續回去查。
@@ -59,6 +65,10 @@ sourceVerbatim: true
 
 * * *
 
+<span id="section-1"></span>
+
+<span id="%E4%BA%8C%E3%80%81%E8%BA%AB%E9%AB%94%E5%A0%B1%E5%91%8A%E6%98%8E%E6%98%8E%E6%AD%A3%E5%B8%B8%EF%BC%8C%E6%81%90%E6%87%BC%E7%82%BA%E4%BB%80%E9%BA%BC%E9%82%84%E5%9C%A8%EF%BC%9F"></span>
+
 ## 二、身體報告明明正常，恐懼為什麼還在？
 
 **因為慮病症的問題不在身體，而在大腦處理不確定性的方式。** 大腦的杏仁核（負責恐懼反應）在長期高警覺狀態下，會把身體的任何細微變化都解讀為威脅訊號，這與身體是否真的有問題無關。
@@ -74,6 +84,10 @@ sourceVerbatim: true
 > ![女性獨自站在樹林間，背對鏡頭，金色逆光透過樹幹灑落，呈現孤獨沉思的內省氛圍](https://images.unsplash.com/photo-1584771708615-681cdf382e89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4ODgwMzN8MHwxfHNlYXJjaHw0fHxoZWFsdGglMjBhbnhpZXR5JTIwd29ycnl8ZW58MHwwfHx8MTc3NDIzNjY4MHww&ixlib=rb-4.1.0&q=80&w=1080)
 > 
 > * * *
+
+<span id="section-2"></span>
+
+<span id="%E4%B8%89%E3%80%81%E7%B6%B2%E8%B7%AF%E6%9F%A5%E7%97%85%E7%82%BA%E4%BB%80%E9%BA%BC%E8%AE%93%E6%85%AE%E7%97%85%E7%97%87%E6%9B%B4%E5%9A%B4%E9%87%8D%EF%BC%9F"></span>
 
 ## 三、網路查病為什麼讓慮病症更嚴重？
 
@@ -95,6 +109,10 @@ sourceVerbatim: true
 
 * * *
 
+<span id="section-3"></span>
+
+<span id="%E5%9B%9B%E3%80%81%E7%8F%BE%E4%BB%A3%E6%B2%BB%E7%99%82%E6%80%8E%E9%BA%BC%E4%BB%8B%E5%85%A5%EF%BC%9FCBT_%E5%92%8C%E8%97%A5%E7%89%A9%E7%9A%84%E8%A7%92%E8%89%B2"></span>
+
 ## 四、現代治療怎麼介入？CBT 和藥物的角色
 
 **認知行為治療（CBT）是目前實證最強、最被廣泛推薦的慮病症一線治療方式，目標是修正「把模糊症狀解讀為重病」的思維模式，並逐步減少安全行為（如頻繁就醫、自我監測）。** 藥物治療則常作為輔助，尤其在焦慮程度已嚴重影響日常功能時。
@@ -105,9 +123,15 @@ sourceVerbatim: true
 
 <table class="comparison-table" style="width: 100%; border-collapse: collapse; font-size: 0.95em; border: 3px solid #1B5E4B;"><thead><tr><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">治療方式</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">主要作用</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">適合情境</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">注意事項</th></tr></thead><tbody><tr><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">認知行為治療（CBT）</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">修正錯誤認知、減少確認行為與安全行為</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">輕中度健康焦慮，有意願改變思維模式者</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">需要時間，通常 8-16 次療程</td></tr><tr><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">藥物治療（SSRI / SNRI）</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">降低整體焦慮基礎水平</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">焦慮程度嚴重，影響日常功能者</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">需配合醫師評估，有副作用需監測</td></tr><tr><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">接受與承諾治療（ACT）</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">學習與不確定性共存，而非消除它</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">對 CBT 反應不足，或有高度認知融合者</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">較新的研究方向，療效持續累積中</td></tr><tr><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">正念減壓（MBSR）</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">提升身體感知的覺察，減少自動化的反應性</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">作為輔助介入，搭配其他治療使用</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">單獨使用效果有限，適合作為日常練習補充</td></tr></tbody></table>
 
+<span id="section-4"></span>
+
+<span id="%E4%BA%94%E3%80%81%E6%97%A5%E5%B8%B8%E4%B8%AD%E4%BD%A0%E7%8F%BE%E5%9C%A8%E5%B0%B1%E8%83%BD%E5%81%9A%E7%9A%84%E4%BA%8B"></span>
+
 ## 五、日常中你現在就能做的事
 
 **日常的調整無法取代專業治療，但可以減少加重症狀的行為，讓焦慮迴路有機會稍微鬆動。** 重點不在於「不要想」——強迫自己不想只會讓那個念頭更強——而是調整「怎麼回應那個想法」。
+
+<span id="%E4%BD%A0%E7%8F%BE%E5%9C%A8%E5%B0%B1%E8%83%BD%E5%81%9A%E7%9A%84%E4%BA%8B"></span>
 
 ### 你現在就能做的事
 
@@ -152,6 +176,8 @@ CBT 治療大概要做多久才有效果？
 1.  Newby, J. M., et al. (2017). Systematic review and meta-analysis of transdiagnostic psychological treatments for anxiety and depressive disorders in adulthood. *Clinical Psychology Review*, 40, 91–110. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5550643/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5550643/)
 2.  McManus, F., et al. (2012). An investigation of the effects of cognitive-behavioral therapy on health anxiety in patients with chronic obstructive airways disease. *BMC Pulmonary Medicine*. Cyberchondria research overview: [https://pubmed.ncbi.nlm.nih.gov/](https://pubmed.ncbi.nlm.nih.gov/)
 3.  World Health Organization. (2024). ICD-11: Hypochondria / Illness anxiety disorder. [https://www.who.int/standards/classifications/classification-of-diseases](https://www.who.int/standards/classifications/classification-of-diseases)
+
+<span id="%E8%8D%89%E6%9C%AC%E4%B8%8A%E8%86%B3%E9%86%AB%E5%BB%9A%EF%BC%8D%E9%BB%83%E5%AD%90%E5%BD%A5"></span>
 
 ### 草本上膳醫廚－黃子彥
 

@@ -16,6 +16,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="你們水蜜桃會帶皮吃嗎？ #水果 #水蜜桃 #多酚 #抗氧化 #維生素c" width="563" height="1000" src="https://www.youtube.com/embed/p1X3BWx1XfY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E5%BC%95%E8%A8%80%EF%BD%9C%E4%BD%A0%E4%BB%A5%E7%82%BA%E5%8F%AA%E6%98%AF%E6%B0%B4%E6%9E%9C%EF%BC%9F%E5%85%B6%E5%AF%A6%E6%98%AF%E5%A4%A9%E7%84%B6%E8%85%B8%E8%86%9A%E8%89%AF%E8%97%A5"></span>
+
 ## **引言｜你以為只是水果？其實是天然腸膚良藥**
 
 你以為便祕只能靠吃益生菌？或者擦保養品才能護膚？  
@@ -29,6 +31,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Peach-Skin-Digest-Boost.jpg)
 
+<span id="%E6%B0%B4%E8%9C%9C%E6%A1%83%E7%9A%84%E7%87%9F%E9%A4%8A%E6%88%90%E5%88%86%E6%9C%89%E4%BB%80%E9%BA%BC%EF%BC%9F%E5%90%83%E7%9A%84%E6%98%AF%E7%94%9C%EF%BC%8C%E8%A3%9C%E7%9A%84%E6%98%AF%E8%85%B8%E8%88%87%E8%86%9A"></span>
+
 ## **水蜜桃的營養成分有什麼？吃的是甜，補的是腸與膚**
 
 你有發現自己皮膚越來越乾、排便也卡卡嗎？別急，也許身體只是在提醒你該換點「果色」了。水蜜桃這顆甜甜果肉，不只是夏日的浪漫象徵，它實際上是一位默默守護你腸道與肌膚的天然營養師。
@@ -38,6 +42,8 @@ sourceVerbatim: true
 但提醒你，小心別空腹吃，尤其是晚桃品種糖度高、水分足，容易引起腸胃不適。建議搭配早餐或下午茶，既能平穩血糖，也讓美味更貼心地守護你的腸道與氣色。
 
 <iframe loading="lazy" title="水蜜桃除了好吃之外，竟然還有很多厲害的功效 #水果 #水蜜桃 #上海蜜 #中醫師 #維生素c #幫助排便 #膠原蛋白 #抗老化" width="563" height="1000" src="https://www.youtube.com/embed/onES0oiVwHg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E8%AA%AA%E6%99%9A%E6%A1%83%E6%AF%94%E4%B8%80%E8%88%AC%E5%93%81%E7%A8%AE%E6%9B%B4%E3%80%8C%E5%A5%BD%E5%85%A5%E5%8F%A3%E4%B9%9F%E5%A5%BD%E5%90%B8%E6%94%B6%E3%80%8D%EF%BC%9F"></span>
 
 ## **為什麼說晚桃比一般品種更「好入口也好吸收」？**
 
@@ -49,6 +55,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Peach-Skin-Digest-Boost3.jpg)
 
+<span id="%E6%B0%B4%E8%9C%9C%E6%A1%83%E8%83%BD%E5%B9%AB%E5%8A%A9%E6%8E%92%E4%BE%BF%E7%9A%84%E6%A9%9F%E5%88%B6%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E6%9C%89%E6%B2%92%E6%9C%89%E7%A0%94%E7%A9%B6%E6%94%AF%E6%8C%81%EF%BC%9F"></span>
+
 ## **水蜜桃能幫助排便的機制是什麼？有沒有研究支持？**
 
 你知道嗎？很多人以為水果幫助排便只是因為「水分多」，但其實，真正的秘密藏在看不見的「果膠」和「膳食纖維」裡。水蜜桃剛好就是這兩者的天然載體，尤其是果皮與果肉之間那層細膩的果膠，對腸道來說，就像溫和的清道夫。
@@ -56,6 +64,8 @@ sourceVerbatim: true
 研究指出，水蜜桃中的可溶性膳食纖維（如果膠）可增加糞便含水量，促進腸道蠕動，並且調節腸道微生物生態，有助於改善便秘與腹脹問題（註5、註6）。這種作用不靠刺激、不需藥性，而是透過食材本身的結構慢慢修復腸道的節奏，就像用溫柔的手在拍醒一台睡著的腸胃機器。
 
 不過提醒一下，如果本身是腸躁症、易腹瀉體質，就不建議一次吃太多，建議搭配糙米、山藥或豆類一起吃，能緩解腸胃壓力又更穩定消化節奏。
+
+<span id="%E8%AD%B7%E8%86%9A%E8%88%87%E6%8A%97%E8%80%81%E7%9C%9F%E7%9A%84%E9%9D%A0%E5%90%83%E6%B0%B4%E6%9E%9C%EF%BC%9F%E6%B0%B4%E8%9C%9C%E6%A1%83%E5%9C%A8%E5%85%B6%E4%B8%AD%E6%89%AE%E6%BC%94%E4%BB%80%E9%BA%BC%E8%A7%92%E8%89%B2%EF%BC%9F"></span>
 
 ## **護膚與抗老真的靠吃水果？水蜜桃在其中扮演什麼角色？**
 
@@ -66,6 +76,8 @@ sourceVerbatim: true
 不過，想靠水果保養皮膚不是單靠「吃得多」，而是「吃得對」。建議選擇帶皮、熟度適中的水蜜桃，並與堅果或好油脂搭配，才能穩定吸收抗氧化營養，讓你從嘴角到額頭都發光。
 
 ![](/wp-content/uploads/Peach-Skin-Digest-Boost2.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E5%BE%9E%E7%94%9C%E5%85%A5%E5%BF%83%EF%BC%8C%E5%BE%9E%E8%85%B8%E5%88%B0%E8%86%9A%E7%9A%84%E6%85%A2%E4%BF%AE%E8%A1%8C"></span>
 
 ## **結論：從甜入心，從腸到膚的慢修行**
 
@@ -99,27 +111,39 @@ sourceVerbatim: true
 
 <table class="peach-comparison"><thead><tr><th>功能面向</th><th>主要作用</th><th>關鍵營養成分</th><th>建議吃法</th></tr></thead><tbody><tr><td>腸道健康</td><td>增加糞便含水、促進蠕動、調整菌相</td><td>水溶性膳食纖維、果膠</td><td>搭配豆漿、優格、穀物</td></tr><tr><td>護膚抗老</td><td>抗氧化、促進膠原蛋白形成、減緩光老化</td><td>多酚、維生素C、β-胡蘿蔔素</td><td>果皮連吃、與堅果油脂一同攝取</td></tr><tr><td>氣色與津液</td><td>補氣養顏、生津潤燥</td><td>鉀、鐵、天然糖分、果膠</td><td>熟桃現吃、製成果泥</td></tr><tr><td>選品指引</td><td>晚桃含水高，適合腸胃弱者</td><td>晚熟品種（如梨山上海蜜）</td><td>避免空腹吃、搭配蛋白質更佳</td></tr></tbody></table>
 
+<span id="%F0%9F%8D%91_%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **🍑** **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A%E6%B0%B4%E8%9C%9C%E6%A1%83%E7%9C%9F%E7%9A%84%E8%83%BD%E5%B9%AB%E5%8A%A9%E6%8E%92%E4%BE%BF%E5%97%8E%EF%BC%9F%E6%80%8E%E9%BA%BC%E5%90%83%E6%9C%80%E6%9C%89%E6%95%88%EF%BC%9F"></span>
 
 ### **問題 1****：水蜜桃真的能幫助排便嗎？怎麼吃最有效？**
 
 **回覆：**  
 是的，水蜜桃富含水溶性膳食纖維與天然果膠，有助於軟化糞便並促進腸道蠕動。建議搭配豆漿、優格或全穀類一同食用，可穩定腸道菌相，提升排便效率。不過空腹食用易刺激腸胃，建議餐後一至兩小時食用最適合。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E5%90%83%E6%B0%B4%E8%9C%9C%E6%A1%83%E6%9C%83%E4%B8%8D%E6%9C%83%E8%AE%93%E8%A1%80%E7%B3%96%E5%8D%87%E9%AB%98%EF%BC%9F%E7%B3%96%E5%B0%BF%E7%97%85%E6%82%A3%E8%80%85%E5%8F%AF%E4%BB%A5%E5%90%83%E5%97%8E%EF%BC%9F"></span>
+
 ### **問題 2****：吃水蜜桃會不會讓血糖升高？糖尿病患者可以吃嗎？**
 
 **回覆：**  
 水蜜桃雖甜，但屬於中低升糖指數水果。糖尿病患者可以適量攝取，建議搭配蛋白質或脂肪來源（如堅果或無糖優格）一起食用，以延緩血糖上升速度。一次攝取量以半顆中型水蜜桃為宜。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E6%B0%B4%E8%9C%9C%E6%A1%83%E5%B0%8D%E7%9A%AE%E8%86%9A%E7%9C%9F%E7%9A%84%E6%9C%89%E5%B9%AB%E5%8A%A9%E5%97%8E%EF%BC%9F%E5%93%AA%E4%BA%9B%E4%BA%BA%E9%81%A9%E5%90%88%E9%A3%9F%E7%94%A8%EF%BC%9F"></span>
 
 ### **問題 3****：水蜜桃對皮膚真的有幫助嗎？哪些人適合食用？**
 
 **回覆：**  
 研究顯示，水蜜桃中的多酚與維生素C能抗氧化、促進膠原蛋白生成，有助於減緩皮膚老化與黯沉。特別適合膚色暗沉、常曝曬、氣血虛弱或偏燥體質者食用。《本草綱目》亦有記載：「桃者，腸中之潤劑也」，潤中有養，是內外兼修的美肌選擇。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A%E6%8C%91%E6%B0%B4%E8%9C%9C%E6%A1%83%E6%9C%89%E6%8A%80%E5%B7%A7%E5%97%8E%EF%BC%9F%E6%80%8E%E9%BA%BC%E9%81%B8%E6%89%8D%E4%B8%8D%E8%B8%A9%E9%9B%B7%EF%BC%9F"></span>
+
 ### **問題 4****：挑水蜜桃有技巧嗎？怎麼選才不踩雷？**
 
 **回覆：**  
 建議選擇果香濃郁、蒂頭完整、觸感略帶彈性的水蜜桃。晚桃（如梨山上海蜜）通常糖酸平衡佳、果肉細緻。若希望保留果皮中的營養（如多酚與果膠），請優先選擇有機或無農藥種植來源。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9A%E5%B0%8F%E5%AD%A9%E6%88%96%E8%80%81%E4%BA%BA%E5%8F%AF%E4%BB%A5%E5%A4%A9%E5%A4%A9%E5%90%83%E6%B0%B4%E8%9C%9C%E6%A1%83%E5%97%8E%EF%BC%9F%E6%9C%83%E4%B8%8D%E6%9C%83%E5%A4%AA%E6%B6%BC%EF%BC%9F"></span>
 
 ### **問題 5****：小孩或老人可以天天吃水蜜桃嗎？會不會太涼？**
 

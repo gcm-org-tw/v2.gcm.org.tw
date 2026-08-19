@@ -23,6 +23,10 @@ sourceVerbatim: true
 6.  [五、辨識早期症狀，是預防熱傷害惡化的核心能力](#sec-5)
 7.  [常見問題](#sec-6)
 
+<span id="sec-0"></span>
+
+<span id="%E7%86%B1%E5%82%B7%E5%AE%B3%E4%B8%A6%E9%9D%9E%E7%AA%81%E7%84%B6%E7%99%BC%E7%94%9F%EF%BC%8C%E7%B4%AF%E7%A9%8D%E6%9A%B4%E9%9C%B2%E6%98%AF%E9%97%9C%E9%8D%B5%E6%A9%9F%E5%88%B6"></span>
+
 ## 熱傷害並非突然發生，累積暴露是關鍵機制
 
 台灣夏季體感溫度（熱指數，heat index）普遍比氣象顯示值高出 3 至 8 度。當熱指數超過 40°C，人體散熱效率明顯下降，而熱傷害的發生通常是持續暴露累積的結果，而非單一瞬間造成。
@@ -33,6 +37,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/da1751c6-2a0b-4b68-b70c-cb20947ead6c/paragraph-seg-1-1783395879220-1b91eaf7.jpg" alt="熱傷害並非突然發生，累積暴露是關鍵機制"></figure>
 
+<span id="sec-1"></span>
+
+<span id="%E4%B8%80%E3%80%81%E5%87%BA%E9%96%80%E5%89%8D%E7%A2%BA%E8%AA%8D%E9%AB%98%E6%BA%AB%E8%B3%87%E8%A8%8A%EF%BC%8C%E6%98%AF%E9%98%B2%E8%AD%B7%E9%8F%88%E7%9A%84%E7%AC%AC%E4%B8%80%E9%97%9C"></span>
+
 ## 一、出門前確認高溫資訊，是防護鏈的第一關
 
 中央氣象署發布的高溫資訊與高溫警訊，是最直接的行動依據。確認當日是否進入高溫警戒，有助於判斷是否需要調整外出時段、縮短戶外停留時間，或為同行的高風險族群做額外準備。
@@ -42,6 +50,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/da1751c6-2a0b-4b68-b70c-cb20947ead6c/paragraph-seg-2-1783395920160-85fb6c0a.jpg" alt="一、出門前確認高溫資訊，是防護鏈的第一關"></figure>
+
+<span id="sec-2"></span>
+
+<span id="%E4%BA%8C%E3%80%81%E8%A3%9C%E6%B0%B4%E3%80%81%E9%81%AE%E9%99%BD%E3%80%81%E9%80%9A%E9%A2%A8%E9%9C%80%E5%90%8C%E6%AD%A5%E8%90%BD%E5%AF%A6%EF%BC%8C%E7%BC%BA%E4%B8%80%E5%BD%B1%E9%9F%BF%E6%95%B4%E9%AB%94%E6%95%A3%E7%86%B1%E6%95%88%E7%8E%87"></span>
 
 ## 二、補水、遮陽、通風需同步落實，缺一影響整體散熱效率
 
@@ -57,6 +69,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/da1751c6-2a0b-4b68-b70c-cb20947ead6c/paragraph-seg-3-1783395961786-c22f1af9.jpg" alt="二、補水、遮陽、通風需同步落實，缺一影響整體散熱效率"></figure>
 
+<span id="sec-3"></span>
+
+<span id="%E4%B8%89%E3%80%81%E6%88%B6%E5%A4%96%E5%B7%A5%E4%BD%9C%E8%88%87%E9%81%8B%E5%8B%95%E6%97%8F%E7%BE%A4%EF%BC%8C%E6%AD%A3%E5%8D%88%E6%99%82%E6%AE%B5%E9%9C%80%E5%9A%B4%E6%A0%BC%E7%AE%A1%E6%8E%A7%E7%86%B1%E6%9A%B4%E9%9C%B2"></span>
+
 ## 三、戶外工作與運動族群，正午時段需嚴格管控熱暴露
 
 戶外工作者與運動族群面臨的是**持續性熱暴露與體力負荷的雙重疊加**，正午時段地表太陽輻射量達全天峰值，體感溫度可比清晨高出 10°C 以上。
@@ -69,11 +85,17 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/da1751c6-2a0b-4b68-b70c-cb20947ead6c/paragraph-seg-4-1783396104416-b38e8479.jpg" alt="三、戶外工作與運動族群，正午時段需嚴格管控熱暴露"></figure>
 
+<span id="sec-4"></span>
+
+<span id="%E5%9B%9B%E3%80%81%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%97%8F%E7%BE%A4%E7%9A%84%E8%AD%A6%E7%A4%BA%E8%A8%8A%E8%99%9F%E8%88%87%E7%B7%8A%E6%80%A5%E8%99%95%E7%BD%AE"></span>
+
 ## 四、高風險族群的警示訊號與緊急處置
 
 幼兒、長輩與慢性病族群的熱傷害警示訊號往往較不典型，需照顧者主動觀察。
 
 **幼兒**體表面積與體重比例大、體溫調節中樞尚未成熟，核心體溫上升速度快於成人，且不一定伴隨大量出汗（註4）。**長輩**因汗腺功能退化、口渴感下降及多重用藥交互作用，脫水與體溫上升往往在不知不覺中發生（註5）。**三高族群**中，利尿劑加速水分流失，血管調節能力受損則使散熱路徑效率降低（註6）。
+
+<span id="%E9%9C%80%E7%AB%8B%E5%8D%B3%E5%B0%B1%E9%86%AB%E7%9A%84%E7%B4%85%E6%97%97%E8%A8%8A%E8%99%9F"></span>
 
 ### 需立即就醫的紅旗訊號
 
@@ -83,6 +105,8 @@ sourceVerbatim: true
 
 **熱衰竭**（heat exhaustion，大量流汗、頭暈、虛弱但意識清醒）可先於陰涼環境補水休息；若處置 30 分鐘後症狀未改善，或出現任何意識變化，應立即就醫，不宜繼續觀察（註7）。
 
+<span id="%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%97%8F%E7%BE%A4%E7%86%B1%E5%82%B7%E5%AE%B3%E8%AD%A6%E6%88%92%E5%B7%AE%E7%95%B0%E6%AF%94%E8%BC%83"></span>
+
 ### 高風險族群熱傷害警戒差異比較
 
 <table><thead><tr><th>警戒項目</th><th>幼兒（0–6 歲）</th><th>長輩（65 歲以上）</th><th>三高族群</th></tr></thead><tbody><tr><td><strong>核心風險機制</strong></td><td>體表面積比高、體溫調節中樞尚未成熟，產熱快、散熱慢</td><td>汗腺功能退化、口渴感遲鈍，常在不知不覺中脫水</td><td>血管調節能力受損、部分藥物（如利尿劑、乙型阻斷劑）干擾散熱</td></tr><tr><td><strong>早期警示症狀</strong></td><td>哭鬧不安、皮膚乾燙潮紅、突然安靜或昏睡（危險信號）</td><td>頭暈、輕微意識混亂、步態不穩，易被誤判為疲勞</td><td>心跳加速、血壓異常波動、血糖不明原因升高或驟降</td></tr><tr><td><strong>補水策略</strong></td><td>少量多次，可用稀釋電解質液；不建議一般運動飲料（含糖量過高）</td><td>主動定時補水，不能等口渴；每小時至少 150–200 mL 溫水</td><td>需諮詢醫師確認每日水分上限（腎功能或心臟病患者有個別限制）</td></tr><tr><td><strong>藥物交互作用</strong></td><td>退燒藥不影響散熱，需注意過多衣物造成的蓄熱效應</td><td>安眠藥、抗組織胺藥抑制排汗，需特別留意</td><td>利尿劑加速脫水、乙型阻斷劑抑制心跳代償，高溫下風險顯著上升</td></tr><tr><td><strong>緊急處置優先動作</strong></td><td>立即移至陰涼處、解開衣物、頸部與腋下冰敷，速送醫</td><td>扶至陰涼處平躺、抬高雙腿、補充電解質水，意識不清立即呼叫救護車</td><td>降溫同時監測血壓與血糖，勿擅自調整用藥，送醫時告知完整用藥清單</td></tr></tbody></table>
@@ -90,6 +114,10 @@ sourceVerbatim: true
 * * *
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/da1751c6-2a0b-4b68-b70c-cb20947ead6c/paragraph-seg-5-1783396092171-a1be8a84.jpg" alt="四、高風險族群的警示訊號與緊急處置"></figure>
+
+<span id="sec-5"></span>
+
+<span id="%E4%BA%94%E3%80%81%E8%BE%A8%E8%AD%98%E6%97%A9%E6%9C%9F%E7%97%87%E7%8B%80%EF%BC%8C%E6%98%AF%E9%A0%90%E9%98%B2%E7%86%B1%E5%82%B7%E5%AE%B3%E6%83%A1%E5%8C%96%E7%9A%84%E6%A0%B8%E5%BF%83%E8%83%BD%E5%8A%9B"></span>
 
 ## 五、辨識早期症狀，是預防熱傷害惡化的核心能力
 
@@ -102,6 +130,10 @@ sourceVerbatim: true
 * * *
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/da1751c6-2a0b-4b68-b70c-cb20947ead6c/paragraph-seg-6-1783396097394-6878da75.jpg" alt="五、辨識早期症狀，是預防熱傷害惡化的核心能力"></figure>
+
+<span id="sec-6"></span>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C"></span>
 
 ## 常見問題
 
@@ -148,6 +180,8 @@ sourceVerbatim: true
 
 本文內容由 **上醫預防醫學發展協會** 之 **上醫預防醫學發展協會**編寫,僅供一般健康資訊參考,**不構成個人化醫療建議**。 若您有特定症狀或健康疑慮,請諮詢您的家庭醫師或專業醫療人員。  
 本文經 AI 律師合規審查 + 實證文獻佐證。
+
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB"></span>
 
 ## 參考文獻
 

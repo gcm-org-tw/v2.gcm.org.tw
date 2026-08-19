@@ -16,11 +16,15 @@ sourceVerbatim: true
 
 最近幾年的運動生理學研究，給這個觀念提供了精確的數據支持。其中一項設計巧妙的實驗，把焦點放在一個人人都做過、卻從來不被認可的動作——抖腳。
 
+<span id="%E4%B8%80%E3%80%81%E4%B9%85%E5%9D%90%E4%B8%89%E5%B0%8F%E6%99%82%EF%BC%8C%E4%BD%A0%E7%9A%84%E8%A1%80%E7%AE%A1%E5%B7%B2%E6%82%84%E6%82%84%E5%9C%A8%E6%94%B9%E8%AE%8A"></span>
+
 ## 一、久坐三小時，你的血管已悄悄在改變
 
 ![女性坐在家中木製書桌前，側面對著筆電工作並喝著咖啡，暖色調書房環境](https://images.unsplash.com/photo-1773332585687-85beb4da71ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4ODgwMzN8MHwxfHNlYXJjaHwxfHxzZWRlbnRhcnklMjBvZmZpY2UlMjB3b3JrZXIlMjBzaXR0aW5nJTIwZGVza3xlbnwwfDB8fHwxNzczOTk1MTQxfDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 你知道嗎？**連續靜坐三小時後，腿部動脈的 FMD（血流介導擴張）值會出現可測量的下降**，這是內皮功能受損的早期訊號，也是動脈硬化進程中最早能偵測到的變化之一。
+
+<span id="%E4%BB%80%E9%BA%BC%E6%98%AF_FMD%EF%BC%9F"></span>
 
 ### 什麼是 FMD？
 
@@ -30,6 +34,8 @@ FMD（Flow-Mediated Dilation，血流介導擴張）是評估血管內皮功能�
 
 FMD 下降是動脈硬化的早期前兆，比大多數臨床症狀早出現。換句話說，它是血管用行動在說：「這裡開始有問題了。」
 
+<span id="%E5%9D%90%E4%B8%89%E5%B0%8F%E6%99%82%EF%BC%8C%E5%B0%B1%E8%B6%B3%E5%A4%A0%E4%BA%86"></span>
+
 ### 坐三小時，就足夠了
 
 多項研究證實，受試者在連續靜坐三小時後，腿部動脈 FMD 值出現顯著下降（註2）。這個現象不需要特別虛弱的體質，也不需要有心血管病史——**一般健康成人連坐三小時，就夠了。**
@@ -38,11 +44,17 @@ FMD 下降是動脈硬化的早期前兆，比大多數臨床症狀早出現。�
 
 * * *
 
+<span id="section-1"></span>
+
+<span id="%E4%BA%8C%E3%80%81%E6%8A%96%E8%85%B3%E4%B8%8D%E6%98%AF%E5%A3%9E%E7%BF%92%E6%85%A3%EF%BC%8C%E6%98%AF%E8%BF%B7%E4%BD%A0%E5%B9%AB%E6%B5%A6"></span>
+
 ## 二、抖腳不是壞習慣，是迷你幫浦
 
 ![近距離特寫一雙赤腳踝部，腳跟微微抬起，踝部戴著黑色細繩腳鍊，溫暖光線照射在木質地板上](https://images.unsplash.com/photo-1729759083958-d4fbb8ba5142?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixlib=rb-4.1.0&q=80&w=1080)
 
 你有沒有想過，抖腳其實是腓腸肌（小腿後側肌肉群）的反覆收縮與放鬆？**這個動作啟動了俗稱「腿部第二顆心臟」的肌肉幫浦作用**，促進靜脈回流，並透過增加血管壁的剪切應力，刺激內皮細胞釋放一氧化氮（NO），進而維持動脈的擴張能力。
+
+<span id="%E8%85%BF%E9%83%A8%E7%AC%AC%E4%BA%8C%E9%A1%86%E5%BF%83%E8%87%9F"></span>
 
 ### 腿部第二顆心臟
 
@@ -50,11 +62,15 @@ FMD 下降是動脈硬化的早期前兆，比大多數臨床症狀早出現。�
 
 這也是為什麼久站久坐的人容易腿脹、腳踝腫：幫浦沒有動，血液和組織液就在下肢積聚了。
 
+<span id="%E5%89%AA%E5%88%87%E6%87%89%E5%8A%9B%E7%9A%84%E9%97%9C%E9%8D%B5%E8%A7%92%E8%89%B2"></span>
+
 ### 剪切應力的關鍵角色
 
 當血流速度增加，血液對血管壁的摩擦力（剪切應力，shear stress）也隨之上升。這個物理刺激，促使內皮細胞合成並釋放一氧化氮（NO）——NO 是天然的血管舒張因子，也是維持血管彈性、避免硬化最重要的訊號分子之一。
 
 抖腳帶動的腓腸肌反覆收縮，正是在製造這個效果。靜脈回流增加，心輸出量小幅提升，動脈端的血流速度與剪切應力跟著上升，最終觸發 NO 的合成與釋放。用廚房比喻：就像把燜在鍋底的湯定時攪動一下，讓循環重新活起來。
+
+<span id="%E6%9C%80%E5%BC%B7%E5%8A%9B%E7%9A%84%E7%A0%94%E7%A9%B6%E8%A8%AD%E8%A8%88%EF%BC%9A%E5%90%8C%E4%B8%80%E4%BA%BA%EF%BC%8C%E5%85%A9%E6%A2%9D%E8%85%BF"></span>
 
 ### 最強力的研究設計：同一人，兩條腿
 
@@ -73,9 +89,15 @@ FMD 下降是動脈硬化的早期前兆，比大多數臨床症狀早出現。�
 
 * * *
 
+<span id="section-2"></span>
+
+<span id="%E4%B8%89%E3%80%81%E6%84%8F%E5%A4%96%E7%99%BC%E7%8F%BE%EF%BC%9A%E6%8A%96%E8%85%B3%E5%B0%8D%E8%85%B3%E8%B8%9D%E8%85%AB%E8%84%B9%E7%9A%84%E5%BD%B1%E9%9F%BF"></span>
+
 ## 三、意外發現：抖腳對腳踝腫脹的影響
 
 你可能不知道，同一研究還觀察到一個有趣的現象：**久坐後靜止腿的腳踝體積增加約 2.6%，而持續輕微活動的腿僅增加 0.15%**，差距超過 17 倍。目前這還不能等同於「治療水腫」的臨床結論，但這個差距提示：微小的腿部活動，對減少液體在下肢積聚，可能有實際意義。
+
+<span id="%E9%9D%9C%E8%84%88%E8%88%87%E6%B7%8B%E5%B7%B4%E7%9A%84%E9%9B%99%E9%87%8D%E9%80%9A%E8%B7%AF"></span>
 
 ### 靜脈與淋巴的雙重通路
 
@@ -87,15 +109,23 @@ FMD 下降是動脈硬化的早期前兆，比大多數臨床症狀早出現。�
 
 * * *
 
+<span id="section-3"></span>
+
+<span id="%E5%9B%9B%E3%80%81%E4%B9%85%E5%9D%90%E5%82%B7%E5%AE%B3%E4%B8%8D%E7%AD%89%E6%96%BC%E3%80%8C%E5%9D%90%E8%91%97%E5%82%B7%E5%AE%B3%E3%80%8D"></span>
+
 ## 四、久坐傷害不等於「坐著傷害」
 
 你要記住的是：**「坐著」本身不是問題，「完全靜止」才是。** 研究證據指向的是缺乏任何形式的肌肉活動，而不是姿勢本身。同樣的時間、同樣的姿勢，一條腿動、一條腿不動，結果天壤之別。
+
+<span id="%E4%B8%AD%E9%86%AB%E7%9A%84%E7%9B%B8%E4%BC%BC%E8%A7%80%E5%AF%9F"></span>
 
 ### 中醫的相似觀察
 
 《黃帝內經·素問·宣明五氣篇》記載：「久坐傷肉。」這句話在古典中醫中，指的是長時間靜止會削弱肌肉的氣血濡養。後世醫家進一步詮釋：靜則氣滯，氣滯則血行不暢，最終影響四肢的功能與濡養。
 
 > 「久坐傷肉。」——《黃帝內經·素問·宣明五氣篇》。後世醫家詮釋：久靜則氣機不行，氣機鬱滯則血行遲緩，四肢肌肉失於濡養。此觀察雖語言與現代生理學不同，但指向高度一致——問題不在「坐」的姿勢，而在靜止帶來的氣血運行停滯。
+> 
+> <span id="%E4%B8%8D%E5%90%8C%E5%B0%8D%E7%AD%96%E7%9A%84%E6%AF%94%E8%BC%83"></span>
 > 
 > ### 不同對策的比較
 > 
@@ -106,6 +136,10 @@ FMD 下降是動脈硬化的早期前兆，比大多數臨床症狀早出現。�
 > 「Prolonged sitting-induced leg endothelial dysfunction is prevented by fidgeting.」——Morishima T, Restaino RM, Walsh LK, Kanaley JA, Fadel PJ, Padilla J.（2016），發表於《美國生理學雜誌：心臟與循環生理》。研究設計以同一人左右腿對照，直接證明微小的腿部活動能預防坐後的內皮功能惡化（註2）。
 > 
 > * * *
+
+<span id="section-4"></span>
+
+<span id="%E4%BA%94%E3%80%81%E4%BD%A0%E7%8F%BE%E5%9C%A8%E5%B0%B1%E8%83%BD%E5%81%9A%E7%9A%84%E4%BA%8B"></span>
 
 ## 五、你現在就能做的事
 
@@ -157,6 +191,8 @@ FMD 下降是動脈硬化的早期前兆，比大多數臨床症狀早出現。�
 （註1）World Health Organization. (2020). Physical activity. WHO Global Action Plan on Physical Activity. [https://www.who.int/news-room/fact-sheets/detail/physical-activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity)
 
 （註2）Morishima T, Restaino RM, Walsh LK, Kanaley JA, Fadel PJ, Padilla J. (2016). Prolonged sitting-induced leg endothelial dysfunction is prevented by fidgeting. *Am J Physiol Heart Circ Physiol.* 311(1):H177-82. [https://pubmed.ncbi.nlm.nih.gov/27199116/](https://pubmed.ncbi.nlm.nih.gov/27199116/)
+
+<span id="%E8%8D%89%E6%9C%AC%E4%B8%8A%E8%86%B3%E9%86%AB%E5%BB%9A%EF%BC%8D%E9%BB%83%E5%AD%90%E5%BD%A5"></span>
 
 ### 草本上膳醫廚－黃子彥
 

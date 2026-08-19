@@ -14,6 +14,8 @@ sourceVerbatim: true
 
 ![段落插圖：引言](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/17b7dd17-f196-4c37-9283-b93f04df3b85/paragraph-seg-1-1782734057353-b8461838.jpg)
 
+<span id="%E3%80%8C%E5%A4%9A%E5%96%9D%E6%B0%B4%E5%B0%B1%E5%A5%BD%E3%80%8D%E2%80%94%E2%80%94%E4%BD%86%E9%80%99%E5%80%8B%E5%BB%BA%E8%AD%B0%E5%B0%8D%E4%B8%AD%E6%9A%91%E5%8F%AF%E8%83%BD%E5%AE%8C%E5%85%A8%E7%84%A1%E6%95%88"></span>
+
 ## 「多喝水就好」——但這個建議對中暑可能完全無效
 
 根據美國疾管中心（CDC）統計，每年因熱相關疾病死亡的人數超過 600 人，而其中大多數是可以預防的（註1）。可是我們對「熱傷害」的理解，往往停在「多喝水就好」。問題是，這個建議對熱痙攣有效，對中暑卻可能完全無用——甚至延誤送醫。
@@ -23,6 +25,8 @@ sourceVerbatim: true
 * * *
 
 ![段落插圖：段落1：三種熱傷害的差異](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/17b7dd17-f196-4c37-9283-b93f04df3b85/paragraph-seg-2-1782733980626-704cb64a.jpg)
+
+<span id="%E4%B8%AD%E6%9A%91%E3%80%81%E7%86%B1%E8%A1%B0%E7%AB%AD%E3%80%81%E7%86%B1%E7%97%99%E6%94%A3%EF%BC%8C%E9%80%99%E4%B8%89%E5%80%8B%E5%88%B0%E5%BA%95%E5%B7%AE%E5%9C%A8%E5%93%AA%E8%A3%A1%EF%BC%9F"></span>
 
 ## 中暑、熱衰竭、熱痙攣，這三個到底差在哪裡？
 
@@ -35,6 +39,8 @@ sourceVerbatim: true
 * * *
 
 ![段落插圖：段落2：身體如何散熱與失衡機制](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/17b7dd17-f196-4c37-9283-b93f04df3b85/paragraph-seg-3-1782734118182-f3c13a17.jpg)
+
+<span id="%E9%A0%AD%E6%9A%88%E3%80%81%E7%9A%AE%E8%86%9A%E4%B9%BE%E7%86%B1%E2%80%94%E2%80%94%E8%BA%AB%E9%AB%94%E6%8B%89%E8%AD%A6%E5%A0%B1%E4%BA%86%E5%97%8E%EF%BC%9F"></span>
 
 ## 頭暈、皮膚乾熱——身體拉警報了嗎？
 
@@ -49,6 +55,8 @@ sourceVerbatim: true
 * * *
 
 ![段落插圖：段落3：三種熱傷害比較](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/17b7dd17-f196-4c37-9283-b93f04df3b85/paragraph-seg-4-1782734385274-8cf1f107.jpg)
+
+<span id="%E7%AD%89%E6%95%91%E8%AD%B7%E8%BB%8A%E4%B9%8B%E5%89%8D%EF%BC%8C%E4%BD%A0%E7%8F%BE%E5%9C%A8%E5%B0%B1%E8%83%BD%E5%81%9A%E4%BB%80%E9%BA%BC%EF%BC%9F"></span>
 
 ## 等救護車之前，你現在就能做什麼？
 
@@ -65,6 +73,8 @@ sourceVerbatim: true
 * * *
 
 ![段落插圖：段落4：實際處置與預防行動](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/17b7dd17-f196-4c37-9283-b93f04df3b85/paragraph-seg-5-1782734248984-c00e1fc7.jpg)
+
+<span id="%E9%95%B7%E8%BC%A9%E5%92%8C%E5%B0%8F%E5%AD%A9%E7%89%B9%E5%88%A5%E5%8D%B1%E9%9A%AA%E5%97%8E%EF%BC%9F%E5%93%AA%E4%BA%9B%E7%8B%80%E6%B3%81%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A6%AC%E4%B8%8A%E9%80%81%E9%86%AB%EF%BC%9F"></span>
 
 ## 長輩和小孩特別危險嗎？哪些狀況一定要馬上送醫？
 
@@ -84,6 +94,8 @@ sourceVerbatim: true
 
 ![段落插圖：結論](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/17b7dd17-f196-4c37-9283-b93f04df3b85/paragraph-seg-6-1782734321916-a02ea7dd.jpg)
 
+<span id="%E7%86%B1%E5%82%B7%E5%AE%B3%E4%B8%8D%E6%98%AF%E7%AA%81%E7%84%B6%E7%99%BC%E7%94%9F%E7%9A%84%E2%80%94%E2%80%94%E5%AD%B8%E6%9C%83%E7%B4%B0%E8%AE%80%E8%BA%AB%E9%AB%94%EF%BC%8C%E6%89%8D%E6%98%AF%E6%9C%80%E6%B7%B1%E7%9A%84%E8%87%AA%E6%88%91%E7%85%A7%E8%AD%B7"></span>
+
 ## 熱傷害不是突然發生的——學會細讀身體，才是最深的自我照護
 
 熱傷害不是「突然發生」的意外，而是**身體一路走來都在發出的訊號**。大量出汗、肌肉抽筋、皮膚乾燙——這些不是噪音，是體溫調節系統在說「我快撐不住了」。
@@ -97,6 +109,8 @@ sourceVerbatim: true
 * * *
 
 <table style="width: 100%; border-collapse: collapse; border: 2px solid #1D7A6E; margin: 20px 0;"><thead><tr style="background: #2a9d8f; color: #fff; font-weight: bold;"><th style="border: 2px solid #1D7A6E; padding: 10px;">比較項目</th><th style="border: 2px solid #1D7A6E; padding: 10px;">🟡 熱痙攣 Heat Cramps</th><th style="border: 2px solid #1D7A6E; padding: 10px;">🟠 熱衰竭 Heat Exhaustion</th><th style="border: 2px solid #1D7A6E; padding: 10px;">🔴 中暑 Heat Stroke</th></tr></thead><tbody><tr style="background: #d4e9e2; color: #333;"><td style="border: 2px solid #1D7A6E; padding: 10px;"><b>核心體溫</b></td><td style="border: 2px solid #1D7A6E; padding: 10px;">通常正常（&lt; 37.5°C）</td><td style="border: 2px solid #1D7A6E; padding: 10px;">輕度升高（37°C–40°C）</td><td style="border: 2px solid #1D7A6E; padding: 10px;">嚴重升高（&gt; 40°C）</td></tr><tr style="background: #ffffff; color: #333;"><td style="border: 2px solid #1D7A6E; padding: 10px;"><b>主要症狀</b></td><td style="border: 2px solid #1D7A6E; padding: 10px;">肌肉抽筋（小腿、腹部、手臂）</td><td style="border: 2px solid #1D7A6E; padding: 10px;">大量出汗、頭暈、噁心、疲憊、皮膚蒼白濕冷</td><td style="border: 2px solid #1D7A6E; padding: 10px;">皮膚乾熱、意識混亂、言語不清、抽搐或昏迷</td></tr><tr style="background: #d4e9e2; color: #333;"><td style="border: 2px solid #1D7A6E; padding: 10px;"><b>排汗狀態</b></td><td style="border: 2px solid #1D7A6E; padding: 10px;">大量出汗（電解質流失）</td><td style="border: 2px solid #1D7A6E; padding: 10px;">仍在大量出汗</td><td style="border: 2px solid #1D7A6E; padding: 10px;">停止排汗（散熱機制崩潰）</td></tr><tr style="background: #ffffff; color: #333;"><td style="border: 2px solid #1D7A6E; padding: 10px;"><b>意識狀態</b></td><td style="border: 2px solid #1D7A6E; padding: 10px;">清醒、反應正常</td><td style="border: 2px solid #1D7A6E; padding: 10px;">可能頭暈或短暫昏厥，但大致清醒</td><td style="border: 2px solid #1D7A6E; padding: 10px;">嚴重受損——混亂、昏迷或抽搐</td></tr><tr style="background: #d4e9e2; color: #333;"><td style="border: 2px solid #1D7A6E; padding: 10px;"><b>嚴重程度</b></td><td style="border: 2px solid #1D7A6E; padding: 10px;">⭐（警示階段）</td><td style="border: 2px solid #1D7A6E; padding: 10px;">⭐⭐⭐（須立即處置）</td><td style="border: 2px solid #1D7A6E; padding: 10px;">⭐⭐⭐⭐⭐（緊急送醫）</td></tr><tr style="background: #ffffff; color: #333;"><td style="border: 2px solid #1D7A6E; padding: 10px;"><b>處置方式</b></td><td style="border: 2px solid #1D7A6E; padding: 10px;">移至陰涼處、補充含電解質飲品、緩慢伸展患部</td><td style="border: 2px solid #1D7A6E; padding: 10px;">平躺抬腿、補水補鹽、冷敷降溫，持續觀察</td><td style="border: 2px solid #1D7A6E; padding: 10px;"><b>立即叫救護車</b>，同步冰敷頸部、腋下、鼠蹊</td></tr><tr style="background: #d4e9e2; color: #333;"><td style="border: 2px solid #1D7A6E; padding: 10px;"><b>可否自行恢復</b></td><td style="border: 2px solid #1D7A6E; padding: 10px;">多數可在休息後緩解</td><td style="border: 2px solid #1D7A6E; padding: 10px;">部分可改善，但建議就醫確認</td><td style="border: 2px solid #1D7A6E; padding: 10px;"><b>否——必須送醫，不可等待</b></td></tr></tbody></table>
+
+<span id="FAQ%EF%BC%9A%E9%97%9C%E6%96%BC%E7%86%B1%E5%82%B7%E5%AE%B3%E7%97%87%E7%8B%80%EF%BC%8C%E4%BD%A0%E6%9C%80%E6%83%B3%E5%95%8F%E7%9A%84%E5%95%8F%E9%A1%8C"></span>
 
 ## FAQ：關於熱傷害症狀，你最想問的問題
 
@@ -164,6 +178,8 @@ sourceVerbatim: true
 
 *© 上醫預防醫學發展協會 ｜gcm.org.tw*  
 *未經授權，請勿轉載或作為商業使用。*
+
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB"></span>
 
 ## 參考文獻
 

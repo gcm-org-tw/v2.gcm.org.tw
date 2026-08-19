@@ -37,11 +37,15 @@ sourceVerbatim: true
 
 <iframe loading="lazy" style="border-radius: 12px;" src="https://open.spotify.com/embed/episode/3hUQ5kV1XSpwN51dNwwo8n?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="allowfullscreen" data-testid="embed-iframe"></iframe>
 
+<span id="%E6%96%B0%E8%81%9E%E4%B8%80%E5%87%BA%E7%8F%BE%E3%80%8C%E9%AB%98%E8%87%B4%E6%AD%BB%E7%8E%87%E7%97%85%E6%AF%92%E3%80%8D%EF%BC%8C%E4%BD%A0%E6%98%AF%E4%B8%8D%E6%98%AF%E4%B9%9F%E6%9C%83%E7%B7%8A%E5%BC%B5%EF%BC%9F"></span>
+
 ## **新聞一出現「高致死率病毒」，你是不是也會緊張？**
 
 你有沒有發現，看到「高致死率」四個字，心臟就先跑一步？尤其是**立百病毒**這種「不常聽見、卻很難忽視」的名字，更容易讓人腦內直接開警報：會不會**人傳人**？我懂，那不是你膽小，是大腦在做風險掃描。只是，立百病毒的麻煩常不在「到處都是」，而在「一旦進場，代價很高」：初期症狀像感冒，容易延遲辨識；又缺乏特效藥與核准疫苗。就像廚房裡一鍋湯，火不一定大，但若沒看住，就可能瞬間滾出來燙傷人——真正要練的是「看火候」，而不是天天怕開瓦斯。(註1)
 
 ![](/wp-content/uploads/Nipah-Virus-Human-Transmission8.jpg)
+
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E3%80%8C%E5%8F%B0%E7%81%A3%E6%B2%92%E6%9C%89%E7%97%85%E4%BE%8B%E3%80%8D%E4%B8%8D%E4%B8%80%E5%AE%9A%E7%AD%89%E6%96%BC%E9%9B%B6%E9%A2%A8%E9%9A%AA%EF%BC%9F"></span>
 
 ## **為什麼「台灣沒有病例」不一定等於零風險？**
 
@@ -51,17 +55,23 @@ sourceVerbatim: true
 
 **![](/wp-content/uploads/Nipah-Virus-Human-Transmission7.jpg)**
 
+<span id="%E5%93%AA%E4%BA%9B%E7%94%9F%E6%B4%BB%E6%83%85%E5%A2%83%E4%B8%8B%EF%BC%8C%E7%AB%8B%E7%99%BE%E7%97%85%E6%AF%92%E9%A2%A8%E9%9A%AA%E6%89%8D%E7%9C%9F%E7%9A%84%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%EF%BC%9F"></span>
+
 ## **哪些生活情境下，立百病毒風險才真的需要注意？**
 
 先說重點：**不是每天都要緊張**，但有些情境要把警覺度調高一格。你知道嗎？**立百病毒的風險不是平均分配的**，而是集中在特定「接觸路徑」。像是前往流行地區旅遊、近距離照護病人、處理或接觸可能受污染的動物與生食——這些時刻，風險才會浮出水面。特別是**生食與未經處理的飲品**，就像料理時省略清洗這一步，平時看不見，卻最容易出事。
 
 再來是**照護與醫療接觸**。家人照顧、醫護第一線，若直接接觸患者的體液、分泌物或排泄物，風險會顯著上升。這不是恐嚇，而是行為層面的現實。研究顯示，人與人之間的傳播多發生在**近距離、長時間、無足夠防護**的情境。換個比喻：免疫系統像廚房的防火器，平時用不到；但當油鍋起煙，**有沒有放在手邊、會不會用**，才是差別。(註3)
 
+<span id="%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%98%AF%E7%85%A7%E9%A1%A7%E8%80%85%E6%88%96%E7%AC%AC%E4%B8%80%E7%B7%9A%EF%BC%8C%E5%93%AA%E4%BA%9B%E5%81%9A%E6%B3%95%E6%9C%80%E8%83%BD%E9%99%8D%E4%BD%8E%E9%A2%A8%E9%9A%AA%EF%BC%9F"></span>
+
 ## **如果你是照顧者或第一線，哪些做法最能降低風險？**
 
 最後把焦點收回到你**能做、也做得到**的事。別小看這一點！面對**立百病毒**，最有效的不是多買恐慌，而是把**流程**做好：照護時避免徒手接觸體液、分泌物與排泄物；必要時戴上手套與口罩；出現不明原因發燒合併神經症狀，**提早隔離並回報**。在流行地區，避免生食與未經處理的飲品；返國後留意症狀並主動告知旅遊史。這就像廚房的備餐動線——洗、切、分、收，步驟不花俏，卻最可靠。研究回顧指出，**快速辨識、隔離與標準防護**能顯著降低院內與家庭接觸的傳播風險；相反地，拖延與僥倖才是放大器。(註4)
 
 ![](/wp-content/uploads/Nipah-Virus-Human-Transmission5.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E6%8A%8A%E6%81%90%E6%87%BC%E6%94%BE%E5%9B%9E%E4%BD%8D%E7%BD%AE%EF%BC%8C%E8%A1%8C%E5%8B%95%E8%87%AA%E7%84%B6%E6%9C%83%E8%B5%B0%E5%87%BA%E4%BE%86"></span>
 
 ## **結論：把恐懼放回位置，行動自然會走出來**
 
@@ -77,6 +87,8 @@ sourceVerbatim: true
 **《本文將依據最新提問持續更新》**
 
 <table class="compare-table"><tbody><tr><th>比較面向</th><th>恐慌反應</th><th>情境判斷</th></tr><tr><td><strong>啟動來源</strong></td><td>新聞標題、社群轉傳、致死率數字</td><td>是否有實際相關情境</td></tr><tr><td><strong>第一時間反應</strong></td><td>馬上緊張、擔心擴大</td><td>先停一下，釐清狀況</td></tr><tr><td><strong>關注焦點</strong></td><td>病毒名稱、最壞結果</td><td>接觸史、行為與環境</td></tr><tr><td><strong>判斷依據</strong></td><td>情緒直覺、片段資訊</td><td>情境線索與流程</td></tr><tr><td><strong>行為模式</strong></td><td>過度避免、亂做防護</td><td>該做時做，不該做時放下</td></tr><tr><td><strong>對生活影響</strong></td><td>長期焦慮、疲憊</td><td>心情穩定、行動清楚</td></tr><tr><td><strong>風險控制效果</strong></td><td>看似積極，實際有限</td><td>精準聚焦，效果較佳</td></tr><tr><td><strong>最常見誤區</strong></td><td>以為「越怕越安全」</td><td>誤以為「不用想就好」</td></tr><tr><td><strong>適合使用時機</strong></td><td>幾乎任何時間都啟動</td><td>僅在特定情境啟動</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

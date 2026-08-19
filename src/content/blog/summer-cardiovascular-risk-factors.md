@@ -12,16 +12,22 @@ legacyPath: "/blog/summer-cardiovascular-risk-factors/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80"></span>
+
 ## **引言**
 
 你有沒有發現，講到心血管，大家腦袋第一個畫面幾乎都是「冬天、寒流、血管收縮」？所以一到夏天，反而鬆懈了：胸悶、心悸、頭暈、走一下就喘，常常一句「太熱啦」就算了。問題是，高溫下身體為了散熱會讓循環系統進入高負荷模式——再加上脫水、血壓波動、冷氣房溫差刺激，心臟其實可能比冬天更忙、更累。這篇我想陪你把迷思拆開，直接用「3 個夏季最容易踩到的風險」講清楚：為什麼會發生、哪些人更容易中招、以及你能立刻做的避雷方法。
 
 ![](/wp-content/uploads/Summer-Cardiovascular-Risk-Factors2-1024x649.jpg)
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E5%A4%A7%E5%AE%B6%E4%BB%A5%E7%82%BA%E5%86%AC%E5%A4%A9%E6%89%8D%E5%8D%B1%E9%9A%AA%EF%BC%9F%E9%80%99%E5%80%8B%E8%BF%B7%E6%80%9D%E6%80%8E%E9%BA%BC%E4%BE%86%E7%9A%84"></span>
+
 ## **為什麼大家以為冬天才危險？這個迷思怎麼來的**
 
 「冬天血管收縮、血壓上升」這件事大家記得很牢，久了就變成一種直覺：**心血管只要冬天注意就好**。但夏天的陷阱在於——你會把很多不舒服都歸類成「太熱」。胸悶、心悸、頭暈、走一下就喘，明明是身體在提醒「循環負荷正在變大」，你卻更容易硬撐。  
 近年的整理型研究指出，高溫（包含熱浪）與心血管疾病的死亡與就醫（morbidity）之間有一致的流行病學關聯；而「哪些人更脆弱」也相對明確：熟齡、慢性病、以及高風險暴露族群通常更吃虧。(註1)(註2)
+
+<span id="%E9%AB%98%E6%BA%AB%E5%BF%83%E8%A1%80%E7%AE%A1%E9%A2%A8%E9%9A%AA_1%EF%BC%9A%E8%84%AB%E6%B0%B4%E8%AE%93%E8%A1%80%E8%AE%8A%E6%BF%83%EF%BC%8C%E5%BF%83%E8%87%9F%E8%A2%AB%E8%BF%AB%E5%8A%A0%E7%8F%AD"></span>
 
 ## **高溫心血管風險 1：脫水讓血變濃，心臟被迫加班**
 
@@ -32,6 +38,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Summer-Cardiovascular-Risk-Factors3-1024x707.jpg)
 
+<span id="%E9%AB%98%E6%BA%AB%E5%BF%83%E8%A1%80%E7%AE%A1%E9%A2%A8%E9%9A%AA_2%EF%BC%9A%E8%A1%80%E5%A3%93%E6%B3%A2%E5%8B%95%EF%BC%8B%E7%94%A8%E8%97%A5%E5%BD%B1%E9%9F%BF%EF%BC%8C%E8%AE%93%E4%BD%A0%E6%9B%B4%E5%AE%B9%E6%98%93%E9%A0%AD%E6%9A%88%E8%83%B8%E6%82%B6"></span>
+
 ## **高溫心血管風險 2：血壓波動＋用藥影響，讓你更容易頭暈胸悶**
 
 你有沒有遇過：夏天站起來那一下突然眼前發黑、頭暈、甚至心跳亂一下？這常見的原因之一，是高溫下身體為了散熱會擴張皮膚血管、改變血流分配，血壓可能出現波動。更麻煩的是——如果你正在用**降壓藥、利尿劑**，或本來就血壓不穩，夏天的「體液改變＋血管調節」會讓你更容易出現不舒服。  
@@ -40,6 +48,8 @@ sourceVerbatim: true
 這裡我只給你一個很實用的底線：**不要自行停藥或亂調藥**。你該做的是：熱天把血壓量得更勤（尤其是起床後、外出前後）、把「頭暈心悸胸悶」記下來，然後帶著紀錄跟醫師討論是否需要調整。
 
 ![](/wp-content/uploads/Summer-Cardiovascular-Risk-Factors4-1024x638.jpg)
+
+<span id="%E9%AB%98%E6%BA%AB%E5%BF%83%E8%A1%80%E7%AE%A1%E9%A2%A8%E9%9A%AA_3%EF%BC%9A%E5%86%B7%E6%B0%A3%E6%88%BF%E9%80%B2%E5%87%BA%E6%BA%AB%E5%B7%AE%E5%A4%A7%EF%BC%8C%E5%83%8F%E5%9C%A8%E5%81%9A%E3%80%8C%E8%A1%80%E7%AE%A1%E6%80%A5%E8%BD%89%E5%BD%8E%E3%80%8D"></span>
 
 ## **高溫心血管風險 3：冷氣房進出溫差大，像在做「血管急轉彎」**
 
@@ -51,6 +61,8 @@ sourceVerbatim: true
 -   冷氣別一下開到極低
 -   回家先擦乾汗、坐 1–2 分鐘再降溫
 -   室內外移動前先在陰影處緩衝一下
+
+<span id="%E7%B5%90%E8%AB%96"></span>
 
 ## **結論**
 
@@ -69,6 +81,8 @@ sourceVerbatim: true
 一句話口訣：熱到不對勁先降溫；胸悶喘＋冷汗＋快昏倒，直接叫車別硬撐。
 
 ![](/wp-content/uploads/Summer-Cardiovascular-Risk-Factors6.jpg)
+
+<span id="FAQ%EF%BC%88%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86%EF%BC%89"></span>
 
 ## **FAQ****（常見問題與回覆）**
 

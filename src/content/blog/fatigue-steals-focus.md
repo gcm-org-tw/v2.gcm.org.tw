@@ -15,6 +15,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" style="border-radius: 12px;" src="https://open.spotify.com/embed/episode/63Jf47uIfljFyRbvJDUNA2?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="allowfullscreen" data-testid="embed-iframe"></iframe>
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E6%98%8E%E6%98%8E%E6%9C%89%E7%9D%A1%EF%BC%8C%E9%82%84%E6%98%AF%E4%B8%80%E7%9B%B4%E7%B4%AF%EF%BC%9F%E6%98%AF%E4%B8%8D%E6%98%AF%E9%81%8E%E5%8B%9E%E4%BA%86%EF%BC%9F"></span>
+
 ## **為什麼明明有睡，還是一直累？是不是過勞了？**
 
 你有過這種感覺嗎？  
@@ -42,6 +44,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Fatigue-Steals-Focus2.jpg)
 
+<span id="%E3%80%8C%E8%83%BD%E7%AC%91%E8%83%BD%E4%B8%8A%E7%8F%AD%E3%80%8D%E7%9A%84%E4%BA%BA%EF%BC%8C%E4%B9%9F%E5%8F%AF%E8%83%BD%E9%81%8E%E5%8B%9E%E5%97%8E%EF%BC%9F"></span>
+
 ## **「能笑能上班」的人，也可能過勞嗎？**
 
 「你媽哪裡像過勞？她還能笑、還能煮飯，哪像有事？」
@@ -66,6 +70,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Fatigue-Steals-Focus3.jpg)
 
+<span id="%E5%93%AA%E4%BA%9B%E8%BA%AB%E5%BF%83%E8%AE%8A%E5%8C%96%E6%98%AF%E5%9C%A8%E6%8F%90%E9%86%92%E4%BD%A0%EF%BC%9A%E3%80%8C%E9%80%99%E4%B8%8D%E5%8F%AA%E6%98%AF%E7%B4%AF%E3%80%8D%EF%BC%9F"></span>
+
 ## **哪些身心變化是在提醒你：「這不只是累」？**
 
 「我只是累啦，不用大驚小怪。」
@@ -81,6 +87,8 @@ sourceVerbatim: true
 這並非情緒化的反應，而是有科學根據的生理變化。2020 年發表於《PLoS One》的大規模研究指出，長期工時與壓力會讓交感神經持續活躍，導致心率變異性（HRV）下降，也會讓身體處於慢性發炎狀態。你以為的「小毛病」，可能正是身體在不斷消耗保命的底線【註4】。
 
 真正可怕的過勞，往往不會讓你倒下，而是讓你一點一滴，慢慢失去自己。
+
+<span id="%E4%B8%8D%E6%83%B3%E8%AE%8A%E6%88%90%E5%8F%AA%E6%9C%83%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%A9%9F%E5%99%A8%EF%BC%8C%E6%88%91%E5%80%91%E8%A9%B2%E6%80%8E%E9%BA%BC%E5%81%9A%EF%BC%9F"></span>
 
 ## **不想變成只會工作的機器，我們該怎麼做？**
 
@@ -103,6 +111,8 @@ sourceVerbatim: true
 這不是奢侈的生活，而是讓你重新成為一個「有情緒、有感覺、有餘裕去愛人」的人。
 
 ![](/wp-content/uploads/Fatigue-Steals-Focus5.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E5%BE%9E%E7%96%B2%E6%86%8A%E4%B8%AD%E7%B7%A9%E7%B7%A9%E9%86%92%E4%BE%86"></span>
 
 ## **結論：從疲憊中緩緩醒來**
 
@@ -147,22 +157,32 @@ sourceVerbatim: true
 
 <table style="border-collapse: collapse; width: 100%; border: 3px solid #264d4d; font-family: sans-serif;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="border: 3px solid #264d4d; padding: 12px;">指標類別</th><th style="border: 3px solid #264d4d; padding: 12px;">普通疲勞（可恢復型）</th><th style="border: 3px solid #264d4d; padding: 12px;">過勞型疲憊（慢性耗損型）</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #264d4d; padding: 12px;">睡眠後精神狀態</td><td style="border: 3px solid #264d4d; padding: 12px;">睡一晚或休息後可明顯改善</td><td style="border: 3px solid #264d4d; padding: 12px;">即使睡滿也覺得累，醒來如同沒睡</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #264d4d; padding: 12px;">情緒狀態</td><td style="border: 3px solid #264d4d; padding: 12px;">偶爾煩躁但能自我調整</td><td style="border: 3px solid #264d4d; padding: 12px;">長期低落、麻木、易怒，對喜歡的事也無感</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #264d4d; padding: 12px;">認知功能</td><td style="border: 3px solid #264d4d; padding: 12px;">可專注、有時分心</td><td style="border: 3px solid #264d4d; padding: 12px;">常腦霧、記憶力下降、注意力難集中</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #264d4d; padding: 12px;">身體症狀</td><td style="border: 3px solid #264d4d; padding: 12px;">疲倦、短暫肩頸痠痛</td><td style="border: 3px solid #264d4d; padding: 12px;">肩頸長期僵硬、頭痛、腸胃不適、月經紊亂</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #264d4d; padding: 12px;">回復速度</td><td style="border: 3px solid #264d4d; padding: 12px;">週末休息後能明顯好轉</td><td style="border: 3px solid #264d4d; padding: 12px;">長假後依然疲憊，甚至狀況更差</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #264d4d; padding: 12px;">工作狀態</td><td style="border: 3px solid #264d4d; padding: 12px;">可持續完成工作，偶爾抱怨</td><td style="border: 3px solid #264d4d; padding: 12px;">強迫運轉，常出錯或對事情漠不關心</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #264d4d; padding: 12px;">睡眠品質</td><td style="border: 3px solid #264d4d; padding: 12px;">偶爾淺眠，多數時候能熟睡</td><td style="border: 3px solid #264d4d; padding: 12px;">淺眠、多夢、易醒，醒來仍疲憊</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #264d4d; padding: 12px;">生理機轉</td><td style="border: 3px solid #264d4d; padding: 12px;">壓力荷爾蒙日夜節律正常</td><td style="border: 3px solid #264d4d; padding: 12px;">皮質醇節律混亂、自律神經長期緊繃、HRV下降</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #264d4d; padding: 12px;">社交互動</td><td style="border: 3px solid #264d4d; padding: 12px;">仍能參與聚會或與人互動</td><td style="border: 3px solid #264d4d; padding: 12px;">不想講話、與人疏遠，習慣戴上「功能性微笑面具」</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #264d4d; padding: 12px;">建議對策</td><td style="border: 3px solid #264d4d; padding: 12px;">短期休息、飲食調整、補眠</td><td style="border: 3px solid #264d4d; padding: 12px;">建立修復作息、呼吸訓練、飲食節律、身心介入並行</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E6%88%91%E6%AF%8F%E5%A4%A9%E9%83%BD%E7%9D%A1%E6%BB%BF8%E5%B0%8F%E6%99%82%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E9%82%84%E6%98%AF%E8%A6%BA%E5%BE%97%E7%B4%AF%EF%BC%9F"></span>
 
 ### **問題1****：我每天都睡滿8****小時，為什麼還是覺得累？**
 
 **回覆：**  
 這種情況可能與「過勞型疲憊」有關，並非單純睡眠不足，而是你的神經系統與壓力賀爾蒙已經長期失調。當交感神經處於長時間興奮狀態時，即使你有睡，身體也無法進入深層恢復期。建議建立固定作息、早上接觸自然光、睡前進行呼吸放鬆練習，有助於重啟身體的節律循環。
 
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E6%80%8E%E9%BA%BC%E5%88%86%E8%BE%A8%E6%98%AF%E3%80%8C%E4%B8%80%E8%88%AC%E7%96%B2%E5%8B%9E%E3%80%8D%E9%82%84%E6%98%AF%E3%80%8C%E9%81%8E%E5%8B%9E%E3%80%8D%EF%BC%9F"></span>
+
 ### **問題2****：怎麼分辨是「一般疲勞」還是「過勞」？**
 
 **回覆：**  
 一般疲勞多數能透過短暫休息、睡眠或放假改善，但過勞會持續存在，伴隨情緒低落、記憶力衰退、專注力下降，甚至對原本喜歡的事失去興趣。《黃帝內經》云：「久視傷血，久坐傷肉，久臥傷氣，久立傷骨，久行傷筋。」過度單一型態的勞動都會耗損五臟，若累感超過7天以上且無法恢復，建議開始檢視生活節奏與身心狀態。
 
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E9%81%8E%E5%8B%9E%E6%9C%83%E5%B0%8D%E8%BA%AB%E9%AB%94%E9%80%A0%E6%88%90%E4%BB%80%E9%BA%BC%E9%95%B7%E6%9C%9F%E5%BD%B1%E9%9F%BF%EF%BC%9F"></span>
+
 ### **問題3****：過勞會對身體造成什麼長期影響？**
 
 **回覆：**  
 長期過勞不只是疲倦而已，還可能導致內分泌紊亂、心血管疾病、腦霧與免疫力下降。科學研究也發現，過勞者的皮質醇節律會打亂，進而影響睡眠與認知功能，甚至與海馬迴萎縮有關聯。中醫認為「思傷脾、憂傷肺、勞傷心」，若心神長期失養，則氣血失調、五臟俱損。
+
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E5%85%B7%E9%AB%94%E6%96%B9%E6%B3%95%E5%8F%AF%E4%BB%A5%E5%B9%AB%E5%8A%A9%E6%88%91%E5%BE%9E%E9%81%8E%E5%8B%9E%E6%81%A2%E5%BE%A9%EF%BC%9F"></span>
 
 ### **問題4****：有哪些具體方法可以幫助我從過勞恢復？**
 
@@ -172,6 +192,8 @@ sourceVerbatim: true
 1.  **呼吸與睡眠**：每天睡前練習「5-5-5呼吸法」，幫助副交感神經啟動，穩定心律。
 2.  **晚餐節律飲食**：遵守「三分蛋白、三分蔬菜、三分全穀、一分好油」的原則，降低身體夜間負擔。
 3.  **早晨光照**：起床後5分鐘內接觸自然光，有助於重新建立褪黑激素與皮質醇節律。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E8%BA%AB%E9%82%8A%E7%9A%84%E4%BA%BA%E7%B8%BD%E6%98%AF%E8%AA%AA%E6%88%91%E3%80%8C%E6%83%B3%E5%A4%AA%E5%A4%9A%E3%80%8D%EF%BC%8C%E4%BD%86%E6%88%91%E7%9C%9F%E7%9A%84%E8%A6%BA%E5%BE%97%E8%87%AA%E5%B7%B1%E5%BF%AB%E6%92%90%E4%B8%8D%E4%BD%8F%E4%BA%86%EF%BC%8C%E6%88%91%E8%A9%B2%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F"></span>
 
 ### **問題5****：身邊的人總是說我「想太多」，但我真的覺得自己快撐不住了，我該怎麼辦？**
 

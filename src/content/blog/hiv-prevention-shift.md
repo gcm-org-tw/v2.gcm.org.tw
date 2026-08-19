@@ -22,6 +22,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="愛滋防治進入新時代：醫師如何翻轉傳統策略？ HIV Prevention Shift" width="800" height="450" src="https://www.youtube.com/embed/GDhPOnP75Nc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E3%80%8C%E9%A0%90%E9%98%B2%E3%80%8D%E6%AF%94%E3%80%8C%E6%B2%BB%E7%99%82%E3%80%8D%E6%9B%B4%E9%9C%80%E8%A6%81%E8%A2%AB%E7%9C%8B%E8%A6%8B%EF%BC%9F"></span>
+
 ## **為什麼「預防」比「治療」更需要被看見？**
 
 你曾經感覺自己好像「沒什麼症狀」，卻又隱隱不安嗎？很多人直到出現明顯不適，才意識到愛滋的可能性。可惜，那時候，已經不是「預防」，而是「處理」了。
@@ -31,6 +33,8 @@ sourceVerbatim: true
 但也別忘了，藥不是萬靈丹。PrEP 須搭配醫師評估、定期篩檢與正確服藥習慣，否則可能出現腸胃不適、腎功能波動等副作用。就像一帖湯藥，再好，也需對症、對人、對時服用，才能發揮最大效益。
 
 《黃帝內經》早有言：「上工治未病。」在病毒發作前就先守好防線，是一種智慧；而這份智慧，不該只屬於白袍醫者，更該是你我日常的一部份。
+
+<span id="PrEP_%E5%92%8C%E5%BF%AB%E7%AF%A9%EF%BC%8C%E7%9C%9F%E7%9A%84%E8%83%BD%E8%AE%93%E4%BA%BA%E6%9B%B4%E5%AE%89%E5%BF%83%E5%97%8E%EF%BC%9F"></span>
 
 ## **PrEP** **和快篩，真的能讓人更安心嗎？**
 
@@ -44,6 +48,8 @@ PrEP（暴露前預防性投藥）與愛滋快篩，宛如一把鑰匙與一扇�
 
 ![](/wp-content/uploads/HIV-Prevention-Shift2.jpg)
 
+<span id="%E6%84%9F%E6%9F%93%E8%80%85%E9%81%8E%E5%BE%97%E5%A5%BD%EF%BC%8C%E7%A4%BE%E6%9C%83%E6%89%8D%E8%83%BD%E6%9B%B4%E5%81%A5%E5%BA%B7%EF%BC%9F"></span>
+
 ## **感染者過得好，社會才能更健康？**
 
 你有沒有想過，當一個感染者活得穩定、自在，其實整個社會也會更安心？
@@ -53,6 +59,8 @@ PrEP（暴露前預防性投藥）與愛滋快篩，宛如一把鑰匙與一扇�
 但問題來了——藥物雖強，生活更難。很多感染者會面臨精神壓力、營養攝取不均、社會排斥等挑戰，這些都是影響健康管理的「隱性病毒」。有些人因為害怕被發現，而不敢回診；有些人明明服藥穩定，卻因社會眼光，陷入自我否定。
 
 這時候，家庭與社群的角色就像一碗加了枸杞與紅棗的湯——溫補身體，也暖進心裡。良好的支持系統，不只讓感染者「活下來」，而是真正「活出來」。
+
+<span id="%E9%86%AB%E5%B8%AB%E8%83%BD%E5%81%9A%E7%9A%84%EF%BC%8C%E9%81%A0%E6%AF%94%E4%BD%A0%E6%83%B3%E5%BE%97%E5%A4%9A%EF%BC%9F"></span>
 
 ## **醫師能做的，遠比你想得多？**
 
@@ -65,6 +73,8 @@ PrEP（暴露前預防性投藥）與愛滋快篩，宛如一把鑰匙與一扇�
 就像煎藥時要用慢火，醫師的力量不只是瞬間的「治」，而是長期持續的「陪」，讓每一位身處邊緣的人，都知道自己並不孤單。
 
 ![](/wp-content/uploads/HIV-Prevention-Shift3.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E5%BE%9E%E4%B8%80%E5%8F%A5%E5%BF%AB%E7%AF%A9%E9%96%8B%E5%A7%8B%EF%BC%8C%E7%A8%AE%E4%B8%8B%E6%95%B4%E5%80%8B%E7%A4%BE%E5%8D%80%E7%9A%84%E5%85%8D%E7%96%AB%E5%8A%9B"></span>
 
 ## **結論：從一句快篩開始，種下整個社區的免疫力**
 
@@ -83,6 +93,8 @@ PrEP（暴露前預防性投藥）與愛滋快篩，宛如一把鑰匙與一扇�
 📌《本文將依據最新提問持續更新》
 
 <table><tbody><tr><th>項目</th><th>傳統治療模式</th><th>新型預防導向</th></tr><tr><td>醫師角色</td><td>疾病發作後介入，專注於病毒控制</td><td>守門人＋陪伴者＋社區橋接者</td></tr><tr><td>病人參與起點</td><td>發現症狀後才就醫</td><td>自主快篩、主動了解 PrEP</td></tr><tr><td>採取行動的時間點</td><td>病毒進入體內、免疫下降後</td><td>病毒進入前，或尚未造成損傷前</td></tr><tr><td>社會氛圍</td><td>害怕標籤與歧視，傾向隱匿</td><td>鼓勵討論與檢查，提升知識與自尊</td></tr><tr><td>常見工具</td><td>抗病毒藥物（ART）</td><td>PrEP、快篩、U=U、公衛介入</td></tr><tr><td>結果影響</td><td>延緩病情惡化，避免併發症</td><td>減少傳染源、強化社區整體免疫力</td></tr></tbody></table>
+
+<span id="%F0%9F%93%98_%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86_FAQ"></span>
 
 ## **📘** **常見問題與回覆 FAQ**
 

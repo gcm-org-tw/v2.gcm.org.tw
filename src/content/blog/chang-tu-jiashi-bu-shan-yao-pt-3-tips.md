@@ -19,6 +19,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/chang-tu-jiashi-bu-shan-yao-pt-3-tips.jpg)
 
+<span id="%E8%AA%BF%E6%95%B4%E5%9D%90%E5%A7%BF%EF%BC%9A%E6%A4%8E%E9%96%93%E7%9B%A4%E4%B8%8D%E5%86%8D%E5%A3%93%E5%8A%9B%E5%A4%A7"></span>
+
 ## **調整坐姿：椎間盤不再壓力大**
 
 你知道嗎？只要坐得不對，就算只是開30分鐘，也可能讓腰椎長時間處在「高壓力」狀態，久了就會出問題。
@@ -33,6 +35,8 @@ sourceVerbatim: true
 這樣的坐姿可以分散脊椎壓力、避免椎間盤受壓突出，也讓**腰部肌肉不需長時間用力撐著身體**，達到放鬆與穩定的雙重效果。
 
 ✅ **治療師小叮嚀**：脊椎最怕的是「維持錯的姿勢太久」，不是姿勢「瞬間錯一下」。所以調整好坐姿，是預防閃腰的第一步。
+
+<span id="%E5%AE%9A%E6%99%82%E4%BC%91%E6%81%AF%E5%8B%95%E4%B8%80%E5%8B%95%EF%BC%9A%E6%8B%89%E4%B8%80%E6%8B%89%E4%B8%8D%E9%96%83%E8%85%B0"></span>
 
 ## **定時休息動一動：拉一拉不閃腰**
 
@@ -50,6 +54,8 @@ sourceVerbatim: true
 這些動作能減少長時間靜態負荷對肌肉與椎間盤的累積壓力，維持腰背肌群的活性，從而**大幅降低閃到腰風險**。
 
 ✅ **提醒你**：腰痛不是一下就閃到，是一點一滴累積而來，記得動一動，是你最簡單的預防方式！
+
+<span id="%E5%96%84%E7%94%A8%E8%BC%94%E5%8A%A9%E5%B7%A5%E5%85%B7%EF%BC%9A%E8%85%B0%E6%A4%8E%E6%94%AF%E6%92%90%E6%9B%B4%E5%AE%89%E5%BF%83"></span>
 
 ## **善用輔助工具：腰椎支撐更安心**
 
@@ -78,6 +84,8 @@ sourceVerbatim: true
 每週練習2～3次，就能有效提升腰部穩定性，減少駕駛或搬重物時「閃一下」的機率。
 
 <table style="border-collapse: collapse; width: 100%; font-family: system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial;" border="1" cellspacing="0" cellpadding="8"><thead style="background: #f6f7f9;"><tr><th style="text-align: left; width: 18%;">主題</th><th style="text-align: left; width: 47%;">重點做法</th><th style="text-align: left; width: 35%;">治療師小叮嚀 / 提醒</th></tr></thead><tbody><tr><td><strong>1. 調整坐姿</strong><br>讓椎間盤不再高壓</td><td><ul style="margin: 0 0 0 18px; padding: 0;"><li>椅背後傾 <strong>100–110°</strong>，避免前傾駝背。</li><li>臀部坐滿、下背貼椅背，維持自然曲線。</li><li>膝蓋略低於髖關節，腳能輕鬆踩踏板。</li><li>雙手 9 點與 3 點位置，肩頸放鬆。</li></ul><div style="margin-top: 6px; color: #444;">→ 分散脊椎壓力，避免椎間盤突出；減少腰部肌肉長時間用力。</div></td><td><strong>要點：</strong>脊椎最怕「錯的姿勢維持太久」，不是「瞬間錯一下」。<br>先把坐姿調對，是預防閃腰的第一步。</td></tr><tr><td><strong>2. 定時休息動一動</strong><br>拉一拉不閃腰</td><td><ul style="margin: 0 0 0 18px; padding: 0;"><li>每 <strong>60–90 分鐘</strong>休息 5–10 分鐘。</li><li>下車做伸展：腰部、膝蓋、髖關節。</li><li>建議動作：<ul style="margin: 6px 0 0 18px; padding: 0;"><li>軀幹轉體伸展（維持脊椎活動度）。</li><li>伸懶腰（舒緩張力、分散腰椎壓力）。</li><li>原地抬膝踏步（促進循環）。</li></ul></li></ul><div style="margin-top: 6px; color: #444;">→ 降低靜態負荷累積，維持腰背肌群活性。</div></td><td><strong>提醒：</strong>腰痛多半是累積而來；久坐後立刻彎腰搬物，閃腰機率飆升。記得「定時動一動」。</td></tr><tr><td><strong>3. 善用輔助工具</strong><br>腰椎支撐更安心</td><td><ul style="margin: 0 0 0 18px; padding: 0;"><li>腰靠／腰部支撐墊：填補腰後空隙，維持生理曲線。</li><li>小毛巾捲成圓柱：無腰靠時的替代方案。</li><li>頭枕調到與頭部平齊：減少頸椎壓力、避免聳肩。</li></ul><div style="margin-top: 6px; color: #444;">→ 降低代償用力，維持骨盆與脊椎穩定，提升長途駕駛舒適度與安全性。</div></td><td><strong>貼心建議：</strong>避免用太硬或太厚的墊子，免得腰部過度拱起、反而不適。</td></tr><tr><td><strong>日常保養</strong><br>強化核心更不怕</td><td><ul style="margin: 0 0 0 18px; padding: 0;"><li>橋式（Glute Bridge）</li><li>平板支撐（Plank）</li><li>死蟲式（Dead Bug）</li></ul><div style="margin-top: 6px; color: #444;">每週 2–3 次，提升腰部穩定性，降低駕駛與搬重物時「閃一下」風險。</div></td><td><strong>執行訣竅：</strong>動作慢、穩、對位準；先重質再重量與次數。</td></tr></tbody></table>
+
+<span id="%E8%AD%B7%E8%85%B0%E4%B8%8D%E8%83%BD%E7%AD%89%E7%97%9B%E6%89%8D%E9%96%8B%E5%A7%8B"></span>
 
 ## **護腰不能等痛才開始**
 

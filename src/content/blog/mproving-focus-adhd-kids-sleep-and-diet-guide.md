@@ -16,6 +16,8 @@ sourceVerbatim: true
 
 對於許多家長來說，看到孩子因為過動症而無法集中注意力、情緒不穩定，內心充滿無奈和擔憂。每一位家長都希望自己的孩子能夠健康快樂地成長，更希望他們能建立起自信、專注地面對生活中的挑戰。我們能否幫助孩子擁有更穩定的專注力，並逐步提升自信心？在本篇文章中，我們將從最貼近生活的兩個方面——睡眠和飲食調整出發，探索如何幫助過動症孩童逐步改善情緒，提升專注力，讓他們在成長的道路上擁有更多的穩定與自信。
 
+<span id="%E7%9D%A1%E7%9C%A0%E8%AA%BF%E6%95%B4%EF%BC%9A%E9%81%8E%E5%8B%95%E7%97%87%E5%AD%A9%E7%AB%A5%E7%9A%84%E5%81%A5%E5%BA%B7%E5%9F%BA%E7%9F%B3"></span>
+
 ## **睡眠調整：過動症孩童的健康基石**
 
 睡眠不足會對過動症孩童的情緒和行為產生深遠的影響。您是否曾發現，當孩子睡眠不佳時，不僅更易煩躁，注意力也顯得更加分散？科學研究指出，良好的睡眠習慣是促進過動症孩童專注力的核心基石。正如《黃帝內經》所述，「陰陽調和者，精神乃安」(註1)，睡眠的質量直接影響身心的平衡，而對於過動症孩童，這一點尤為重要。缺乏睡眠可能導致情緒不穩，學習效率下降，甚至加劇過動症的症狀。
@@ -30,6 +32,8 @@ sourceVerbatim: true
 
 2.《神農本草經卷二•上品》：酸棗仁，味甘，微寒。無毒。主安精神，定魂魄，除邪氣，安心益氣。
 
+<span id="%E9%A3%B2%E9%A3%9F%E8%88%87%E5%B0%88%E6%B3%A8%E5%8A%9B%EF%BC%9A%E9%81%8E%E5%8B%95%E7%97%87%E5%AD%A9%E7%AB%A5%E7%9A%84%E6%97%A5%E5%B8%B8%E7%87%9F%E9%A4%8A"></span>
+
 ## **飲食與專注力：過動症孩童的日常營養**
 
 在過動症孩童的日常生活中，飲食的調整同樣是提升專注力的重要途徑。您是否想過，某些常見的食材可能具有穩定情緒、促進專注的功效？科學研究顯示，Omega-3脂肪酸、蛋白質、鎂和維生素B6等營養素，對於過動症孩童的神經健康有著顯著的幫助。Omega-3脂肪酸尤其被證明能夠改善專注力和情緒穩定，因為其具抗炎效果並能促進神經細胞的健康(註1)。
@@ -42,6 +46,8 @@ sourceVerbatim: true
 
 1.  Chang, J. P., Su, K. P., Mondelli, V., & Pariante, C. M. (2018). Omega-3 polyunsaturated fatty acids in youth with attention deficit hyperactivity disorder (ADHD): A systematic review and meta-analysis of clinical trials and biological studies. Neuropsychopharmacology, 43(3), 534-545.
 2.  Nigg, J. T., Lewis, K., Edinger, T., & Falk, M. (2012). Meta-analysis of attention-deficit/hyperactivity disorder or attention-deficit/hyperactivity disorder symptoms, restriction diet, and artificial food color exclusions. Journal of the American Academy of Child and Adolescent Psychiatry, 51(1), 86-97.
+
+<span id="%E6%8C%81%E7%BA%8C%E6%94%AF%E6%8C%81%EF%BC%9A%E5%BB%BA%E7%AB%8B%E8%89%AF%E5%A5%BD%E7%BF%92%E6%85%A3%E7%9A%84%E5%AE%B6%E5%BA%AD%E7%AD%96%E7%95%A5"></span>
 
 ## **持續支持：建立良好習慣的家庭策略**
 
@@ -69,27 +75,41 @@ sourceVerbatim: true
 1.  Barkley, R. A., & Fischer, M. (2010). The unique contribution of emotional impulsiveness to impairment in major life activities in hyperactive children as adults. Journal of the American Academy of Child and Adolescent Psychiatry, 49(5), 503-513.
 2.  《黃帝內經•素問•舉痛論》：精神內守，病安從來？
 
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E8%88%87%E5%AD%A9%E5%AD%90%E4%B8%A6%E8%82%A9%E6%88%90%E9%95%B7%EF%BC%8C%E5%85%B1%E7%AF%89%E5%B0%88%E6%B3%A8%E8%88%87%E8%87%AA%E4%BF%A1%E7%9A%84%E6%9C%AA%E4%BE%86"></span>
+
 ## **結論：與孩子並肩成長，共築專注與自信的未來**
 
 每位家長都希望自己的孩子能專注且充滿自信地面對人生的每一步。這條成長的路上或許充滿挑戰，但正是您的陪伴和支持，為孩子築起了穩固的基石。透過調整日常生活中的小細節，無論是改善睡眠還是優化飲食，您都能看到孩子一點一滴的變化與成長。別忘了，您的每一份努力都將在孩子心中留下深刻的印記，讓他們更有信心、更專注地前行。讓我們一起並肩前行，成為孩子最強大的支持，為他們共築出充滿自信和專注的未來，迎接生命中的每一個挑戰。
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A%E5%A6%82%E4%BD%95%E5%B9%AB%E5%8A%A9%E9%81%8E%E5%8B%95%E7%97%87%E5%AD%A9%E7%AB%A5%E5%BB%BA%E7%AB%8B%E8%89%AF%E5%A5%BD%E7%9A%84%E7%9D%A1%E7%9C%A0%E7%BF%92%E6%85%A3%EF%BC%9F"></span>
 
 ### **問題 1****：如何幫助過動症孩童建立良好的睡眠習慣？**
 
 **回覆**：幫助過動症孩童建立睡眠習慣，家長可以從固定的作息開始，每天在相同時間就寢和起床，幫助孩子調整生理時鐘。睡前一小時避免接觸電子產品，以減少藍光對大腦的刺激。此外，您可以選擇含有酸棗仁或蓮子等安神的天然飲品作為輔助，幫助孩子更放鬆。根據《黃帝內經》的理論，「陰平陽秘，精神乃治」，良好的睡眠能幫助身心達到平衡，促進專注力的提升。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E9%A3%9F%E7%89%A9%E6%9C%89%E5%8A%A9%E6%96%BC%E6%8F%90%E5%8D%87%E9%81%8E%E5%8B%95%E7%97%87%E5%AD%A9%E7%AB%A5%E7%9A%84%E5%B0%88%E6%B3%A8%E5%8A%9B%EF%BC%9F"></span>
+
 ### **問題 2****：有哪些食物有助於提升過動症孩童的專注力？**
 
 **回覆**：一些含有Omega-3脂肪酸的食物，如深海魚、亞麻籽和核桃，對過動症孩童的專注力有積極作用，因為Omega-3可促進神經發育。富含鎂和維生素B6的食物，如綠葉蔬菜、全穀類和堅果類，也有助於穩定情緒、改善專注力。避免高糖、高加工食品，這些可能引起血糖波動和情緒起伏。這些食材不僅營養豐富，且易於日常攝取，適合作為家庭餐桌上的常備食物。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E5%AE%B6%E9%95%B7%E6%87%89%E5%A6%82%E4%BD%95%E5%B9%AB%E5%8A%A9%E9%81%8E%E5%8B%95%E7%97%87%E5%AD%A9%E7%AB%A5%E5%BB%BA%E7%AB%8B%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E7%9A%84%E8%A6%8F%E5%BE%8B%EF%BC%9F"></span>
 
 ### **問題 3****：家長應如何幫助過動症孩童建立日常生活的規律？**
 
 **回覆**：幫助孩子建立規律的生活，家長可以從設定小目標開始，讓孩子逐步適應每日的小任務。每天固定的起床和睡覺時間、適當的運動、以及有序的學習計劃，都能使孩子逐漸形成穩定的生活節奏。運動有助於釋放多餘的能量，增強身體協調能力，同時也能緩解壓力。這些日常習慣如同一顆顆穩定的基石，讓孩子在生活中找到安全感，更容易專注於學習和日常活動。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A%E5%AE%B6%E9%95%B7%E5%8F%AF%E4%BB%A5%E6%80%8E%E6%A8%A3%E5%A2%9E%E5%BC%B7%E9%81%8E%E5%8B%95%E7%97%87%E5%AD%A9%E7%AB%A5%E7%9A%84%E8%87%AA%E4%BF%A1%E5%BF%83%EF%BC%9F"></span>
+
 ### **問題 4****：家長可以怎樣增強過動症孩童的自信心？**
 
 **回覆**：增強過動症孩童的自信心，家長可以多給予正向回饋，並引導孩子參與能夠發揮他們特長的活動，例如運動、藝術或團隊合作的遊戲。設定適合的挑戰，讓孩子在克服困難後逐步建立自信，並從小成功中獲得成就感。家長的鼓勵與肯定，能讓孩子感到被理解和支持，使他們在面對生活的挑戰時更有勇氣。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9A%E9%A3%B2%E9%A3%9F%E5%92%8C%E7%9D%A1%E7%9C%A0%E6%94%B9%E5%96%84%E5%BE%8C%EF%BC%8C%E5%A4%9A%E4%B9%85%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E5%B0%88%E6%B3%A8%E5%8A%9B%E7%9A%84%E8%AE%8A%E5%8C%96%EF%BC%9F"></span>
 
 ### **問題 5****：飲食和睡眠改善後，多久可以看到專注力的變化？**
 

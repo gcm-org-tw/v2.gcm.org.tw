@@ -11,6 +11,8 @@ legacyPath: "/blog/star-fruit-kidney-risk-and-throat-comfort-analysis/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80"></span>
+
 ## **引言**
 
 想像你喉嚨乾癢，手邊有一顆酸甜的楊桃。民間說它能潤喉，但醫師卻提醒：這顆小小的水果可能傷腎。  
@@ -18,17 +20,23 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Star-Fruit-Kidney-Risk-and-Throat-Comfort-Analysis-3-1024x576.png)
 
+<span id="%E4%B8%80%E9%A1%86%E6%A5%8A%E6%A1%83%EF%BC%8C%E5%85%A9%E7%A8%AE%E8%AA%AA%E6%B3%95%EF%BC%9A%E6%BD%A4%E5%96%89%E8%89%AF%E6%96%B9%E9%82%84%E6%98%AF%E5%8D%B1%E9%9A%AA%E6%B0%B4%E6%9E%9C%EF%BC%9F"></span>
+
 ## **一顆楊桃，兩種說法：潤喉良方還是危險水果？**
 
 在華人飲食文化中，楊桃一直被認為是一種「可以潤喉」的水果。當喉嚨乾癢、輕微咳嗽時，不少人會選擇吃幾片楊桃，甚至將其榨成果汁，期待能帶來舒緩效果。這種說法流傳已久，也讓楊桃在某些情境下被視為「天然的喉嚨保養品」。
 
 但與此同時，在醫療領域卻存在完全相反的聲音。醫師與腎臟科專家長期警告，楊桃可能對腎臟造成毒性，特別是對慢性腎臟病患者而言，甚至可能引發嚴重併發症。這種「一邊被當成保健水果，一邊卻被列為高風險食物」的矛盾，使楊桃成為少數同時具備「健康形象」與「醫療警訊」的食材。
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E5%A4%A7%E5%AE%B6%E6%9C%83%E8%A6%BA%E5%BE%97%E6%A5%8A%E6%A1%83%E3%80%8C%E6%9C%89%E6%BD%A4%E5%96%89%E6%95%88%E6%9E%9C%E3%80%8D%EF%BC%9F"></span>
+
 ## **為什麼大家會覺得楊桃「有潤喉效果」？**
 
 楊桃之所以被認為能「潤喉」，其實很大一部分來自**感覺層面的舒適效果**，而不一定是真正的治療作用。酸甜的口感會刺激唾液分泌，讓口腔與喉嚨短時間內變得濕潤，這種變化容易被解讀為「喉嚨被滋潤了」。冰涼的果汁或果肉也能帶來短暫舒適感，但缺乏臨床證據支持其真正療效。
 
 ![](/wp-content/uploads/Star-Fruit-Kidney-Risk-and-Throat-Comfort-Analysis-2-1024x576.png)
+
+<span id="%E6%A5%8A%E6%A1%83%E8%85%8E%E6%AF%92%E6%80%A7%E6%98%AF%E6%80%8E%E9%BA%BC%E7%99%BC%E7%94%9F%E7%9A%84%EF%BC%9F%E7%A7%91%E5%AD%B8%E6%A9%9F%E8%BD%89%E8%A7%A3%E6%9E%90"></span>
 
 ## **楊桃腎毒性是怎麼發生的？科學機轉解析**
 
@@ -39,6 +47,8 @@ sourceVerbatim: true
 **caramboxin**：神經毒素，腎功能不佳者易累積，引發神經症狀，如打嗝不止、意識混亂甚至癲癇。
 
 腎病患者風險最高，但健康人過量攝取亦可能發生腎損傷，顯示風險與攝取量及個體狀況密切相關。
+
+<span id="%E9%82%A3%E5%88%B0%E5%BA%95%E8%83%BD%E4%B8%8D%E8%83%BD%E5%90%83%EF%BC%9F%E7%87%9F%E9%A4%8A%E5%AD%B8%E7%B5%A6%E5%87%BA%E7%9A%84%E5%AE%89%E5%85%A8%E7%AD%94%E6%A1%88"></span>
 
 ## **那到底能不能吃？營養學給出的安全答案**
 
@@ -52,13 +62,19 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Star-Fruit-Kidney-Risk-and-Throat-Comfort-Analysis-4-1024x576.png)
 
+<span id="%E7%B5%90%E8%AB%96"></span>
+
 ## **結論**
 
 綜合民間說法與科學證據，楊桃帶來的「潤喉感」主要是口感與唾液刺激的短暫效果，缺乏臨床證據支持其治療功效；然而，楊桃的腎毒性風險是確實存在的，特別對慢性腎病或洗腎患者而言。因此，建議一般健康族群適量食用，避免過量；而高風險族群則應完全避免。從現代保健營養學角度，楊桃屬於可偶爾食用的水果，而非首選保健食材。
 
+<span id="%E6%AF%94%E8%BC%83%E8%A1%A8%E6%A0%BC%EF%BC%88%E6%BD%A4%E5%96%89%E6%95%88%E6%9E%9C_vs_%E8%85%8E%E6%AF%92%E6%80%A7_vs_%E7%87%9F%E9%A4%8A%E5%83%B9%E5%80%BC%EF%BC%89"></span>
+
 ## **比較表格（潤喉效果** **vs** **腎毒性** **vs** **營養價值）**
 
 <table style="border-collapse: collapse; border: 3px solid #006400; width: 100%;"><thead style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><tr><th>比較面向</th><th>說明</th><th>適用族群 / 使用情境</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td>潤喉效果</td><td>楊桃酸甜口感刺激唾液分泌，短暫舒緩喉嚨乾燥與輕微不適，屬於感覺性效果。</td><td>一般健康人希望緩解喉嚨不適時，可少量食用。</td></tr><tr style="background-color: #ffffff; color: #333333;"><td>腎毒性</td><td>含高量草酸與 caramboxin，可能造成腎臟負擔與神經毒性，對慢性腎病或洗腎者風險極高。</td><td>慢性腎病、洗腎患者應避免；健康族群需控制攝取量。</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td>營養價值</td><td>富含維生素 C、膳食纖維與抗氧化物質，但非不可取代的保健水果，可由其他水果替代。</td><td>一般健康人可偶爾食用以補充營養，作為多樣化飲食之一。</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## 常見問題與回覆
 
@@ -84,6 +100,8 @@ A5：不能。楊桃帶來的舒緩僅屬感覺性效果，若喉嚨痛持續或
 編輯部 ：[GCM上醫預防醫學發展協會 數位編輯部](/blog/kale-broccoli-health-evidence/)
 
 免責聲明：本文章內容僅供健康資訊參考，無推薦、背書或行銷任何特定品牌或產品。文章所提資訊不構成醫療建議。在進行任何飲食、運動、用藥或健康調整前，請先諮詢專業醫師或藥師／營養師；若出現胸痛、呼吸困難、冒冷汗、暈厥感等急性症狀，請立即就醫或撥打 119。
+
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB"></span>
 
 ## **參考文獻**
 

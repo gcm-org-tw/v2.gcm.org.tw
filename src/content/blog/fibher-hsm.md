@@ -20,6 +20,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/FIBHER-hsm26041702_11zon.webp)
 
+<span id="%E8%AA%B0%E8%AA%AA%E5%B0%88%E6%A5%AD%E9%85%8D%E6%96%B9%E4%B8%8D%E8%83%BD%E5%BE%88%E5%A5%BD%E5%96%9D%EF%BC%9F"></span>
+
 ### **誰說專業配方不能很好喝？**
 
 作為藥師，我看產品第一眼一定是看成分。FIBHER 讓我願意推薦的核心理由，在於它是由**專業醫療團隊聯手知名甜點師**研發的。它不只是追求好喝，配方邏輯非常紮實：
@@ -30,6 +32,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/FIBHER-hsm26041705_11zon.webp)
 
+<span id="%E5%AF%A6%E9%9A%9B%E9%A3%B2%E7%94%A8%E6%83%85%E5%A2%83%EF%BC%9A%E4%B8%89%E6%AC%BE%E5%8F%A3%E5%91%B3%E6%80%8E%E9%BA%BC%E9%81%B8%EF%BC%9F"></span>
+
 ### **實際飲用情境：三款口味怎麼選？**
 
 我習慣每天喝 1–2 包，這三款口味真的讓我每天都在糾結要喝哪一個：
@@ -39,6 +43,8 @@ sourceVerbatim: true
 3.  **熱帶水果乳酸**：裡面有台灣在地鳳梨果乾與**鳳梨蛋白酶**，加上專利芽孢乳酸菌與康普茶，這款能幫助改變細菌叢生態。
 
 ![](/wp-content/uploads/FIBHER-hsm26041704_11zon.webp)
+
+<span id="%E8%97%A5%E5%B8%AB%E5%B0%8F%E5%8F%AE%E5%9A%80%EF%BC%9A%E9%80%99%E6%A8%A3%E5%96%9D%E6%9C%80%E6%9C%89%E6%95%88%EF%BC%81"></span>
 
 ### **藥師小叮嚀：這樣喝最有效！**
 

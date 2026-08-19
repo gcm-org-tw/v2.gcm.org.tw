@@ -20,6 +20,8 @@ sourceVerbatim: true
 
 1.  Shi, T., McAllister, D. A., O’Brien, K. L., et al. (2017). Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in young children in 2015: a systematic review and modelling study. *The Lancet*, 390(10098), 946–958. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28689664)
 
+<span id="%E4%BB%80%E9%BA%BC%E6%98%AFRSV%EF%BC%9F%E5%91%BC%E5%90%B8%E9%81%93%E8%9E%8D%E5%90%88%E7%97%85%E6%AF%92%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AA%8D%E8%AD%98"></span>
+
 ## **什麼是RSV****？呼吸道融合病毒的基本認識**
 
 你知道嗎？RSV（呼吸道融合病毒）是一種高度傳染的病毒，特別容易影響嬰幼兒和老年人的健康。RSV以其攻擊呼吸道上皮細胞的特性而著名，感染後可能引發從普通感冒到嚴重肺炎的多種症狀。根據世界衛生組織的統計，每年全球有超過3,300萬例與RSV相關的下呼吸道感染，其中約10%的病例需要住院治療。
@@ -35,6 +37,8 @@ RSV在冬季尤其高發，類似於一顆潛伏的種子，在寒冷季節中�
 **參考文獻：**
 
 1.  Shi, T., McAllister, D. A., O’Brien, K. L., et al. (2017). Global, regional, and national disease burden estimates of acute lower respiratory infections due to respiratory syncytial virus in young children in 2015: a systematic review and modelling study. *The Lancet*, 390(10098), 946–958. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28689664)
+
+<span id="RSV%E7%9A%84%E4%B8%BB%E8%A6%81%E7%97%87%E7%8B%80%E8%88%87%E6%BD%9B%E5%9C%A8%E5%81%A5%E5%BA%B7%E9%A2%A8%E9%9A%AA"></span>
 
 ## **RSV****的主要症狀與潛在健康風險**
 
@@ -54,9 +58,13 @@ RSV感染對高危人群的威脅尤為明顯。嬰幼兒因免疫系統尚未�
 1.  Hall, C. B., Weinberg, G. A., Iwane, M. K., et al. (2009). The burden of respiratory syncytial virus infection in young children. *New England Journal of Medicine*, 360(6), 588–598. [PubMed](https://pubmed.ncbi.nlm.nih.gov/19196675)
 2.  Falsey, A. R., Hennessey, P. A., Formica, M. A., Cox, C., & Walsh, E. E. (2005). Respiratory syncytial virus infection in elderly and high-risk adults. *New England Journal of Medicine*, 352(17), 1749–1759. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15858184)
 
+<span id="%E5%A6%82%E4%BD%95%E9%A0%90%E9%98%B2RSV%E6%84%9F%E6%9F%93%EF%BC%9F%E6%9C%89%E6%95%88%E7%9A%84%E6%97%A5%E5%B8%B8%E9%98%B2%E8%AD%B7%E6%8E%AA%E6%96%BD"></span>
+
 ## **如何預防RSV****感染？有效的日常防護措施**
 
 你是否曾思考過，如何有效防止病毒侵襲你的家庭？RSV的傳播主要依靠飛沫和接觸，因此，日常防護措施是預防的關鍵。研究表明，定期洗手、保持居家環境清潔，以及避免與感染者密切接觸，能顯著降低病毒傳播風險。
+
+<span id="%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E9%98%B2%E8%AD%B7%E7%AD%96%E7%95%A5"></span>
 
 ### **生活中的防護策略**
 
@@ -76,9 +84,13 @@ RSV感染對高危人群的威脅尤為明顯。嬰幼兒因免疫系統尚未�
 **注意事項：**  
 儘管日常防護措施至關重要，但須注意避免過度消毒導致環境中的良性菌群被破壞，從而影響免疫力。選擇適合家庭的消毒產品，並遵循使用指導。
 
+<span id="RSV%E7%9A%84%E6%B2%BB%E7%99%82%E6%96%B9%E6%B3%95%E8%88%87%E4%B8%AD%E9%86%AB%E8%AA%BF%E7%90%86%E5%BB%BA%E8%AD%B0"></span>
+
 ## **RSV****的治療方法與中醫調理建議**
 
 當您或家人不幸感染RSV時，了解有效的治療方法和中醫調理建議至關重要。目前，RSV尚無特效藥，主要以支持性療法為主，包括保持呼吸道通暢、補充水分和適當休息。對於症狀嚴重者，可能需要住院治療，如氧氣療法或機械通氣。
+
+<span id="%E4%B8%AD%E9%86%AB%E8%AA%BF%E7%90%86%E5%BB%BA%E8%AD%B0%EF%BC%9A"></span>
 
 ### **中醫調理建議：**
 
@@ -104,9 +116,13 @@ RSV感染對高危人群的威脅尤為明顯。嬰幼兒因免疫系統尚未�
 2.  [長期照護機構呼吸道融合病毒(RSV)感染管制指引](https://www.cdc.gov.tw/Uploads/files/201511/18159b30-7f25-482e-a0af-1b304d4f93cd.pdf)
 3.  [1人感染傳3人！醫示警：RSV尚無特效藥可解 建議1方式嚴加預防](https://tw.news.yahoo.com/1%E4%BA%BA%E6%84%9F%E6%9F%93%E5%82%B33%E4%BA%BA-%E9%86%AB%E7%A4%BA%E8%AD%A6-rsv%E5%B0%9A%E7%84%A1%E7%89%B9%E6%95%88%E8%97%A5%E5%8F%AF%E8%A7%A3-%E5%BB%BA%E8%AD%B01%E6%96%B9%E5%BC%8F%E5%9A%B4%E5%8A%A0%E9%A0%90%E9%98%B2-084500992.html)
 
+<span id="%E6%84%9F%E6%9F%93%E5%BE%8C%E5%A6%82%E4%BD%95%E8%99%95%E7%90%86%EF%BC%9F%E4%B8%AD%E8%A5%BF%E9%86%AB%E7%9A%84%E8%AD%B7%E7%90%86%E5%BB%BA%E8%AD%B0"></span>
+
 ## **感染後如何處理？中西醫的護理建議**
 
 **當家人感染RSV****時，正確的處理與護理至關重要。大多數感染者經過家庭護理即可康復，但部分患者可能出現併發症，需要更專業的醫療干預。**
+
+<span id="%E8%A5%BF%E9%86%AB%E5%BB%BA%E8%AD%B0%EF%BC%9A"></span>
 
 ### **西醫建議：**
 
@@ -117,6 +133,8 @@ RSV感染對高危人群的威脅尤為明顯。嬰幼兒因免疫系統尚未�
 
 1.  **醫療干預的指標：**
     -   **當患者出現呼吸急促、皮膚青紫、或進食困難等危險信號時，應立即就醫進行氧氣支持或抗病毒療法。**
+
+<span id="%E4%B8%AD%E9%86%AB%E8%AA%BF%E7%90%86%E5%BB%BA%E8%AD%B0%EF%BC%9A-2"></span>
 
 ### **中醫調理建議：**
 
@@ -142,6 +160,8 @@ RSV感染對高危人群的威脅尤為明顯。嬰幼兒因免疫系統尚未�
 
 1.  **Mazur, N. I., et al. (2015). Lower respiratory tract infection caused by respiratory syncytial virus: Current and emerging options for prevention and treatment. *The Lancet Respiratory Medicine*, 3(11), 888–900. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26411809)**
 
+<span id="%E7%94%A8%E7%9F%A5%E8%AD%98%E8%88%87%E8%A1%8C%E5%8B%95%E5%AE%88%E8%AD%B7%E6%84%9B"></span>
+
 ### **用知識與行動守護愛**
 
 當家人的笑容因健康而綻放，所有努力都變得值得。RSV的威脅提醒我們，預防與護理不僅是科學，也是愛的體現。透過了解RSV的傳播特性、掌握中西醫結合的防護策略，您可以成為家人的健康守護者。
@@ -151,6 +171,8 @@ RSV感染對高危人群的威脅尤為明顯。嬰幼兒因免疫系統尚未�
 愛，是我們守護健康最強的理由。而您的努力，將成為這個冬天家人最溫暖的屏障。
 
 <table class="dataframe" border="1"><thead><tr style="text-align: right;"><th>項目</th><th>RSV相關內容</th><th>中西醫觀點</th><th>注意事項</th></tr></thead><tbody><tr><td>定義與特性</td><td>呼吸道融合病毒 (RSV) 是一種專攻呼吸道上皮細胞的病毒，特別針對嬰幼兒與老年人。</td><td>西醫關注病毒特性及疫苗研發；中醫認為其屬「風寒之邪」，侵擾肺氣。</td><td>需注意高危人群，如嬰幼兒與慢性病患者，冬季為高發期。</td></tr><tr><td>主要症狀</td><td>初期表現為流鼻水、輕微咳嗽、低燒，後期可能出現喘鳴、呼吸急促等症狀。</td><td>西醫描述具體症狀；中醫強調咳喘與肺氣不足的表現。</td><td>症狀與普通感冒相似，需謹慎辨別，避免延誤治療。</td></tr><tr><td>健康風險</td><td>短期健康風險包括肺炎與支氣管炎；長期可能增加哮喘和慢性呼吸疾病風險。</td><td>西醫以數據揭示風險；中醫認為免疫力不足導致正氣虧損。</td><td>高危人群可能併發重症，需密切監測呼吸情況。</td></tr><tr><td>預防方法</td><td>勤洗手、保持居家清潔、避免接觸感染者，並考慮接種疫苗。</td><td>西醫建議疫苗與衛生防護；中醫提倡潤肺益氣的食材與湯飲。</td><td>過度消毒可能破壞環境良性菌群；疫苗接種需遵從專業建議。</td></tr><tr><td>治療與護理建議</td><td>西醫建議包括補充水分、使用加濕器、及時就醫；中醫強調潤肺化痰草本飲品與針灸調理。</td><td>西醫以支持性療法為主；中醫重視草本輔助、針灸提升免疫。</td><td>避免自行濫用藥物，特別是抗生素；嬰幼兒護理需柔和避免損傷。</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

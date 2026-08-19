@@ -14,6 +14,10 @@ sourceVerbatim: true
 
 ⚖️AI 法規審查通過📚實證文獻取證🩺上醫預防醫學發展協會 醫師具名發表
 
+<span id="sec-0"></span>
+
+<span id="%E7%A0%94%E7%A9%B6%E8%AD%A6%E7%A4%BA%EF%BC%9A%E9%AB%98%E9%BD%A1%E8%80%85%E5%B0%8D%E9%81%8E%E7%86%B1%E7%9A%84%E6%84%9F%E7%9F%A5%E8%83%BD%E5%8A%9B%E6%98%8E%E9%A1%AF%E9%81%B2%E9%88%8D%EF%BC%8C%E6%85%A2%E6%80%A7%E7%97%85%E6%97%8F%E7%BE%A4%E9%A2%A8%E9%9A%AA%E6%9B%B4%E9%AB%98"></span>
+
 ## 研究警示：高齡者對過熱的感知能力明顯遲鈍，慢性病族群風險更高
 
 台灣夏季午後室溫常突破 32°C，然而許多高齡者仍堅稱「不需要開冷氣」。這種主觀感受與客觀環境之間的落差，並非個性使然，而是有明確的生理基礎。研究顯示，高齡者對核心體溫上升的感知能力較年輕族群明顯遲鈍；在合併高血壓、糖尿病等慢性病的族群中，這項差距又更為顯著（註1）。
@@ -27,6 +31,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/ea48ca01-10e8-4342-9e71-07a13cc419b3/paragraph-seg-1-1782873063097-798df23b.jpg" alt="研究警示：高齡者對過熱的感知能力明顯遲鈍，慢性病族群風險更高"></figure>
+
+<span id="sec-1"></span>
+
+<span id="%E7%86%B1%E5%82%B7%E5%AE%B3%E6%97%A9%E6%9C%9F%E7%97%87%E7%8B%80%E4%B8%8D%E5%85%B8%E5%9E%8B%EF%BC%8C%E4%BA%94%E9%A0%85%E8%AD%A6%E8%A8%8A%E5%AE%B9%E6%98%93%E8%A2%AB%E4%BD%8E%E4%BC%B0"></span>
 
 ## 熱傷害早期症狀不典型，五項警訊容易被低估
 
@@ -48,6 +56,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/ea48ca01-10e8-4342-9e71-07a13cc419b3/paragraph-seg-2-1782872993419-4d1956bd.jpg" alt="熱傷害早期症狀不典型，五項警訊容易被低估"></figure>
 
+<span id="sec-2"></span>
+
+<span id="%E5%AE%B6%E5%BA%AD%E4%BB%8B%E5%85%A5%E7%AD%96%E7%95%A5%EF%BC%9A%E4%BB%A5%E7%92%B0%E5%A2%83%E8%A8%AD%E8%A8%88%E5%8F%96%E4%BB%A3%E8%AA%9E%E8%A8%80%E8%AA%AA%E6%9C%8D"></span>
+
 ## 家庭介入策略：以環境設計取代語言說服
 
 面對高齡者抗拒使用冷氣的情況，預防醫學建議以環境設計為優先，而非仰賴反覆口頭勸說。研究顯示，有照顧者積極參與的環境介入，對高齡者熱傷害的預防效果明顯優於單純衛教（註11）。
@@ -64,6 +76,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/ea48ca01-10e8-4342-9e71-07a13cc419b3/paragraph-seg-3-1782873041688-c0dbc1fd.jpg" alt="家庭介入策略：以環境設計取代語言說服"></figure>
 
+<span id="sec-3"></span>
+
+<span id="%E5%B1%85%E5%AE%B6%E7%92%B0%E5%A2%83%E8%AA%BF%E6%95%B4%EF%BC%9A%E5%9B%9B%E9%A0%85%E5%8F%AF%E7%AB%8B%E5%8D%B3%E5%9F%B7%E8%A1%8C%E7%9A%84%E9%99%8D%E6%BA%AB%E6%8E%AA%E6%96%BD"></span>
+
 ## 居家環境調整：四項可立即執行的降溫措施
 
 2026 年針對高齡者在氣候變遷下的脆弱性研究指出，居家環境、照顧者行為與社區資源的整體設計，是降低高齡者熱傷害的關鍵介入面向（註7）。以下四項調整門檻低、效果直接：
@@ -76,6 +92,8 @@ sourceVerbatim: true
 
 **4\. 提升飲水可及性：** 在長輩座位旁、電視旁及床頭各備一杯常溫水，讓補水行為無需依賴記憶或刻意移動。
 
+<span id="%E5%B9%B4%E9%BD%A1%E5%B1%A4%E7%86%B1%E6%84%9F%E7%9F%A5%E5%B7%AE%E7%95%B0%E6%AF%94%E8%BC%83"></span>
+
 ### 年齡層熱感知差異比較
 
 <table><thead><tr><th>比較項目</th><th>年輕成人（20–40 歲）</th><th>中壯年（40–65 歲）</th><th>高齡長輩（65 歲以上）</th></tr></thead><tbody><tr><td><strong>熱感知敏感度</strong></td><td>感熱受器靈敏，感覺熱的速度快</td><td>敏感度開始下降，感覺略有延遲</td><td>受器退化明顯，常感覺不到自己已過熱</td></tr><tr><td><strong>排汗散熱效率</strong></td><td>出汗快、量足，散熱效率高</td><td>排汗稍慢，高溫下恢復較費力</td><td>汗腺功能衰退，散熱能力顯著不足</td></tr><tr><td><strong>口渴感與補水反應</strong></td><td>缺水時口渴訊號明確，主動補水</td><td>口渴感略鈍，偶爾忘記補水</td><td>口渴中樞遲鈍，常常不渴但已脫水</td></tr><tr><td><strong>核心體溫調節空間</strong></td><td>心血管代償靈活，體溫波動小</td><td>調節空間縮窄，慢性病者更明顯</td><td>代償能力弱，體溫悄悄攀升卻無自覺</td></tr><tr><td><strong>熱傷害風險等級</strong></td><td>低（高強度活動下才需留意）</td><td>中（慢性病、用藥者需提高警覺）</td><td>高（日常室內高溫即可能造成危害）</td></tr><tr><td><strong>推薦主動介入程度</strong></td><td>⭐⭐</td><td>⭐⭐⭐</td><td>⭐⭐⭐⭐⭐</td></tr></tbody></table>
@@ -83,6 +101,10 @@ sourceVerbatim: true
 * * *
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/ea48ca01-10e8-4342-9e71-07a13cc419b3/paragraph-seg-4-1782873199551-7c3799a3.jpg" alt="居家環境調整：四項可立即執行的降溫措施"></figure>
+
+<span id="sec-4"></span>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C"></span>
 
 ## 常見問題
 
@@ -131,6 +153,8 @@ sourceVerbatim: true
 
 本文內容由 **上醫預防醫學發展協會** 之 **上醫預防醫學發展協會**編寫,僅供一般健康資訊參考,**不構成個人化醫療建議**。 若您有特定症狀或健康疑慮,請諮詢您的家庭醫師或專業醫療人員。  
 本文經 AI 律師合規審查 + 實證文獻佐證。
+
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB"></span>
 
 ## 參考文獻
 

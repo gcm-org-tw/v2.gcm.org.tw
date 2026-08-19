@@ -22,6 +22,8 @@ sourceVerbatim: true
 
 -   **註****1****：****World Health Organization. (2023). *Tobacco*. [https://www.who.int/news-room/fact-sheets/detail/tobacco](https://www.who.int/news-room/fact-sheets/detail/tobacco)**
 
+<span id="%E5%BE%9E%E4%B8%80%E6%A0%B9%E9%A6%99%E8%8F%B8%E9%96%8B%E5%A7%8B%EF%BC%9A%E4%BD%A0%E6%88%91%E9%83%BD%E5%8F%AF%E8%83%BD%E5%BF%BD%E7%95%A5%E7%9A%84%E4%B8%96%E7%95%8C%E7%84%A1%E8%8F%B8%E6%97%A5%E7%9A%84%E7%94%B1%E4%BE%86%E8%88%87%E6%84%8F%E7%BE%A9"></span>
+
 ## **從一根香菸開始：你我都可能忽略的世界無菸日的由來與意義**
 
 你還記得第一次看到家人抽菸的樣子嗎？那種煙霧瀰漫、氣味黏膩的感覺，也許成了你童年某段模糊卻揮之不去的記憶。在世界無菸日，我們不是要指責誰，而是邀請你重新思考：這根香菸的背後，藏著多少健康與情感的牽連？
@@ -31,6 +33,8 @@ sourceVerbatim: true
 從五行理論來說，肺屬金，主氣司呼吸，最怕濁氣侵襲。煙霧如霾，不僅蒙蔽了肺氣，也讓心神難以清明。當我們說要了解「世界無菸日的由來與意義」，說的不是歷史，是你我當下的抉擇——是否願意為了下一次深呼吸，選擇不再點燃那根熟悉的火光。
 
 ![](/wp-content/uploads/World-No-Tobacco-Day2.jpg)
+
+<span id="%E4%B8%96%E7%95%8C%E8%A1%9B%E7%94%9F%E7%B5%84%E7%B9%94%E7%82%BA%E4%BB%80%E9%BA%BC%E5%B9%B4%E5%B9%B4%E6%8F%90%E9%86%92%E6%88%91%E5%80%91%E9%81%A0%E9%9B%A2%E7%85%99%E5%AE%B3%EF%BC%9F"></span>
 
 ## **世界衛生組織為什麼年年提醒我們遠離煙害？**
 
@@ -42,6 +46,8 @@ sourceVerbatim: true
 
 所以，世界衛生組織不只是發聲而已，他們提出的，是一種更全面的預防醫學策略：用環境改變行為，從行為改變健康。
 
+<span id="%E5%A6%82%E6%9E%9C%E4%BD%A0%E5%9C%A8%E6%84%8F%E5%AE%B6%E4%BA%BA%E5%81%A5%E5%BA%B7%EF%BC%8C%E7%84%A1%E8%8F%B8%E7%92%B0%E5%A2%83%E5%B0%B1%E6%98%AF%E6%84%9B%E7%9A%84%E8%A1%A8%E7%8F%BE"></span>
+
 ## **如果你在意家人健康，無菸環境就是愛的表現**
 
 有些愛，藏在不說話的選擇裡。像是當你走出陽台抽菸，而不是在孩子旁邊點燃那根香菸，這樣的舉動，其實就是一種溫柔的守護。
@@ -51,6 +57,8 @@ sourceVerbatim: true
 在五行中，家是一個「土」的容器，穩定而包容。煙霧一旦滲入，會干擾脾土的運化與肺金的宣降，讓整個家庭的氣場變得「濁而不清」。這不只是健康問題，更是一種生活品質的破壞。
 
 你想保護家人嗎？從現在起，把家中變成一個**無菸環境**，不再讓香菸有一席之地。試著將陽台改成種香草的小天地、用芳香植物代替菸味、或是給自己一個「戒菸計畫牆」，讓這份愛變得看得見，也聞得出清新。
+
+<span id="%E9%80%99%E4%B8%80%E5%A4%A9%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%81%9A%E4%BB%80%E9%BA%BC%EF%BC%9F%E4%B8%96%E7%95%8C%E7%84%A1%E8%8F%B8%E6%97%A5%E7%9A%84%E8%A1%8C%E5%8B%95%E6%8F%90%E6%A1%88"></span>
 
 ## **這一天你可以做什麼？世界無菸日的行動提案**
 
@@ -67,6 +75,8 @@ sourceVerbatim: true
 -   試試今天一整天不抽菸
 -   把家中做個簡單清潔，移除菸味殘留
 -   傳訊息給一位親友，說出你支持無菸生活的原因
+
+<span id="%E6%B7%B1%E5%91%BC%E5%90%B8%EF%BC%8C%E6%98%AF%E4%BD%A0%E7%B5%A6%E8%87%AA%E5%B7%B1%E7%9A%84%E6%BA%AB%E6%9F%94%E6%89%BF%E8%AB%BE"></span>
 
 ## **深呼吸，是你給自己的溫柔承諾**
 
@@ -86,7 +96,11 @@ sourceVerbatim: true
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #264653; font-family: Arial, sans-serif;"><thead><tr style="background-color: #2a9d8f; color: white; font-weight: bold;"><th style="padding: 12px; border: 3px solid #264653;">分類項目</th><th style="padding: 12px; border: 3px solid #264653;">☁️ 有吸菸環境</th><th style="padding: 12px; border: 3px solid #264653;">🌿 無菸環境（WHO提倡）</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">健康影響</td><td style="padding: 12px; border: 3px solid #264653;">易導致肺部疾病、心血管疾病，增加癌症風險</td><td style="padding: 12px; border: 3px solid #264653;">降低慢性病風險，提升免疫與氣血循環功能</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">家庭安全</td><td style="padding: 12px; border: 3px solid #264653;">二手菸與三手菸影響孩子、孕婦、長者健康</td><td style="padding: 12px; border: 3px solid #264653;">創造對全家友善的空氣品質</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">生活品質</td><td style="padding: 12px; border: 3px solid #264653;">室內異味殘留、衣物沾染煙味</td><td style="padding: 12px; border: 3px solid #264653;">空氣清新，呼吸順暢，精神更集中</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">社交互動</td><td style="padding: 12px; border: 3px solid #264653;">容易造成他人反感，增加社交隔閡</td><td style="padding: 12px; border: 3px solid #264653;">提升好感度，展現對他人健康的尊重</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #264653;">中醫觀點</td><td style="padding: 12px; border: 3px solid #264653;">肺氣受損，氣機不暢，易生痰濕與疲倦感</td><td style="padding: 12px; border: 3px solid #264653;">肺氣宣發良好，精神內守，《內經》所言之「清氣上升」</td></tr></tbody></table>
 
+<span id="%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F_%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **🙋‍♀️** **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A"></span>
 
 ### **問題 1****：**
 
@@ -95,12 +109,16 @@ sourceVerbatim: true
 **回覆：**  
 是的，即使只是「偶爾抽」，也會對呼吸系統與心血管產生慢性刺激。根據世界衛生組織資料，**即使每天只抽一根菸，也會顯著增加罹患心臟病與中風的風險**。從中醫的角度來看，「氣為血帥」，菸霧會讓肺氣失調，進一步影響氣血運行。世界無菸日是一個機會，邀請你重新思考「與香菸的關係」，嘗試斷開依賴循環。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A"></span>
+
 ### **問題 2****：**
 
 **我身邊的家人抽菸，我可以怎麼做來保護自己？**
 
 **回覆：**  
 你可以從**建立「家庭無菸區」開始**，例如在客廳、房間與餐廳張貼「請勿吸菸」的提示，並與家人誠懇溝通二手菸的危害。世界衛生組織指出，**每年有超過百萬人因二手菸死亡**，尤其對兒童與長者更具威脅。也可準備清新香氛、無糖口香糖，提供吸菸者替代方式，逐步營造無菸環境。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A"></span>
 
 ### **問題 3****：**
 
@@ -109,12 +127,16 @@ sourceVerbatim: true
 **回覆：**  
 確實有關。中醫認為「肺主氣、司呼吸、開竅於鼻」，當你長期吸菸，肺氣受損、濁氣內積，容易出現咳嗽、氣短、疲倦等「肺氣虛」症狀。《黃帝內經》有言：「邪之所湊，其氣必虛。」也就是說，正氣不足才讓煙毒有機可乘。養肺要從斷菸做起，搭配潤肺食材如百合、銀耳、雪梨，效果會更明顯。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A"></span>
+
 ### **問題 4****：**
 
 **我已經試過戒菸多次都失敗，還有希望嗎？**
 
 **回覆：**  
 當然有。**戒菸是過程，不是一次就成功的決賽**。很多人需要 5~7 次嘗試才真正戒除。你可以結合行為支持（例如加入戒菸門診或社群）、食療（用代替性口感轉移菸癮），也可以配合穴位按壓如合谷、尺澤，來紓解壓力與成癮反應。記住，每一次戒斷努力，都是向更健康的自己靠近。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9A"></span>
 
 ### **問題 5****：**
 

@@ -14,6 +14,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Cholesterol-Egg-Myths-1-1-1024x577.jpg)
 
+<span id="%E5%BC%95%E8%A8%80%EF%BD%9C%E5%BE%9E%E4%B8%80%E9%A1%86%E6%97%A9%E9%A4%90%E8%9B%8B%E9%96%8B%E5%A7%8B%E7%9A%84%E8%A1%80%E8%84%82%E7%84%A6%E6%85%AE"></span>
+
 ## **引言｜從一顆早餐蛋開始的血脂焦慮**
 
 你可能也有過這種畫面：早上剝開一顆茶葉蛋，突然想到健檢報告上的紅字，手就停在半空中。吃，怕膽固醇更高；不吃，又覺得早餐少了一份安心的蛋白質。很多人一看到「膽固醇過高」，第一個戒掉的不是炸物、奶油、培根，而是那顆最熟悉的雞蛋。
@@ -22,11 +24,15 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Cholesterol-Egg-Myths2-1-1024x574.jpg)
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E8%86%BD%E5%9B%BA%E9%86%87%E9%81%8E%E9%AB%98%E7%9A%84%E4%BA%BA%EF%BC%8C%E5%B8%B8%E5%B8%B8%E7%AC%AC%E4%B8%80%E5%80%8B%E6%80%AA%E7%BD%AA%E9%9B%9E%E8%9B%8B%EF%BC%9F"></span>
+
 ## **為什麼膽固醇過高的人，常常第一個怪罪雞蛋？**
 
 很多人在健檢看到「膽固醇過高」幾個紅字，第一個想到的食物，往往就是雞蛋。這不難理解，因為蛋黃含有膽固醇，又常出現在早餐裡，像水煮蛋、茶葉蛋、蛋餅、荷包蛋，幾乎每天都可能上桌。但血脂不是一顆蛋獨自決定的。人體的膽固醇，一部分來自食物，一部分由肝臟製造；而 LDL 膽固醇的變化，還會受到飽和脂肪、體重、活動量、胰島素阻抗、基因與藥物使用影響。換句話說，把雞蛋當成唯一兇手，就像一鍋湯太油，卻只怪那顆蔥花。近年研究也提醒，雞蛋攝取與心血管風險的關係並不一致，許多研究觀察到「無明顯關聯」或結果受族群、飲食型態影響；因此，膽固醇過高的人真正要做的，不是急著禁蛋，而是先看整套餐盤怎麼搭配（註1）。
 
 ![](/wp-content/uploads/Cholesterol-Egg-Myths-3-1-1024x616.jpg)
+
+<span id="%E8%86%BD%E5%9B%BA%E9%86%87%E9%AB%98%E4%B8%8D%E8%83%BD%E5%90%83%E8%9B%8B%E9%BB%83%E5%97%8E%EF%BC%9F%E5%85%88%E5%88%86%E6%B8%85%E6%A5%9A%E8%86%B3%E9%A3%9F%E8%86%BD%E5%9B%BA%E9%86%87%E8%88%87%E8%A1%80%E8%86%BD%E5%9B%BA%E9%86%87"></span>
 
 ## **膽固醇高不能吃蛋黃嗎？先分清楚膳食膽固醇與血膽固醇**
 
@@ -34,17 +40,23 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Cholesterol-Egg-Myths4-1-1024x574.jpg)
 
+<span id="%E9%9B%9E%E8%9B%8B%E5%92%8C%E9%A3%BD%E5%92%8C%E8%84%82%E8%82%AA%EF%BC%8C%E5%93%AA%E4%B8%80%E5%80%8B%E6%9B%B4%E5%BD%B1%E9%9F%BF_LDL_%E8%86%BD%E5%9B%BA%E9%86%87%EF%BC%9F"></span>
+
 ## **雞蛋和飽和脂肪，哪一個更影響 LDL** **膽固醇？**
 
 同樣是吃雞蛋，水煮蛋、蒸蛋、茶葉蛋，和培根蛋堡、奶油炒蛋、炸蛋餅，對 LDL 膽固醇的意義並不一樣。雞蛋本身像是一位被推上法庭的主角，但真正讓血脂變得難整理的，常常是旁邊那些「油脂配角」。2025 年一項隨機交叉試驗比較不同飲食組合後指出，LDL 膽固醇與飽和脂肪攝取的關聯較明確，而與來自雞蛋的膳食膽固醇關聯較不明顯；研究中，低飽和脂肪且含雞蛋的飲食，反而比高飽和脂肪控制飲食有較低的 LDL 膽固醇表現（註4）。這不代表膽固醇過高的人可以無限制吃蛋，而是提醒我們：與其只盯著雞蛋，不如先檢查早餐裡的奶油、培根、起司、炸物與精緻澱粉。餐盤像一個小樂團，雞蛋只是其中一把琴；如果整團都走音，不能只怪小提琴太認真。
 
 ![](/wp-content/uploads/Cholesterol-Egg-Myths-5-1-1024x574.jpg)
 
+<span id="%E5%93%AA%E4%BA%9B%E8%86%BD%E5%9B%BA%E9%86%87%E9%81%8E%E9%AB%98%E7%9A%84%E4%BA%BA%E5%90%83%E9%9B%9E%E8%9B%8B%E8%A6%81%E6%9B%B4%E8%AC%B9%E6%85%8E%EF%BC%9F"></span>
+
 ## **哪些膽固醇過高的人吃雞蛋要更謹慎？**
 
 很多人忽略這件事：同樣是膽固醇過高，每個人的風險背景並不一樣。若你只是健檢發現 LDL 膽固醇偏高，和已經有冠心病、糖尿病、腦中風病史，或家族性高膽固醇血症的人，飲食建議不該完全相同。近年大型研究與統合分析對雞蛋攝取和心血管疾病風險的結果仍不一致，有些研究認為適量雞蛋與心血管風險沒有明顯關聯，也有研究提醒較高攝取量可能與風險上升有關，且不同地區與族群結果不同（註5、註6）。所以，膽固醇過高的人吃雞蛋，重點不是一句「可以」或「不可以」，而是看份量、頻率、烹調方式、血脂數值、用藥狀況與整體餐盤。你可以先從每週記錄早餐開始：蛋怎麼煮、搭配什麼、是否常有培根奶油炸物。血管健康，有時不是靠一口禁忌，而是靠一週一週慢慢調味回來。
 
 ![](/wp-content/uploads/Cholesterol-Egg-Myths-6-1-1024x577.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E8%AE%93%E9%9B%9E%E8%9B%8B%E5%9B%9E%E5%88%B0%E9%A4%90%E7%9B%A4%EF%BC%8C%E4%B9%9F%E8%AE%93%E6%97%A9%E9%A4%90%E5%9B%9E%E5%88%B0%E7%AF%80%E5%A5%8F"></span>
 
 ## **結論：讓雞蛋回到餐盤，也讓早餐回到節奏**
 
@@ -61,23 +73,33 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Cholesterol-Egg-Myths-7-2.jpg)
 
+<span id="%E9%9B%9E%E8%9B%8B%E5%90%83%E6%B3%95%E9%A2%A8%E9%9A%AA%E6%AF%94%E8%BC%83%E8%A1%A8"></span>
+
 ## 雞蛋吃法風險比較表
 
 <table style="width: 100%; border-collapse: collapse; font-size: 16px; line-height: 1.7;"><thead><tr style="background: #2A9D8F; color: #ffffff;"><th style="padding: 12px; border: 1px solid #d9e5df;">雞蛋吃法</th><th style="padding: 12px; border: 1px solid #d9e5df;">整體判斷</th><th style="padding: 12px; border: 1px solid #d9e5df;">主要風險來源</th><th style="padding: 12px; border: 1px solid #d9e5df;">較建議的做法</th><th style="padding: 12px; border: 1px solid #d9e5df;">一句提醒</th></tr></thead><tbody><tr style="background: #DCEFEA;"><td style="padding: 12px; border: 1px solid #d9e5df;">水煮蛋</td><td style="padding: 12px; border: 1px solid #d9e5df;">較佳選擇</td><td style="padding: 12px; border: 1px solid #d9e5df;">幾乎不額外增加油脂，風險主要仍看整餐搭配</td><td style="padding: 12px; border: 1px solid #d9e5df;">搭配蔬菜、無糖豆漿、全麥吐司或地瓜</td><td style="padding: 12px; border: 1px solid #d9e5df;">蛋不是問題，旁邊那杯含糖奶茶比較需要注意</td></tr><tr><td style="padding: 12px; border: 1px solid #d9e5df;">蒸蛋</td><td style="padding: 12px; border: 1px solid #d9e5df;">較佳選擇</td><td style="padding: 12px; border: 1px solid #d9e5df;">若調味清淡，整體油脂負擔低</td><td style="padding: 12px; border: 1px solid #d9e5df;">避免加太多絞肉、起司、奶油或高鹽醬料</td><td style="padding: 12px; border: 1px solid #d9e5df;">清爽蒸蛋，通常比重油煎炒更友善</td></tr><tr style="background: #DCEFEA;"><td style="padding: 12px; border: 1px solid #d9e5df;">少油荷包蛋／乾煎蛋</td><td style="padding: 12px; border: 1px solid #d9e5df;">可接受</td><td style="padding: 12px; border: 1px solid #d9e5df;">額外用油量、煎油種類、是否過焦</td><td style="padding: 12px; border: 1px solid #d9e5df;">用少量植物油，不要煎到邊緣焦脆油亮</td><td style="padding: 12px; border: 1px solid #d9e5df;">關鍵不是煎蛋，而是「煎得多油」</td></tr><tr><td style="padding: 12px; border: 1px solid #d9e5df;">茶葉蛋</td><td style="padding: 12px; border: 1px solid #d9e5df;">可接受</td><td style="padding: 12px; border: 1px solid #d9e5df;">油脂不高，但需留意鈉含量與整日飲食平衡</td><td style="padding: 12px; border: 1px solid #d9e5df;">搭配水果、無糖飲品，避免再配重鹹加工食品</td><td style="padding: 12px; border: 1px solid #d9e5df;">它比較像「鹽分提醒」，不一定是「油脂警報」</td></tr><tr style="background: #DCEFEA;"><td style="padding: 12px; border: 1px solid #d9e5df;">蛋餅</td><td style="padding: 12px; border: 1px solid #d9e5df;">需要留意</td><td style="padding: 12px; border: 1px solid #d9e5df;">餅皮用油、煎台油脂、醬料、常搭配奶茶</td><td style="padding: 12px; border: 1px solid #d9e5df;">選原味或蔬菜蛋餅，少醬、少油，不配含糖飲料</td><td style="padding: 12px; border: 1px solid #d9e5df;">真正讓血脂吃緊的，常是餅皮和油，不只是蛋</td></tr><tr><td style="padding: 12px; border: 1px solid #d9e5df;">奶油炒蛋</td><td style="padding: 12px; border: 1px solid #d9e5df;">需要留意</td><td style="padding: 12px; border: 1px solid #d9e5df;">奶油屬飽和脂肪來源，可能比雞蛋本身更需要注意</td><td style="padding: 12px; border: 1px solid #d9e5df;">改用少量植物油，搭配番茄、菠菜、菇類</td><td style="padding: 12px; border: 1px solid #d9e5df;">這道菜的主角看起來是蛋，其實配角是奶油</td></tr><tr style="background: #DCEFEA;"><td style="padding: 12px; border: 1px solid #d9e5df;">火腿蛋吐司／肉鬆蛋吐司</td><td style="padding: 12px; border: 1px solid #d9e5df;">較需注意</td><td style="padding: 12px; border: 1px solid #d9e5df;">加工肉品、抹醬、白吐司、隱藏油脂與鈉</td><td style="padding: 12px; border: 1px solid #d9e5df;">去醬、少加工肉，改全麥吐司，增加生菜</td><td style="padding: 12px; border: 1px solid #d9e5df;">風險常不是蛋，而是那層火腿與抹醬</td></tr><tr><td style="padding: 12px; border: 1px solid #d9e5df;">培根蛋堡</td><td style="padding: 12px; border: 1px solid #d9e5df;">較高風險</td><td style="padding: 12px; border: 1px solid #d9e5df;">培根、起司、抹醬、精緻麵包與整體高熱量</td><td style="padding: 12px; border: 1px solid #d9e5df;">偶爾吃可，但不適合當成經常性早餐</td><td style="padding: 12px; border: 1px solid #d9e5df;">這不是一顆蛋的問題，是整個堡的問題</td></tr><tr style="background: #DCEFEA;"><td style="padding: 12px; border: 1px solid #d9e5df;">炸蛋料理／厚油炒蛋</td><td style="padding: 12px; border: 1px solid #d9e5df;">較高風險</td><td style="padding: 12px; border: 1px solid #d9e5df;">高油烹調、反覆用油、整體脂肪熱量上升</td><td style="padding: 12px; border: 1px solid #d9e5df;">改成蒸、煮、少油煎，並減少頻率</td><td style="padding: 12px; border: 1px solid #d9e5df;">雞蛋一旦泡進油海，血管就不太輕鬆了</td></tr></tbody></table>
 
 # 表格重點整理
 
+<span id="%E4%BD%A0%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E5%B8%B6%E8%B5%B0%E7%9A%84_3_%E5%80%8B%E5%88%A4%E8%AE%80%E5%8E%9F%E5%89%87"></span>
+
 ## 你可以直接帶走的 3 個判讀原則
+
+<span id="1_%E7%9C%8B%E8%9B%8B%E4%B9%8B%E5%89%8D%EF%BC%8C%E5%85%88%E7%9C%8B%E6%B2%B9"></span>
 
 ### 1\. 看蛋之前，先看油
 
 水煮蛋和培根蛋堡，雖然都叫「有蛋早餐」，但對 **膽固醇過高** 的影響邏輯完全不同。  
 很多時候，真正要小心的不是蛋黃，而是 **奶油、培根、起司、炸物與加工肉品**。
 
+<span id="2_%E5%90%8C%E6%A8%A3%E5%90%83%E8%9B%8B%EF%BC%8C%E6%90%AD%E9%85%8D%E5%B7%AE%E5%BE%88%E5%A4%9A"></span>
+
 ### 2\. 同樣吃蛋，搭配差很多
 
 如果雞蛋旁邊是蔬菜、全穀、無糖豆漿，整體負擔通常比較小。  
 如果雞蛋旁邊是奶茶、薯餅、白吐司、抹醬，餐盤就容易從「一顆蛋」變成「一份高油高糖早餐」。
+
+<span id="3_%E4%B8%8D%E8%A6%81%E5%8F%AA%E5%95%8F%E8%83%BD%E4%B8%8D%E8%83%BD%E5%90%83%EF%BC%8C%E8%A6%81%E5%95%8F%E6%80%8E%E9%BA%BC%E5%90%83"></span>
 
 ### 3\. 不要只問能不能吃，要問怎麼吃
 

@@ -11,9 +11,13 @@ legacyPath: "/blog/natto-nutrition-and-health-benefits/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80"></span>
+
 ## 引言
 
 納豆，這種源自日本的發酵黃豆食品，因其獨特的黏性與氣味而聞名。然而，納豆真的有助於健康嗎？除了文化與口味特色外，現代營養學研究發現，它富含高品質蛋白質、膳食纖維、維生素 K2 以及納豆激酶等活性成分，對骨骼健康、心血管與腸道功能可能具有正向影響。本文將從科學證據出發，全面解析納豆的營養價值與健康效益，幫助你了解這道傳統食品在現代飲食中的真正價值。
+
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9C%89%E4%BA%BA%E5%A4%A9%E5%A4%A9%E5%90%83%E7%B4%8D%E8%B1%86%EF%BC%9F%E5%BE%9E%E7%99%BC%E9%85%B5%E8%88%87%E9%A3%B2%E9%A3%9F%E7%BF%92%E6%85%A3%E8%AA%AA%E8%B5%B7"></span>
 
 ## 為什麼有人天天吃納豆？從發酵與飲食習慣說起
 
@@ -26,6 +30,8 @@ Sumi, H. et al. (2020). Nattokinase: a promising enzyme for cardiovascular healt
 
 ![](/wp-content/uploads/Natto-Nutrition-and-Health-Benefits-2-1024x576.png)
 
+<span id="%E7%B4%8D%E8%B1%86%E7%9A%84%E4%B8%BB%E8%A6%81%E7%87%9F%E9%A4%8A%E6%88%90%E5%88%86%E8%A7%A3%E6%9E%90%EF%BC%88%E7%8F%BE%E4%BB%A3%E7%87%9F%E9%A4%8A%E5%AD%B8%EF%BC%89"></span>
+
 ## 納豆的主要營養成分解析（現代營養學）
 
 納豆富含高品質蛋白質與完整胺基酸，對肌肉維持與日常代謝具有支持作用。同時，納豆含有膳食纖維，有助於腸道健康與消化功能。發酵過程中產生的維生素 K2（MK-7）能幫助鈣的吸收與骨質維持，而納豆激酶（Nattokinase）則可能對血液流動與心血管健康產生正向影響。發酵還生成多種生物活性物質，使納豆的營養價值超越未發酵黃豆【註2】。
@@ -35,6 +41,8 @@ Sumi, H. et al. (2020). Nattokinase: a promising enzyme for cardiovascular healt
 Inoue, S. et al. (2021). Nutritional components and health benefits of fermented soybeans. *Journal of Functional Foods*, 83:104523. \[PMID: 33730914\]
 
 ![](/wp-content/uploads/Natto-Nutrition-and-Health-Benefits-3-1024x576.png)
+
+<span id="%E5%90%83%E7%B4%8D%E8%B1%86%EF%BC%8C%E8%BA%AB%E9%AB%94%E6%9C%83%E7%99%BC%E7%94%9F%E4%BB%80%E9%BA%BC%E8%AE%8A%E5%8C%96%EF%BC%9F%E7%A7%91%E5%AD%B8%E8%AD%89%E6%93%9A%E8%A7%A3%E6%9E%90"></span>
 
 ## 吃納豆，身體會發生什麼變化？科學證據解析
 
@@ -46,6 +54,8 @@ Nakamura, Y. et al. (2022). Effect of nattokinase and fermented soy products on 
 
 ![](/wp-content/uploads/Natto-Nutrition-and-Health-Benefits-4-1024x576.png)
 
+<span id="%E4%BD%A0%E9%81%A9%E5%90%88%E5%90%83%E7%B4%8D%E8%B1%86%E5%97%8E%EF%BC%9F%E5%A5%BD%E8%99%95%E3%80%81%E9%A2%A8%E9%9A%AA%E8%88%87%E6%AD%A3%E7%A2%BA%E5%90%83%E6%B3%95"></span>
+
 ## 你適合吃納豆嗎？好處、風險與正確吃法
 
 納豆對一般健康族群是安全且有益的蛋白質與發酵食品來源，特別是中老年人。使用抗凝血藥者需注意，黃豆過敏或對發酵食品敏感者應避免或少量嘗試。食用方式可依個人習慣搭配早餐或正餐，重點在於整體均衡飲食而非單一食物的攝取頻率。納豆可作為日常健康飲食的一部分，但不可替代專業醫療建議【註4】。
@@ -56,13 +66,19 @@ Kanda, T. et al. (2021). Fermented soybean intake and health outcomes: a systema
 
 ![](/wp-content/uploads/Natto-Nutrition-and-Health-Benefits-5-1024x576.png)
 
+<span id="%E7%B5%90%E8%AB%96"></span>
+
 ## 結論
 
 納豆作為一種傳統發酵黃豆食品，不僅在文化上有其特色，更在現代營養學中展現多重健康價值。研究顯示，其富含蛋白質、膳食纖維、維生素 K2（MK-7）及納豆激酶等活性成分，對骨骼健康與心血管支持有一定科學依據。雖然腸道健康與其他潛在功效仍需更多研究，但納豆可作為日常飲食中的功能性食品，適合大多數人作為均衡飲食的一部分。
 
+<span id="%E6%AF%94%E8%BC%83%E8%A1%A8%E6%A0%BC%EF%BC%9A%E7%B4%8D%E8%B1%86%E5%81%A5%E5%BA%B7%E5%8A%9F%E6%95%88%E5%BC%B7%E5%BC%B1"></span>
+
 ## 比較表格：納豆健康功效強弱
 
 <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif;" border="1" cellspacing="0" cellpadding="8"><thead style="background-color: #f2f2f2;"><tr><th>食品</th><th>營養成分</th><th>口感</th><th>食用建議</th></tr></thead><tbody><tr><td>納豆</td><td>高蛋白、膳食纖維、維生素 K2、納豆激酶</td><td>黏稠、略帶發酵氣味</td><td>每日適量，早餐或正餐搭配飯類，可與醬油、芥末調味</td></tr><tr><td>優格</td><td>蛋白質、益生菌、鈣質、少量糖</td><td>滑順、酸甜口感</td><td>早餐或點心食用，可搭配水果或堅果</td></tr><tr><td>味噌</td><td>蛋白質、膳食纖維、發酵氨基酸、鹽分</td><td>濃郁、鹹味、發酵香</td><td>湯品或烹調調味使用，控制每日鹽分攝取</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## 常見問題與回覆
 

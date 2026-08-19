@@ -21,6 +21,8 @@ sourceVerbatim: true
 
 1.  Herrera, E., & Barbas, C. (2001). Vitamin E: Action, metabolism and perspectives. *Journal of Physiology and Biochemistry*, 57(2), 43-56.
 
+<span id="%E5%B0%8F%E9%BA%A5%E8%83%9A%E8%8A%BD%E6%B2%B9%E7%9A%84%E7%87%9F%E9%A4%8A%E6%88%90%E5%88%86%E8%88%87%E5%81%A5%E5%BA%B7%E6%A9%9F%E5%88%B6%E8%A7%A3%E6%9E%90"></span>
+
 ## **小麥胚芽油的營養成分與健康機制解析**
 
 小麥胚芽油以其豐富的營養成分和卓越的健康益處而備受推崇，其中**抗氧化能力**是它最引人矚目的特點之一。這種油脂富含天然**維生素****E**，每100克小麥胚芽油中，維生素E含量高達約150毫克，能有效中和體內的**自由基**，減少氧化壓力，進而延緩細胞老化，維持肌膚彈性與光澤(註1)。此外，它還含有豐富的**亞麻酸**和其他不飽和脂肪酸，有助於細胞修復與促進新陳代謝，對抗慢性發炎反應(註3)。
@@ -37,6 +39,8 @@ sourceVerbatim: true
 2.  《本草綱目》：「小麥，性涼，補益五臟，益氣生津，安神除煩。」
 3.  Ghosh, S., & Playford, R. J. (2003). Bioactive natural compounds for the treatment of gastrointestinal disorders. *Clinical Science*, 104(6), 547-556.
 
+<span id="%E5%B0%8F%E9%BA%A5%E8%83%9A%E8%8A%BD%E6%B2%B9%E7%9A%84%E6%8A%97%E6%B0%A7%E5%8C%96%E8%83%BD%E5%8A%9B%EF%BC%9A%E7%A7%91%E5%AD%B8%E7%A0%94%E7%A9%B6%E8%AD%89%E6%98%8E%E7%9A%84%E7%9B%8A%E8%99%95"></span>
+
 ## **小麥胚芽油的抗氧化能力：科學研究證明的益處**
 
 你知道嗎？我們身體每天都在面臨**自由基**的威脅，這些自由基會導致細胞氧化損傷，加速衰老和疾病的發生。小麥胚芽油正是對抗這一問題的天然解方，因為它富含**天然維生素****E**，是一種強效的抗氧化劑。根據科學研究，每100克小麥胚芽油提供約150-170毫克的維生素E，這是其他植物油無法比擬的(註1)。
@@ -52,6 +56,8 @@ sourceVerbatim: true
 1.  Herrera, E., & Barbas, C. (2001). Vitamin E: Action, metabolism and perspectives. *Journal of Physiology and Biochemistry*, 57(2), 43-56.
 2.  Rizwan, M., Rodriguez-Blanco, I., & Harbottle, A. (2016). Antioxidant effects of natural vitamin E in oxidative stress. *Journal of Nutrition and Biochemistry*, 37, 1-7.
 3.  Ghosh, S., & Playford, R. J. (2003). Bioactive natural compounds for the treatment of gastrointestinal disorders. *Clinical Science*, 104(6), 547-556.
+
+<span id="%E5%B0%8F%E9%BA%A5%E8%83%9A%E8%8A%BD%E6%B2%B9%E5%B0%8D%E5%BF%83%E8%87%9F%E8%88%87%E5%85%8D%E7%96%AB%E7%B3%BB%E7%B5%B1%E7%9A%84%E9%9B%99%E9%87%8D%E4%BF%9D%E8%AD%B7"></span>
 
 ## **小麥胚芽油對心臟與免疫系統的雙重保護**
 
@@ -71,6 +77,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Wheat-Germ-Oil-Benefits2-300x171.jpg)
 
+<span id="%E7%A7%91%E5%AD%B8%E5%BB%BA%E8%AD%B0%EF%BC%9A%E6%97%A5%E5%B8%B8%E5%A6%82%E4%BD%95%E9%A3%9F%E7%94%A8%E5%B0%8F%E9%BA%A5%E8%83%9A%E8%8A%BD%E6%B2%B9%EF%BC%9F"></span>
+
 ## **科學建議：日常如何食用小麥胚芽油？**
 
 了解了小麥胚芽油的多重功效後，正確的食用方式才能讓您獲得最佳的健康益處。小麥胚芽油適合用於**低溫烹調**或**直接食用**，因為高溫加熱會破壞其中的**維生素****E**和不飽和脂肪酸，降低抗氧化效果。
@@ -87,6 +95,8 @@ sourceVerbatim: true
 
 1.  Brewer, M. S. (2011). Natural antioxidants: Sources, compounds, mechanisms of action, and potential applications. *Comprehensive Reviews in Food Science and Food Safety*, 10(4), 221-247.
 
+<span id="%E4%B8%80%E5%8C%99%E5%B0%8F%E9%BA%A5%E8%83%9A%E8%8A%BD%E6%B2%B9%EF%BC%8C%E8%AE%93%E5%81%A5%E5%BA%B7%E8%88%87%E7%BE%8E%E9%BA%97%E6%82%84%E7%84%B6%E7%B6%BB%E6%94%BE"></span>
+
 ## **一匙小麥胚芽油，讓健康與美麗悄然綻放**
 
 健康，從來不是一蹴而就的奇蹟，而是源自生活中每一個細小的選擇與堅持。小麥胚芽油，這份來自自然的「液體黃金」，蘊含豐富的維生素E與多不飽和脂肪酸，為肌膚帶來天然的滋潤，為身體築起一道堅實的抗氧化屏障。它就像一位默默守護您的健康管家，輕輕撫平歲月帶來的痕跡，讓您在歲月流轉中依然綻放光彩。
@@ -95,9 +105,13 @@ sourceVerbatim: true
 
 生命是一段漫長的旅程，而健康就是這段旅程中最珍貴的資產。從今天起，讓我們把健康交給自然，讓這份小小的堅持，成為您迎接幸福與輕盈人生的開始。
 
+<span id="%E5%B0%8F%E9%BA%A5%E8%83%9A%E8%8A%BD%E6%B2%B9%EF%BC%9A%E7%87%9F%E9%A4%8A%E6%88%90%E5%88%86%E3%80%81%E5%8A%9F%E6%95%88%E8%88%87%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85%E6%AF%94%E8%BC%83%E8%A1%A8"></span>
+
 ## 小麥胚芽油：營養成分、功效與注意事項比較表
 
 <table><tbody><tr><th>項目</th><th>內容</th></tr><tr><td>主要營養成分</td><td><strong>1.維生素E</strong>：每100克約含150-170毫克，具有強效抗氧化作用。<br>2.<strong>不飽和脂肪酸</strong>：如亞麻酸、亞油酸，維持心血管健康。<br>3.<strong>植物固醇</strong>：增強免疫力，抑制發炎反應。</td></tr><tr><td>主要功效</td><td>1. <strong>抗氧化能力</strong>：中和自由基，延緩細胞老化，保護肌膚光澤彈性。<br>2. <strong>心血管健康</strong>：降低壞膽固醇（LDL），促進好膽固醇（HDL）的生成，預防動脈硬化。<br>3. <strong>增強免疫系統</strong>：抑制發炎因子釋放，提升免疫力。<br>4. <strong>肌膚保養</strong>：滋養肌膚，改善暗沉，減少細紋。<br>5. <strong>整體健康</strong>：促進新陳代謝，維持能量平衡。</td></tr><tr><td>適合人群</td><td>1. 需要改善心血管健康者<br>2. 追求肌膚保養與抗老化的人<br>3. 注重日常免疫力提升者</td></tr><tr><td>注意事項</td><td>1. <strong>過量食用</strong>：可能導致脂肪攝取過多，增加體重風險。<br>2. <strong>服用抗凝血藥物者</strong>：需諮詢醫師，以免影響血液凝固功能。<br>3. <strong>過敏者</strong>：對小麥過敏的人需避免使用。<br>4. <strong>保存方法</strong>：避免高溫與光照，建議存放於陰涼處並在2個月內食用完畢。</td></tr><tr><td>食用建議</td><td>1. 每日建議攝取量：1至2湯匙。<br>2.&nbsp;<strong>低溫食用</strong>：適合加入沙拉、果汁或涼拌料理，避免高溫破壞營養成分。<br>3. 搭配富含維生素C的食材（如奇異果、檸檬），加強抗氧化效果。</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

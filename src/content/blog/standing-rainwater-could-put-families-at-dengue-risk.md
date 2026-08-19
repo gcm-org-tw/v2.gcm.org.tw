@@ -11,11 +11,17 @@ legacyPath: "/blog/standing-rainwater-could-put-families-at-dengue-risk/"
 sourceVerbatim: true
 ---
 
+<span id="%E9%97%9C%E6%96%BC%E9%9B%A8%E5%BE%8C%E9%98%B2%E8%9A%8A%EF%BC%8C%E5%AE%B6%E5%BA%AD%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%845%E4%BB%B6%E4%BA%8B"></span>
+
 ## 關於雨後防蚊，家庭要知道的5件事
 
 你有沒有發現，家裡的 LINE 群組只要一下雨，隔天一定會有人傳登革熱新聞連結，附一句「大家要小心」，然後就沒有然後了。提醒轉發出去了，陽台那盆積水，通常還在原地。
 
 雨後防蚊聽起來像是里長廣播才會關心的事，其實它離你家陽台只有幾步路。這篇文章想陪你把「小心」兩個字，換成幾個具體到今天就能做的動作，讓你知道自己該看哪裡，而不是再多轉發一則新聞。
+
+<span id="section-0"></span>
+
+<span id="%E4%B8%80%E3%80%81%E9%9B%A8%E5%81%9C%E4%B9%8B%E5%BE%8C%EF%BC%8C%E9%99%BD%E5%8F%B0%E9%82%A3%E7%9B%86%E6%B0%B4%E5%B0%B1%E9%96%8B%E5%A7%8B%E5%80%92%E6%95%B8"></span>
 
 ## 一、雨停之後，陽台那盆水就開始倒數
 
@@ -24,6 +30,10 @@ sourceVerbatim: true
 雨停的那一刻，家裡最容易被忽略的不是屋頂漏水，是陽台花盆底盤、回收桶蓋子凹陷處，還有陽台角落那個很久沒用的水桶。這些地方平常看不出問題，一下雨，全部同時裝滿水。
 
 台灣位處亞熱帶，本來就適合病媒蚊孳生，許多居家積水容器提供了牠們最理想的繁殖場所（註1）。這不是危言聳聽，是疾病管制署年年重複提醒的原因。
+
+<span id="section-1"></span>
+
+<span id="%E4%BA%8C%E3%80%81%E7%A9%8D%E6%B0%B4%E5%A4%9A%E4%B9%85%E6%9C%83%E8%AE%8A%E6%88%90%E6%9C%83%E9%A3%9B%E7%9A%84%E8%9A%8A%E5%AD%90%EF%BC%9F"></span>
 
 ## 二、積水多久會變成會飛的蚊子？
 
@@ -34,6 +44,10 @@ sourceVerbatim: true
 以埃及斑蚊為例，卵的胚胎期約二到四天，浸水後孵化，幼蟲期五到八天，蛹期再兩到三天，加起來大約九到十五天就能發育成會飛的成蚊（註2）。也就是說，一場梅雨到下一場梅雨之間，陽台那盆水如果沒人管，很可能已經完成了一整代蚊子的養成。
 
 很多人以為「積水看起來很淺，應該沒關係」，但孑孓不挑深度，一個瓶蓋大小的凹陷，就足夠牠們長大。
+
+<span id="section-2"></span>
+
+<span id="%E4%B8%89%E3%80%81%E3%80%8C%E5%B7%A1%E3%80%81%E5%80%92%E3%80%81%E6%B8%85%E3%80%81%E5%88%B7%E3%80%8D%E5%9C%A8%E5%AE%B6%E6%80%8E%E9%BA%BC%E8%90%BD%E5%AF%A6"></span>
 
 ## 三、「巡、倒、清、刷」在家怎麼落實
 
@@ -47,12 +61,18 @@ sourceVerbatim: true
 
 <figure class="article-figure" style="margin: 24px auto; text-align: center;"><img loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 0;" src="https://writer.weiqi.kids/articles/appi.news/%E8%8D%89%E6%9C%AC%E4%B8%8A%E8%86%B3%E9%86%AB%E5%BB%9A-%E5%AD%90%E5%BD%A5(%E9%98%BF%E5%8D%A1%E8%A5%BF%E6%91%BA%E7%96%8A%E7%89%88)/issue-377/images/3.png" alt="巡、倒、清、刷四步驟防蚊流程示意圖" width="1244" height="255"><figcaption style="font-size: 0.85em; color: #666; margin-top: 8px; line-height: 1.5;">巡、倒、清、刷四步驟防蚊流程示意圖</figcaption></figure>
 
+<span id="%E4%BD%A0%E4%BB%8A%E5%A4%A9%E5%B0%B1%E8%83%BD%E5%81%9A%E7%9A%84%E4%BA%8B"></span>
+
 ### 你今天就能做的事
 
 1.  **巡**：花五分鐘走一圈陽台、頂樓、後陽台，特別看花盆底盤、水桶、回收物堆放處。
 2.  **倒**：看到積水立刻倒掉，順手把容器倒扣，減少下一場雨再次積水的機會。
 3.  **清**：確定不用的容器直接清出家門，別讓它變成「下次再處理」的孳生源。
 4.  **刷**：正在使用的水桶、水缸每週刷洗內壁一次，蟲卵附著在容器壁上，只倒水沖不掉。
+
+<span id="section-3"></span>
+
+<span id="%E5%9B%9B%E3%80%81%E5%B8%B8%E8%A6%8B%E7%A9%8D%E6%B0%B4%E7%86%B1%E9%BB%9E%E6%AF%94%E4%B8%80%E6%AF%94%EF%BC%8C%E5%93%AA%E5%80%8B%E9%A2%A8%E9%9A%AA%E6%9C%80%E9%AB%98"></span>
 
 ## 四、常見積水熱點比一比，哪個風險最高
 
@@ -61,6 +81,10 @@ sourceVerbatim: true
 不是每個積水點風險都一樣，先搞清楚自己家裡的熱點在哪，巡檢才不會白費力氣。
 
 <table class="comparison-table" style="width: 100%; border-collapse: collapse; font-size: 0.95em; border: 3px solid #1B5E4B;"><thead><tr><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">積水熱點</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">常見位置</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">孳生風險</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">建議處理方式</th></tr></thead><tbody><tr><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">花盆底盤</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">陽台、庭院</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">高，最容易被忽略</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">每次澆花後倒掉底盤積水</td></tr><tr><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">廢棄輪胎</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">頂樓、後院</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">高，深且不易發現</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">直接清除或加蓋</td></tr><tr><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">空瓶、鐵鋁罐</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">頂樓、防火巷</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">中，量多分散</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">倒扣或盡快回收</td></tr><tr><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">使用中儲水容器</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">陽台、頂樓</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">中，長期存在</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">加蓋，每週刷洗內壁</td></tr><tr><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">帆布、防水布皺褶</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">頂樓、施工區</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">中偏高，皺褶藏水不易察覺</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">拉平固定或收起</td></tr><tr><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">屋簷排水凹槽</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">屋頂、外牆</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">中，容易堵塞積水</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">定期清疏落葉雜物</td></tr></tbody></table>
+
+<span id="section-4"></span>
+
+<span id="%E4%BA%94%E3%80%81%E5%AD%A9%E5%AD%90%E9%A1%8D%E9%A0%AD%E7%99%BC%E7%87%99%E7%9A%84%E9%82%A3%E4%B8%80%E5%88%BB%EF%BC%8C%E7%88%B8%E5%AA%BD%E5%9C%A8%E6%83%B3%E4%BB%80%E9%BA%BC"></span>
 
 ## 五、孩子額頭發燙的那一刻，爸媽在想什麼
 
@@ -74,6 +98,10 @@ sourceVerbatim: true
 > 
 > 另一項針對社區參與登革熱防治的研究也發現，多數居民雖然認同社區防治的重要性，實際參與環境清潔行動的比例卻明顯偏低（註4）。換言之，光是知道要防蚊還不夠，真正落實在每週的具體行動，才是差別所在。
 
+<span id="section-5"></span>
+
+<span id="%E5%85%AD%E3%80%81%E8%80%81%E7%A5%96%E5%AE%97%E6%80%8E%E9%BA%BC%E7%9C%8B%E6%BD%AE%E6%BF%95%E7%92%B0%E5%A2%83"></span>
+
 ## 六、老祖宗怎麼看潮濕環境
 
 **中醫典籍很早就注意到潮濕環境對身體的影響，這個觀念的重點在提醒你把環境顧好，不在治病。**
@@ -84,6 +112,10 @@ sourceVerbatim: true
 > 
 > 需要說清楚的是，這段引文是觀念詮釋，不是治療登革熱或任何疾病的證據，古人談的是身體對潮濕環境的整體感受，不是病媒蚊防治的科學根據。但這個「環境清爽、通風、減少潮濕角落」的生活智慧，剛好與現代病媒蚊防治的邏輯不謀而合，都是從源頭讓問題沒有滋生的空間。
 
+<span id="section-6"></span>
+
+<span id="%E4%B8%83%E3%80%81%E8%A6%AA%E5%AD%90%E9%9B%A8%E5%BE%8C%E5%B7%A1%E6%AA%A2%EF%BC%8C%E8%AE%93%E5%AD%A9%E5%AD%90%E4%B9%9F%E7%95%B6%E9%98%B2%E8%9A%8A%E9%9A%8A%E5%93%A1"></span>
+
 ## 七、親子雨後巡檢，讓孩子也當防蚊隊員
 
 **把巡檢變成一個小任務，孩子問「這盆水放著可以嗎？」你回答「倒掉比較安心」，就是最好的機會教育。**
@@ -91,6 +123,10 @@ sourceVerbatim: true
 比起一直叮嚀孩子「不要被蚊子咬」，不如給孩子一個具體任務。雨後帶孩子一起走一圈陽台，讓他負責「找積水」，你負責「倒掉並記錄」，找到幾處、倒了幾次，貼在冰箱上當作這週的小紀錄。孩子在遊戲中學會的觀察習慣，往往比大人口頭提醒更持久。
 
 這也呼應前面提到的研究結論：家庭層級的知識與參與程度越高，防治行為的落實度也越高（註4）。與其每次下雨都焦慮，不如把它變成家裡固定的週間小任務。
+
+<span id="section-7"></span>
+
+<span id="%E7%B5%90%E8%AA%9E%EF%BC%9A%E4%B8%80%E5%80%8B%E5%B0%8F%E5%8B%95%E4%BD%9C%EF%BC%8C%E7%B5%A6%E5%85%A8%E5%AE%B6%E5%A4%9A%E4%B8%80%E5%88%86%E5%AE%89%E5%BF%83"></span>
 
 ## 結語：一個小動作，給全家多一分安心
 
@@ -125,6 +161,8 @@ sourceVerbatim: true
 已經倒過積水了，家裡還是有蚊子飛進來怎麼辦？
 
 先確認自己家和鄰近公共區域的積水是否都清乾淨，蚊子的活動範圍可達百公尺，鄰居家或社區公共區域沒處理，你家一樣會受影響，這也是為什麼社區共同參與比單一家戶努力更關鍵（註4）。
+
+<span id="%E8%8D%89%E6%9C%AC%E4%B8%8A%E8%86%B3%E9%86%AB%E5%BB%9A%EF%BC%8D%E9%BB%83%E5%AD%90%E5%BD%A5"></span>
 
 ### 草本上膳醫廚－黃子彥
 

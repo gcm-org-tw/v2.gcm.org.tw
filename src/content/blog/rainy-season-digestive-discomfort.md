@@ -11,15 +11,21 @@ legacyPath: "/blog/rainy-season-digestive-discomfort/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80"></span>
+
 ## **引言**
 
 你有沒有發現，一到梅雨季，腸胃就特別愛鬧？明明吃得差不多，卻開始**胃脹、悶、噁心、食慾差**，甚至忽然軟便。這其實很常見。因為梅雨季最麻煩的是「**濕＋冷**」一起來：濕讓你身體覺得沉、容易想吃重口味；冷又讓腸胃節奏更敏感。這篇會用最白話的方式，帶你把 **梅雨季脾胃保養** 做成「可執行」：先分清你是吃壞還是功能性不適，再整理**濕冷食物雷區**，最後講清楚**去濕中藥材**怎麼用才安全、不翻車。
 
 ![](/wp-content/uploads/Rainy-Season-Digestive-Discomfort1-1024x688.jpg)
 
+<span id="%E6%A2%85%E9%9B%A8%E5%AD%A3%E8%84%BE%E8%83%83%E4%BF%9D%E9%A4%8A%E5%9C%A8%E5%81%9A%E4%BB%80%E9%BA%BC%EF%BC%9F%E7%82%BA%E4%BB%80%E9%BA%BC%E4%B8%80%E4%B8%8B%E9%9B%A8%E8%85%B8%E8%83%83%E5%B0%B1%E4%B8%8D%E7%A9%A9%EF%BC%9F"></span>
+
 ## **梅雨季脾胃保養在做什麼？為什麼一下雨腸胃就不穩？**
 
 你有沒有發現，平常吃同樣的東西沒事，一到梅雨季就開始**胃脹、悶、噁心、食慾差**，甚至忽然軟便？別急著怪自己「玻璃胃」。梅雨季的關鍵常常是：**濕度高＋體感偏冷＋作息更亂**，腸胃像被迫切到「敏感模式」。一方面，功能性消化不良本來就常見上腹脹、早飽、噁心、打嗝等症狀，壓力、睡不好、吃太快都會把它放大 (註1)；另一方面，研究也觀察到\*\*氣象條件（溫度、相對濕度、降雨）\*\*會跟腹瀉等腸胃症狀的發生率一起波動，雨季更容易看到上升 (註2)。所以「梅雨季脾胃保養」其實不是補一堆，而是先把環境＋習慣造成的刺激降下來：讓腸胃有機會回到穩定節奏。
+
+<span id="%E4%BD%A0%E4%BB%A5%E7%82%BA%E6%98%AF%E5%90%83%E5%A3%9E%E8%82%9A%E5%AD%90%EF%BC%9A%E5%85%B6%E5%AF%A6%E6%98%AF%E3%80%8C%E6%BF%95%EF%BC%8B%E5%86%B7%E3%80%8D%E8%AE%93%E8%85%B8%E8%83%83%E7%AF%80%E5%A5%8F%E4%BA%82%E6%8E%89"></span>
 
 ## **你以為是吃壞肚子：其實是「濕＋冷」讓腸胃節奏亂掉**
 
@@ -31,6 +37,8 @@ sourceVerbatim: true
 -   **功能性不適**：常是反覆發作、跟作息／壓力／冰冷刺激更相關，症狀會拖，但不一定發燒。
 
 你不用在家自己診斷到滿分；你只要先抓到「我現在像哪一邊」，後面調整才不會用錯力。
+
+<span id="%E6%BF%95%E5%86%B7%E9%A3%9F%E7%89%A9%E9%9B%B7%E5%8D%80%EF%BC%9A%E5%93%AA%E4%BA%9B%E8%B6%8A%E5%90%83%E8%B6%8A%E8%84%B9%E3%80%81%E8%B6%8A%E5%90%83%E8%B6%8A%E6%8B%89%EF%BC%9F%EF%BC%88%E5%90%AB%E5%A4%96%E9%A3%9F%EF%BC%8F%E6%89%8B%E6%90%96%E9%81%BF%E9%9B%B7%EF%BC%89"></span>
 
 ## **濕冷食物雷區：哪些越吃越脹、越吃越拉？（含外食／手搖避雷）**
 
@@ -45,6 +53,8 @@ sourceVerbatim: true
 外食怎麼做最穩？把「**去冰、減糖、少炸、早一點吃完**」當基本盤；如果真的想喝手搖，選溫／常溫、無奶、無加料，比較不容易踩雷。
 
 ![](/wp-content/uploads/Rainy-Season-Digestive-Discomfort5-1024x684.jpg)
+
+<span id="%E5%8E%BB%E6%BF%95%E6%80%8E%E9%BA%BC%E5%81%9A%E6%89%8D%E5%AE%89%E5%85%A8%EF%BC%9F%E6%97%A5%E5%B8%B8%E8%AA%BF%E6%95%B4%EF%BC%8B%E5%B8%B8%E8%A6%8B%E5%8E%BB%E6%BF%95%E4%B8%AD%E8%97%A5%E6%9D%90%E7%9A%84%E4%BD%BF%E7%94%A8%E9%82%8F%E8%BC%AF"></span>
 
 ## **去濕怎麼做才安全？日常調整＋常見去濕中藥材的使用邏輯**
 
@@ -67,11 +77,15 @@ sourceVerbatim: true
 ⚠️ 但請記得：  
 **孕期、慢性病用藥、腎功能問題、低血壓、容易口乾便祕者**，不要自行長期大量使用。若症狀超過 2 週、伴隨體重下降、黑便、發燒或劇烈腹痛，請就醫評估。
 
+<span id="%E7%B5%90%E8%AB%96"></span>
+
 ## **結論**
 
 梅雨季的腸胃不適，很多時候不是你突然變脆弱，而是「**濕＋冷**」把腸胃推進了敏感模式。要做的不是猛補、不是硬把濕逼出去，而是把節奏扶回來：**第一，先降刺激**（避開冰＋奶＋甜、炸＋辣＋酒、宵夜＋高脂＋咖啡這類組合拳）；**第二，抓住日常四原則**（溫、淡、規律、飯後輕動）；**第三，去濕藥材只當輔助**，像陳皮、茯苓、薏苡仁、白朮這類都各有定位，但更重要的是「用對情境、用對量」。最後提醒你：如果腹痛劇烈、發燒、黑便、體重下降，或症狀拖超過兩週，別硬撐，該就醫評估就交給專業——你要的是安心變穩，不是忍耐到更糟。
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #1F3D36; font-family: Arial, 'Noto Sans TC', sans-serif;"><tbody><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="border: 3px solid #1F3D36; padding: 10px; text-align: left;">比較面向</th><th style="border: 3px solid #1F3D36; padding: 10px; text-align: left;">濕冷雷區食物（雨季更容易出事）</th><th style="border: 3px solid #1F3D36; padding: 10px; text-align: left;">友善腸胃食物（雨季更容易穩）</th></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1F3D36; padding: 10px;">核心特徵</td><td style="border: 3px solid #1F3D36; padding: 10px;">冰、甜、油、奶、酒、辣「組合拳」</td><td style="border: 3px solid #1F3D36; padding: 10px;">溫、淡、軟、熟、少油、規律</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1F3D36; padding: 10px;">飲料</td><td style="border: 3px solid #1F3D36; padding: 10px;">冰飲、加料手搖、奶茶、含糖汽水、酒精</td><td style="border: 3px solid #1F3D36; padding: 10px;">溫開水、溫熱茶飲（淡）、常溫無糖飲</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1F3D36; padding: 10px;">主食／澱粉</td><td style="border: 3px solid #1F3D36; padding: 10px;">油炸麵包、酥皮點心、太甜的糕點</td><td style="border: 3px solid #1F3D36; padding: 10px;">白粥、地瓜、白飯、麵線（清淡）</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1F3D36; padding: 10px;">蛋白質</td><td style="border: 3px solid #1F3D36; padding: 10px;">炸雞、鹽酥雞、重口味烤肉、加工肉</td><td style="border: 3px solid #1F3D36; padding: 10px;">清蒸魚、雞胸／雞腿去皮、豆腐、蛋（少油）</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1F3D36; padding: 10px;">蔬菜</td><td style="border: 3px solid #1F3D36; padding: 10px;">生菜沙拉（腸胃已鬧時）、辛辣重調味</td><td style="border: 3px solid #1F3D36; padding: 10px;">熟蔬菜（燙／蒸／煮）、瓜類、菇類（清淡煮）</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1F3D36; padding: 10px;">湯品</td><td style="border: 3px solid #1F3D36; padding: 10px;">麻辣鍋、濃湯、奶油濃湯、重鹹湯</td><td style="border: 3px solid #1F3D36; padding: 10px;">清湯、蔬菜湯、味噌湯（不重鹹不油）</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1F3D36; padding: 10px;">甜點／水果</td><td style="border: 3px solid #1F3D36; padding: 10px;">冰品、奶酪、甜炸物、太冰太甜水果</td><td style="border: 3px solid #1F3D36; padding: 10px;">常溫水果少量、溫熱點心（低糖）</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1F3D36; padding: 10px;">最容易踩雷的「組合」</td><td style="border: 3px solid #1F3D36; padding: 10px;">冰＋奶＋甜／炸＋辣＋酒／宵夜＋高脂＋咖啡</td><td style="border: 3px solid #1F3D36; padding: 10px;">溫＋淡＋早一點吃完／飯後慢走 10–15 分鐘</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1F3D36; padding: 10px;">外食怎麼避雷</td><td style="border: 3px solid #1F3D36; padding: 10px;">「重口味＋加冰＋加料」一次全中</td><td style="border: 3px solid #1F3D36; padding: 10px;">先求「不冰、少油、減醬、慢慢吃」</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1F3D36; padding: 10px;">適用情境</td><td style="border: 3px solid #1F3D36; padding: 10px;">腸胃已經脹、反酸、軟便時：先暫停雷區 48–72 小時</td><td style="border: 3px solid #1F3D36; padding: 10px;">腸胃正在恢復期：用友善選擇把節奏拉回來</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C"></span>
 
 ## **常見問題**
 

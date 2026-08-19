@@ -27,6 +27,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/TCM-Scalp-Health-Tips2-1024x583.jpg)
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E9%A0%AD%E7%9A%AE%E5%95%8F%E9%A1%8C%E7%B8%BD%E6%98%AF%E5%8F%8D%E8%A6%86%EF%BC%9F%E4%B8%AD%E9%86%AB%E8%AA%BF%E7%90%86%E9%A0%AD%E7%9A%AE%E5%81%A5%E5%BA%B7%E7%9A%84%E6%96%B9%E6%A1%88%E6%80%8E%E9%BA%BC%E5%81%9A%EF%BC%9F"></span>
+
 ## **為什麼頭皮問題總是反覆？中醫調理頭皮健康的方案怎麼做？**
 
 你是否也有過這樣的經驗：不論用了多少洗髮產品，頭皮依然出油、搔癢、甚至掉髮？問題也許不在頭皮本身，而是體內的氣血出了狀況。從中醫角度來看，頭皮問題常與「氣血不暢」、「肝火旺盛」或「脾胃虛弱」有關，這些都是人體內在失衡的反映，而不只是表面的清潔不當。《黃帝內經》中早有記載：「氣血不和，則百病叢生。」頭皮也不例外，它就像一塊需要灌溉的田地，氣血就是滋養毛囊的水源，若循環不良，頭皮自然容易失衡。
@@ -36,6 +38,8 @@ sourceVerbatim: true
 不過，許多讀者可能忽略了一點：單靠外用洗劑或精油，往往只是暫時舒緩，無法從根本調理頭皮健康。就像農地需要施肥與灌溉雙管齊下，頭皮也需「內調外養」才能穩定改善。中醫師在臨床中會依照個人體質，選擇益氣補血、疏肝解鬱或健脾利濕的方式，搭配飲食與生活作息的調整，達到整體調理效果。
 
 當然，過度進補或自行亂用草藥也可能造成反效果，像是體質偏燥者若誤服溫補中藥，反而會加重頭皮癢或脫屑的情況。因此，建議你在調理前，務必諮詢專業中醫師，針對個人狀況量身規劃，才能安心又有效。
+
+<span id="%E6%94%B9%E5%96%84%E9%A0%AD%E7%9A%AE%E8%A1%80%E5%BE%AA%E9%9D%A0%E4%BB%80%E9%BA%BC%EF%BC%9F%E9%9D%88%E8%8A%9D%E3%80%81%E5%8C%97%E8%9F%B2%E8%8D%89%E8%88%87%E7%B4%8D%E8%B1%86%E8%83%BD%E5%B9%AB%E4%BB%80%E9%BA%BC%E5%BF%99%EF%BC%9F"></span>
 
 ## **改善頭皮血循靠什麼？靈芝、北蟲草與納豆能幫什麼忙？**
 
@@ -49,6 +53,8 @@ sourceVerbatim: true
 
 不過，也要注意這三種成分皆具有一定的生理活性，建議依個人情況使用。例如靈芝可能與抗凝血藥交互作用、納豆不適合服用華法林者，北蟲草則應避免過量使用於腎功能不全者。最理想的方式，仍是諮詢專業醫師，量身制定出最適合自己的調理配方。
 
+<span id="%E4%B8%AD%E8%A5%BF%E9%86%AB%E6%80%8E%E9%BA%BC%E7%9C%8B%E9%A0%AD%E7%9A%AE%E5%BE%AE%E7%92%B0%E5%A2%83%EF%BC%9F%E5%B0%88%E6%A5%AD%E5%BB%BA%E8%AD%B0%E8%88%87%E5%B8%B8%E8%A6%8B%E8%BF%B7%E6%80%9D%E7%A0%B4%E8%A7%A3"></span>
+
 ## **中西醫怎麼看頭皮微環境？專業建議與常見迷思破解**
 
 你是否曾聽過「洗頭太常會掉髮」或「頭皮出油就代表不乾淨」這些說法？其實，許多與頭皮有關的觀念，既有誤解，也藏著健康的關鍵。在中西醫的觀點中，「頭皮微環境」扮演著不可忽視的角色，既是毛囊的生長土壤，也是健康髮絲的養分供應所。
@@ -58,6 +64,8 @@ sourceVerbatim: true
 此外，許多人誤以為天天洗頭會讓頭髮越洗越少，事實上，真正關鍵在於洗髮的方式與產品選擇。中西醫皆認為過度去油會破壞皮脂膜，反而刺激頭皮分泌更多油脂。理想的洗髮頻率應根據個人頭皮狀況調整，若為油性頭皮建議每日溫和清潔，乾性頭皮則可隔天洗一次，搭配適度按摩促進血循，達到養護平衡。
 
 當然，若出現頭皮長期發炎、頭皮屑增多、或局部斑禿等現象，代表微環境已經嚴重失衡，單靠保養品難以解決。這時建議儘早尋求專業中醫或皮膚科診斷，從「辨證論治」的角度出發，可能透過疏肝理氣、補腎養血、健脾化濕等方式進行個別化調理，搭配西醫的頭皮管理與飲食調整，才能真正重建頭皮的自然生態。
+
+<span id="%E5%BE%9E%E6%A0%B9%E6%BA%90%E6%94%B9%E5%96%84%E9%A0%AD%E7%9A%AE%E5%81%A5%E5%BA%B7%EF%BC%9A%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E4%B8%AD%E5%8F%AF%E4%BB%A5%E9%80%99%E6%A8%A3%E5%81%9A%EF%BC%81"></span>
 
 ## **從根源改善頭皮健康：日常生活中可以這樣做！**
 
@@ -72,6 +80,8 @@ sourceVerbatim: true
 當然，如果你有長期困擾的頭皮屑、油脂過多或局部掉髮問題，不妨諮詢專業中醫師，進行體質辨證與個別化調理。有時候，一點點正確的引導，就能讓保養事半功倍。
 
 你的頭皮，其實一直都在默默承受生活的壓力。是時候給它一點呵護了，不是嗎？
+
+<span id="%E9%A0%AD%E7%9A%AE%E5%B0%B1%E5%83%8F%E5%9C%9F%E5%A3%A4%EF%BC%8C%E6%B0%A3%E8%A1%80%E6%98%AF%E7%81%8C%E6%BA%89%E7%9A%84%E6%B0%B4%E6%BA%90"></span>
 
 ## **頭皮就像土壤，氣血是灌溉的水源**
 
@@ -95,17 +105,25 @@ sourceVerbatim: true
 
 <table style="border-collapse: collapse; width: 100%; border: 3px solid #2A9D8F; font-family: Arial, sans-serif;"><thead><tr style="background-color: #2a9d8f; color: white; font-weight: bold;"><th style="padding: 12px; border: 3px solid #2A9D8F;">成分名稱</th><th style="padding: 12px; border: 3px solid #2A9D8F;">來源與中醫應用</th><th style="padding: 12px; border: 3px solid #2A9D8F;">主要功效</th><th style="padding: 12px; border: 3px solid #2A9D8F;">生理機轉</th><th style="padding: 12px; border: 3px solid #2A9D8F;">注意事項</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #2A9D8F;">靈芝子實體</td><td style="padding: 12px; border: 3px solid #2A9D8F;">中醫認為為“補氣安神”之上品藥，《神農本草經》列為上品</td><td style="padding: 12px; border: 3px solid #2A9D8F;">舒壓安神、抗氧化、改善頭皮微環境</td><td style="padding: 12px; border: 3px solid #2A9D8F;">多醣體與三萜類具抗壓與調節免疫功能，減少壓力型掉髮</td><td style="padding: 12px; border: 3px solid #2A9D8F;">可能影響凝血功能，與抗凝藥物併用需醫師指導</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px; border: 3px solid #2A9D8F;">北蟲草子實體</td><td style="padding: 12px; border: 3px solid #2A9D8F;">屬於補腎益肺藥材，強化氣血，改善循環</td><td style="padding: 12px; border: 3px solid #2A9D8F;">促進氣血流通、增強毛囊供養</td><td style="padding: 12px; border: 3px solid #2A9D8F;">蟲草素與腺苷可擴張血管、增加微血流</td><td style="padding: 12px; border: 3px solid #2A9D8F;">糖尿病或腎功能不全者應慎用</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #2A9D8F;">納豆發酵萃取</td><td style="padding: 12px; border: 3px solid #2A9D8F;">現代營養學重視其發酵酵素與維生素K2含量</td><td style="padding: 12px; border: 3px solid #2A9D8F;">改善血液流動性、促進頭皮營養輸送</td><td style="padding: 12px; border: 3px solid #2A9D8F;">納豆激酶可溶解微血栓、K2維持血管彈性</td><td style="padding: 12px; border: 3px solid #2A9D8F;">正服用抗凝血劑（如華法林）者不宜過量食用</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E2%9D%93%E5%95%8F%E9%A1%8C1%EF%BC%9A%E6%88%91%E6%AF%8F%E5%A4%A9%E6%B4%97%E9%A0%AD%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E9%A0%AD%E7%9A%AE%E9%82%84%E6%98%AF%E6%B2%B9%E8%86%A9%E7%94%9A%E8%87%B3%E7%99%BC%E7%99%A2%EF%BC%9F"></span>
 
 ### **❓****問題1****：我每天洗頭，為什麼頭皮還是油膩甚至發癢？**
 
 **回覆**：  
 這可能不是洗頭的頻率問題，而是**頭皮微環境失衡**的警訊。中醫認為「濕熱內蘊」會導致皮脂分泌異常，若伴隨壓力、睡眠不良，更容易讓頭皮變得敏感、發癢。建議您選擇溫和、不含強效去油成分的洗髮品，並避免水溫過高（約37-40°C最適合）。可嘗試搭配中藥草本洗髮水，如桑葉、側柏葉煎湯洗頭，有助於清熱止癢、穩定皮脂分泌。同時調整作息、減少熬夜，也是穩定頭皮的關鍵之一。
 
+<span id="%E2%9D%93%E5%95%8F%E9%A1%8C2%EF%BC%9A%E9%9D%88%E8%8A%9D%E3%80%81%E5%8C%97%E8%9F%B2%E8%8D%89%E5%92%8C%E7%B4%8D%E8%B1%86%E7%99%BC%E9%85%B5%E8%90%83%E5%8F%96%EF%BC%8C%E8%A9%B2%E6%80%8E%E9%BA%BC%E9%81%B8%EF%BC%9F%E5%8F%AF%E4%BB%A5%E4%B8%80%E8%B5%B7%E8%A3%9C%E5%85%85%E5%97%8E%EF%BC%9F"></span>
+
 ### **❓****問題2****：靈芝、北蟲草和納豆發酵萃取，該怎麼選？可以一起補充嗎？**
 
 **回覆**：  
 這三種成分各有特色，也可以**視個人體質適量搭配使用**。靈芝適合壓力大、易煩躁、失眠的人；北蟲草較適合氣血循環不良、體質虛弱者；納豆發酵萃取則適合關注血液循環與心血管健康的人。若有多重需求，可在中醫師指導下進行個別化調理，但也需留意**靈芝與納豆可能影響凝血功能**，若正在服用抗凝血藥，請務必諮詢醫師再行補充。
+
+<span id="%E2%9D%93%E5%95%8F%E9%A1%8C3%EF%BC%9A%E9%99%A4%E4%BA%86%E8%A3%9C%E5%85%85%E7%94%A2%E5%93%81%EF%BC%8C%E6%88%91%E5%8F%AF%E4%BB%A5%E6%80%8E%E9%BA%BC%E5%9C%A8%E7%94%9F%E6%B4%BB%E4%B8%AD%E6%94%B9%E5%96%84%E9%A0%AD%E7%9A%AE%E5%81%A5%E5%BA%B7%EF%BC%9F"></span>
 
 ### **❓****問題3****：除了補充產品，我可以怎麼在生活中改善頭皮健康？**
 
@@ -117,10 +135,14 @@ sourceVerbatim: true
 3.  **按摩**：每天可按摩「百會」、「風池」、「太陽」等穴位，促進頭皮氣血流通。  
     這些看似簡單的行動，長期累積將大大改善毛囊環境與髮絲品質。
 
+<span id="%E2%9D%93%E5%95%8F%E9%A1%8C4%EF%BC%9A%E4%B8%AD%E9%86%AB%E8%AA%AA%E2%80%9C%E8%85%8E%E8%97%8F%E7%B2%BE%EF%BC%8C%E5%85%B6%E8%8F%AF%E5%9C%A8%E9%AB%AE%E2%80%9D%EF%BC%8C%E9%80%99%E8%88%87%E6%8E%89%E9%AB%AE%E6%9C%89%E4%BB%80%E9%BA%BC%E9%97%9C%E8%81%AF%EF%BC%9F"></span>
+
 ### **❓****問題4****：中醫說“****腎藏精，其華在髮”****，這與掉髮有什麼關聯？**
 
 **回覆**：  
 這句出自《黃帝內經》，意思是：腎為先天之本，主管人體的精氣，而毛髮就是腎精是否充足的外在顯現。若因壓力大、過勞、作息混亂導致腎氣虛損，就容易出現掉髮、髮質變細等問題。這類型掉髮常伴隨腰痠、疲倦、夜尿多等症狀。建議可搭配補腎藥膳（如枸杞雞湯、黑豆山藥排骨湯），並減少熬夜，補足腎氣，自然髮質也會穩定下來。
+
+<span id="%E2%9D%93%E5%95%8F%E9%A1%8C5%EF%BC%9A%E6%88%91%E9%A0%AD%E9%AB%AE%E6%9C%80%E8%BF%91%E6%8E%89%E5%BE%97%E5%A4%9A%EF%BC%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E9%96%8B%E5%A7%8B%E7%A6%BF%E9%A0%AD%E4%BA%86%EF%BC%9F%E8%A9%B2%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F"></span>
 
 ### **❓****問題5****：我頭髮最近掉得多，是不是開始禿頭了？該怎麼辦？**
 

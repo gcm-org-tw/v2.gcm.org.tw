@@ -12,6 +12,8 @@ legacyPath: "/blog/summer-mosquito-checklist-dengue-japanese-encephalitis-outdoo
 sourceVerbatim: true
 ---
 
+<span id="%E7%99%BB%E9%9D%A9%E7%86%B1%E8%88%87%E6%97%A5%E6%9C%AC%E8%85%A6%E7%82%8E%EF%BC%9A%E5%90%8C%E7%82%BA%E8%9A%8A%E5%AA%92%E5%82%B3%E6%9F%93%E7%97%85%EF%BC%8C%E9%98%B2%E8%AD%B7%E9%82%8F%E8%BC%AF%E6%88%AA%E7%84%B6%E4%B8%8D%E5%90%8C"></span>
+
 ## 登革熱與日本腦炎：同為蚊媒傳染病，防護邏輯截然不同
 
 台灣曾在大型流行年出現單週本土登革熱病例破千的高峰，例如2023年單週新增逾2,000例；然而各年疫情規模差異顯著，應以疾管署最新疫情資料為準。（註1）傳播登革熱的埃及斑蚊從產卵至羽化僅需七至十天，一個不起眼的積水容器便可能在兩週內成為社區傳播源。
@@ -26,6 +28,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/ec78db5a-0a32-4688-8d3d-e8a2481216b5/paragraph-seg-1-1783921356339-b50284f6.jpg" alt="登革熱與日本腦炎：同為蚊媒傳染病，防護邏輯截然不同"></figure>
 
+<span id="sec-1"></span>
+
+<span id="%E9%9B%A8%E5%BE%8C%E7%A9%8D%E6%B0%B4%E6%B8%85%E9%99%A4%EF%BC%9A%E3%80%8C%E5%B7%A1%E3%80%81%E5%80%92%E3%80%81%E6%B8%85%E3%80%81%E5%88%B7%E3%80%8D%E5%9B%9B%E6%AD%A5%E9%A9%9F%E7%9A%84%E7%A7%91%E5%AD%B8%E4%BE%9D%E6%93%9A"></span>
+
 ## 雨後積水清除：「巡、倒、清、刷」四步驟的科學依據
 
 埃及斑蚊卵在靜止水體中最短約七至十天即可完成孵化至成蚊的生活週期，雨後積水若逾一週未清除，便可能孳生下一批成蚊。病媒蚊孳生無需大面積水域，瓶蓋大小的靜止積水即已足夠。
@@ -39,6 +45,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/ec78db5a-0a32-4688-8d3d-e8a2481216b5/paragraph-seg-2-1783921469231-727a09cc.jpg" alt="雨後積水清除：「巡、倒、清、刷」四步驟的科學依據"></figure>
+
+<span id="sec-2"></span>
+
+<span id="%E6%88%B6%E5%A4%96%E9%98%B2%E8%9A%8A%EF%BC%9A%E8%A1%A3%E7%89%A9%E9%81%B8%E6%93%87%E8%88%87%E5%90%88%E6%A0%BC%E9%A9%85%E8%9A%8A%E6%88%90%E5%88%86%E7%9A%84%E4%BD%BF%E7%94%A8%E5%8E%9F%E5%89%87"></span>
 
 ## 戶外防蚊：衣物選擇與合格驅蚊成分的使用原則
 
@@ -56,6 +66,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/ec78db5a-0a32-4688-8d3d-e8a2481216b5/paragraph-seg-3-1783921414216-f897a9e8.jpg" alt="戶外防蚊：衣物選擇與合格驅蚊成分的使用原則"></figure>
 
+<span id="sec-3"></span>
+
+<span id="%E5%B9%BC%E5%85%92%E6%97%A5%E6%9C%AC%E8%85%A6%E7%82%8E%E7%96%AB%E8%8B%97%EF%BC%9A%E5%AE%8C%E6%95%B4%E6%8E%A5%E7%A8%AE%E5%8A%91%E6%AC%A1%E8%88%87%E8%A3%9C%E6%8E%A5%E7%A8%AE%E8%A9%95%E4%BC%B0"></span>
+
 ## 幼兒日本腦炎疫苗：完整接種劑次與補接種評估
 
 完整接種日本腦炎疫苗，是目前預防日本腦炎最有效的個人防護手段，疫苗保護力在臨床研究中獲得充分支持，非環境防護或驅蚊產品所能替代。
@@ -66,6 +80,8 @@ sourceVerbatim: true
 
 對於高風險成人族群，包括長期在水田、農業區工作者及計畫前往日本腦炎流行地區的旅遊者，自費補接種值得認真評估，建議諮詢旅遊醫學門診或感染科醫師，依個人風險狀況決定是否補接種。
 
+<span id="%E7%99%BB%E9%9D%A9%E7%86%B1%E8%88%87%E6%97%A5%E6%9C%AC%E8%85%A6%E7%82%8E%EF%BC%9A%E7%96%BE%E7%97%85%E7%89%B9%E6%80%A7%E5%B0%8D%E7%85%A7"></span>
+
 ### 登革熱與日本腦炎：疾病特性對照
 
 <table><thead><tr><th>比較項目</th><th>登革熱</th><th>日本腦炎</th></tr></thead><tbody><tr><td><strong>傳播蚊種</strong></td><td>埃及斑蚊、白線斑蚊</td><td>三斑家蚊（為主）</td></tr><tr><td><strong>孳生環境</strong></td><td>城市積水容器（盆栽底盤、輪胎、冷氣排水盤）</td><td>農村水田、灌溉溝渠</td></tr><tr><td><strong>動物宿主</strong></td><td>無（人與人之間經蚊傳播）</td><td>豬、水鳥（人為終端宿主）</td></tr><tr><td><strong>主要症狀</strong></td><td>高燒、頭痛、骨骼關節劇痛，少數出血熱</td><td>多數無症狀；少數侵犯中樞神經，引發腦炎</td></tr><tr><td><strong>嚴重後遺症</strong></td><td>登革出血熱、休克</td><td>永久性神經損傷、認知功能受損</td></tr><tr><td><strong>有無疫苗</strong></td><td>❌ 台灣目前無常規疫苗可接種</td><td>✅ 有安全有效疫苗，已納入兒童常規接種</td></tr><tr><td><strong>主要預防策略</strong></td><td>清除積水、巡倒清刷，消滅孳生源</td><td>按時接種疫苗＋避免靠近水田畜舍</td></tr></tbody></table>
@@ -75,6 +91,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/ec78db5a-0a32-4688-8d3d-e8a2481216b5/paragraph-seg-4-1783921595198-4cd49725.jpg" alt="幼兒日本腦炎疫苗：完整接種劑次與補接種評估"></figure>
+
+<span id="sec-4"></span>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%EF%BD%9C%E5%A4%8F%E5%AD%A3%E9%98%B2%E8%9A%8A%E6%8C%87%E5%BC%95%EF%BC%9A%E7%99%BB%E9%9D%A9%E7%86%B1%E3%80%81%E6%97%A5%E6%9C%AC%E8%85%A6%E7%82%8E%E8%88%87%E6%88%B6%E5%A4%96%E6%B4%BB%E5%8B%95%E9%98%B2%E8%AD%B7"></span>
 
 ## 常見問題｜夏季防蚊指引：登革熱、日本腦炎與戶外活動防護
 

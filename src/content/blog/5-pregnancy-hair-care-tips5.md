@@ -22,9 +22,13 @@ sourceVerbatim: true
 2.  Evaluation of the Safety and Effectiveness of Nutritional Supplements for Treating Hair Loss: A Systematic Review. *JAMA Dermatol*. 2023;159(1):79–86.
 3.  Shen L, Ning Z, Yang Q. Prenatal consultation and supplement safety: insights from a randomized trial. *BMC Pregnancy Childbirth*. 2020;20:684.
 
+<span id="%E5%AD%95%E6%9C%9F%E9%A0%AD%E9%AB%AE%E4%BF%9D%E9%A4%8A%E8%A6%81%E9%BB%9E%EF%BC%9A%E6%8C%91%E6%88%B0%E8%88%87%E9%9C%80%E6%B1%82%E8%A7%A3%E8%AE%80"></span>
+
 ## **孕期頭髮保養要點：挑戰與需求解讀**
 
 你有發現懷孕後頭髮變得易斷或掉髮增多嗎？孕期體內荷爾蒙快速轉換，就像廚房裡忽大忽小的火力，讓原本穩定的髮根瞬間失去“火候”，毛囊進入休止期，造成髮質改變與脫髮現象。別小看這些變化，它不僅影響外觀，也考驗你的心情與自信。根據一項系統性綜述，營養補充對緩解脫髮具備正面效果，但效果因人而異，過量補充甚至可能導致腸胃不適或微量元素失衡(註1)。另一項針對孕婦飲食習慣的綜述發現，不少孕婦未能攝取足夠蛋白質與礦物質，這種營養缺口更容易讓毛囊抗壓力下降(註2)。在這個關鍵時期，了解「孕期頭髮保養要點」，才能及早規劃均衡飲食與營養補充，穩住毛囊根基。
+
+<span id="%E5%AD%95%E6%9C%9F%E9%A0%AD%E9%AB%AE%E4%BF%9D%E9%A4%8A%E8%A6%81%E9%BB%9E%EF%BC%9A5%E5%A4%A7%E7%87%9F%E9%A4%8A%E8%A3%9C%E5%85%85%E6%88%90%E5%88%86%E8%A9%B3%E8%A7%A3"></span>
 
 ## **孕期頭髮保養要點：5****大營養補充成分詳解**
 
@@ -32,13 +36,19 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/5-Pregnancy-Hair-Care-Tips5-2-1024x681.jpg)
 
+<span id="%E5%AD%95%E6%9C%9F%E9%A0%AD%E9%AB%AE%E4%BF%9D%E9%A4%8A%E8%A6%81%E9%BB%9E%EF%BC%9A%E6%89%93%E9%80%A0%E7%90%86%E6%83%B3%E4%BD%9C%E6%81%AF%E2%80%94%E7%9D%A1%E7%9C%A0%E8%88%87%E9%81%8B%E5%8B%95%E8%A8%88%E7%95%AB"></span>
+
 ## **孕期頭髮保養要點：打造理想作息—****睡眠與運動計畫**
 
 你是否也發現只要一夜睡眠品質不佳，隔天走在鏡前，髮絲似慢火燉煮後黯淡無光？睡眠與頭髮健康息息相關。短缺或不安穩的深度睡眠，猶如料火大起大落，促使壓力荷爾蒙失衡，讓毛囊從生長期過早進入休止期，掉髮更加嚴重(註5)。為了回歸穩定，建議固定每日就寢與起床時間，營造平穩的生理節奏，如同為料理掌握精準火候。相反地，溫和有氧運動如孕期瑜伽或快走，每天30分鐘猶如往湯鍋中緩緩注入清泉，改善頭皮微循環，將氧氣與養分送至髮根，穩固生長期優勢(註5)。不過別忘了，過度劇烈運動可能反而製造身體壓力，導致掉髮加劇。結合充足睡眠與適度運動，你的頭皮與毛囊才能在孕期中獲得溫柔而扎實的滋養。
 
+<span id="%E5%AD%95%E6%9C%9F%E9%A0%AD%E9%AB%AE%E4%BF%9D%E9%A4%8A%E8%A6%81%E9%BB%9E%EF%BC%9A%E8%A1%8C%E5%8B%95%E5%8F%AC%E5%96%9A%E8%88%87%E5%BE%8C%E7%BA%8C%E8%BF%BD%E8%B9%A4"></span>
+
 ## **孕期頭髮保養要點：行動召喚與後續追蹤**
 
 準備好讓你的髮絲在孕期也能穩健生長了嗎？首先，任何營養補充都須在產科醫師評估後才能開始，這能確保成分安全、避免與其他藥物或營養素交互作用(註6)。接著，制定一份切實可行的「均衡飲食＋營養補充」計畫：每日攝取含乳清蛋白的優質食物，同時搭配枸杞萃取粉或茶胺酸茶飲，以提升頭皮微循環與毛囊修復力(註7)。此外，設定固定睡眠與溫和運動目標——每天30 分鐘孕期瑜伽或快走，可協助維持生理節奏。最後，建議你每月記錄掉髮量與髮質變化，並拍照對比，若發現明顯惡化，務必回診進行專業追蹤。透過專業諮詢與自律管理，你便能讓頭髮和寶寶同時獲得扎實的呵護。
+
+<span id="%E7%94%9F%E5%91%BD%E4%B9%8B%E6%B3%89%E7%9A%84%E7%B6%BF%E5%BB%B6%E7%B4%B0%E6%B5%81"></span>
 
 ## **生命之泉的綿延細流**
 
@@ -57,6 +67,8 @@ sourceVerbatim: true
 1.  Falcone T, Mironova G, Lee H, et al. 2023. Integrative and Mechanistic Approach to the Hair Growth Cycle and Hair Loss. *Journal of Clinical Medicine*. 12(3):893. doi:10.3390/jcm12030893.
 2.  Shen L, Ning Z, Yang Q. Prenatal consultation and supplement safety: insights from a randomized trial. *BMC Pregnancy Childbirth*. 2020;20:684. [https://doi.org/10.1186/s12884-020-03441-6](https://doi.org/10.1186/s12884-020-03441-6)
 3.  Smith J, Johnson CA, Williams K. Safety and efficacy of prenatal micronutrient supplements: systematic review. *Nutrients*. 2021;13(2):522. https://doi.org/10.3390/nu13020522
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

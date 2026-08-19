@@ -21,9 +21,13 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="荔枝可以預防感冒！？荔枝有足量的維生素C就能增加免疫力嗎？我們來看看中醫師怎麼說～ #水果 #荔枝 #感冒 #免疫力 #維生素c #GCM #上醫預防醫學發展協會" width="563" height="1000" src="https://www.youtube.com/embed/uM9rcJhyPpk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E7%94%9C%E8%9C%9C%E6%9E%9C%E5%AF%A6%E7%9C%9F%E7%9A%84%E8%83%BD%E6%8F%90%E5%8D%87%E5%85%8D%E7%96%AB%E5%8A%9B%E5%97%8E%EF%BC%9F"></span>
+
 ## **甜蜜果實真的能提升免疫力嗎？**
 
 你知道嗎？把荔枝比作廚房裡的防火器一點也不誇張。每100公克荔枝含約72毫克維生素C，可助中和自由基，並提供槲皮素等多酚成分，有助免疫調節(註1) [fppn.biomedcentral.com](https://fppn.biomedcentral.com/articles/10.1186/s43014-024-00275-z)。然而，僅靠VC無法獨撐防線；研究指出，維持免疫力需搭配足量睡眠、運動及均衡飲食，才能打造完整防禦網(註2) [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/39861409/)。別被甜蜜外表迷惑，過度攝取也易引發血糖波動與體內熱盛，建議一天以不超過10顆為宜，並搭配涼性水果平衡體質。
+
+<span id="%E5%90%83%E8%8D%94%E6%9E%9D%E5%B0%B1%E8%83%BD%E9%98%B2%E6%84%9F%E5%86%92%EF%BC%9F%E7%B6%AD%E7%94%9F%E7%B4%A0C%E8%BF%B7%E6%80%9D%E7%A0%B4%E8%A7%A3"></span>
 
 ## **吃荔枝就能防感冒？維生素C****迷思破解**
 
@@ -34,6 +38,8 @@ sourceVerbatim: true
 想像你的身體是一道精心烹調的湯品，多樣食材協同才能激發豐富滋味。吃荔枝補充VC固然方便，但別忘了兼顧其他微量營養素與生活習慣，才能構築真正穩固的「免疫屏障」。
 
 ![](/wp-content/uploads/ychee-Immune-Boost-Mechanism2.jpg)
+
+<span id="%E8%8D%94%E6%9E%9D%E5%8A%9F%E6%95%88%E8%88%87%E5%89%AF%E4%BD%9C%E7%94%A8%E6%9C%89%E5%93%AA%E4%BA%9B%E9%A2%A8%E9%9A%AA"></span>
 
 ## **荔枝功效與副作用有哪些風險**
 
@@ -47,6 +53,8 @@ sourceVerbatim: true
 別小看這些風險，就像廚房裡只放甜油卻忘了醋和鹽，味道就會失衡。荔枝雖富含維生素C與多酚抗氧化劑，但真正的養生之道在於份量與搭配：建議每日不超過10顆，並配合低糖高纖食材，避免不當食用造成血糖劇烈波動與身體負擔。
 
 <iframe loading="lazy" title="吃荔枝容易上火，到底怎麼吃？可以吃得開心又健康呢？看看中醫師是怎麼推薦的？ #水果 #荔枝 #黃帝內經 #中醫 #中醫師 #gcm上醫預防醫學發展協會" width="563" height="1000" src="https://www.youtube.com/embed/qwjP-p0BJR4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<span id="%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%90%83%E8%8D%94%E6%9E%9D%E5%BE%8C%E3%80%8C%E4%B8%8A%E7%81%AB%E3%80%8D%EF%BC%9F"></span>
 
 ## **如何避免吃荔枝後「上火」？**
 
@@ -62,9 +70,13 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/ychee-Immune-Boost-Mechanism3.jpg)
 
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E8%AE%93%E9%A4%90%E6%A1%8C%E6%88%90%E7%82%BA%E4%BD%A0%E7%9A%84%E4%BA%94%E5%BD%A9%E8%97%A5%E8%86%B3%E7%95%AB%E5%8D%B7"></span>
+
 ## **結論：讓餐桌成為你的五彩藥膳畫卷**
 
 當你把荔枝當作畫布上的一抹紅點，就在每一口中描繪健康色彩。荔枝的甘溫，需要青綠蔬果與金黃谷物點綴，才能在「生津益脾」的脾土天地裡，展現完整養生畫卷。
+
+<span id="%E5%AF%A6%E9%9A%9B%E9%81%8B%E7%94%A8%E7%AF%84%E4%BE%8B"></span>
 
 ### **實際運用範例**
 
@@ -74,6 +86,8 @@ sourceVerbatim: true
 -   **午後色彩點綴**  
     下午茶時段，以3顆荔枝、50g玉米筍、梨子、西瓜、少量綜合堅果拌成沙拉，再來杯薄荷茶散熱。  
     範例句：「午後我吃荔枝嫩梨沙拉，配薄荷茶，既解膩又降火。」
+
+<span id="%E6%B7%B1%E5%BA%A6%E9%AB%94%E6%82%9F"></span>
 
 ### **深度體悟**
 
@@ -95,6 +109,8 @@ sourceVerbatim: true
 7.  Zhang L., Li J. (2021). Cooling fruits in heat stress relief: A review. *Nutrients*, 13(4):1345. DOI:10.3390/nu13041345
 
 <table style="border: 3px solid #006400; border-collapse: collapse; width: 100%;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="border: 3px solid #006400; padding: 8px;">段落主題</th><th style="border: 3px solid #006400; padding: 8px;">核心觀點</th><th style="border: 3px solid #006400; padding: 8px;">注意事項</th><th style="border: 3px solid #006400; padding: 8px;">建議搭配</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #006400; padding: 8px;">甜蜜果實提升免疫力</td><td style="border: 3px solid #006400; padding: 8px;">富含維生素C（約72mg/100g）與多酚，協助免疫調節</td><td style="border: 3px solid #006400; padding: 8px;">單靠VC無法全面增強；需結合均衡飲食與運動</td><td style="border: 3px solid #006400; padding: 8px;">餐後食用，並搭配優質蛋白質與蔬果</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #006400; padding: 8px;">維生素C防感冒迷思</td><td style="border: 3px solid #006400; padding: 8px;">大劑量VC對減少感冒天數效果&lt;20%</td><td style="border: 3px solid #006400; padding: 8px;">過量VC可能引發腎結石、消化不良</td><td style="border: 3px solid #006400; padding: 8px;">結合鋅、β-胡蘿蔔素等多重微量元素</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #006400; padding: 8px;">功效與副作用風險</td><td style="border: 3px solid #006400; padding: 8px;">抗氧化、補充VC</td><td style="border: 3px solid #006400; padding: 8px;">高糖、高熱性、過敏、低血糖</td><td style="border: 3px solid #006400; padding: 8px;">每日不超過10顆，並配低糖高纖食材</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #006400; padding: 8px;">避免吃荔枝後「上火」</td><td style="border: 3px solid #006400; padding: 8px;">遵循涼熱互補原則</td><td style="border: 3px solid #006400; padding: 8px;">過量可致口乾、喉痛、皮膚紅腫</td><td style="border: 3px solid #006400; padding: 8px;">搭配西瓜、梨子、菊花茶</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E8%A9%B3%E7%B4%B0%E5%9B%9E%E8%A6%86%EF%BC%9A"></span>
 
 ## 常見問題與詳細回覆：
 

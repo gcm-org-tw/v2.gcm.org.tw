@@ -36,6 +36,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Silent-Bone-Fracture2.jpg)
 
+<span id="%E9%82%A3%E6%AC%A1%E8%B7%8C%E5%80%92%E4%B9%8B%E5%BE%8C%EF%BC%8C%E4%BB%96%E6%89%8D%E7%9F%A5%E9%81%93%E9%AA%A8%E9%A0%AD%E4%B9%9F%E6%9C%83%E3%80%8C%E6%8F%90%E5%89%8D%E8%80%81%E5%8C%96%E3%80%8D"></span>
+
 ## **那次跌倒之後，他才知道骨頭也會「提前老化」**
 
 你有沒有想過——一次「看似輕微的跌倒」，為什麼會讓人從此一拐一拐？  
@@ -46,6 +48,8 @@ sourceVerbatim: true
 骨頭的老化，其實從30歲就開始悄悄進行。鈣質流失、日照不足、久坐、過量咖啡與菸酒，都會讓骨本像漏水的水壺——越放越空。
 
 想要逆轉這個趨勢，第一步是覺察。因為你永遠不知道，下一次輕微的跌倒，會不會成為改變人生的一次警訊。
+
+<span id="%E4%BD%A0%E4%B9%9F%E5%8F%AF%E8%83%BD%E5%9C%A8%E3%80%8C%E9%AA%A8%E9%AC%86%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%97%8F%E7%BE%A4%E3%80%8D%E4%B8%AD%E5%97%8E%EF%BC%9F%E5%BF%AB%E7%94%A8%E9%80%99%E5%BC%B5%E8%A1%A8%E6%B8%AC%E4%B8%80%E6%B8%AC%EF%BC%81"></span>
 
 ## **你也可能在「骨鬆高風險族群」中嗎？快用這張表測一測！**
 
@@ -61,6 +65,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Silent-Bone-Fracture5.jpg)
 
+<span id="%E9%86%AB%E5%B8%AB%E6%80%8E%E9%BA%BC%E6%B2%BB%EF%BC%9F%E8%97%A5%E7%89%A9%EF%BC%8B%E7%87%9F%E9%A4%8A%EF%BC%8B%E9%81%8B%E5%8B%95%E7%9A%84%E3%80%8C%E4%B8%89%E6%94%AF%E6%9F%B1%E6%B2%BB%E7%99%82%E6%B3%95%E3%80%8D"></span>
+
 ## **醫師怎麼治？藥物＋營養＋運動的「三支柱治療法」**
 
 當骨密度檢查顯示「紅燈」時，別急著恐慌——這並不代表無法逆轉。現代醫學早已證實，**藥物、營養與運動三者並行，能有效降低骨折風險**。
@@ -75,6 +81,8 @@ sourceVerbatim: true
 
 記得，骨鬆治療不是「吃藥就好」；真正的康復，是讓身體重新學會「站穩」——從藥效、營養到動能，讓骨頭找回被忽略的力量。
 
+<span id="%E5%AE%88%E4%BD%8F%E9%AA%A8%E6%9C%AC%E7%9A%84%E6%97%A5%E5%B8%B8%E7%B7%B4%E7%BF%92%EF%BC%9A%E5%BE%9E%E9%A3%B2%E9%A3%9F%E5%88%B0%E9%81%8B%E5%8B%95%EF%BC%8C%E6%AF%8F%E5%A4%A9%E9%83%BD%E8%83%BD%E5%81%9A"></span>
+
 ## **守住骨本的日常練習：從飲食到運動，每天都能做**
 
 你知道嗎？骨頭其實像植物——只要有陽光、水分與營養，就能重新變得強壯。很多人誤以為「骨質疏鬆」是無法逆轉的退化，但研究證實，**持續的飲食管理與規律運動，能讓骨密度回升** **3–5%**，而這足以降低骨折率近兩成（註7）。
@@ -86,6 +94,8 @@ sourceVerbatim: true
 世界骨質疏鬆日（10/20）提醒我們：**真正的保養，不在診間，而在每天的生活選擇中。**今天起，不妨從補鈣早餐、十分鐘日曬開始，讓每一步都成為強化骨本的儀式。
 
 ![](/wp-content/uploads/Silent-Bone-Fracture6.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E7%AB%99%E7%A9%A9%E7%9A%84%EF%BC%8C%E4%B8%8D%E5%8F%AA%E6%98%AF%E9%9B%99%E8%85%B3"></span>
 
 ## **結論：站穩的，不只是雙腳**
 
@@ -115,6 +125,8 @@ sourceVerbatim: true
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #006B5B; font-family: Arial, sans-serif; color: #333333;"><thead style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><tr><th>項目</th><th>適用對象</th><th>作用機轉 / 核心作法</th><th>優點</th><th>潛在風險與注意</th><th>起效與療程</th><th>追蹤建議</th><th>特別適合</th></tr></thead><tbody><tr style="background-color: #d4e9e2;"><td><b>自我檢測表（IOF）</b></td><td>30+ 有家族史、停經、久坐、抽菸/嗜咖啡、長期用類固醇者</td><td>10 題風險題項快速篩選，高分者轉介 DEXA</td><td>3 分鐘完成、零成本、提升覺察</td><td>僅為初篩，不能取代醫師評估與影像</td><td>立即</td><td>每 6 個月重做一次；分數升高→就醫</td><td>社群倡議、世界骨質疏鬆日活動前導</td></tr><tr style="background-color: #ffffff;"><td><b>骨密度檢查 DEXA</b></td><td>自評高風險或臨床評估需要者</td><td>測量 BMD（T/Z 分數），量化骨折風險</td><td>國際標準、可追蹤變化</td><td>機構與費用差異；需專業解讀</td><td>檢查即得結果</td><td>每 1–2 年追蹤一次（依醫囑）</td><td>建立基線數值、治療前後評估</td></tr><tr style="background-color: #d4e9e2;"><td><b>雙磷酸鹽</b>（Alendronate / Risedronate / Zoledronate）</td><td>中高風險者（男女皆可）</td><td>抑制破骨細胞，降低骨吸收</td><td>3–5 年內可顯著降椎體/髖骨骨折</td><td>罕見顎骨壞死、非典型股骨骨折；口服型需空腹直立</td><td>口服每週/每月；IV 每年一次；3–5 年後評估是否停藥</td><td>定期牙科評估、症狀監測、BMD 追蹤</td><td>胃腸耐受佳者、可規律服藥者</td></tr><tr style="background-color: #ffffff;"><td><b>Denosumab（地諾單抗）</b></td><td>難耐雙磷酸鹽、腎功能較差、需強效抑制者</td><td>抑制 RANKL，強力抑制骨吸收</td><td>降低椎體、非椎體與髖骨骨折</td><td>停藥後骨流失反彈風險，需銜接治療；低鈣血症</td><td>皮下注射每 6 個月一次；長期評估</td><td>注射前確保鈣/維D足量；停藥規劃銜接藥物</td><td>需固定回診注射、難以吞藥者</td></tr><tr style="background-color: #d4e9e2;"><td><b>鈣 + 維生素 D</b></td><td>全族群基礎營養</td><td>鈣質供應 + 維D促吸收與礦化</td><td>安全、成本低、與藥物並行</td><td>腸胃不適、腎結石風險（高劑量/體質）；注意與鐵、甲狀腺素分隔服用</td><td>持續每日：鈣 1000–1200 mg、維D 600–800 IU</td><td>依血中 25(OH)D 與飲食評估調整</td><td>飲食攝取不足、日照少者</td></tr><tr style="background-color: #ffffff;"><td><b>運動（抗阻 + 平衡 + 衝擊）</b></td><td>全族群；骨折高風險者需客製</td><td>抗阻增骨負荷、平衡降跌倒、適度衝擊刺激骨生成</td><td>改善 BMD、肌力、姿勢與生活品質</td><td>技術不當恐受傷；骨折風險高者須專業指導</td><td>每週 ≥3 次，8–12 週見初效，持續最佳</td><td>每 8–12 週調整課表；與物理治療協作</td><td>銜接藥物、提升功能獨立性</td></tr><tr style="background-color: #d4e9e2;"><td><b>飲食策略（高蛋白＋高鈣＋全食）</b></td><td>全族群</td><td>每日蛋白質 ≈1.0 g/kg；深綠蔬菜、豆製品、小魚乾、乳製品</td><td>同步強化肌肉與骨</td><td>乳糖不耐可用替代品；避免含糖飲、過量咖啡</td><td>持續性習慣養成</td><td>每 4–8 週檢點餐盤與體組成</td><td>體重過低、肌少合併骨鬆者</td></tr><tr style="background-color: #ffffff;"><td><b>跌倒預防（環境＋鞋具＋藥物檢視）</b></td><td>長輩、曾跌倒、眩暈或多重用藥者</td><td>居家照明、防滑、止滑鞋；檢視鎮靜/降壓用藥</td><td>直接降低外傷/骨折風險</td><td>需家屬配合與環境調整成本</td><td>立即；效果隨遵從度</td><td>季度檢視環境與用藥</td><td>居家照護、單身長輩</td></tr></tbody></table>
 
 註：藥物選擇、劑量與療程需由醫師評估。鈣/維D與藥物併用請留意交互作用與個別禁忌。
+
+<span id="%F0%9F%A9%BA_%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **🩺** **常見問題與回覆**
 

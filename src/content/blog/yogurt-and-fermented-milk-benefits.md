@@ -15,6 +15,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Yogurt-and-Fermented-Milk-Benefits.jpg)
 
+<span id="%E6%AF%8F%E5%A4%A9%E4%B8%80%E6%9D%AF%E5%84%AA%E6%A0%BC%EF%BC%8C%E7%9C%9F%E7%9A%84%E8%83%BD%E6%94%B9%E5%96%84%E8%85%B8%E9%81%93%E5%81%A5%E5%BA%B7%E5%97%8E%EF%BC%9F"></span>
+
 ## 每天一杯優格，真的能改善腸道健康嗎？
 
 在現代飲食型態中，「腸道健康」幾乎成為所有保健議題的核心。長期外食、高油高糖飲食、壓力與作息不規律，都可能讓腸道菌相失衡，進而影響消化、排便，甚至與免疫與代謝狀態產生關聯。在這樣的背景下，優格與優酪乳常被視為「補充益生菌」的日常選擇，但關鍵問題是：每天吃優格，真的等於在補充有效的益生菌嗎？  
@@ -25,6 +27,8 @@ sourceVerbatim: true
 
 1.  Marco ML, et al. Health benefits of fermented foods: microbiota and beyond. *Nat Rev Gastroenterol Hepatol.* 2021;18(11):649-666.
 
+<span id="%E5%84%AA%E6%A0%BC%E8%88%87%E5%84%AA%E9%85%AA%E4%B9%B3%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E7%9B%8A%E7%94%9F%E8%8F%8C%E5%B7%AE%E5%9C%A8%E5%93%AA%EF%BC%9F"></span>
+
 ## 優格與優酪乳是什麼？益生菌差在哪？
 
 優格與優酪乳都屬於「發酵乳」，是透過乳酸菌將乳糖轉化為乳酸所製成的食品，但兩者在「益生菌的存在形式與活性」上，卻有關鍵差異。一般來說，優格多為較濃稠、以固態或半固態形式存在，且常含有較穩定的活菌；而優酪乳則多為液態，部分產品在製程後可能經過再殺菌處理，導致活菌數量下降甚至消失。  
@@ -33,6 +37,8 @@ sourceVerbatim: true
 
 【參考文獻】  
 2\. Marco ML, et al. Health benefits of fermented foods: microbiota and beyond. *Nat Rev Gastroenterol Hepatol.* 2021;18(11):649-666.
+
+<span id="%E5%84%AA%E6%A0%BC%E7%9A%84%E5%81%A5%E5%BA%B7%E9%97%9C%E9%8D%B5%EF%BC%9A%E7%9B%8A%E7%94%9F%E8%8F%8C%E5%A6%82%E4%BD%95%E5%BD%B1%E9%9F%BF%E8%85%B8%E9%81%93%E8%88%87%E8%BA%AB%E9%AB%94"></span>
 
 ## 優格的健康關鍵：益生菌如何影響腸道與身體
 
@@ -43,6 +49,8 @@ sourceVerbatim: true
 【參考文獻】  
 3\. Marco ML, et al. Health benefits of fermented foods: microbiota and beyond. *Nat Rev Gastroenterol Hepatol.* 2021;18(11):649-666.
 
+<span id="%E9%80%99%E6%A8%A3%E5%90%83%E5%84%AA%E6%A0%BC%EF%BC%8C%E7%9B%8A%E7%94%9F%E8%8F%8C%E6%95%88%E6%9E%9C%E5%B7%AE%E5%BE%88%E5%A4%9A"></span>
+
 ## 這樣吃優格，益生菌效果差很多
 
 即使選對了含有益生菌的優格，如果吃法不當，效果仍可能打折。首先，糖分過高會影響腸道菌相，因此建議選擇無糖或低糖產品。其次，查看是否標示菌種及活菌數量（如 CFU），可確保有效益生菌攝取。  
@@ -52,11 +60,15 @@ sourceVerbatim: true
 【參考文獻】  
 4\. Marco ML, et al. Health benefits of fermented foods: microbiota and beyond. *Nat Rev Gastroenterol Hepatol.* 2021;18(11):649-666.
 
+<span id="%E7%B5%90%E8%AB%96"></span>
+
 ## 結論
 
 優格與優酪乳作為日常益生菌來源，能在一定程度上支持腸道健康、改善消化與排便，並對免疫與代謝產生潛在正向影響。然而，效果依賴產品活菌數量、菌種種類以及個人體質與飲食習慣。選擇合適的產品並搭配健康生活方式，才能真正讓每日一杯優格發揮益生菌效益。
 
 <table border="1" cellspacing="0" cellpadding="8"><thead><tr><th>族群</th><th>適用性</th><th>注意事項</th><th>推薦攝取方式</th></tr></thead><tbody><tr><td>兒童</td><td>高</td><td>選擇無糖或低糖優格，避免額外糖分</td><td>早餐或點心，搭配水果或全穀類</td></tr><tr><td>銀髮族</td><td>高</td><td>注意蛋白質與鈣含量，選擇活菌含量高產品</td><td>早餐或下午茶，配合均衡飲食</td></tr><tr><td>乳糖不耐者</td><td>中高</td><td>選擇低乳糖或含活性乳酸菌優格，先少量試</td><td>分量少、餐後食用，觀察耐受性</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## 常見問題與回覆
 

@@ -23,6 +23,8 @@ sourceVerbatim: true
 1.  Laumann, E. O., Paik, A., & Rosen, R. C. (2008). *Sexual dysfunction in the United States: prevalence and predictors.* JAMA, Volume 281(6), Pages 537-544. DOI: 10.1001/jama.281.6.537
 2.  《黃帝內經·素問》：“怒傷肝，思傷脾，恐傷腎。”
 
+<span id="%E5%BF%83%E7%90%86%E5%9B%A0%E7%B4%A0%E8%88%87%E6%80%A7%E7%94%9F%E6%B4%BB%EF%BC%9A%E5%BD%B1%E9%9F%BF%E8%A6%AA%E5%AF%86%E4%BA%92%E5%8B%95%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0"></span>
+
 ## **心理因素與性生活：影響親密互動的主要原因**
 
 心理與性生活的關係往往被低估，但其實心理因素是影響親密互動的重要基石。中醫認為，情緒的波動與臟腑功能密切相關，過度的壓力、焦慮或悲傷可能導致氣血失調，進而影響身體機能。《黃帝內經》中提到：“怒傷肝，悲勝怒；思傷脾，怒勝思；恐傷腎，思勝恐”，顯示情緒與五臟六腑的健康環環相扣（註1）。換句話說，穩定的情緒對維持身心健康以及親密關係的質量至關重要。
@@ -39,6 +41,8 @@ sourceVerbatim: true
 2.   [Efficacy of psychological interventions for sexual dysfunction: a systematic review and meta-analysis](https://link.springer.com/article/10.1007/S10508-012-0062-0)
 
 **![](/wp-content/uploads/How-to-Improve-Sexual-Satisfaction-A-Holistic-Guide3-1024x583.jpg)**
+
+<span id="%E7%94%9F%E7%90%86%E5%9F%BA%E7%A4%8E%EF%BC%9A%E6%80%A7%E5%8A%9F%E8%83%BD%E8%88%87%E8%BA%AB%E9%AB%94%E5%81%A5%E5%BA%B7%E7%9A%84%E9%97%9C%E9%8D%B5%E9%80%A3%E7%B5%90"></span>
 
 ## **生理基礎：性功能與身體健康的關鍵連結**
 
@@ -57,6 +61,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/How-to-Improve-Sexual-Satisfaction-A-Holistic-Guide2-1024x582.jpg)
 
+<span id="%E9%A3%B2%E9%A3%9F%E5%B0%8D%E6%80%A7%E7%94%9F%E6%B4%BB%E7%9A%84%E6%BD%9B%E5%9C%A8%E5%BD%B1%E9%9F%BF"></span>
+
 ## **飲食對性生活的潛在影響**
 
 飲食不僅是健康的基石，也是提升性生活滿意度的重要手段。中醫理論認為，合理的飲食調養可以平衡陰陽、補益氣血，進而改善整體健康狀態。正如《本草綱目》中所言：“食者，氣血之源，五臟之本也。”飲食對於促進身體機能和情緒穩定有著不可忽視的作用。
@@ -74,6 +80,8 @@ sourceVerbatim: true
 1.  Cochrane Database of Systematic Reviews. (2018). *Omega-3 fatty acids for the primary and secondary prevention of cardiovascular disease.* DOI: 10.1002/14651858.CD003177.pub3
 2.  Brooks, N. A., Wilcox, G., Walker, K. Z., Ashton, J. F., Cox, M. B., & Stojanovska, L. (2008). *Effects of maca on psychological symptoms and measures of sexual dysfunction in postmenopausal women: A randomized, double-blind, placebo-controlled pilot study.* Menopause, Volume 15(6), Pages 1157–1162. DOI: 10.1097/gme.0b013e3181732953
 3.  《本草綱目》：“食者，氣血之源，五臟之本也。”
+
+<span id="%E7%B0%A1%E5%96%AE%E5%8F%88%E5%AF%A6%E7%94%A8%E7%9A%84%E4%BF%A1%E5%BF%83%E6%8F%90%E5%8D%87%E6%8A%80%E5%B7%A7"></span>
 
 ## **簡單又實用的信心提升技巧**
 
@@ -94,6 +102,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="性生活滿意度如何改善？從心理到飲食的全方位指南 How to Improve Sexual Satisfaction A Holistic Guide" width="800" height="450" src="https://www.youtube.com/embed/vaB3vZvdUgI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E7%82%BA%E6%84%9B%E7%81%8C%E6%BA%89%EF%BC%8C%E8%A6%AA%E5%AF%86%E5%A6%82%E8%8A%B1%E7%B6%BB%E6%94%BE"></span>
+
 ## **為愛灌溉，親密如花綻放**
 
 想像親密關係是一朵盛開的花，它需要陽光般的信任、雨露般的溝通，以及土壤般穩定的健康支持。心理、飲食與運動，就是滋養這朵花的根基。當壓力侵蝕了情感，當飲食缺乏了營養，當溝通出現了隔閡，這朵花就會失去光彩。
@@ -104,23 +114,35 @@ sourceVerbatim: true
 
 <table border="1"><thead><tr><th>因素</th><th>影響</th><th>改善方法</th></tr></thead><tbody><tr><td>心理因素</td><td>壓力、情緒波動會導致性功能下降，需保持穩定的心理狀態</td><td>運用冥想、放鬆技術減壓，與伴侶溝通增進信任</td></tr><tr><td>生理健康</td><td>氣血充盈與身體健康是維持性功能的基礎，運動與睡眠是關鍵</td><td>保持適度的運動與充足的睡眠，避免過度疲勞</td></tr><tr><td>飲食調整</td><td>均衡的飲食能促進荷爾蒙平衡、血液循環，提升性生活質量</td><td>攝取富含鋅、Omega-3的食材，例如牡蠣、馬卡等</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E5%A3%93%E5%8A%9B%E6%9C%83%E5%A6%82%E4%BD%95%E5%BD%B1%E9%9F%BF%E6%80%A7%E7%94%9F%E6%B4%BB%E7%9A%84%E6%BB%BF%E6%84%8F%E5%BA%A6%EF%BC%9F"></span>
 
 ### **問題1****：壓力會如何影響性生活的滿意度？**
 
 **回覆：** 壓力是影響性生活的重要心理因素。當壓力過大時，會導致內分泌系統紊亂，減少性荷爾蒙的分泌，例如睾酮和雌激素，進而降低性慾與滿意度。此外，壓力還可能引發焦慮與情緒不穩，進一步影響與伴侶的溝通與情感交流。建議透過冥想、瑜伽或深呼吸等方法來舒緩壓力，與伴侶坦誠交流也是紓解壓力的重要步驟。
 
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E5%93%AA%E4%BA%9B%E9%A3%9F%E6%9D%90%E8%83%BD%E5%B9%AB%E5%8A%A9%E6%8F%90%E5%8D%87%E6%80%A7%E7%94%9F%E6%B4%BB%E7%9A%84%E8%B3%AA%E9%87%8F%EF%BC%9F"></span>
+
 ### **問題2****：哪些食材能幫助提升性生活的質量？**
 
 **回覆：** 多種食材對性生活質量有積極作用。富含鋅的牡蠣和南瓜子能促進性荷爾蒙的分泌；含有Omega-3的深海魚和堅果有助於改善血液循環；馬卡、紅棗和枸杞等中藥材能調節氣血，增強女性體質。在選擇這些食材時，應保持飲食均衡，避免過量攝取加工食品，以免對健康產生反效果。
+
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E6%AF%8F%E5%A4%A9%E6%87%89%E8%A9%B2%E9%81%8B%E5%8B%95%E5%A4%9A%E4%B9%85%E6%89%8D%E8%83%BD%E6%94%B9%E5%96%84%E6%80%A7%E7%94%9F%E6%B4%BB%EF%BC%9F"></span>
 
 ### **問題3****：每天應該運動多久才能改善性生活？**
 
 **回覆：** 適量的運動是改善性生活的重要方式之一。建議每週進行至少150分鐘的中強度有氧運動，例如快走、游泳或騎自行車，同時結合每週2至3次的力量訓練來促進全身血液循環與荷爾蒙平衡。根據中醫觀點，運動應量力而行，過度運動可能損傷氣血，影響健康。
 
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E9%A6%AC%E5%8D%A1%E7%9C%9F%E7%9A%84%E8%83%BD%E6%94%B9%E5%96%84%E6%80%A7%E5%8A%9F%E8%83%BD%E5%97%8E%EF%BC%9F"></span>
+
 ### **問題4****：馬卡真的能改善性功能嗎？**
 
 **回覆：** 馬卡（Maca）被認為是一種適應原，能調節荷爾蒙平衡並增強體能。一項研究發現，馬卡對於改善更年期女性的性功能障礙有積極效果，特別是在提高性慾與減少壓力方面（註1）。不過，建議選擇高品質的馬卡產品，並遵循適當的劑量以確保效果與安全性。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B3%E6%9C%83%E5%B0%8D%E6%80%A7%E7%94%9F%E6%B4%BB%E6%9C%89%E4%BB%80%E9%BA%BC%E5%BD%B1%E9%9F%BF%EF%BC%9F"></span>
 
 ### **問題5****：睡眠不足會對性生活有什麼影響？**
 

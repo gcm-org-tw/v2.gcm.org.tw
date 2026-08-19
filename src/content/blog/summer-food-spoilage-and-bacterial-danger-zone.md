@@ -20,6 +20,10 @@ sourceVerbatim: true
 
 * * *
 
+<span id="i"></span>
+
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E5%A4%8F%E5%A4%A9%E9%A3%9F%E7%89%A9%E7%89%B9%E5%88%A5%E5%AE%B9%E6%98%93%E8%AE%93%E4%BA%BA%E6%8B%89%E8%82%9A%E5%AD%90%EF%BC%9F%E5%BE%9E%E4%B8%80%E5%80%8B%E6%95%B8%E5%AD%97%E8%AA%AA%E8%B5%B7"></span>
+
 ## 為什麼夏天食物特別容易讓人拉肚子？從一個數字說起
 
 根據衛生福利部食品藥物管理署統計，台灣每年夏季食品中毒通報案件，約有六成發生在氣溫超過 30°C 的月份（註1）。許多人以為食物中毒是「運氣差」——但從食品微生物學的角度來看，這件事幾乎完全可以預測。
@@ -34,6 +38,10 @@ sourceVerbatim: true
 
 ![段落插圖：引言](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/7038f77a-a3c1-49cf-a9aa-409df793159b/paragraph-seg-1-1784698754877-8819d247.jpg)
 
+<span id="i-2"></span>
+
+<span id="%E5%8D%B1%E9%9A%AA%E6%BA%AB%E5%BA%A6%E5%B8%B6%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E7%82%BA%E4%BB%80%E9%BA%BC%E7%B4%B0%E8%8F%8C%E5%9C%A8%E9%80%99%E5%80%8B%E7%AF%84%E5%9C%8D%E9%95%B7%E6%9C%80%E5%BF%AB%EF%BC%9F"></span>
+
 ## 危險溫度帶到底是什麼？為什麼細菌在這個範圍長最快？
 
 **危險溫度帶（Danger Zone）是指攝氏 7°C 到 60°C 這個範圍，在此區間內大多數食品病原菌的繁殖速度會顯著加快，是食品安全管理最核心的概念之一。** 簡單說，食物只要落在這個溫度帶裡，就像把細菌放進了最舒適的培養箱——溫度對了、水分夠了，繁殖速度可以在短時間內翻倍再翻倍。
@@ -47,6 +55,10 @@ sourceVerbatim: true
 * * *
 
 ![段落插圖：段落1：危險溫度帶機制](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/7038f77a-a3c1-49cf-a9aa-409df793159b/paragraph-seg-2-1784698726212-c63f9241.jpg)
+
+<span id="i-3"></span>
+
+<span id="%E5%A4%8F%E5%A4%A9%E4%BE%BF%E7%95%B6%E6%94%BE%E5%AE%A4%E6%BA%AB%E5%A4%9A%E4%B9%85%E6%89%8D%E5%8D%B1%E9%9A%AA%EF%BC%9F%E6%99%82%E9%96%93%E6%AF%94%E4%BD%A0%E6%83%B3%E7%9A%84%E6%9B%B4%E7%9F%AD"></span>
 
 ## 夏天便當放室溫多久才危險？時間比你想的更短
 
@@ -64,6 +76,10 @@ sourceVerbatim: true
 
 ![段落插圖：段落2：細菌繁殖原理深探](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/7038f77a-a3c1-49cf-a9aa-409df793159b/paragraph-seg-3-1784698729462-0b1ba7e6.jpg)
 
+<span id="i-4"></span>
+
+<span id="%E5%93%AA%E4%BA%9B%E9%A3%9F%E7%89%A9%E5%9C%A8%E5%A4%8F%E5%A4%A9%E6%9C%80%E5%AE%B9%E6%98%93%E5%87%BA%E5%95%8F%E9%A1%8C%EF%BC%9F%E6%B5%B7%E9%AE%AE%E3%80%81%E4%BE%BF%E7%95%B6%E3%80%81%E6%B2%99%E6%8B%89%E5%90%84%E6%9C%89%E4%B8%8D%E5%90%8C%E9%A2%A8%E9%9A%AA"></span>
+
 ## 哪些食物在夏天最容易出問題？海鮮、便當、沙拉各有不同風險
 
 **海鮮、熟肉類便當與未加熱的涼拌沙拉，是台灣夏季食品中毒的高頻率來源，三者的風險機制各有不同，了解個別特性才能做出更有根據的判斷。**
@@ -79,6 +95,10 @@ sourceVerbatim: true
 * * *
 
 ![段落插圖：段落3：高風險食物比較](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/7038f77a-a3c1-49cf-a9aa-409df793159b/paragraph-seg-4-1784699007909-a8b370b5.jpg)
+
+<span id="i-5"></span>
+
+<span id="%E9%A3%9F%E7%89%A9%E8%A6%81%E6%80%8E%E9%BA%BC%E4%BF%9D%E5%AD%98%E6%89%8D%E7%9C%9F%E7%9A%84%E5%AE%89%E5%85%A8%EF%BC%9F%E5%86%B7%E8%97%8F%E3%80%81%E5%86%B7%E5%87%8D%E3%80%81%E5%8A%A0%E7%86%B1%E9%83%BD%E6%9C%89%E7%9C%89%E8%A7%92"></span>
 
 ## 食物要怎麼保存才真的安全？冷藏、冷凍、加熱都有眉角
 
@@ -102,6 +122,10 @@ sourceVerbatim: true
 
 ![段落插圖：段落4：實際應用與行動](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/7038f77a-a3c1-49cf-a9aa-409df793159b/paragraph-seg-5-1784699064054-f90ad07c.jpg)
 
+<span id="i-6"></span>
+
+<span id="%E5%BE%9E%E3%80%8C%E8%81%9E%E8%B5%B7%E4%BE%86%E6%B2%92%E5%95%8F%E9%A1%8C%E3%80%8D%E5%88%B0%E3%80%8C%E6%99%82%E9%96%93%E6%B2%92%E8%B6%85%E9%81%8E%E5%85%A9%E5%B0%8F%E6%99%82%E3%80%8D%EF%BC%8C%E4%B8%80%E5%80%8B%E8%AA%8D%E7%9F%A5%E4%BD%8D%E7%A7%BB%E8%AE%93%E4%BD%A0%E5%90%83%E5%BE%97%E6%9B%B4%E5%AE%89%E5%BF%83"></span>
+
 ## 從「聞起來沒問題」到「時間沒超過兩小時」，一個認知位移讓你吃得更安心
 
 大多數人覺得食物「壞掉」是看得出來的——顏色變了、味道不對才算數。但細菌繁殖最活躍的階段，往往發生在「看起來完全正常」的時候。**危險溫度帶最容易被忽略的地方在於：它不發出警報，不改變外觀，只是靜靜地讓菌數從 100 變成 100,000。**
@@ -115,6 +139,10 @@ sourceVerbatim: true
 * * *
 
 ![段落插圖：結論](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/7038f77a-a3c1-49cf-a9aa-409df793159b/paragraph-seg-6-1784699026446-d1432f8a.jpg)
+
+<span id="i-7"></span>
+
+<span id="%E9%97%9C%E6%96%BC%E9%A3%9F%E7%89%A9%E4%BF%9D%E5%AD%98%E4%BD%A0%E6%83%B3%E5%95%8F%E7%9A%84%EF%BC%8C%E9%80%99%E8%A3%A1%E4%B8%80%E6%AC%A1%E5%9B%9E%E7%AD%94"></span>
 
 ## 關於食物保存你想問的，這裡一次回答
 
@@ -173,6 +201,8 @@ sourceVerbatim: true
 *© GCM 上醫預防醫學發展協會｜gcm.org.tw*
 
 ![四格衛教漫畫](https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/7038f77a-a3c1-49cf-a9aa-409df793159b/comic-grid-1784697885737-41b223e0.jpg)
+
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB"></span>
 
 ## 參考文獻
 

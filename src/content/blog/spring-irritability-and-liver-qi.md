@@ -12,6 +12,8 @@ legacyPath: "/blog/spring-irritability-and-liver-qi/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80%EF%BD%9C%E4%BD%A0%E4%B8%8D%E6%98%AF%E8%AE%8A%E9%9B%A3%E7%9B%B8%E8%99%95%EF%BC%8C%E6%98%AF%E6%98%A5%E5%A4%A9%E6%8A%8A%E4%BD%A0%E7%9A%84%E3%80%8C%E8%AA%BF%E7%AF%80%E6%97%8B%E9%88%95%E3%80%8D%E8%BD%89%E5%BF%AB%E4%BA%86"></span>
+
 ## **引言｜你不是變難相處，是春天把你的「調節旋鈕」轉快了**
 
 你有沒有發現，春天一到，情緒就特別不聽話？明明沒什麼大事，卻很容易被一句話點燃；晚上明明累爆，躺下卻越想越清醒。很多人會開始自責：「我是不是抗壓變差？」「是不是肝出了問題？」  
@@ -22,6 +24,8 @@ sourceVerbatim: true
 所以你不是突然變難搞，而是身體在提醒你：「我需要被疏通。」接下來我們就用最白話、最能落地的方式，把「春季肝氣與情緒」這件事講清楚，順便教你判斷：你到底是「卡住」、還是「太衝」，或其實只是壓力超載了。
 
 ![](/wp-content/uploads/Spring-Irritability-and-Liver-Qi1-1024x683.png)
+
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E6%98%A5%E5%A4%A9%E7%89%B9%E5%88%A5%E5%AE%B9%E6%98%93%E7%85%A9%E8%BA%81%E6%98%93%E6%80%92%EF%BC%9F%E5%85%B6%E5%AF%A6%E6%98%AF%E3%80%8C%E8%82%9D%E4%B8%BB%E7%96%8F%E6%B3%84%E3%80%8D%E5%9C%A8%E5%8A%A0%E9%80%9F"></span>
 
 ## **為什麼春天特別容易煩躁易怒？其實是「肝主疏泄」在加速**
 
@@ -39,6 +43,8 @@ sourceVerbatim: true
 -   睡眠變淺、醒來更煩？
 
 如果是，這通常不是人格突然變差，而是春天把你「調節旋鈕」轉快了。
+
+<span id="%E4%B8%AD%E9%86%AB%E8%AA%AA%E7%9A%84%E3%80%8C%E8%82%9D%E6%B0%A3%E3%80%8D%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E7%82%BA%E4%BB%80%E9%BA%BC%E5%AE%83%E4%B8%8D%E6%98%AF%E4%BD%A0%E4%BB%A5%E7%82%BA%E7%9A%84%E8%82%9D%E5%8A%9F%E8%83%BD"></span>
 
 ## **中醫說的「肝氣」到底是什麼？為什麼它不是你以為的肝功能**
 
@@ -59,6 +65,8 @@ sourceVerbatim: true
 -   以為忍住就會過，結果忍到最後一次爆更大
 
 先把「肝氣 ≠ 肝功能」這件事釐清，你後面每一步才會做對。
+
+<span id="%E8%82%9D%E6%B0%A3%E9%AC%B1%E7%B5%90%E3%80%81%E8%82%9D%E7%81%AB%E3%80%81%E5%A3%93%E5%8A%9B%E5%A4%A7%EF%BC%9A%E5%B7%AE%E5%9C%A8%E5%93%AA%EF%BC%9F%E7%94%A8_3_%E5%80%8B%E7%B7%9A%E7%B4%A2%E8%87%AA%E6%88%91%E5%88%A4%E6%96%B7"></span>
 
 ## **肝氣鬱結、肝火、壓力大：差在哪？用 3 個線索自我判斷**
 
@@ -83,6 +91,8 @@ sourceVerbatim: true
 下面這張表，讓你一眼對照
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #0B3D2E; font-family: Arial, sans-serif;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="padding: 10px; border: 3px solid #0B3D2E;">比較面向</th><th style="padding: 10px; border: 3px solid #0B3D2E;">肝氣鬱結（偏「卡住」）</th><th style="padding: 10px; border: 3px solid #0B3D2E;">肝火（偏「衝上來」）</th><th style="padding: 10px; border: 3px solid #0B3D2E;">壓力大（偏「事件驅動」）</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #0B3D2E;">核心感覺</td><td style="padding: 10px; border: 3px solid #0B3D2E;">悶、堵、梗、提不起勁又煩</td><td style="padding: 10px; border: 3px solid #0B3D2E;">急、燥、火大、忍不住爆</td><td style="padding: 10px; border: 3px solid #0B3D2E;">緊、趕、繃、腦停不下來</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #0B3D2E;">情緒表現</td><td style="padding: 10px; border: 3px solid #0B3D2E;">悶悶的、易委屈、想嘆氣</td><td style="padding: 10px; border: 3px solid #0B3D2E;">一秒點燃、耐性差</td><td style="padding: 10px; border: 3px solid #0B3D2E;">隨事件起伏，事情一多就崩</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #0B3D2E;">身體線索</td><td style="padding: 10px; border: 3px solid #0B3D2E;">胸悶、喉嚨卡卡、腹脹</td><td style="padding: 10px; border: 3px solid #0B3D2E;">口乾口苦、臉熱、睡淺</td><td style="padding: 10px; border: 3px solid #0B3D2E;">肩頸緊、心悸、腸胃不適</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #0B3D2E;">睡眠特徵</td><td style="padding: 10px; border: 3px solid #0B3D2E;">腦內回放、悶到睡不著</td><td style="padding: 10px; border: 3px solid #0B3D2E;">淺眠、易醒</td><td style="padding: 10px; border: 3px solid #0B3D2E;">入睡難或早醒</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #0B3D2E;">常見誤區</td><td style="padding: 10px; border: 3px solid #0B3D2E;">猛補反而更卡</td><td style="padding: 10px; border: 3px solid #0B3D2E;">一直退火反而更虛</td><td style="padding: 10px; border: 3px solid #0B3D2E;">硬撐不調整生活節奏</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #0B3D2E;">更合適方向</td><td style="padding: 10px; border: 3px solid #0B3D2E;">疏：伸展、散步、規律作息</td><td style="padding: 10px; border: 3px solid #0B3D2E;">清：減刺激、早睡</td><td style="padding: 10px; border: 3px solid #0B3D2E;">減載：切任務、設界線</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #0B3D2E;">何時該求助</td><td style="padding: 10px; border: 3px solid #0B3D2E;">悶卡 &gt;2 週影響生活</td><td style="padding: 10px; border: 3px solid #0B3D2E;">爆衝失控、失眠惡化</td><td style="padding: 10px; border: 3px solid #0B3D2E;">焦慮/失眠 &gt;2 週</td></tr></tbody></table>
+
+<span id="%E6%98%A5%E5%AD%A3%E6%80%8E%E9%BA%BC%E3%80%8C%E7%96%8F%E8%82%9D%E3%80%8D%E6%89%8D%E4%B8%8D%E6%9C%83%E8%B6%8A%E5%81%9A%E8%B6%8A%E7%85%A9%EF%BC%9F%E5%9B%9B%E5%80%8B%E6%9C%80%E7%A9%A9%E7%9A%84%E8%90%BD%E5%9C%B0%E5%81%9A%E6%B3%95"></span>
 
 ## **春季怎麼「疏肝」才不會越做越煩？四個最穩的落地做法**
 
@@ -109,9 +119,13 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Spring-Irritability-and-Liver-Qi5-1024x683.png)
 
+<span id="%E7%B5%90%E8%AB%96%EF%BD%9C%E6%98%A5%E5%A4%A9%E7%9A%84%E7%85%A9%E8%BA%81%EF%BC%8C%E4%B8%8D%E6%98%AF%E4%BD%A0%E7%9A%84%E9%8C%AF%EF%BC%8C%E6%98%AF%E6%8F%90%E9%86%92%E4%BD%A0%E8%A9%B2%E3%80%8C%E7%96%8F%E9%80%9A%E3%80%8D%E4%BA%86"></span>
+
 ## **結論｜春天的煩躁，不是你的錯，是提醒你該「疏通」了**
 
 春天特別容易煩躁易怒，很多時候不是你變難相處，而是身體的「疏泄節奏」被春天的生發之氣轉快：該出去的氣卡住、該放鬆的神經沒鬆開，情緒就像塞車一樣開始鳴喇叭。你不用急著補、也不用急著怪自己。更穩的做法是三步：**先把睡眠節律穩住** → **再用溫和活動把路打通** → **留一個情緒出口**。如果你的低落、焦慮或失眠已經持續兩週以上、或明顯影響工作生活，那就別硬扛，優先尋求專業協助——這不是輸，是成熟的自我照顧。
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C_FAQ"></span>
 
 ## **常見問題 FAQ**
 

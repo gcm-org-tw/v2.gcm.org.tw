@@ -11,6 +11,8 @@ legacyPath: "/blog/winter-wellness-24-solar-terms/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80"></span>
+
 ## **引言**
 
 你是不是也有這種經驗？一到冬天，半夜常常被冷醒，手腳冰冷像是怎麼也暖不熱；或者早上出門，冷風吹來，心口突然覺得一陣緊繃。其實，這些都不是小問題，而是身體在告訴你：冬天是最嚴苛的「壓力測試」。
@@ -24,6 +26,8 @@ sourceVerbatim: true
 **參考文獻：**
 
 1.  **Grandner, M. A., & Fernandez, F. X. (2021). The role of sleep and circadian rhythms in immune function. *Lancet Respiratory Medicine*, 9(10), 999–1010. https://doi.org/10.1016/S2213-2600(21)00200-0**
+
+<span id="24%E7%AF%80%E6%B0%A3%E5%9C%A8%E5%86%AC%E5%AD%A3%E5%A6%82%E4%BD%95%E6%8C%87%E5%BC%95%E9%A4%8A%E7%94%9F%E7%AF%80%E5%A5%8F%EF%BC%9F"></span>
 
 ## **24****節氣在冬季如何指引養生節奏？**
 
@@ -47,6 +51,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Winter-Wellness-24-Solar-Terms3.jpg)
 
+<span id="%E5%86%AC%E5%AD%A3%E9%A4%8A%E7%94%9F%E8%97%A5%E6%9D%90%E8%83%BD%E8%88%87%E7%8F%BE%E4%BB%A3%E7%87%9F%E9%A4%8A%E6%80%8E%E9%BA%BC%E7%B5%90%E5%90%88%EF%BC%9F"></span>
+
 ## **冬季養生藥材能與現代營養怎麼結合？**
 
 你知道嗎？冬天餐桌上的黑色食材，不只是傳統說的「補腎」，其實也和現代營養素完美呼應。像是**黑豆與黑芝麻**，富含花青素與植物性蛋白質，就像身體的「抗氧化盾牌」，能幫助對抗冬季常見的疲勞與氧化壓力。同時，**枸杞與桂圓**則提供多醣體與天然甜味，能搭配溫補湯飲，在寒冷的日子裡讓人身心都暖起來。
@@ -58,6 +64,8 @@ sourceVerbatim: true
 **參考文獻：**  
 3\. Martineau, A. R., & Forouhi, N. G. (2020). Vitamin D supplementation and respiratory infections: evidence from meta-analyses of randomised controlled trials. *BMJ*, 368, m118. https://doi.org/10.1136/bmj.m118  
 4\. Kim, Y., & Je, Y. (2021). Dietary intake of fish and n-3 polyunsaturated fatty acids and risk of cardiovascular disease: a meta-analysis. *Nutrition Research and Practice*, 15(6), 657–669. https://doi.org/10.4162/nrp.2021.15.6.657
+
+<span id="%E7%B6%93%E7%B5%A1%E8%88%87%E8%A5%BF%E9%86%AB%E5%BE%AA%E7%92%B0%E7%B3%BB%E7%B5%B1%E6%9C%89%E4%BB%80%E9%BA%BC%E9%97%9C%E8%81%AF%EF%BC%9F"></span>
 
 ## **經絡與西醫循環系統有什麼關聯？**
 
@@ -71,6 +79,8 @@ sourceVerbatim: true
 5\. Lee, J. H., & Kim, S. Y. (2021). Acupuncture and heart rate variability: a systematic review. *Autonomic Neuroscience*, 235, 102870. https://doi.org/10.1016/j.autneu.2021.102870  
 6\. Kwon, O. S., et al. (2020). Effects of acupressure on blood pressure and vascular compliance in hypertensive patients: a randomized controlled trial. *Complementary Therapies in Medicine*, 52, 102488. https://doi.org/10.1016/j.ctim.2020.102488
 
+<span id="%E8%97%A5%E8%86%B3%E8%88%87%E9%A3%B2%E9%A3%9F%E5%A6%82%E4%BD%95%E8%A8%AD%E8%A8%88%E6%88%90%E5%9D%87%E8%A1%A1%E8%8F%9C%E5%96%AE%EF%BC%9F"></span>
+
 ## **藥膳與飲食如何設計成均衡菜單？**
 
 冬天的餐桌，你會不會常覺得不是太油膩，就是太清淡？其實，最理想的冬季藥膳，就像是一份「古法＋科學」的均衡餐單。中醫主張「冬藏」，推薦**黑豆排骨湯、桂圓紅棗茶、芝麻糊**來補腎養血；這些食材多半帶有溫補特性，就像在體內點起壁爐，幫你守住能量。
@@ -82,6 +92,8 @@ sourceVerbatim: true
 **參考文獻：**  
 7\. Calder, P. C. (2020). Nutrition, immunity and COVID-19. *BMJ Nutrition, Prevention & Health*, 3(1), 74–92. https://doi.org/10.1136/bmjnph-2020-000085  
 8\. Schwingshackl, L., et al. (2021). Food groups and risk of chronic disease: a systematic review and network meta-analysis. *PLoS Medicine*, 18(12), e1003893. https://doi.org/10.1371/journal.pmed.1003893
+
+<span id="%E5%85%AB%E6%AE%B5%E9%8C%A6%E9%81%8B%E5%8B%95%E8%83%BD%E8%88%87%E5%BF%83%E8%82%BA%E9%8D%9B%E9%8D%8A%E4%B8%A6%E8%A1%8C%E5%97%8E%EF%BC%9F"></span>
 
 ## **八段錦運動能與心肺鍛鍊並行嗎？**
 
@@ -100,6 +112,8 @@ sourceVerbatim: true
 **參考文獻：**  
 9\. Zou, L., et al. (2020). The effects of Baduanjin exercise on cardiovascular function and quality of life in adults: a systematic review and meta-analysis. *Evidence-Based Complementary and Alternative Medicine*, 2020, 1–12. https://doi.org/10.1155/2020/8812546  
 10\. Zhang, Y., et al. (2021). Effects of Baduanjin on exercise capacity and health-related quality of life in patients with chronic disease: a meta-analysis. *Complementary Therapies in Medicine*, 56, 102589. https://doi.org/10.1016/j.ctim.2020.102589
+
+<span id="%E5%9F%BA%E5%9B%A0%E6%AA%A2%E6%B8%AC%E5%A6%82%E4%BD%95%E6%88%90%E7%82%BA%E6%96%B0%E6%99%82%E4%BB%A3%E5%86%AC%E5%AD%A3%E4%BF%9D%E5%81%A5%E5%B7%A5%E5%85%B7%EF%BC%9F"></span>
 
 ## **基因檢測如何成為新時代冬季保健工具？**
 
@@ -121,6 +135,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Winter-Wellness-24-Solar-Terms6.jpg)
 
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E6%8A%8A%E5%86%AC%E5%A4%A9%E9%81%8E%E6%88%90%E6%85%A2%E6%85%A2%E6%9A%96%E7%9A%84%E7%AF%80%E5%A5%8F"></span>
+
 ## **結論：把冬天過成慢慢暖的節奏**
 
 冬天不是一場熬過去的戰役，而是一個與自己對話、收藏能量的季節。
@@ -135,6 +151,8 @@ sourceVerbatim: true
 **《本文將依據最新提問持續更新》**
 
 <table class="season-table"><thead><tr><th>節氣</th><th>飲食主軸 / 菜單</th><th>茶飲 / 藥材</th><th>穴位與按法</th><th>運動 / 八段錦</th><th>作息 / 保暖</th><th>注意事項</th></tr></thead><tbody><tr><td>立冬</td><td>黑豆排骨湯、蔬菜蛋花粥</td><td class="tooltip-cell" data-tip="薑片2–3片＋紅棗2顆">薑棗茶、陳皮</td><td>太溪、足三里 按揉 2–3 分鐘</td><td>雙手托天理三焦 3–5遍；室內快走10分鐘</td><td>早睡30分鐘；清晨先室內活動</td><td>胃食道逆流：薑量減；高血壓：少鹽湯底</td></tr><tr><td>小雪</td><td>黑芝麻糊、木耳雞片</td><td>桂圓紅棗茶、枸杞</td><td>湧泉穴 溫熱按揉</td><td>肩頸展開、關節活動</td><td>日曬10–20分；居家濕度45–55%</td><td>糖尿病足：足浴水溫≤40°C</td></tr><tr><td>大雪</td><td>鯖魚、豆腐味噌湯；堅果</td><td>普洱＋陳皮；山楂助消化</td><td>關元 穴 暖貼10–15分</td><td>兩手攀足固腎腰 3–5遍；核心訓練</td><td>洋蔥式穿搭；出門前原地踏步60秒</td><td>痛風：少高嘌呤湯底；腎病：少濃湯</td></tr><tr><td>冬至</td><td>小份湯圓＋蔬菜蛋白</td><td>黑豆茶；杜仲(少量)</td><td>三陰交 輕按</td><td>循環操10分鐘；深呼吸</td><td>夜間暖黃光；睡前溫足浴40–42°C</td><td>糖友：湯圓控量；高血壓：避免酒精進補</td></tr><tr><td>小寒</td><td>芝麻黑木耳炒時蔬</td><td>生薑紅茶；紅棗桂圓飲</td><td>風池 穴 按揉放鬆</td><td>攥拳怒目增氣力 3–5遍；彈力帶運動</td><td>清晨量壓前先暖身；出門戴帽圍巾</td><td>冷誘發高血壓：避免清晨室外劇烈運動</td></tr><tr><td>大寒</td><td>藥膳湯＋優質蛋白；芝麻核桃糊</td><td>當歸生薑羊肉湯 (虛寒者適用)</td><td>腰陽關 穴 熱敷10–15分</td><td>八段錦全套；室內單車15分鐘</td><td>沐浴後3分鐘內保濕：水→乳→油</td><td>長者防滑照明；心血管患者外出結伴</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

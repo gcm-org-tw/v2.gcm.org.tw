@@ -21,6 +21,8 @@ sourceVerbatim: true
 1.  Graudal, N. A., et al. (2017). Sodium reduction in populations: Insights from the SPRINT Trial. *The New England Journal of Medicine*, 376(22), 2138-2149. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/))
 2.  Grandner, M. A., et al. (2019). Sleep and inflammation: An overview of research evidence and practical considerations. *Nature Reviews Rheumatology*, 15(4), 202-212. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/))
 
+<span id="%E6%98%A5%E7%AF%80%E5%81%A5%E5%BA%B7%E7%9A%84%E7%8F%BE%E4%BB%A3%E6%8C%91%E6%88%B0%EF%BC%9A%E6%95%B8%E6%93%9A%E8%88%87%E7%A7%91%E5%AD%B8%E8%A7%A3%E6%9E%90"></span>
+
 ## **春節健康的現代挑戰：數據與科學解析**
 
 春節期間的飲食與作息習慣往往與平日截然不同。您是否也曾因年夜飯後的油膩與消化不良而苦惱？根據研究顯示，春節期間的高鹽、高糖、高脂飲食會顯著提高血壓、血糖水平，並增加心血管疾病的風險(註1)。一項發表於《Journal of Clinical Hypertension》的研究指出，節日期間的高鈉攝取使心血管疾病發病率上升20%(註2)。此外，不規律的作息和熬夜則會導致內分泌失調，削弱免疫系統的功能，增加感染的可能性。
@@ -33,6 +35,8 @@ sourceVerbatim: true
 
 1.  Graudal, N. A., et al. (2017). Sodium reduction in populations: Insights from the SPRINT Trial. *The New England Journal of Medicine*, 376(22), 2138-2149. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/))
 2.  Grandner, M. A., et al. (2019). Sleep and inflammation: An overview of research evidence and practical considerations. *Nature Reviews Rheumatology*, 15(4), 202-212. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/))
+
+<span id="%E4%B8%AD%E9%86%AB%E8%A7%80%E9%BB%9E%EF%BC%9A%E9%A4%8A%E8%83%83%E5%81%A5%E8%84%BE%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7"></span>
 
 ## **中醫觀點：養胃健脾的重要性**
 
@@ -50,6 +54,8 @@ sourceVerbatim: true
 2.  Wang, J., et al. (2019). Role of traditional Chinese medicine in regulating gastrointestinal microbiota. *World Journal of Gastroenterology*, 25(29), 3600–3614. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/))
 3.  Luo, Y., et al. (2017). Functional foods and traditional Chinese medicine for regulation of intestinal microflora: A review. *Food Research International*, 100, 537–549. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/))
 
+<span id="%E5%81%A5%E5%BA%B7%E8%A1%8C%E5%8B%95%E6%8C%87%E5%8D%97%EF%BC%9A%E5%BE%9E%E4%BD%9C%E6%81%AF%E5%88%B0%E9%A3%B2%E9%A3%9F%E7%9A%84%E5%85%A8%E9%9D%A2%E6%94%B9%E5%96%84"></span>
+
 ## **健康行動指南：從作息到飲食的全面改善**
 
 春節期間作息不規律，往往成為健康隱患的根源。熬夜與過量飲食不僅使腸胃負擔加重，還會干擾生物鐘，影響免疫功能和身體代謝能力。科學研究顯示，充足的睡眠能促進腸道菌群的平衡，進而改善消化功能與全身健康(註1)。因此，規律作息是春節健康行動的首要一步。
@@ -64,6 +70,8 @@ sourceVerbatim: true
 
 1.  Rhee, C., et al. (2019). The interplay between sleep and gut microbiota: A dynamic relationship. *Clinical and Translational Gastroenterology*, 10(1), e00065. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/))
 2.  Grandner, M. A., et al. (2019). Sleep and inflammation: An overview of research evidence and practical considerations. *Nature Reviews Rheumatology*, 15(4), 202-212. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/))
+
+<span id="%E6%98%A5%E7%AF%80%E9%A4%8A%E7%94%9F%E7%9A%84%E9%95%B7%E6%9C%9F%E6%95%88%E7%9B%8A%EF%BC%9A%E8%B6%85%E8%B6%8A%E7%AF%80%E6%97%A5%E7%9A%84%E5%81%A5%E5%BA%B7%E6%94%B9%E8%AE%8A"></span>
 
 ## **春節養生的長期效益：超越節日的健康改變**
 
@@ -80,6 +88,8 @@ sourceVerbatim: true
 1.  《黃帝內經·素問》：「形與氣，常相依也。」
 2.  Liu, Z., et al. (2020). The role of balanced dietary patterns in maintaining health and preventing diseases. *Advances in Nutrition*, 11(6), 1379-1387. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/))
 3.  Zhang, X., et al. (2018). Impact of family-based lifestyle interventions on health behaviors and outcomes. *Public Health Nutrition*, 21(3), 506-515. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/))
+
+<span id="%E5%81%A5%E5%BA%B7%E6%98%A5%E7%AF%80%EF%BC%8C%E5%B9%B8%E7%A6%8F%E4%BA%BA%E7%94%9F%E7%9A%84%E8%B5%B7%E9%BB%9E"></span>
 
 ## **健康春節，幸福人生的起點**
 

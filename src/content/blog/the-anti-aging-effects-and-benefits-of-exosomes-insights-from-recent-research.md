@@ -20,6 +20,8 @@ sourceVerbatim: true
 1.  **Li, W., et al. (2020)**. “Exosomes Derived from Mesenchymal Stem Cells Promote Collagen Synthesis and Skin Elasticity in Aging Models.” *Journal of Dermatological Science*, 98, 142-150.
 2.  **Park, H., et al. (2021)**. “Anti-inflammatory Effects of Exosomes Isolated from Stem Cells in Skin Aging Models.” *International Journal of Molecular Sciences*, 22(3), 647.
 
+<span id="%E4%BA%86%E8%A7%A3%E5%A4%96%E6%B3%8C%E9%AB%94%EF%BC%9A%E6%8A%97%E8%80%81%E5%8C%96%E7%9A%84%E6%9C%80%E6%96%B0%E7%99%BC%E7%8F%BE"></span>
+
 ## **了解外泌體：抗老化的最新發現**
 
 「當我們談論抗老化時，外泌體這種小小的細胞外囊泡在近年的研究中獲得了廣泛關注。那麼，什麼是外泌體？簡單來說，外泌體是細胞釋放出的奈米級小囊泡，內含多種生長因子、蛋白質與RNA等成分，這些成分能夠與其他細胞進行訊息交換，幫助受損細胞的修復及再生。外泌體被譽為自然的‘細胞運輸系統’，不僅能傳遞有益於細胞修復的訊息，還在延緩老化過程中扮演了關鍵角色。近期的研究也指出，外泌體含有的miR-21和GAP43等蛋白質，能顯著促進細胞再生及減少炎症反應(註一, 2018)。
@@ -33,17 +35,23 @@ sourceVerbatim: true
 1.  Ding, M., Shen, Y., Wang, P., Xie, Z., Xu, S., Zhu, Z., Wang, Y., Lyu, Y., Wang, D., Xu, L., Bi, J., & Yang, H. (2018). Exosomes Isolated From Human Umbilical Cord Mesenchymal Stem Cells Alleviate Neuroinflammation and Reduce Amyloid-Beta Deposition by Modulating Microglial Activation in Alzheimer’s Disease. *Neurochemical Research*, 43, 2165 – 2177
 2.  Liu, W., Wang, Y., Gong, F., Rong, Y., Luo, Y., Tang, P., Zhou, Z., Zhou, Z., Xu, T., Jiang, T., Yang, S., Yin, G., Chen, J., Fan, J., & Cai, W. (2019). Exosomes Derived from Bone Mesenchymal Stem Cells Repair Traumatic Spinal Cord Injury by Suppressing the Activation of A1 Neurotoxic Reactive Astrocytes. *Journal of Neurotrauma*, 36(3), 469-484.
 
+<span id="%E5%A4%96%E6%B3%8C%E9%AB%94%E4%BF%83%E9%80%B2%E8%86%A0%E5%8E%9F%E8%9B%8B%E7%99%BD%E5%86%8D%E7%94%9F%E7%9A%84%E5%8A%9F%E6%95%88"></span>
+
 ## **外泌體促進膠原蛋白再生的功效**
 
 「膠原蛋白是保持肌膚緊緻與年輕的基礎成分，而隨著年齡增長，膠原蛋白的自然生成減少，肌膚開始出現皺紋與鬆弛。外泌體在此扮演了重要角色，因其內含的多種生長因子能有效促進膠原蛋白再生。研究顯示，外泌體中的miR-21等活性物質可激活皮膚細胞的修復過程，顯著提升膠原蛋白的生成(註一, 2020)。這種再生能力讓外泌體成為抗老化的關鍵工具，對於那些希望保持肌膚年輕的人士而言，外泌體不僅可以減少細紋，還能恢復肌膚彈性，使其更加緊緻、富有光澤。
 
 在美容應用中，外泌體已被廣泛用於皮膚護理療程中，以提升肌膚的彈性與光澤。不過，過度使用外泌體相關療法可能會增加皮膚敏感的風險，尤其是對於皮膚較脆弱的人而言。建議在選擇使用外泌體療法時，遵循專業醫師的建議，以確保其效果和安全性。《本草綱目》中提到‘補氣養血’，而外泌體的再生作用正可幫助補充肌膚所需的‘氣血’，達到保養皮膚、延緩衰老的目的。」
 
+<span id="%E5%A4%96%E6%B3%8C%E9%AB%94%E6%B8%9B%E5%B0%91%E7%82%8E%E7%97%87%E7%9A%84%E6%8A%97%E8%80%81%E6%95%88%E6%9E%9C%EF%BC%9A%E4%BF%9D%E8%AD%B7%E7%B4%B0%E8%83%9E%E5%81%A5%E5%BA%B7"></span>
+
 ## **外泌體減少炎症的抗老效果：保護細胞健康**
 
 「外泌體的另一項重要功效是其抗炎特性，尤其在延緩細胞衰老的過程中發揮關鍵作用。細胞老化過程中，炎症反應和氧化壓力會加速細胞損傷，進而導致皮膚失去光澤並產生皺紋。外泌體所含的抗炎分子能夠顯著減少皮膚細胞中的炎症，特別是降低促炎性因子的表達，如TNF-α，這些炎症因子在皮膚衰老過程中扮演著‘催化劑’的角色 (註二, 2021)。
 
 此外，研究表明外泌體中的抗氧化酶可減少自由基引發的細胞損傷，保護細胞免於早衰。這種雙重的抗老機制不僅能改善膚質，還有助於提高皮膚的自然屏障功能，使肌膚更具防禦力。這一點在預防醫學角度來看尤其重要，因為外泌體的抗炎和抗氧化特性能降低長期健康風險，特別是針對皮膚容易出現炎症的族群。」
+
+<span id="%E6%9C%AA%E4%BE%86%E5%B1%95%E6%9C%9B%EF%BC%9A%E5%A4%96%E6%B3%8C%E9%AB%94%E6%8A%97%E8%80%81%E6%8A%80%E8%A1%93%E7%9A%84%E6%87%89%E7%94%A8%E5%89%8D%E6%99%AF"></span>
 
 ## **未來展望：外泌體抗老技術的應用前景**
 
@@ -57,9 +65,13 @@ sourceVerbatim: true
 2.  Park, H., Shin, K., Lee, E., & Kim, S. (2021). Anti-inflammatory Effects of Exosomes Isolated from Stem Cells in Skin Aging Models. *International Journal of Molecular Sciences*, 22(3), 647.
 3.  Chang, Y., Hong, Y., & Kim, J. (2022). Emerging Trends of Exosome Therapy for Age-related Diseases. *Biogerontology*, 23, 93-108.
 
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E5%BE%9E%E4%B8%AD%E9%86%AB%E8%A7%80%E9%BB%9E%E7%9C%8B%E5%A4%96%E6%B3%8C%E9%AB%94%E7%9A%84%E6%8A%97%E8%80%81%E6%BD%9B%E5%8A%9B"></span>
+
 ## **結論：從中醫觀點看外泌體的抗老潛力**
 
 「《黃帝內經》提到：‘形與神俱，壽而不傷。’抗老化的根本不僅是表面修復，而在於內外協調與能量的流通。外泌體療法在細胞間傳遞活力，正如中醫中的‘氣’能促進身體自我平衡。這種療法不僅僅是抵抗皺紋與鬆弛，更是從內而外，養精蓄銳的自然修復。透過陰陽調和，肌膚能持久保有年輕與健康，讓生命之力長存於我們的日常之中。」
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C"></span>
 
 ## 常見問題 :
 

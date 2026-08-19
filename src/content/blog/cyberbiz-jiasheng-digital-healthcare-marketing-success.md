@@ -13,6 +13,8 @@ legacyPath: "/blog/cyberbiz-jiasheng-digital-healthcare-marketing-success/"
 sourceVerbatim: true
 ---
 
+<span id="%E9%86%AB%E4%BA%8B%E4%BA%BA%E5%93%A1%E5%88%86%E4%BA%AB%E5%AE%A2%E8%A7%80%EF%BC%8C%E3%80%8C%E9%86%AB%E8%B5%B7%E5%81%9A%E8%A1%8C%E9%8A%B7%E6%96%B9%E6%A1%88%E3%80%8D%E9%87%8B%E6%94%BE%E5%93%81%E7%89%8C%E6%BD%9B%E5%8A%9B"></span>
+
 ## 醫事人員分享客觀，「醫起做行銷方案」釋放品牌潛力
 
 近期，CYBERBIZ與捷盛數位攜手，在 CYBERBIZ APP MARKET上推出「醫起做行銷方案」，也就是把醫事人員進行代言或行銷宣傳的方案融入新零售中，並依此創造出顯著成效，為大健康產業品牌及相關產品，帶來嶄新動能。
@@ -25,6 +27,8 @@ sourceVerbatim: true
 
 謝一肇指出，大健康產業相關產品，包括保健、保養、機能用品、機能食品，以及健康取向的零食、婦嬰用品，或健康相關課程等，藉由「醫起做行銷方案」的協助，也就是結合專業醫療人員的形象與代言後，釋放無窮潛力。
 
+<span id="%E5%B0%88%E6%A5%AD%E7%B4%9A%E6%8A%8A%E9%97%9C%EF%BC%8C%E6%8F%90%E4%BE%9B%E4%B8%AD%E7%AB%8B%E5%AE%A2%E8%A7%80%E5%88%86%E4%BA%AB%EF%BC%8C%E6%9C%89%E6%95%88%E6%8F%90%E6%98%87%E7%94%A2%E5%93%81%E5%BD%A2%E8%B1%A1"></span>
+
 ## 專業級把關，提供中立客觀分享，有效提昇產品形象
 
 「協會的最高宗旨，就是守護民眾健康。因此，醫事人員會員基於專業，以及推廣預防醫學的理念，對於參與分享代言的產品是否成分確實，並是否實際有益於健康，都相當重視。」上醫預防醫學發展協會秘書長蔡旻堅營養師指出。
@@ -36,6 +40,8 @@ sourceVerbatim: true
 ![](https://ibw.bwnet.com.tw/AC_Gallery/2023/12/8df7361b-de8e-f480-742f-831e8f299972.jpg)
 
 ###### 上醫預防醫學發展協會秘書長/蔡旻堅營養師
+
+<span id="%E3%80%8C%E9%86%AB%E8%B5%B7%E3%80%8D%E5%B0%88%E6%A5%AD%E5%88%86%E4%BA%AB%EF%BC%8C%E5%B8%B6%E4%BE%86%E9%A9%9A%E4%BA%BA%E6%88%90%E6%95%88"></span>
 
 ## 「醫起」專業分享，帶來驚人成效
 

@@ -23,6 +23,8 @@ sourceVerbatim: true
 1.  Wachtel-Galor, S., Tomlinson, B., & Benzie, I. F. F. (2011). Ganoderma lucidum (“Lingzhi”), a Chinese medicinal mushroom: biomarker responses in a controlled human supplementation study. *British Journal of Nutrition*, 106(2), 153–157. DOI: 10.1017/S0007114511000030.
 2.  Cheng, C. R., Yue, Q. X., Wu, Z. Y., Song, X., Wei, W., Guan, S. H., … & Guo, D. A. (2010). Cytotoxic triterpenoids from Ganoderma lucidum. *Journal of Natural Products*, 73(5), 734–738. DOI: 10.1021/np900679k.
 
+<span id="%E9%9D%88%E8%8A%9D%E7%9A%84%E8%82%9D%E8%87%9F%E4%BF%9D%E8%AD%B7%E5%8A%9F%E6%95%88%EF%BC%9A%E5%BE%9E%E5%82%B3%E7%B5%B1%E6%99%BA%E6%85%A7%E5%88%B0%E7%8F%BE%E4%BB%A3%E7%A0%94%E7%A9%B6"></span>
+
 ## **靈芝的肝臟保護功效：從傳統智慧到現代研究**
 
 您是否曾感到疲倦、情緒低落，甚至出現睡眠問題？這些症狀可能與肝臟健康息息相關。在中醫理論中，肝臟被稱為「將軍之官」，負責調節情緒和確保經絡的通暢。現代生活中，壓力過大和不良生活習慣導致肝臟負擔加重，許多相關健康問題隨之而來。
@@ -40,6 +42,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="靈芝的功效與作用與食用方法從肝經到全身的調理秘訣 Lingzhi Benefits Uses and Guide for Full Body Health" width="800" height="450" src="https://www.youtube.com/embed/zFAKFaNVAUQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E9%9D%88%E8%8A%9D%E8%88%87%E8%82%9D%E7%B6%93%EF%BC%9A%E4%BF%83%E9%80%B2%E7%94%9F%E6%AE%96%E5%81%A5%E5%BA%B7%E7%9A%84%E6%BD%9B%E5%9C%A8%E5%8A%9F%E6%95%88"></span>
+
 ## **靈芝與肝經：促進生殖健康的潛在功效**
 
 您是否曾考慮過，肝經在維護生殖健康中扮演著什麼角色？在中醫理論中，肝經是唯一繞行生殖器的經脈，與生殖功能密切相關。因此，調理肝經對於改善生殖系統的健康至關重要。
@@ -55,6 +59,8 @@ sourceVerbatim: true
 1.  林志彬. (2019). 靈芝護肝作用的研究與臨床應用. *靈芝新聞網*. 取自 https://www.ganodermanews.com/index.php/認識靈芝/靈芝學者/北京大學-林志彬教授/478-〔林志彬專欄〕靈芝護肝作用的研究與臨床應用
 
 ![](/wp-content/uploads/ingzhi-Benefits-Uses-and-Guide-for-Full-Body-Health2-1024x588.jpg)
+
+<span id="%E9%9D%88%E8%8A%9D%E7%9A%84%E9%A3%9F%E7%94%A8%E6%96%B9%E6%B3%95%E8%88%87%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85"></span>
 
 ## **靈芝的食用方法與注意事項**
 
@@ -77,9 +83,13 @@ sourceVerbatim: true
 
 在食用靈芝前，建議諮詢醫師或專業人士的意見，確保安全。
 
+<span id="%E6%97%A5%E5%B8%B8%E8%AA%BF%E7%90%86%E8%88%87%E9%9D%88%E8%8A%9D%E7%9A%84%E5%AE%89%E5%85%A8%E4%BD%BF%E7%94%A8%EF%BC%9A%E9%81%BF%E5%85%8D%E5%B8%B8%E8%A6%8B%E8%AA%A4%E5%8D%80"></span>
+
 ## **日常調理與靈芝的安全使用：避免常見誤區**
 
 你是否在日常保健中曾經考慮使用靈芝，但對劑量或使用方式感到困惑？靈芝作為傳統中藥材，其確實具有多重健康效益，但在使用時，也需要避免一些常見的誤區，以免適得其反。
+
+<span id="%E5%B8%B8%E8%A6%8B%E8%AA%A4%E5%8D%80%EF%BC%9A"></span>
 
 ### **常見誤區：**
 
@@ -89,6 +99,8 @@ sourceVerbatim: true
     每個人體質不同，特別是對藥材的耐受度。過敏體質或本身有慢性病的患者，在使用靈芝前應諮詢醫師。
 3.  **依賴單一方式**  
     靈芝提取物膠囊雖然方便，但其效用可能不如複方形式來得全面。研究顯示，靈芝所含的三萜類成分具有顯著的細胞保護作用，尤其是與其他濃縮萃取的漢方複方配伍使用時，能增強調理效果，這種協同作用比單一成分的靈芝膠囊更有效改善身體健康(註2)。
+
+<span id="%E6%AD%A3%E7%A2%BA%E7%9A%84%E4%BD%BF%E7%94%A8%E5%BB%BA%E8%AD%B0%EF%BC%9A"></span>
 
 ### **正確的使用建議：**
 
@@ -106,6 +118,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/ingzhi-BenefitsUses-and-Guide-for-Full-Body-Health-1024x582.jpg)
 
+<span id="%E9%9D%88%E8%8A%9D%E8%88%87%E8%B6%B3%E5%8E%A5%E9%99%B0%E8%82%9D%E7%B6%93%E7%9A%84%E5%8D%94%E5%A5%8F%E6%9B%B2%EF%BC%8C%E7%82%BA%E5%81%A5%E5%BA%B7%E5%8A%A0%E6%B2%B9%E5%8A%A9%E5%8A%9B"></span>
+
 ## **靈芝與足厥陰肝經的協奏曲，為健康加油助力**
 
 靈芝就像自然界的「健康守護者」，為我們的足厥陰肝經提供了強有力的支持。這條經絡被稱為「生命高速公路」，連接著氣血的運行與經絡的平衡，當它順暢時，全身的能量與健康狀態便能全面提升。而靈芝與其他中藥材的複方結合，就如同為這條高速公路設置了「能量補給站」，協同作用讓氣血流通更加順暢。
@@ -118,17 +132,25 @@ sourceVerbatim: true
 
 <table style="border-collapse: collapse; width: 100%;" border="1"><thead><tr><th style="padding: 10px; text-align: center;">特點</th><th style="padding: 10px; text-align: center;">靈芝單一成分膠囊</th><th style="padding: 10px; text-align: center;">靈芝複方膠囊</th></tr></thead><tbody><tr><td style="padding: 10px;">主要成分</td><td style="padding: 10px;">單一靈芝萃取物</td><td style="padding: 10px;">靈芝與其他中藥材（如黃芪、人參）濃縮配方</td></tr><tr><td style="padding: 10px;">作用範圍</td><td style="padding: 10px;">集中於修復肝臟細胞和抗氧化</td><td style="padding: 10px;">同時調理足厥陰肝經，促進氣血流通，增強身體整體調節功能</td></tr><tr><td style="padding: 10px;">協同效應</td><td style="padding: 10px;">無，單一成分效果有限</td><td style="padding: 10px;">複方配伍提升協同效應，效果更全面</td></tr><tr><td style="padding: 10px;">對體能與自信的提升</td><td style="padding: 10px;">基礎能量補充</td><td style="padding: 10px;">全面增強體力與自信，喚醒身體深層潛力</td></tr><tr><td style="padding: 10px;">適用人群</td><td style="padding: 10px;">一般保健需求者</td><td style="padding: 10px;">尋求全身經絡調理與深層健康改善者</td></tr><tr><td style="padding: 10px;">推薦用途</td><td style="padding: 10px;">日常基礎保健</td><td style="padding: 10px;">長期壓力或健康需求提升，實現全面調理與健康管理</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E9%9D%88%E8%8A%9D%E5%96%AE%E4%B8%80%E6%88%90%E5%88%86%E8%86%A0%E5%9B%8A%E5%92%8C%E8%A4%87%E6%96%B9%E8%86%A0%E5%9B%8A%E7%9A%84%E4%B8%BB%E8%A6%81%E5%B7%AE%E5%88%A5%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F"></span>
 
 ### **問題1****：靈芝單一成分膠囊和複方膠囊的主要差別是什麼？**
 
 **回覆：**  
 靈芝單一成分膠囊主要以靈芝萃取物為核心，能集中提供靈芝的抗氧化和保肝功效。相比之下，複方膠囊則將靈芝與其他中藥材（如蟲草、管花肉蓯蓉）結合，發揮協同作用。不僅調理足厥陰肝經，還能促進氣血流通，全面增強體能和免疫力，更適合需要全身健康調理的讀者。
 
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E9%9D%88%E8%8A%9D%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E6%94%B9%E5%96%84%E5%A3%93%E5%8A%9B%E5%B8%B6%E4%BE%86%E7%9A%84%E7%96%B2%E6%86%8A%E6%84%9F%E5%97%8E%EF%BC%9F"></span>
+
 ### **問題2****：靈芝真的可以改善壓力帶來的疲憊感嗎？**
 
 **回覆：**  
 是的，靈芝在中醫中被譽為「益心氣，補肝氣」的上品藥材，具有調節氣血、減輕壓力對身體影響的作用。《黃帝內經》提到：「肝者，將軍之官，謀慮出焉。」當肝經通暢時，情緒和精力都會有所改善。現代研究也表明，靈芝多醣具有免疫調節與抗氧化功能，有助於緩解壓力引起的疲憊感。
+
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E9%9D%88%E8%8A%9D%E9%81%A9%E5%90%88%E6%89%80%E6%9C%89%E4%BA%BA%E4%BD%BF%E7%94%A8%E5%97%8E%EF%BC%9F%E6%9C%89%E6%B2%92%E6%9C%89%E7%A6%81%E5%BF%8C%EF%BC%9F"></span>
 
 ### **問題3****：靈芝適合所有人使用嗎？有沒有禁忌？**
 
@@ -140,6 +162,8 @@ sourceVerbatim: true
 3.  **服用抗凝血藥物者：** 靈芝可能影響血液凝固功能，應避免同時服用。  
     建議此類人群在使用靈芝前，諮詢專業醫師的意見。
 
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E9%9D%88%E8%8A%9D%E6%87%89%E8%A9%B2%E6%80%8E%E9%BA%BC%E5%90%83%E6%89%8D%E8%83%BD%E7%99%BC%E6%8F%AE%E6%9C%80%E4%BD%B3%E6%95%88%E6%9E%9C%EF%BC%9F"></span>
+
 ### **問題4****：靈芝應該怎麼吃才能發揮最佳效果？**
 
 **回覆：**  
@@ -149,6 +173,8 @@ sourceVerbatim: true
 -   **靈芝煲湯：** 搭配雞肉或紅棗煮湯，能提升滋補效果。
 -   **靈芝複方膠囊：** 濃縮配方方便攜帶，特別適合忙碌的人群。  
     建議每日適量使用靈芝，並避免長期過量攝取，以免出現副作用。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E7%82%BA%E4%BB%80%E9%BA%BC%E9%9D%88%E8%8A%9D%E8%88%87%E5%85%B6%E4%BB%96%E4%B8%AD%E8%97%A5%E6%9D%90%E7%B5%90%E5%90%88%E7%9A%84%E6%95%88%E6%9E%9C%E6%9B%B4%E5%A5%BD%EF%BC%9F"></span>
 
 ### **問題5****：為什麼靈芝與其他中藥材結合的效果更好？**
 

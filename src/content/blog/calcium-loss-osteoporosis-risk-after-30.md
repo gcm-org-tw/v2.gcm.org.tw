@@ -17,11 +17,15 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/calcium-loss-osteoporosis-risk-after-30_11zon.webp)
 
+<span id="%E9%AA%A8%E8%B3%AA%E9%AB%98%E5%B3%B0%E5%9C%A830%E6%AD%B2%EF%BC%8C%E4%B9%8B%E5%BE%8C%E8%B5%B0%E4%B8%8B%E5%9D%A1"></span>
+
 ## **骨質高峰在30****歲，之後走下坡**
 
 根據美國梅約診所（Mayo Clinic）與多項醫學研究指出，大多數人會在20多歲到30歲之間達到**骨質巔峰值**。這代表你年輕時累積的「骨本」，將成為未來數十年抵抗骨質流失的基礎。
 
 世界衛生組織（WHO）也以年輕時的骨密度作為診斷骨質疏鬆的標準，可見**30****歲左右的骨質健康具有關鍵地位**。如果這段時期未建立足夠骨本，將來進入中老年時，骨質自然快速流失、風險更高。
+
+<span id="%E5%B9%B4%E9%BD%A1%E3%80%81%E6%80%A7%E5%88%A5%E8%88%87%E8%8D%B7%E7%88%BE%E8%92%99%E5%BD%B1%E9%9F%BF%E9%AA%A8%E8%B3%AA%E6%B5%81%E5%A4%B1"></span>
 
 ## **年齡、性別與荷爾蒙影響骨質流失**
 
@@ -42,6 +46,8 @@ sourceVerbatim: true
 -   **維持健康體重與姿勢**：過輕體型者骨本較少，跌倒也較容易骨折。
 
 美國國立衛生研究院（NIH）也指出，青春期至30歲是建立骨峰值的黃金時期，維持運動習慣與營養攝取，有助於延緩未來的骨質流失與骨折風險。
+
+<span id="%E9%AA%A8%E8%B3%AA%E7%96%8F%E9%AC%86%E7%9A%84%E5%B8%B8%E8%A6%8B%E8%AA%A4%E8%A7%A3%EF%BC%9A%E4%BD%A0%E4%B8%AD%E6%8B%9B%E4%BA%86%E5%97%8E%EF%BC%9F"></span>
 
 ## **骨質疏鬆的常見誤解：你中招了嗎？**
 
@@ -65,6 +71,8 @@ sourceVerbatim: true
 
 太慢了！因為**骨質從****30****歲就在默默流失**。等發現骨折，可能已經晚了10年以上。骨骼健康需要長期經營，從年輕就開始建立好習慣，才不會老來後悔。
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E8%A9%B2%E7%8F%BE%E5%9C%A8%E5%B0%B1%E9%96%8B%E5%A7%8B%E5%AD%98%E9%AA%A8%E6%9C%AC%EF%BC%9F"></span>
+
 ## **為什麼你該現在就開始存骨本？**
 
 根據國民健康署資料，台灣**50****歲以上女性每10****人就有1****人罹患骨質疏鬆症**，且隨年齡上升，比例更高。全球統計指出：
@@ -82,6 +90,8 @@ sourceVerbatim: true
 <table border="1" cellspacing="0" cellpadding="8"><thead><tr><th>年齡區間</th><th>骨質變化趨勢</th><th>特記事項</th></tr></thead><tbody><tr><td>20–30歲</td><td>骨密度達高峰</td><td>建立骨本的黃金時期</td></tr><tr><td>30–40歲</td><td>開始緩慢流失</td><td>男性每年約流失0.3%，女性約0.5%</td></tr><tr><td>更年期後</td><td>女性骨質快速流失</td><td>流失率高達每年2%–3%</td></tr><tr><td>50歲以上</td><td>骨折風險顯著上升</td><td>女性每3人中有1人骨折，男性每5人中有1人</td></tr></tbody></table>
 
 <table border="1" cellspacing="0" cellpadding="8"><thead><tr><th>常見迷思</th><th>事實真相</th></tr></thead><tbody><tr><td>❌ 喝牛奶就夠了</td><td>還需維生素D與均衡營養搭配</td></tr><tr><td>❌ 骨鬆是女性專屬</td><td>男性也有風險，且骨折後死亡率更高</td></tr><tr><td>❌ 沒症狀就沒問題</td><td>骨鬆多數無症狀，骨折才驚覺</td></tr><tr><td>❌ 老了再來關心</td><td>預防要趁早，從30歲開始就該重視</td></tr></tbody></table>
+
+<span id="30%E6%AD%B2%E4%B8%8D%E6%98%AF%E9%96%8B%E5%A7%8B%E8%80%81%EF%BC%8C%E8%80%8C%E6%98%AF%E9%96%8B%E5%A7%8B%E5%AD%98%E9%AA%A8%E6%9C%AC%EF%BC%81"></span>
 
 ## **30****歲不是開始老，而是開始存骨本！**
 

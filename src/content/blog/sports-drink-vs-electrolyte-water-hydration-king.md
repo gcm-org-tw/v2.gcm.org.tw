@@ -13,6 +13,8 @@ legacyPath: "/blog/sports-drink-vs-electrolyte-water-hydration-king/"
 sourceVerbatim: true
 ---
 
+<span id="%E4%B8%80%E3%80%81%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A3%9C%E6%B0%B4%E9%80%99%E9%BA%BC%E9%87%8D%E8%A6%81%EF%BC%9F"></span>
+
 ## **一、為什麼補水這麼重要？**
 
 天氣熱、運動流汗、生病或長時間外出時，身體不只流失水分，還會失去電解質。如果沒有即時補充，除了口渴，還可能出現**頭暈、無力、抽筋**等症狀。
@@ -20,6 +22,8 @@ sourceVerbatim: true
 這時很多人會選擇**運動飲料或電解質水**，但你知道它們的差別嗎？什麼情況該選哪一種？究竟誰才是真正的「補水王」？讓我們一起來了解！
 
 ![](/wp-content/uploads/sports-drink-vs-electrolyte-water-hydration-king.jpg)
+
+<span id="%E4%BA%8C%E3%80%81%E8%A3%9C%E6%B0%B4%E7%9A%84%E9%97%9C%E9%8D%B5%E4%B8%8D%E5%8F%AA%E6%B0%B4%EF%BC%9A%E4%BD%A0%E9%82%84%E9%9C%80%E8%A6%81%E9%9B%BB%E8%A7%A3%E8%B3%AA"></span>
 
 ## **二、**補水的關鍵不只水：你還需要電解質
 
@@ -32,6 +36,8 @@ sourceVerbatim: true
 
 當你流汗、腹瀉或發燒時，不只是水分流失，電解質也會一起流失。若只喝白開水，可能會稀釋血液中的鈉濃度，導致低血鈉，出現頭暈、噁心、甚至抽筋。  
 因此，真正的補水應該同時補充水分與電解質，尤其在劇烈運動或大量流汗後。
+
+<span id="%E4%B8%89%E3%80%81%E9%81%8B%E5%8B%95%E9%A3%B2%E6%96%99_vs_%E9%9B%BB%E8%A7%A3%E8%B3%AA%E6%B0%B4%EF%BC%9A%E6%88%90%E5%88%86%E8%88%87%E5%8A%9F%E8%83%BD%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82"></span>
 
 ## **三、運動飲料** **vs** **電解質水：成分與功能一次看懂**
 
@@ -53,12 +59,16 @@ sourceVerbatim: true
 
 <table width="590"><thead><tr><td><strong>成分</strong><strong>/</strong><strong>特性</strong></td><td width="262"><strong>運動飲料</strong></td><td width="243"><strong>電解質水</strong></td></tr></thead><tbody><tr><td>補充能量</td><td width="262">✅</td><td width="243">❌</td></tr><tr><td>電解質含量</td><td width="262">✅ 多</td><td width="243">✅ 適中</td></tr><tr><td>熱量／糖分負擔</td><td width="262">❌ 較高</td><td width="243">✅ 低</td></tr><tr><td>吸收速度</td><td width="262">中等（受糖分影響）</td><td width="243">✅ 較快</td></tr><tr><td>適用時機</td><td width="262">中高強度運動、長時間（&gt;1小時）大量流汗</td><td width="243">輕度運動、控制熱量/糖分需求者</td></tr></tbody></table>
 
+<span id="%E5%9B%9B%E3%80%81%E8%AA%B0%E6%89%8D%E6%98%AF%E3%80%8C%E8%A3%9C%E6%B0%B4%E7%8E%8B%E3%80%8D%EF%BC%9F%E8%A6%96%E9%9C%80%E6%B1%82%E8%80%8C%E5%AE%9A"></span>
+
 ## **四、誰才是「補水王」？視需求而定**
 
 沒有絕對的贏家，重點是**看需求選擇**：
 
 -   **運動飲料**：持續運動 1小時以上、曝曬高溫下勞動、體力消耗大時
 -   **電解質水**：平日活動量小、輕度運動後、想減重或控糖者
+
+<span id="%E4%BA%94%E3%80%81%E8%85%B9%E7%80%89%E6%99%82%E6%80%8E%E9%BA%BC%E5%96%9D%E6%89%8D%E5%B0%8D%EF%BC%9F"></span>
 
 ## 五、腹瀉時怎麼喝才對？
 
@@ -69,6 +79,8 @@ sourceVerbatim: true
 -   少量葡萄糖，幫助吸收
 -   有些還添加鋅或麩醯胺酸促進腸道修復  
     而且通常不需稀釋，兒童也有專屬配方，適合腹瀉/嘔吐、中暑、發燒大量流汗補水時使用。購買前可向藥師或醫師諮詢。
+
+<span id="%E5%85%AD%E3%80%81%E7%B5%90%E8%AB%96%EF%BC%9A%E8%A3%9C%E6%B0%B4%E8%A6%81%E7%9C%8B%E6%83%85%E6%B3%81%EF%BC%8C%E5%96%9D%E5%B0%8D%E6%89%8D%E6%9C%89%E6%95%88%EF%BC%81"></span>
 
 ## **六、結論：補水要看情況，喝對才有效！**
 

@@ -17,6 +17,8 @@ sourceVerbatim: true
 
 無論是忙碌的工作日還是溫馨的家庭聚餐，蝦都能成為一道簡單卻有力量的健康美食。今天，讓我們一起探索蝦如何在平凡的日常生活中，帶來健康與快樂的深刻改變吧！
 
+<span id="%E5%BE%9E%E6%97%A5%E5%B8%B8%E9%A3%B2%E9%A3%9F%E7%9C%8B%E8%9D%A6%E7%9A%84%E7%87%9F%E9%A4%8A%E5%84%AA%E5%8B%A2"></span>
+
 ## **從日常飲食看蝦的營養優勢**
 
 **「忙碌的日常生活中，您是否曾感到疲憊無力，急需快速補充精力？」**  
@@ -29,6 +31,8 @@ sourceVerbatim: true
 **參考文獻**：
 
 1.  Kim, S. K., & Venkatesan, J. (2015). Nutritional and therapeutic perspectives of shrimp. *Marine Drugs*, 13(12), 5581-5588. DOI: 10.3390/md13095581.
+
+<span id="%E5%A3%AF%E9%99%BD%E8%88%87%E5%A2%9E%E5%BC%B7%E7%B2%BE%E5%8A%9B%EF%BC%9A%E4%B8%80%E5%80%8B%E7%94%B7%E6%80%A7%E5%81%A5%E5%BA%B7%E7%9A%84%E6%88%90%E5%8A%9F%E6%95%85%E4%BA%8B"></span>
 
 ## **壯陽與增強精力：一個男性健康的成功故事**
 
@@ -43,6 +47,8 @@ sourceVerbatim: true
 
 1.  Prasad, A. S. (2016). Zinc is an antioxidant and anti-inflammatory agent: Its role in human health. *Frontiers in Nutrition*, 3, 22. DOI: 10.3389/fnut.2016.00022.
 
+<span id="%E8%9D%A6%E7%82%BA%E5%A5%B3%E6%80%A7%E5%B8%B6%E4%BE%86%E7%9A%84%E8%83%BD%E9%87%8F%E8%88%87%E5%81%A5%E5%BA%B7%E6%94%B9%E8%AE%8A"></span>
+
 ## **蝦為女性帶來的能量與健康改變**
 
 **「您是否曾因工作壓力或日常疲憊而感到精力不濟？」**  
@@ -55,6 +61,8 @@ sourceVerbatim: true
 **參考文獻**：
 
 1.  Calder, P. C. (2015). Marine omega-3 fatty acids and inflammatory processes: Effects, mechanisms, and clinical relevance. *Biochimica et Biophysica Acta (BBA) – Molecular and Cell Biology of Lipids*, 1851(4), 469-484. DOI: 10.1016/j.bbalip.2014.10.002.
+
+<span id="%E5%A6%82%E4%BD%95%E7%94%A8%E8%9D%A6%E5%89%B5%E9%80%A0%E6%9B%B4%E5%81%A5%E5%BA%B7%E7%9A%84%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F"></span>
 
 ## **如何用蝦創造更健康的生活方式**
 
@@ -69,6 +77,8 @@ sourceVerbatim: true
 
 1.  Wang, X., & Liu, C. (2017). Dietary shrimp consumption and its impact on cardiovascular health. *Journal of Nutritional Science*, 6, e18. DOI: 10.1017/jns.2017.12.
 
+<span id="%E8%9D%A6%EF%BC%8C%E5%81%A5%E5%BA%B7%E8%88%87%E8%83%BD%E9%87%8F%E7%9A%84%E4%B8%AD%E9%86%AB%E4%B9%8B%E9%81%93"></span>
+
 ## **蝦，健康與能量的中醫之道**
 
 《本草綱目》中記載：「蝦，味甘性溫，補腎壯陽，益氣養血。」這句話道出了蝦在中醫養生中的重要地位。作為一種既平易近人又富含營養的食材，蝦的價值不僅限於其鮮美的口感，還在於它對身體機能的多方面支持。從補腎壯陽到調和氣血，蝦在中醫理論中扮演著平衡陰陽、增強生命力的角色。
@@ -79,27 +89,39 @@ sourceVerbatim: true
 
 <table class="dataframe" border="1"><thead><tr style="text-align: center;"><th>項目</th><th>男性</th><th>女性</th></tr></thead><tbody><tr><td>適用對象</td><td>精力不足、需要補充能量的男性</td><td>疲憊、壓力大或需要調節情緒的女性</td></tr><tr><td>主要功效</td><td>提升精力、促進睪酮分泌、支持生殖健康</td><td>改善情緒、穩定精神狀態、提升活力</td></tr><tr><td>核心成分</td><td>高蛋白質、鋅</td><td>維生素B12、ω-3脂肪酸</td></tr><tr><td>食用建議</td><td>每週2-3次，每次100-150克</td><td>與蔬菜搭配，每週2-3次，每次100-150克</td></tr><tr><td>注意事項</td><td>避免過量攝取，謹慎注意膽固醇水平</td><td>過敏體質需謹慎，確保選擇新鮮蝦</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A%E8%9D%A6%E5%B0%8D%E7%94%B7%E6%80%A7%E5%81%A5%E5%BA%B7%E6%9C%89%E5%93%AA%E4%BA%9B%E7%89%B9%E5%88%A5%E7%9A%84%E5%B9%AB%E5%8A%A9%EF%BC%9F"></span>
 
 ### **問題 1****：蝦對男性健康有哪些特別的幫助？**
 
 **回覆：**  
 蝦富含鋅和高品質蛋白質，對男性健康特別有益。鋅是維持男性荷爾蒙分泌和支持生殖健康的重要元素，能促進精力提升，改善體力不足的狀況。同時，蝦中的蛋白質能幫助肌肉恢復與增強體能，特別適合需要提升活力的男性。建議每週食用2至3次，每次100至150克，以達到最佳效果。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E5%A5%B3%E6%80%A7%E9%A3%9F%E7%94%A8%E8%9D%A6%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E6%94%B9%E5%96%84%E6%83%85%E7%B7%92%E5%92%8C%E9%AB%94%E5%8A%9B%EF%BC%9F"></span>
+
 ### **問題 2****：女性食用蝦是否可以改善情緒和體力？**
 
 **回覆：**  
 是的，蝦中的維生素B12和ω-3脂肪酸對女性情緒穩定和能量提升有顯著幫助。這些成分有助於改善壓力和疲勞引起的失眠，同時促進大腦功能與情緒平衡。將蝦與富含纖維的蔬菜搭配，如西蘭花或菠菜，能更好地均衡營養並避免脂肪攝取過高。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E5%90%83%E8%9D%A6%E6%9C%83%E4%B8%8D%E6%9C%83%E5%B0%8E%E8%87%B4%E8%86%BD%E5%9B%BA%E9%86%87%E9%81%8E%E9%AB%98%EF%BC%9F"></span>
 
 ### **問題 3****：吃蝦會不會導致膽固醇過高？**
 
 **回覆：**  
 蝦的膽固醇含量相對較高，但由於其脂肪含量低，且含有有益心血管健康的ω-3脂肪酸，適量攝取不會對大多數人造成影響。建議每週攝取不超過3次，每次100至150克，並避免油炸烹飪方式。如果您已經有高膽固醇或心血管疾病，建議先諮詢醫師意見。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A%E8%9D%A6%E6%98%AF%E5%90%A6%E9%81%A9%E5%90%88%E6%89%80%E6%9C%89%E4%BA%BA%E9%A3%9F%E7%94%A8%EF%BC%9F"></span>
+
 ### **問題 4****：蝦是否適合所有人食用？**
 
 **回覆：**  
 雖然蝦是營養豐富的健康食材，但並非所有人都適合食用。例如，對海鮮過敏者應避免蝦的攝取。此外，患有高尿酸或痛風的患者應限制蝦的食用量，因為蝦屬於高嘌呤食材。選擇新鮮無污染的蝦並正確清洗，也能降低健康風險。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9A%E5%A6%82%E4%BD%95%E6%8C%91%E9%81%B8%E6%96%B0%E9%AE%AE%E7%9A%84%E8%9D%A6%EF%BC%9F"></span>
 
 ### **問題 5****：如何挑選新鮮的蝦？**
 

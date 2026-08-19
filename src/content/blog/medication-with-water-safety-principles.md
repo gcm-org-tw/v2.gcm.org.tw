@@ -19,6 +19,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Medication-With-Water-Safety-Principles1-1024x685.jpg)
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E5%A4%A7%E9%83%A8%E5%88%86%E8%97%A5%E9%83%BD%E5%BB%BA%E8%AD%B0%E9%85%8D%E7%99%BD%E9%96%8B%E6%B0%B4%EF%BC%9F"></span>
+
 ## **為什麼大部分藥都建議配白開水？**
 
 把藥吞下去後，它要先在胃腸道裡**崩解、溶出、被吸收**，才會開始作用。不同飲料的酸鹼值、糖分、油脂、咖啡因或其他植物成分，可能改變藥品崩解與吸收速度。
@@ -29,6 +31,8 @@ sourceVerbatim: true
 如果你真的吞嚥困難，與其換飲料，更安全的做法通常是：**先問藥師能不能換劑型（口溶錠、糖漿、可剝半錠等）**，不要自行把藥磨粉、拆膠囊或混飲料。
 
 ![](/wp-content/uploads/Medication-With-Water-Safety-Principles2-1024x682.jpg)
+
+<span id="%E9%80%99%E4%BA%9B%E9%A3%B2%E6%96%99%E6%9C%80%E5%B8%B8%E5%87%BA%E4%BA%8B%EF%BC%9A%E6%9E%9C%E6%B1%81%E3%80%81%E8%8C%B6%E5%92%96%E5%95%A1%E3%80%81%E7%89%9B%E5%A5%B6%EF%BC%88%E4%B8%8D%E6%98%AF%E6%AF%8F%E6%AC%A1%EF%BC%8C%E4%BD%86%E4%B8%80%E8%B8%A9%E5%B0%B1%E9%BA%BB%E7%85%A9%EF%BC%89"></span>
 
 ## **這些飲料最常出事：果汁、茶/咖啡、牛奶（不是每次，但一踩就麻煩）**
 
@@ -50,6 +54,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Medication-With-Water-Safety-Principles4-1024x686.jpg)
 
+<span id="%E6%9C%89%E6%B2%92%E6%9C%89%E4%BE%8B%E5%A4%96%EF%BC%9F%E4%B8%AD%E8%97%A5%E3%80%8C%E5%B7%9D%E8%8A%8E%E8%8C%B6%E8%AA%BF%E6%95%A3%E3%80%8D%E5%B0%B1%E6%98%AF%E7%B6%93%E5%85%B8%E4%BE%8B%E5%A4%96%E4%B9%8B%E4%B8%80"></span>
+
 ## **有沒有例外？中藥「川芎茶調散」就是經典例外之一**
 
 你提到的例子很漂亮：**川芎茶調散（川芎茶調散《散》）在台灣官方資料就明確寫了：「食後清茶調服」**。（註6）  
@@ -64,6 +70,8 @@ sourceVerbatim: true
 -   **不代表所有中藥都能配茶**（很多中藥反而會被提醒不要同時配茶、咖啡、牛奶）  
     所以最安全的判斷仍是：**看藥袋或處方指示**。
 
+<span id="3_%E6%A2%9D%E6%9C%80%E5%AE%89%E5%85%A8%E7%9A%84%E3%80%8C%E5%90%83%E8%97%A5%E9%85%8D%E9%A3%B2%E6%96%99%E3%80%8D%E5%8F%A3%E8%A8%A3"></span>
+
 ## **3** **條最安全的「吃藥配飲料」口訣**
 
 1.  **預設：白開水**（最不容易干擾崩解與吸收）
@@ -76,6 +84,8 @@ sourceVerbatim: true
 **「喝什麼不是看心情，是看這顆藥怕什麼。」**  
 如果你願意，你可以留言（或貼出）你手上藥袋的「服用方式那一行」，我可以幫你把規則翻成白話，讓你一眼看懂該配什麼。
 
+<span id="%E7%B5%90%E8%AB%96"></span>
+
 ## **結論**
 
 **吃藥不一定只能配白開水，但「白開水」是最安全的通用解。**  
@@ -83,9 +93,13 @@ sourceVerbatim: true
 
 你只要記得：**預設白開水；例外看指示；不確定就問藥師。**（這句比你背一堆禁忌更有用）
 
+<span id="%E6%AF%94%E8%BC%83%E8%A1%A8%EF%BC%9A%E5%B8%B8%E8%A6%8B%E9%A3%B2%E6%96%99%E9%85%8D%E8%97%A5%E9%A2%A8%E9%9A%AA%E9%80%9F%E6%9F%A5"></span>
+
 ## 比較表：常見飲料配藥風險速查
 
 <table class="risk-table"><caption>常見飲料作為「送服飲品」的風險與替代做法</caption><thead><tr><th scope="col">飲料類型</th><th scope="col">可能風險</th><th scope="col">常見受影響藥物／情境</th><th scope="col">比較安全做法</th></tr></thead><tbody><tr><th scope="row">白開水</th><td>最低</td><td>幾乎所有口服藥</td><td>預設選它（足量水、坐著／站著吞）</td></tr><tr><th scope="row">葡萄柚／葡萄柚汁</th><td>可能讓藥效過強或變弱（依藥而定）</td><td>部分慢性病藥、代謝敏感藥物；外盒／仿單常會特別警示</td><td>看到標示禁配就避免；拿不準先問藥師</td></tr><tr><th scope="row">其他果汁（蘋果／柳橙等）</th><td>可能降低吸收（依藥而定）</td><td>例如部分過敏藥（如 fexofenadine 等）常被提醒勿配果汁</td><td>用水送服；果汁與用藥錯開</td></tr><tr><th scope="row">牛奶／乳製品（含高鈣飲品）</th><td>螯合或結合 → 可能降低吸收（依藥而定）</td><td>常見：四環素類、喹諾酮類抗生素；或與鈣／鐵／鋅／鎂補充同時使用時</td><td>先用水吞藥；乳品想喝就錯開時間（以藥袋／藥師指示為準）</td></tr><tr><th scope="row">茶／咖啡</th><td>依藥而定；可能增加刺激感，或影響特定補充品吸收</td><td>腸胃敏感、心悸／睡眠敏感者；補鐵者常被提醒避開茶／咖啡送服</td><td>沒指示就配水；想喝就吃完藥再喝或錯開</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C_FAQ"></span>
 
 ## **常見問題 FAQ**
 

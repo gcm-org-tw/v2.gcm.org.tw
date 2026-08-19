@@ -31,6 +31,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Chronic-Pelvic-Pain-Management8-0423E改.jpg)
 
+<span id="%E9%AA%A8%E7%9B%86%E7%97%9B%E8%B6%85%E9%81%8E%E4%B8%89%E5%80%8B%E6%9C%88%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E6%9C%83%E8%AE%8A%E6%88%90%E6%85%A2%E6%80%A7%E9%AA%A8%E7%9B%86%E7%96%BC%E7%97%9B%E7%97%87%E5%80%99%E7%BE%A4%EF%BC%9F"></span>
+
 ## **骨盆痛超過三個月，為什麼會變成慢性骨盆疼痛症候群？**
 
 你有發現嗎？一開始只是悶悶的不舒服，後來卻變成每天都在。  
@@ -40,6 +42,8 @@ sourceVerbatim: true
 
 但要注意的是，不是所有骨盆痛都會變成慢性。有些人是因為長期忽略、反覆刺激或治療方向錯誤，才讓問題「定型」。所以，與其急著找單一解法，不如先理解：你的痛，是哪一種失衡在說話。
 
+<span id="%E6%85%A2%E6%80%A7%E9%AA%A8%E7%9B%86%E7%96%BC%E7%97%9B%E7%97%87%E5%80%99%E7%BE%A4%E6%9C%83%E5%BD%B1%E9%9F%BF%E5%93%AA%E4%BA%9B%E7%94%9F%E6%B4%BB%E5%B1%A4%E9%9D%A2%EF%BC%9F"></span>
+
 ## **慢性骨盆疼痛症候群會影響哪些生活層面？**
 
 你有沒有發現？痛，不只是在身體。  
@@ -48,6 +52,8 @@ sourceVerbatim: true
 再深一點看，影響其實不只在動作。研究指出，慢性骨盆痛與焦慮、憂鬱、睡眠障礙高度相關，甚至會影響親密關係與性功能（註3）。你可以把它想像成一個「持續開著的小火」，表面看起來只是悶痛，但其實一直在消耗你的能量。特別是當骨盆底肌長期處於過緊或失調狀態時，身體會進入一種防禦模式，讓你更難放鬆。
 
 不過，也要提醒你，並不是每個人都會發展到這個程度。有些人透過早期調整（像是物理治療或生活習慣改善），可以避免惡化。但如果已經影響到情緒與日常功能，就不只是「忍一下就好」，而是需要重新評估整體治療策略。
+
+<span id="%E9%AA%A8%E7%9B%86%E7%97%9B%E6%80%8E%E9%BA%BC%E6%AA%A2%E6%9F%A5%EF%BC%9F%E4%B8%80%E5%AE%9A%E8%A6%81%E5%81%9A%E5%BE%88%E5%A4%9A%E6%AA%A2%E6%9F%A5%E5%97%8E%EF%BC%9F"></span>
 
 ## **骨盆痛怎麼檢查？一定要做很多檢查嗎？**
 
@@ -59,6 +65,8 @@ sourceVerbatim: true
 此外，有些工具像是症狀問卷，可以幫助篩檢是否合併腸躁症、膀胱疼痛或情緒壓力問題。當症狀複雜或持續未改善時，才會建議進一步影像或轉介多專科。
 
 但也要提醒你，過度依賴檢查，反而可能讓人忽略真正的問題——「功能失衡」。有些骨盆痛，就算檢查都正常，身體還是會痛。這時候，重點就不在「找病」，而在「重新讓身體協調」。
+
+<span id="%E9%AA%A8%E7%9B%86%E7%97%9B%E6%80%8E%E9%BA%BC%E6%B2%BB%E7%99%82%E6%9C%80%E6%9C%89%E6%95%88%EF%BC%9F%E7%A3%81%E6%B3%A2%E6%B2%BB%E7%99%82%E9%81%A9%E5%90%88%E4%BD%A0%E5%97%8E%EF%BC%9F"></span>
 
 ## **骨盆痛怎麼治療最有效？磁波治療適合你嗎？**
 
@@ -79,6 +87,8 @@ sourceVerbatim: true
 👉 **你現在的骨盆，是哪一種失衡？**
 
 **![](/wp-content/uploads/Chronic-Pelvic-Pain-Management6.jpg)**
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E4%B8%8D%E6%98%AF%E6%89%BE%E5%88%B0%E7%AD%94%E6%A1%88%EF%BC%8C%E8%80%8C%E6%98%AF%E8%B5%B0%E5%9B%9E%E8%BA%AB%E9%AB%94%E7%9A%84%E7%AF%80%E5%A5%8F"></span>
 
 ## **結論：不是找到答案，而是走回身體的節奏**
 
@@ -118,6 +128,8 @@ sourceVerbatim: true
 《本文將依據最新提問持續更新》
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #1B5E55; font-family: Arial, sans-serif;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="padding: 12px; border: 3px solid #1B5E55;">比較項目</th><th style="padding: 12px; border: 3px solid #1B5E55;">磁波治療（美磁波）</th><th style="padding: 12px; border: 3px solid #1B5E55;">骨盆底物理治療（PFPT）</th><th style="padding: 12px; border: 3px solid #1B5E55;">電療（TENS / 神經刺激）</th><th style="padding: 12px; border: 3px solid #1B5E55;">心理與身心治療</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E55;">主要作用層</td><td style="padding: 10px; border: 3px solid #1B5E55;">神經＋肌肉刺激</td><td style="padding: 10px; border: 3px solid #1B5E55;">肌肉控制與放鬆重建</td><td style="padding: 10px; border: 3px solid #1B5E55;">神經疼痛調節</td><td style="padding: 10px; border: 3px solid #1B5E55;">中樞神經與情緒</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E55;">適合族群</td><td style="padding: 10px; border: 3px solid #1B5E55;">肌肉無力、控制差</td><td style="padding: 10px; border: 3px solid #1B5E55;">肌肉過緊或失衡</td><td style="padding: 10px; border: 3px solid #1B5E55;">神經敏感型疼痛</td><td style="padding: 10px; border: 3px solid #1B5E55;">壓力型、慢性疼痛</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E55;">治療感受</td><td style="padding: 10px; border: 3px solid #1B5E55;">被動刺激（坐著即可）</td><td style="padding: 10px; border: 3px solid #1B5E55;">主動＋被動混合</td><td style="padding: 10px; border: 3px solid #1B5E55;">表層電刺激</td><td style="padding: 10px; border: 3px solid #1B5E55;">認知與行為調整</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E55;">改善重點</td><td style="padding: 10px; border: 3px solid #1B5E55;">提升肌肉收縮能力</td><td style="padding: 10px; border: 3px solid #1B5E55;">重建功能與協調</td><td style="padding: 10px; border: 3px solid #1B5E55;">降低疼痛感</td><td style="padding: 10px; border: 3px solid #1B5E55;">降低痛覺放大</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E55;">優點</td><td style="padding: 10px; border: 3px solid #1B5E55;">省力、快速啟動肌肉</td><td style="padding: 10px; border: 3px solid #1B5E55;">效果全面、穩定</td><td style="padding: 10px; border: 3px solid #1B5E55;">可短期止痛</td><td style="padding: 10px; border: 3px solid #1B5E55;">改善長期復發</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E55;">限制</td><td style="padding: 10px; border: 3px solid #1B5E55;">證據有限、非所有人適合</td><td style="padding: 10px; border: 3px solid #1B5E55;">需時間與配合度</td><td style="padding: 10px; border: 3px solid #1B5E55;">效果偏短期</td><td style="padding: 10px; border: 3px solid #1B5E55;">需耐心與持續</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E55;">常見誤區</td><td style="padding: 10px; border: 3px solid #1B5E55;">當成萬用療法</td><td style="padding: 10px; border: 3px solid #1B5E55;">做幾次就放棄</td><td style="padding: 10px; border: 3px solid #1B5E55;">只止痛不治本</td><td style="padding: 10px; border: 3px solid #1B5E55;">忽略心理影響</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #1B5E55;">適合策略</td><td style="padding: 10px; border: 3px solid #1B5E55;">輔助或加速工具</td><td style="padding: 10px; border: 3px solid #1B5E55;">核心治療基礎</td><td style="padding: 10px; border: 3px solid #1B5E55;">輔助緩解症狀</td><td style="padding: 10px; border: 3px solid #1B5E55;">長期穩定關鍵</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

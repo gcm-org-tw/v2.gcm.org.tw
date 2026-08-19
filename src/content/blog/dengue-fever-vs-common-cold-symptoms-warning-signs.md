@@ -11,6 +11,8 @@ legacyPath: "/blog/dengue-fever-vs-common-cold-symptoms-warning-signs/"
 sourceVerbatim: true
 ---
 
+<span id="%E6%9C%AC%E6%96%87%E9%87%8D%E9%BB%9E"></span>
+
 ## 本文重點
 
 -   登革熱和感冒的關鍵差異在於:發燒來得急且高、合併後眼窩痛與明顯肌肉關節痠痛
@@ -31,6 +33,8 @@ sourceVerbatim: true
 
 典型病程的發燒期大約在 2 到 7 天之間,多數人在退燒後逐漸恢復,但少數人會在退燒前後這一兩天出現警示症狀,反而是需要更留意的階段,不是燒退了就代表沒事。
 
+<span id="%E7%9B%AE%E9%8C%84"></span>
+
 ## 目錄
 
 1.  [一、登革熱和感冒差在哪？典型症狀先看懂](#section-0)
@@ -49,6 +53,10 @@ sourceVerbatim: true
 
 居家發燒休息情境，窗邊隱約可見蚊子身影，象徵登革熱與環境防蚊的關聯
 
+<span id="section-0"></span>
+
+<span id="%E4%B8%80%E3%80%81%E7%99%BB%E9%9D%A9%E7%86%B1%E5%92%8C%E6%84%9F%E5%86%92%E5%B7%AE%E5%9C%A8%E5%93%AA%EF%BC%9F%E5%85%B8%E5%9E%8B%E7%97%87%E7%8B%80%E5%85%88%E7%9C%8B%E6%87%82"></span>
+
 ## 一、登革熱和感冒差在哪？典型症狀先看懂
 
 **登革熱的發燒通常來得又急又高,合併後眼窩痛與明顯的肌肉關節痛**,這幾點是一般感冒比較少見的組合。
@@ -60,6 +68,10 @@ sourceVerbatim: true
 感冒的病程通常止於呼吸道症狀本身,少見出血或器官功能的問題,即使有併發症,多半也是續發性細菌感染,例如中耳炎或鼻竇炎。登革熱不一樣,少部分個案可能從單純發燒的階段,進展為合併血漿滲漏與出血傾向的登革出血熱,甚至演變成血壓下降、休克的登革休克症候群。這正是兩者最大的差別所在:感冒的風險多停留在「不舒服」的層次,登革熱的風險則直接牽涉血管通透性與凝血功能,也是後面警示症狀之所以重要的原因。別小看「退燒前後」這幾天。臨床觀察發現,登革熱最容易出狀況的時間點,反而常是接近退燒、你以為「快好了」的那一兩天。接下來的警示症狀,原因就在這裡。
 
 <table class="comparison-table" style="width: 100%; border-collapse: collapse; font-size: 0.95em; border: 3px solid #1B5E4B;"><thead><tr><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">表現</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">一般感冒</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">登革熱典型症狀</th></tr></thead><tbody><tr><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">發燒模式</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">漸進、多在 38 度上下</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">突然且高,常達 39-40 度</td></tr><tr><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">呼吸道症狀</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">明顯(流鼻水、咳嗽、喉嚨痛)</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">通常不明顯</td></tr><tr><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">頭痛/眼窩痛</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">少見或輕微</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">常見,後眼窩痛是特徵之一</td></tr><tr><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">肌肉關節痠痛</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">輕微</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">明顯,俗稱「斷骨熱」</td></tr><tr><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">出疹</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">少見</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">部分個案會出現</td></tr><tr><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">病程天數</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">多在 3-5 天緩解</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">發燒期約 2-7 天,退燒前後反而要更留意</td></tr></tbody></table>
+
+<span id="section-1"></span>
+
+<span id="%E4%BA%8C%E3%80%81%E8%AD%A6%E7%A4%BA%E7%97%87%E7%8B%80_%E5%87%BA%E7%8F%BE%E9%80%99%E4%BA%9B%E8%B7%A1%E8%B1%A1%E8%A6%81%E6%8F%90%E9%AB%98%E8%AD%A6%E8%A6%BA"></span>
 
 ## 二、警示症狀:出現這些跡象要提高警覺
 
@@ -83,6 +95,10 @@ sourceVerbatim: true
 
 > Sangkaew S 等人(2021)的系統性回顧研究團隊指出,發燒期間監測 WHO 警示徵象,並同步追蹤血小板、白蛋白與轉胺酶數值變化,有助於提早辨識可能走向重症的個案,而不是等到症狀已經很明顯才處理(註5)。
 
+<span id="section-2"></span>
+
+<span id="%E4%B8%89%E3%80%81%E5%93%AA%E4%BA%9B%E4%BA%BA%E9%87%8D%E7%97%87%E9%A2%A8%E9%9A%AA%E6%9B%B4%E9%AB%98%E6%85%A2%E6%80%A7%E7%97%85%E8%88%87%E5%B9%B4%E9%BD%A1%E6%98%AF%E9%97%9C%E9%8D%B5%E8%AE%8A%E6%95%B8"></span>
+
 ## 三、哪些人重症風險更高?慢性病與年齡是關鍵變數
 
 **本身有糖尿病、高血壓、慢性腎臟病或心血管疾病的人,以及嬰幼兒與長輩,重症化風險相對較高**,這群人出現疑似症狀時更不建議自行在家觀察。
@@ -90,6 +106,10 @@ sourceVerbatim: true
 前面提到的系統性回顧,分析了登革熱從發燒期進展到重症的危險因子,發現除了警示症狀本身之外,慢性病史也是獨立的風險因子之一。糖尿病患者的血管與微循環功能較容易受影響,登革熱造成的微血管滲漏因此可能更明顯;高血壓與心血管疾病患者原本的心臟代償能力有限,一旦體液大量流失或出血,循環系統更容易失去平衡;慢性腎臟病患者的凝血功能與體液調節,本來就比一般人脆弱一些(註5)。
 
 年齡也是變數之一。嬰幼兒的表現有時不典型,可能只有活動力下降、食慾變差,家長不容易第一時間聯想到登革熱;長輩則常同時合併好幾種慢性病,警示症狀一旦出現,病程惡化的速度可能比年輕人更快。這不代表年輕人不會發生重症,只是提醒本身有慢性病或屬於年齡兩端的族群,更沒有「先在家觀察」的本錢,出現疑似症狀時該提早就醫。
+
+<span id="section-3"></span>
+
+<span id="%E5%9B%9B%E3%80%81%E8%BC%95%E7%97%87%E3%80%81%E4%B8%AD%E7%97%87%E3%80%81%E9%87%8D%E7%97%87%E7%99%BB%E9%9D%A9%E7%86%B1%E6%80%8E%E9%BA%BC%E5%88%86"></span>
 
 ## 四、輕症、中症、重症登革熱怎麼分?
 
@@ -100,6 +120,10 @@ sourceVerbatim: true
 第一層是不合併警示症狀的登革熱,多數人屬於這一類,通常可以門診追蹤、在家休息並補充水分,但仍需按照醫囑回診複查。第二層是合併警示症狀的登革熱,前面提到的腹痛、持續嘔吐、黏膜出血等表現一旦出現,通常代表需要更密集的觀察,部分個案會建議住院,方便隨時處理體液或凝血狀況的變化。第三層是重症登革熱,定義是出現嚴重血漿滲漏導致休克或呼吸窘迫、嚴重出血,或器官(如肝臟、心臟、中樞神經)嚴重受損,屬於需要立即積極治療的狀況(註3)。
 
 這個分層對一般人的意義,重點不在自己判斷屬於哪一層,那是醫師的工作;比較實用的理解方式,是把登革熱看成一個會隨時間推進、逐漸變化的過程,不必用「有或沒有」這種一刀切的方式去想。也因為這樣,警示症狀出現時要儘快就醫,才是比較穩妥的做法。
+
+<span id="section-4"></span>
+
+<span id="%E4%BA%94%E3%80%81%E5%B0%B1%E9%86%AB%E6%99%82%E8%A9%B2%E8%AA%AA%E4%BB%80%E9%BA%BC%E4%B8%BB%E5%8B%95%E5%91%8A%E7%9F%A5%E6%97%85%E9%81%8A%E5%8F%B2%E8%88%87%E6%B4%BB%E5%8B%95%E5%8F%B2"></span>
 
 ## 五、就醫時該說什麼?主動告知旅遊史與活動史
 
@@ -123,6 +147,10 @@ sourceVerbatim: true
 4.  目前有沒有出現前面提到的任一項警示症狀
 5.  平常是否有糖尿病、高血壓、腎臟病等慢性病史
 
+<span id="section-5"></span>
+
+<span id="%E5%85%AD%E3%80%81%E5%B1%85%E5%AE%B6%E6%9C%9F%E9%96%93%E4%B9%9F%E8%A6%81%E9%98%B2%E8%9A%8A%E9%81%BF%E5%85%8D%E8%9A%8A%E5%AD%90%E5%86%8D%E5%8F%AE%E5%92%AC%E5%82%B3%E6%92%AD"></span>
+
 ## 六、居家期間也要防蚊,避免蚊子再叮咬傳播
 
 <figure class="article-figure" style="margin: 24px auto; text-align: center;"><img loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 0;" src="https://writer.weiqi.kids/articles/appi.news/%E8%8D%89%E6%9C%AC%E4%B8%8A%E8%86%B3%E9%86%AB%E5%BB%9A-%E5%AD%90%E5%BD%A5(%E9%98%BF%E5%8D%A1%E8%A5%BF%E6%91%BA%E7%96%8A%E7%89%88)/issue-373/images/4.svg" alt="登革熱居家防蚊四項提醒：清除積水、裝設紗窗紗門、穿淺色長袖、使用防蚊藥劑" width="960" height="600"><figcaption style="font-size: 0.85em; color: #666; margin-top: 8px; line-height: 1.5;">登革熱居家防蚊四項提醒：清除積水、裝設紗窗紗門、穿淺色長袖、使用防蚊藥劑</figcaption></figure>
@@ -130,6 +158,10 @@ sourceVerbatim: true
 **病毒血症期間被蚊子叮咬,可能讓蚊子成為下一個傳播者**,所以懷疑感染登革熱的人,居家期間也要做好防蚊措施。
 
 往往被忽視的是:確診或疑似登革熱的人在發燒前後幾天,血液中病毒量較高,如果這段時間被病媒蚊叮咬,蚊子吸到帶病毒的血,之後再叮咬其他人,就可能把病毒傳出去。所以居家觀察不是只顧自己,也是在保護同住家人和左鄰右舍。實際做法不難:白天儘量待在有紗窗紗門或裝設蚊帳的空間,家中積水容器落實「巡、倒、清、刷」,外出時穿淺色長袖衣褲、使用核可防蚊藥劑(註6)。
+
+<span id="section-6"></span>
+
+<span id="%E4%B8%83%E3%80%81%E8%A6%8F%E5%BE%8B%E4%BD%9C%E6%81%AF%E7%B6%AD%E6%8C%81%E9%98%B2%E7%A6%A6%E5%8A%9B"></span>
 
 ## 七、規律作息維持防禦力
 
@@ -140,6 +172,10 @@ sourceVerbatim: true
 > 《黃帝內經》談夏季養生時提到「夜臥早起,無厭於日」,後世醫家多將這句話詮釋為提醒順應夏季日照較長的節奏調整作息,而非熬夜透支。
 > 
 > 這是作息調養的基礎提醒,不是治療登革熱的方法。懷疑感染時該做的仍是儘速就醫,不是靠調整作息硬撐。
+
+<span id="section-7"></span>
+
+<span id="%E5%85%AB%E3%80%81%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C"></span>
 
 ## 八、常見問題
 
@@ -169,6 +205,8 @@ sourceVerbatim: true
 4.  Leo YS, et al. (2013). Utility of warning signs in guiding admission and predicting severe disease in adult dengue. *BMC Infectious Diseases*. [https://pubmed.ncbi.nlm.nih.gov/24152678/](https://pubmed.ncbi.nlm.nih.gov/24152678/)
 5.  Sangkaew S, et al. (2021). Risk predictors of progression to severe disease during the febrile phase of dengue: a systematic review and meta-analysis. *Lancet Infectious Diseases*. [https://pubmed.ncbi.nlm.nih.gov/33640077/](https://pubmed.ncbi.nlm.nih.gov/33640077/)
 6.  衛生福利部疾病管制署 (2026). 防範登革熱 梅雨季節期間請民眾加強清除積水容器 落實「巡、倒、清、刷」. [https://www.cdc.gov.tw/Bulletin/Detail/fvUjKT2AhWh1ts4cYyK9mQ?typeid=9](https://www.cdc.gov.tw/Bulletin/Detail/fvUjKT2AhWh1ts4cYyK9mQ?typeid=9)
+
+<span id="%E8%8D%89%E6%9C%AC%E4%B8%8A%E8%86%B3%E9%86%AB%E5%BB%9A%EF%BC%8D%E9%BB%83%E5%AD%90%E5%BD%A5"></span>
 
 ### 草本上膳醫廚－黃子彥
 

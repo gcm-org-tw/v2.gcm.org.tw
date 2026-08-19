@@ -12,6 +12,8 @@ legacyPath: "/blog/salmonella-food-safety-taiwan/"
 sourceVerbatim: true
 ---
 
+<span id="%E6%9C%AC%E6%96%87%E9%87%8D%E9%BB%9E"></span>
+
 ## 本文重點
 
 -   健康成人一般可自行恢復，重點在補充水分與電解質
@@ -35,6 +37,10 @@ sourceVerbatim: true
 
 <figure><img decoding="async" src="https://images.unsplash.com/photo-1707079918041-2f7ae196b5eb?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w4ODgwMzN8MHwxfHNlYXJjaHwxfHxmb29kJTIwcG9pc29uaW5nJTIwYmFjdGVyaWElMjBtaWNyb3Njb3BlfGVufDB8MHx8fDE3NzU4ODU1NjF8MA&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080" alt="電子顯微鏡下以青色和橙色呈現的桿狀細菌放大彩色影像"></figure>
 
+<span id="section-0"></span>
+
+<span id="%E4%B8%80%E3%80%81%E5%8D%97%E5%8C%97%E5%90%8C%E6%99%82%E6%8B%89%E8%AD%A6%E5%A0%B1%EF%BC%9A%E9%80%99%E6%AC%A1%E4%BA%8B%E4%BB%B6%E6%9C%89%E5%A4%9A%E5%9A%B4%E9%87%8D%EF%BC%9F"></span>
+
 ## 一、南北同時拉警報：這次事件有多嚴重？
 
 你知道嗎？2026年春季，台灣南北兩地幾乎同時爆發大規模群聚食物中毒事件，致病原均經衛生單位確認為沙門氏菌，兩起事件合計就醫人數已超過 **300人**，是近年罕見的大規模食安警示。
@@ -45,6 +51,10 @@ sourceVerbatim: true
 > 
 > 南北同期爆發引發公衛專家關注，部分意見認為可能存在相同污染來源的食材供應鏈，衛生單位正持續追蹤食材流向與廚房作業環境。目前社會評論也集中在加強傳統市場稽查、強化食品保存宣導兩個方向。
 
+<span id="section-1"></span>
+
+<span id="%E4%BA%8C%E3%80%81%E6%B2%99%E9%96%80%E6%B0%8F%E8%8F%8C%E7%9A%84%E7%9C%9F%E5%AF%A6%E9%9D%A2%E7%9B%AE%EF%BC%9A%E5%AE%83%E7%82%BA%E4%BB%80%E9%BA%BC%E6%AF%94%E8%AB%BE%E7%BE%85%E7%97%85%E6%AF%92%E6%9B%B4%E5%85%87%E7%8C%9B%EF%BC%9F"></span>
+
 ## 二、沙門氏菌的真實面目：它為什麼比諾羅病毒更兇猛？
 
 你可能聽過沙門氏菌，但這種細菌和一般想像的腸胃炎不一樣——它**會主動破壞腸道黏膜**，不像諾羅病毒只在腸腔表面搗亂。這個差異決定了感染後的症狀更為劇烈，也更容易引發嚴重的併發症。
@@ -54,6 +64,10 @@ sourceVerbatim: true
 沙門氏菌的常見藏匿來源包括：未充分加熱的雞蛋、生雞肉、豬肉、豆製品，以及受污染的生食蔬果。潛伏期約6至72小時，多數症狀在感染後18至36小時內出現。
 
 <table class="comparison-table" style="width: 100%; border-collapse: collapse; font-size: 0.95em; border: 3px solid #1B5E4B;"><thead><tr><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">特性</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">沙門氏菌（細菌）</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">諾羅病毒（病毒）</th></tr></thead><tbody><tr><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">主要症狀</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">猛烈腸胃炎、持續高燒、血便</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">劇烈嘔吐、水瀉、大多無血便</td></tr><tr><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">潛伏期</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">6–72小時（平均18–36小時）</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">12–48小時</td></tr><tr><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">病程長短</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">較長，細菌破壞腸道黏膜</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">較短，約1–3天緩解</td></tr><tr><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">嚴重程度</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">較兇猛，易引發嚴重併發症</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">傳染力強，但多為輕至中症</td></tr><tr><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">主要併發症</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">菌血症、敗血症、器官衰竭</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">脫水</td></tr><tr><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">治療方向</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">嚴重時需抗生素</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">以補充水分為主</td></tr></tbody></table>
+
+<span id="section-2"></span>
+
+<span id="%E4%B8%89%E3%80%81%E8%AA%B0%E6%9C%80%E5%AE%B9%E6%98%93%E8%A2%AB%E6%93%8A%E5%80%92%EF%BC%9F%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%97%8F%E7%BE%A4%E8%88%87%E6%95%97%E8%A1%80%E7%97%87%E9%A2%A8%E9%9A%AA"></span>
 
 ## 三、誰最容易被擊倒？高風險族群與敗血症風險
 
@@ -71,6 +85,10 @@ sourceVerbatim: true
 -   出現**持續高燒超過38.5°C**、血便、劇烈腹痛或意識改變，應立即就醫
 -   高風險族群感染後建議主動就醫，勿自行等待恢復
 -   整體死亡率雖低，但高風險族群一旦發展為敗血症，後果嚴重
+
+<span id="section-3"></span>
+
+<span id="%E5%9B%9B%E3%80%81%E5%BB%9A%E6%88%BF%E8%A3%A1%E7%9A%84%E9%9A%B1%E5%BD%A2%E5%9C%B0%E9%9B%B7%EF%BC%9A%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%9C%A8%E7%8A%AF%E7%9A%84%E9%8C%AF"></span>
 
 ## 四、廚房裡的隱形地雷：你可能每天都在犯的錯
 
@@ -99,6 +117,10 @@ sourceVerbatim: true
 -   在水槽沖洗生肉是高風險行為，細菌噴濺可達90公分
 -   生熟食分流、勤洗手，是廚房防疫的核心習慣
 -   外帶餐盒勿放置過久，建議1小時內食用完畢
+
+<span id="section-4"></span>
+
+<span id="%E4%BA%94%E3%80%81%E5%B0%B1%E9%86%AB%E6%99%82%E6%A9%9F%E8%88%87%E7%90%86%E6%80%A7%E5%88%A4%E6%96%B7"></span>
 
 ## 五、就醫時機與理性判斷
 

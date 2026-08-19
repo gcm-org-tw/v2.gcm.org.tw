@@ -13,6 +13,8 @@ legacyPath: "/blog/astragalus-health-benefits-overview/"
 sourceVerbatim: true
 ---
 
+<span id="%E4%BD%A0%E5%8F%AF%E8%83%BD%E8%81%BD%E9%81%8E%E9%BB%83%E8%80%86%EF%BC%8C%E4%BD%86%E5%AE%83%E5%9C%A8%E8%A3%9C%E4%BB%80%E9%BA%BC%EF%BC%9F%E5%BE%9E%E5%82%B3%E7%B5%B1%E5%88%B0%E7%8F%BE%E4%BB%A3%E7%87%9F%E9%A4%8A%E8%A7%80%E9%BB%9E"></span>
+
 ## **你可能聽過黃耆，但它在補什麼？從傳統到現代營養觀點**
 
 在華人文化中，「補氣」幾乎是提到黃耆時最常出現的關鍵詞。很多人會把它聯想到體力恢復、容易疲勞，甚至是「增強抵抗力」的日常保養。但如果進一步追問——**黃耆到底在補什麼？它真的只是傳統觀念中的補氣藥材嗎？**
@@ -25,6 +27,8 @@ sourceVerbatim: true
 也因此，黃耆不再只是「感覺有效」的傳統藥材，而是逐步進入科學研究的視野，被用來探討像是免疫調節、慢性發炎，甚至腸道屏障功能等議題。不過，這並不代表所有傳統說法都已被完全證實——**現代研究正在釐清哪些效果是可信的，哪些仍屬於潛在可能。**
 
 ![Astragalus Health Benefits Overview ](/wp-content/uploads/Astragalus-Health-Benefits-Overview-2-1024x683.png)
+
+<span id="%E9%BB%83%E8%80%86%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BF%9D%E5%81%A5%E5%8A%9F%E6%95%88%EF%BC%9F%E5%85%8D%E7%96%AB%E3%80%81%E7%99%BC%E7%82%8E%E8%88%87%E9%AB%94%E5%8A%9B%E4%B8%89%E5%A4%A7%E4%BD%9C%E7%94%A8"></span>
 
 ## **黃耆有哪些保健功效？免疫、發炎與體力三大作用**
 
@@ -41,6 +45,8 @@ sourceVerbatim: true
 
 ![Astragalus Health Benefits Overview ](/wp-content/uploads/Astragalus-Health-Benefits-Overview-3-1024x576.png)
 
+<span id="%E7%A7%91%E5%AD%B8%E6%80%8E%E9%BA%BC%E7%9C%8B%E9%BB%83%E8%80%86%EF%BC%9F%E9%97%9C%E9%8D%B5%E6%88%90%E5%88%86%E8%88%87%E4%BD%9C%E7%94%A8%E6%A9%9F%E5%88%B6%E8%A7%A3%E6%9E%90"></span>
+
 ## **科學怎麼看黃耆？關鍵成分與作用機制解析**
 
 如果把黃耆從「傳統經驗」拆解成「科學語言」，關鍵就在於它所含的幾類活性成分。其中最常被研究的，主要包括：**黃耆多醣、皂苷（astragalosides）與黃酮類化合物**，這些成分共同構成它的生理作用基礎。
@@ -52,6 +58,8 @@ sourceVerbatim: true
 整體而言，黃耆的作用機制呈現多路徑調節，提供系統性保健，而非單一線性效果。
 
 ![](/wp-content/uploads/Astragalus-Health-Benefits-Overview-4-1024x576.png)
+
+<span id="%E4%B8%8D%E6%98%AF%E6%AF%8F%E5%80%8B%E4%BA%BA%E9%83%BD%E9%81%A9%E5%90%88%EF%BC%9A%E8%AA%B0%E9%81%A9%E5%90%88%E8%A3%9C%E5%85%85%EF%BC%9F%E8%AA%B0%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%EF%BC%9F"></span>
 
 ## **不是每個人都適合：誰適合補充？誰需要注意？**
 
@@ -65,11 +73,15 @@ sourceVerbatim: true
 -   高風險族群需諮詢專業醫療建議
 -   劑量與補充方式應依產品標示與專業建議進行
 
+<span id="%E7%B5%90%E8%AB%96"></span>
+
 ## **結論**
 
 黃耆不再只是傳統「補氣」藥材，而是透過多醣體、皂苷與黃酮類成分，對免疫、發炎及腸道健康提供多系統調節作用。雖然臨床證據仍有限，但對特定族群如長期疲勞或免疫平衡需求者，黃耆可作為安全的保健輔助。補充時仍需注意個體差異與潛在交互作用，以達到最有效的保健效果。
 
 <table style="border: 3px solid #004d40; border-collapse: collapse; width: 100%;"><thead style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><tr><th style="padding: 8px;">比較項目</th><th style="padding: 8px;">適合族群 / 禁忌族群 / 注意事項</th><th style="padding: 8px;">活性成分 / 作用機制</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 8px;">適合族群</td><td style="padding: 8px;">長期疲勞者、工作壓力大者、希望維持免疫平衡者</td><td style="padding: 8px;">多醣體、皂苷、黃酮類：調節免疫、抗發炎、支援腸道健康</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 8px;">不適合族群</td><td style="padding: 8px;">免疫抑制藥使用者、器官移植患者、自體免疫疾病患者、孕期/哺乳期女性</td><td style="padding: 8px;">可能與免疫抑制藥物交互作用；高劑量可能引起輕微消化不適或血壓波動</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 8px;">注意事項</td><td style="padding: 8px;">劑量控制、觀察個體差異、遵循專業建議</td><td style="padding: 8px;">成分萃取方式影響效果，短期補充效果有限，需長期觀察</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E7%AD%94"></span>
 
 ## **常見問題與回答**
 

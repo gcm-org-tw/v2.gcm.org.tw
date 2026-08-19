@@ -13,6 +13,8 @@ legacyPath: "/blog/xu6ul4dj3d-3g45p-2k7a87/"
 sourceVerbatim: true
 ---
 
+<span id="%E9%97%9C%E6%96%BC%E4%B8%AD%E8%97%A5%EF%BC%8C%E9%A1%9B%E8%A6%86%E4%BD%A0%E7%9A%84%E8%AA%8D%E7%9F%A5%EF%BC%81%E6%88%90%E8%AA%9E%E5%AF%A6%E6%B8%AC%E7%AA%81%E7%A0%B4%E4%BD%A0%E7%9A%84%E7%9B%B2%E8%85%B8"></span>
+
 ## 關於中藥，顛覆你的認知！//成語實測突破你的盲腸
 
 <iframe loading="lazy" title="關於中醫，顛覆你的認知！//成語實測突破你的盲腸" src="https://www.youtube.com/embed/sikSWANALgQ" width="914" height="514" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
@@ -24,6 +26,8 @@ sourceVerbatim: true
 在中醫的治療理念中，許多藥物的療效與其苦澀的味道有關。而這也與中醫認為苦味能夠清熱、燥濕、解毒有關。所以，一些具有強效療效的良藥往往具有苦味。
 
 這個成語除了在醫藥方面被使用，也常常被用來比喻人生道路上的一些艱難障礙。它提醒人們，在追求某種目標或實現夢想的過程中，有時候必須忍受一些痛苦或困難，才能獲得最終的成果。
+
+<span id="%E4%BD%86%E5%AF%A6%E9%9A%9B%E4%B8%8A_%E7%9C%9F%E7%9A%84%E6%98%AF%E8%89%AF%E8%97%A5%E8%8B%A6%E5%8F%A3%E5%97%8E"></span>
 
 ## 但實際上 真的是良藥苦口嗎?
 
@@ -37,6 +41,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/良藥苦口2-e1712668518918.jpg)
 
+<span id="%E8%89%AF%E8%97%A5%E8%8B%A6%E5%8F%A3%E5%88%A9%E6%96%BC%E7%97%85%E3%80%81%E5%BF%A0%E8%A8%80%E9%80%86%E8%80%B3%E5%88%A9%E6%96%BC%E8%A1%8C"></span>
+
 ## 良藥苦口利於病、忠言逆耳利於行
 
 後來，這句「良藥苦口」成語就從這裡冒出來了，意思是說，有時候那些能治好病的好藥，味道可真是叫人受不了；同時，這也用來比喻那些說話雖然難聽，但對於人或國家卻是有益的忠告。
@@ -46,6 +52,8 @@ sourceVerbatim: true
 一、所謂的「良藥」是指那些能治好病的藥，不一定是比較名貴的藥
 
 二、「良藥苦口」只是一個比喻，它的核心在於那些「忠言逆耳」的部分呢！
+
+<span id="%E8%8D%89%E6%9C%AC%E4%B8%8A%E8%86%B3%E9%86%AB%E5%BB%9A"></span>
 
 ## [草本上膳醫廚](https://www.facebook.com/photo/?fbid=968971821686646&set=a.150310383552798)
 

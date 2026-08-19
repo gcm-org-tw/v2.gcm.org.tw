@@ -12,6 +12,8 @@ legacyPath: "/blog/peppermint-tea-for-stress-relief%ef%bc%9arefreshing-and-healt
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80%EF%BC%9A%E8%96%84%E8%8D%B7%E8%8C%B6%E7%9A%84%E9%A9%9A%E4%BA%BA%E9%AD%85%E5%8A%9B%E8%88%87%E5%81%A5%E5%BA%B7%E7%A7%98%E5%AF%86"></span>
+
 ## **引言：薄荷茶的驚人魅力與健康秘密**
 
 「你知道嗎？全球每年有超過10億杯薄荷茶被人們享用（註1）。作為最受歡迎的草本飲品之一，薄荷茶不僅因其清新的口感而廣受喜愛，更多的是它在健康方面的多樣功效。根據一項研究指出，薄荷茶中的薄荷醇成分能顯著降低胃腸道痙攣，並有效緩解壓力相關的症狀（註2）。無論是舒緩壓力、改善消化，還是作為日常放鬆的一部分，薄荷茶的應用涵蓋了身心健康的多個層面。
@@ -24,6 +26,8 @@ sourceVerbatim: true
 2.  Goble, J. A., & Zhang, G. (2015). Peppermint oil for the treatment of irritable bowel syndrome: A systematic review and meta-analysis. *Journal of Gastroenterology*, 50(5), 657–669. DOI:10.1007/s00535-015-1089-3
 
 <iframe loading="lazy" title="薄荷茶舒壓秘方：清新提神又健康的飲品 Peppermint Tea for Stress Relief：Refreshing and Healthy Drink" width="800" height="450" src="https://www.youtube.com/embed/0jq0-axR8pA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<span id="%E8%96%84%E8%8D%B7%E8%8C%B6%E7%9A%84%E6%95%85%E4%BA%8B%EF%BC%9A%E4%B8%80%E6%9D%AF%E8%8C%B6%E5%A6%82%E4%BD%95%E6%94%B9%E8%AE%8A%E4%B8%80%E5%A4%A9%E7%9A%84%E5%BF%83%E6%83%85"></span>
 
 ## **薄荷茶的故事：一杯茶如何改變一天的心情**
 
@@ -42,6 +46,8 @@ sourceVerbatim: true
 3.  McKay, D. L., & Blumberg, J. B. (2006). A review of the bioactivity and potential health benefits of peppermint tea (Mentha piperita L.). Phytotherapy Research, 20(8), 619–633. DOI:10.1002/ptr.1936
 
 ![](/wp-content/uploads/Peppermint-Tea-for-Stress-Relief：Refreshing-and-Healthy-Drink-300x173.jpg)
+
+<span id="%E8%96%84%E8%8D%B7%E8%8C%B6%E7%9A%84%E5%81%A5%E5%BA%B7%E5%83%B9%E5%80%BC%EF%BC%9A%E5%BE%9E%E8%88%92%E7%B7%A9%E5%A3%93%E5%8A%9B%E5%88%B0%E4%BF%83%E9%80%B2%E6%B6%88%E5%8C%96"></span>
 
 ## **薄荷茶的健康價值：從舒緩壓力到促進消化**
 
@@ -63,6 +69,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Peppermint-Tea-for-Stress-Relief：Refreshing-and-Healthy-Drink3-1024x584.jpg)
 
+<span id="%E8%96%84%E8%8D%B7%E8%8C%B6%E7%9A%84%E9%A3%B2%E7%94%A8%E6%99%82%E6%A9%9F%E8%88%87%E9%81%A9%E9%87%8F%E5%BB%BA%E8%AD%B0"></span>
+
 ## **薄荷茶的飲用時機與適量建議**
 
 「薄荷茶的飲用時機和適量直接影響其健康效果。選擇正確的時間飲用，不僅能增強其功效，還能讓身體在不同時段獲得最佳的支持。
@@ -82,6 +90,8 @@ sourceVerbatim: true
 **潛在注意事項**  
 需要注意的是，薄荷茶可能與某些藥物產生交互作用，例如降低鐵的吸收或影響抗高血壓藥物的功效。對於服用藥物的人士，最好在飲用前與醫生或藥劑師確認其安全性。」
 
+<span id="%E5%89%B5%E6%84%8F%E8%96%84%E8%8D%B7%E8%8C%B6%E9%85%8D%E6%96%B9%EF%BC%9A%E8%AE%93%E5%81%A5%E5%BA%B7%E8%9E%8D%E5%85%A5%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB"></span>
+
 ## **創意薄荷茶配方：讓健康融入日常生活**
 
 「薄荷茶不僅是一種健康飲品，更是一種可以輕鬆融入日常生活的享受。通過簡單的搭配與創意變化，薄荷茶能滿足不同的口味需求，同時提升健康價值。
@@ -99,6 +109,8 @@ sourceVerbatim: true
 將薄荷茶作為基底，加入新鮮水果如蘋果、草莓或奇異果，既有豐富的口感層次，又能提供多種維生素和抗氧化劑，是健康又美味的日常選擇。
 
 薄荷茶的多樣變化能讓它在不同的場合下都成為受歡迎的飲品。不論是獨自享受，還是與家人朋友分享，這些創意配方都能讓薄荷茶成為你健康生活中的亮點。現在就試試這些簡單的薄荷茶製作方法，為你的健康飲品增添一點創意吧！」
+
+<span id="%E8%96%84%E8%8D%B7%E8%8C%B6%E2%80%94%E2%80%94%E8%88%92%E7%B7%A9%E5%A3%93%E5%8A%9B%E7%9A%84%E6%97%A5%E5%B8%B8%E8%89%AF%E4%BC%B4"></span>
 
 ## **薄荷茶——****舒緩壓力的日常良伴**
 

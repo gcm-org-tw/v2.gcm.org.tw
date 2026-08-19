@@ -12,6 +12,8 @@ legacyPath: "/blog/wheat-antifreeze-protein-sources/"
 sourceVerbatim: true
 ---
 
+<span id="%E5%BC%95%E8%A8%80"></span>
+
 ## **引言**
 
 你有沒有注意過，同樣是冷凍食品，有時候口感細緻，有時卻像冰沙般粗糙？很多人直覺以為只是冷凍時間太久，但真正影響口感的關鍵，往往是**冰晶的大小**。當冰晶在冷凍過程中逐漸長大，就像冰塊撐開容器一樣，食物的組織結構也會被破壞。於是，科學家開始關注一種能控制冰晶生長的分子——**抗凍蛋白**。
@@ -21,11 +23,15 @@ sourceVerbatim: true
 參考文獻：  
 註1. Gruneberg AK, et al. (2021). *Ice recrystallization inhibition activity varies with ice-binding protein type and does not correlate with thermal hysteresis.* Cryobiology, 99, 28–39. DOI:10.1016/j.cryobiol.2021.01.002.
 
+<span id="%E5%B0%8F%E9%BA%A5%E6%8A%97%E5%87%8D%E8%9B%8B%E7%99%BD%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E7%82%BA%E4%BB%80%E9%BA%BC%E6%A4%8D%E7%89%A9%E4%B9%9F%E9%9C%80%E8%A6%81%E3%80%8C%E6%8A%97%E5%87%8D%E3%80%8D%E6%A9%9F%E5%88%B6"></span>
+
 ## **小麥抗凍蛋白是什麼？為什麼植物也需要「抗凍」機制**
 
 你知道嗎？很多人以為只有極地魚類才有抗凍能力，其實**小麥抗凍蛋白**也在自然界默默扮演重要角色。所謂抗凍蛋白（Antifreeze proteins, AFPs），是一類能夠附著在冰晶表面的蛋白質，它們不會像防凍液那樣降低溫度，而是**改變冰晶的生長方式**。當水開始結冰時，冰晶通常會越長越大，就像冷凍庫裡的冰塊逐漸變粗一樣；但抗凍蛋白會貼在冰晶表面，阻止冰晶繼續擴張，這個現象被稱為**冰晶再結晶抑制（****Ice Recrystallization Inhibition, IRI****）**。
 
 在一些研究中，植物來源的抗凍蛋白在低濃度時就能展現顯著的冰晶抑制能力，並幫助維持冷凍細胞的膜完整性與粒線體功能。研究人員利用流式細胞儀與統計圖表比較冷凍前後細胞的狀態，發現加入植物抗凍蛋白的冷凍培養基，細胞存活率往往更穩定（註1）。不過要提醒你，這類研究主要是在細胞或材料科學領域，並不代表日常飲食中的蛋白質就會直接產生同樣效果，因此理解**小麥抗凍蛋白**時，最好把它看成一種自然界提供給科學家參考的「低溫保護機制」。
+
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E5%B0%8F%E9%BA%A5%E6%9C%83%E7%94%A2%E7%94%9F%E6%8A%97%E5%87%8D%E8%9B%8B%E7%99%BD%EF%BC%9F%E6%A4%8D%E7%89%A9%E7%9A%84%E8%80%90%E5%AF%92%E6%A9%9F%E5%88%B6%E6%98%AF%E4%BB%80%E9%BA%BC"></span>
 
 ## **為什麼小麥會產生抗凍蛋白？植物的耐寒機制是什麼**
 
@@ -35,11 +41,15 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Wheat-Antifreeze-Protein-Sources4.jpg)
 
+<span id="%E6%A4%8D%E7%89%A9%E6%8A%97%E5%87%8D%E8%9B%8B%E7%99%BD%E8%88%87%E5%8B%95%E7%89%A9%E4%BE%86%E6%BA%90%E6%8A%97%E5%87%8D%E8%9B%8B%E7%99%BD%E6%9C%89%E4%BB%80%E9%BA%BC%E5%B7%AE%E5%88%A5"></span>
+
 ## **植物抗凍蛋白與動物來源抗凍蛋白有什麼差別**
 
 提到抗凍蛋白，很多人第一個想到的是極地魚類。的確，在南極或北極海域生活的魚類體內常含有抗凍蛋白，可以防止血液結冰。不過，**植物抗凍蛋白與動物來源抗凍蛋白在作用方式上並不完全相同**。動物來源的抗凍蛋白通常具有較強的熱滯效應（thermal hysteresis），也就是降低冰點的能力；而植物來源的抗凍蛋白則常被發現具有較強的**冰晶再結晶抑制能力（****IRI****）**。
 
 研究比較不同來源冰結合蛋白的活性時發現，某些植物來源蛋白在抑制冰晶再結晶方面表現得相當突出，即使其熱滯效應不如動物來源蛋白強，但在控制冰晶大小方面可能更有效。換句話說，植物抗凍蛋白比較像是在「控制冰晶形狀的工程師」，而不是單純降低結冰溫度的工具（註3）。不過，這並不代表植物抗凍蛋白在所有情況下都優於動物來源蛋白，不同來源蛋白在不同環境條件下可能各有優勢，因此科學家仍持續研究各類抗凍蛋白在冷凍科技中的最佳應用方式。
+
+<span id="%E6%8A%97%E5%87%8D%E8%9B%8B%E7%99%BD%E7%82%BA%E4%BB%80%E9%BA%BC%E8%83%BD%E5%BD%B1%E9%9F%BF%E5%86%B7%E5%87%8D%E9%A3%9F%E5%93%81%E8%88%87%E5%86%B7%E5%87%8D%E4%BF%9D%E5%AD%98%E6%8A%80%E8%A1%93"></span>
 
 ## **抗凍蛋白為什麼能影響冷凍食品與冷凍保存技術**
 
@@ -48,6 +58,8 @@ sourceVerbatim: true
 近年的食品科學研究整理多種抗凍蛋白來源與應用時發現，這些蛋白質能延緩冰晶增長並改善冷凍食品品質，例如在肉製品、麵糰或乳製品中都曾被測試。相關研究通常透過差示掃描量熱分析（DSC）或顯微影像比較冰晶形態，並以表格方式整理不同來源抗凍蛋白的作用效果（註4）。因此，當我們討論**小麥抗凍蛋白**時，不僅是在談植物耐寒，也是在理解一種可能改變冷凍食品與生物保存技術的自然機制。
 
 ![](/wp-content/uploads/Wheat-Antifreeze-Protein-Sources5.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E5%BE%9E%E4%B8%80%E7%B2%92%E5%B0%8F%E9%BA%A5%EF%BC%8C%E7%9C%8B%E8%A6%8B%E8%87%AA%E7%84%B6%E7%9A%84%E4%BD%8E%E6%BA%AB%E6%99%BA%E6%85%A7"></span>
 
 ## **結論：從一粒小麥，看見自然的低溫智慧**
 
@@ -60,6 +72,8 @@ sourceVerbatim: true
 所以，下次當你看到關於冷凍食品、低溫保存或植物耐寒的討論時，不妨停下來想一想：自然是怎麼做到的？也歡迎把你的觀察或問題分享給我們——**《本文將依據最新提問持續更新》**。
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #1D7A6E; border-radius: 12px; overflow: hidden;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="padding: 12px 10px; border: 3px solid #1D7A6E; text-align: left;">比較面向</th><th style="padding: 12px 10px; border: 3px solid #1D7A6E; text-align: left;">植物抗凍蛋白（Plant AFP / IBP）</th><th style="padding: 12px 10px; border: 3px solid #1D7A6E; text-align: left;">動物抗凍蛋白（Animal AFP）</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">來源生物</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">常見於耐寒植物，如小麥、南極草、黑麥等</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">常見於極地魚類、昆蟲與部分微生物</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">主要功能</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">主要抑制冰晶再結晶（IRI），控制冰晶大小</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">主要降低冰點並防止血液或體液結冰</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">作用方式</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">附著在冰晶表面，限制冰晶持續長大</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">改變冰晶形成條件，降低結冰溫度</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">熱滯效應（Thermal Hysteresis）</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">通常較弱</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">通常較強</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">冰晶再結晶抑制（IRI）</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">多數研究顯示較強</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">依種類不同而變化</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">生理角色</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">幫助植物在低溫或結冰環境中維持細胞結構</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">幫助動物在極地環境避免體液結冰</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">研究應用</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">冷凍食品品質、植物耐寒研究、低溫保存</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">冷凍生物學、極地生物研究</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">食品科技應用</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">改善冷凍食品質地、減少冰晶破壞</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">應用較少，多集中於生物研究</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">冷凍醫學研究</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">用於細胞與組織冷凍保存研究</td><td style="padding: 12px 10px; border: 3px solid #1D7A6E;">用於極端低溫生理研究</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

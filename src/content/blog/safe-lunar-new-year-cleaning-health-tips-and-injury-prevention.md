@@ -19,6 +19,8 @@ sourceVerbatim: true
 
 這篇文章將陪伴您，學習如何以健康的方式完成大掃除——從選擇合適的工具、採用正確的動作，到大掃除後的放鬆保養，讓您的身心都能充滿能量迎接新年的美好。
 
+<span id="%E5%A4%A7%E6%8E%83%E9%99%A4%E5%B0%8D%E8%BA%AB%E9%AB%94%E7%9A%84%E6%BD%9B%E5%9C%A8%E5%82%B7%E5%AE%B3"></span>
+
 ## **大掃除對身體的潛在傷害**
 
 你是否曾經在大掃除後感到腰酸背痛或手腕僵硬？事實上，大掃除雖然能為家居帶來潔淨與秩序，但若忽視正確方法，對身體的傷害可能超乎想像。根據研究，持續彎腰或久站超過30分鐘，會增加腰椎和膝關節的壓力，特別是中老年人和久坐族群，更容易出現肌肉拉傷或關節不適。(註1)
@@ -32,6 +34,8 @@ sourceVerbatim: true
 1.  Jonsson, H., et al. (2018). Biomechanical effects of prolonged stooping postures on lumbar spinal stress. *Journal of Physical Therapy Science*, 30(5), 641-648.
 2.  《黃帝內經·素問·上古天真論》：「形氣相得，乃為有生。」
 
+<span id="%E5%A6%82%E4%BD%95%E9%81%B8%E6%93%87%E9%81%A9%E5%90%88%E7%9A%84%E5%A4%A7%E6%8E%83%E9%99%A4%E5%B7%A5%E5%85%B7%E8%88%87%E8%A3%9D%E5%82%99"></span>
+
 ## **如何選擇適合的大掃除工具與裝備**
 
 大掃除是一項耗體力的任務，但選對工具和裝備可以大幅減少對身體的傷害。你是否曾經因工具不順手而感到疲憊甚至受傷？事實證明，使用符合人體工學設計的清潔工具，不僅能提升效率，還能有效降低身體負擔。(註1)
@@ -44,6 +48,8 @@ sourceVerbatim: true
 
 1.  Cha, S. K., et al. (2017). Ergonomic benefits of long-handled cleaning tools for household work. *Applied Ergonomics*, 58, 383-391.
 2.  《本草綱目·卷二十一·服飾》：「凡接毒氣者，當先護其肌膚，則無侵襲之患。」
+
+<span id="%E6%AD%A3%E7%A2%BA%E5%8B%95%E4%BD%9C%E8%88%87%E5%A7%BF%E5%8B%A2%E7%9A%84%E5%81%A5%E5%BA%B7%E6%8C%87%E5%8D%97"></span>
 
 ## **正確動作與姿勢的健康指南**
 
@@ -60,6 +66,8 @@ sourceVerbatim: true
 1.  Adams, M. A., et al. (2016). Effects of posture on lumbar spine biomechanics. *Journal of Orthopaedic & Sports Physical Therapy*, 46(2), 95-102.
 2.  《黃帝內經·素問·四氣調神大論》：「陽氣者，若天與日，失其所，則折壽而不彰。」
 
+<span id="%E5%A4%A7%E6%8E%83%E9%99%A4%E5%BE%8C%E7%9A%84%E8%BA%AB%E9%AB%94%E4%BF%AE%E5%BE%A9%E8%88%87%E4%BF%9D%E9%A4%8A"></span>
+
 ## **大掃除後的身體修復與保養**
 
 完成大掃除後，你的身體是否感到筋疲力盡？適當的修復與保養，能讓身體快速恢復活力，避免因勞累引發長期的不適。根據專家建議，大掃除結束後進行針對性的放鬆運動，能有效緩解肌肉緊張。(註1)
@@ -75,6 +83,8 @@ sourceVerbatim: true
 1.  Kim, H. J., et al. (2018). The impact of post-exercise recovery interventions on muscle soreness and performance. *Journal of Sports Medicine and Physical Fitness*, 58(5), 713-721.
 2.  《神農本草經·卷三·果部》：「檸檬，味酸，微甘，主止渴生津，除煩解疲。」
 
+<span id="%E5%81%A5%E5%BA%B7%E7%9A%84%E5%AE%B6%EF%BC%8C%E5%B9%B8%E7%A6%8F%E7%9A%84%E4%BD%A0"></span>
+
 ## **健康的家，幸福的你**
 
 每一次大掃除，都承載著對新年的期待與對家人的愛。乾淨整潔的家帶來了視覺上的舒適，而健康的身體則是支撐幸福生活的基石。學習正確的掃除技巧和姿勢，不僅是對自己的溫柔呵護，也是對家人的深切關懷。
@@ -89,7 +99,11 @@ sourceVerbatim: true
 
 邊聽音樂邊打掃、欣欣向榮沒煩惱
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A%E5%A4%A7%E6%8E%83%E9%99%A4%E5%B8%B8%E8%A6%8B%E7%9A%84%E8%BA%AB%E9%AB%94%E5%82%B7%E5%AE%B3%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F"></span>
 
 ### **問題 1****：大掃除常見的身體傷害有哪些？**
 
@@ -102,6 +116,8 @@ sourceVerbatim: true
 4.  **皮膚過敏**：使用刺激性清潔劑時未做防護措施引起的反應。  
     建議採用正確的動作和姿勢，並穿戴手套和膝墊等防護裝備來降低風險。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E5%AF%A6%E7%94%A8%E7%9A%84%E5%81%A5%E5%BA%B7%E6%B8%85%E6%BD%94%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%96%A6%EF%BC%9F"></span>
+
 ### **問題 2****：有哪些實用的健康清潔工具推薦？**
 
 **回覆**：  
@@ -112,6 +128,8 @@ sourceVerbatim: true
 3.  **防滑掃帚**：握把舒適，可減少手腕壓力。  
     此外，盡量選擇天然清潔劑，如白醋和檸檬水，對身體和環境都更友好。
 
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E5%A6%82%E4%BD%95%E7%A2%BA%E4%BF%9D%E5%A4%A7%E6%8E%83%E9%99%A4%E9%81%8E%E7%A8%8B%E4%B8%AD%E4%B8%8D%E5%82%B7%E8%BA%AB%EF%BC%9F"></span>
+
 ### **問題 3****：如何確保大掃除過程中不傷身？**
 
 **回覆**：
@@ -121,6 +139,8 @@ sourceVerbatim: true
 3.  **定時休息**：每工作30分鐘，進行簡單的肩頸和腰部拉伸。  
     根據《黃帝內經》提到的「形氣相得」，動作的和諧與休息是健康工作的基礎。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A%E5%A4%A7%E6%8E%83%E9%99%A4%E5%BE%8C%EF%BC%8C%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E6%94%BE%E9%AC%86%E8%88%87%E6%81%A2%E5%BE%A9%EF%BC%9F"></span>
+
 ### **問題 4****：大掃除後，如何快速放鬆與恢復？**
 
 **回覆**：
@@ -129,6 +149,8 @@ sourceVerbatim: true
 2.  **熱敷或冷敷**：對緊繃的肌肉熱敷，對腫脹部位冷敷。
 3.  **飲用健康飲品**：例如蜂蜜檸檬水，幫助補充流失的水分與電解質。  
     休息充足後，再進行輕度的活動調整身體狀態，避免長期的不適。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9A%E4%B8%AD%E9%86%AB%E6%9C%89%E4%BB%80%E9%BA%BC%E8%A7%80%E9%BB%9E%E5%8F%AF%E4%BB%A5%E5%B9%AB%E5%8A%A9%E5%A4%A7%E6%8E%83%E9%99%A4%E5%81%A5%E5%BA%B7%EF%BC%9F"></span>
 
 ### **問題 5****：中醫有什麼觀點可以幫助大掃除健康？**
 

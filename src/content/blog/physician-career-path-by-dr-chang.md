@@ -14,6 +14,8 @@ sourceVerbatim: true
 
 ## ![](/wp-content/uploads/Physician-Career-Path-by-Dr.-Cha6.jpg)
 
+<span id="%E5%BC%95%E8%A8%80%EF%BD%9C%E4%BD%A0%E6%98%AF%E5%90%A6%E4%B9%9F%E5%9C%A8%E5%95%8F%EF%BC%9A%E9%86%AB%E5%B8%AB%E9%80%99%E6%A2%9D%E8%B7%AF%EF%BC%8C%E5%80%BC%E5%BE%97%E7%B9%BC%E7%BA%8C%E8%B5%B0%E5%97%8E%EF%BC%9F"></span>
+
 ## **引言｜你是否也在問：醫師這條路，值得繼續走嗎？**
 
 根據美國醫學教育學會（AAMC）2022年發布的報告，有超過**43%** **的年輕醫師**在職涯前五年曾考慮離開醫療體系，其中七成主因與「過勞、制度不友善與無法發展多元職涯」有關（註1）。這些冰冷的數字背後，是每一位在值班室哭過、在手術後獨自啃飯糰的醫師真實生活。
@@ -29,6 +31,8 @@ sourceVerbatim: true
 1.  Association of American Medical Colleges (AAMC). (2022). *Physician Career Satisfaction and Considerations Report*. [https://www.aamc.org](https://www.aamc.org)
 
 <iframe loading="lazy" title="張益豪醫師談醫師職涯規劃：從淋過雨的人，學會為人撐傘的溫柔堅定" width="800" height="450" src="https://www.youtube.com/embed/mHiYau2Ed1A?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<span id="%E9%86%AB%E5%B8%AB%E8%81%B7%E6%B6%AF%E8%A6%8F%E5%8A%83%E5%BB%BA%E8%AD%B0%EF%BC%9A%E8%B5%B7%E6%AD%A5%E9%9A%8E%E6%AE%B5%E8%A9%B2%E6%80%8E%E9%BA%BC%E6%83%B3%EF%BC%9F%E2%80%8B"></span>
 
 ## **醫師職涯規劃建議：起步階段該怎麼想？**​
 
@@ -57,6 +61,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Physician-Career-Path-by-Dr.-Chang.jpg)
 
+<span id="%E8%B5%B0%E5%87%BA%E4%B8%8D%E4%B8%80%E6%A8%A3%E7%9A%84%E9%86%AB%E7%99%82%E4%B9%8B%E8%B7%AF%EF%BC%9A%E5%B0%88%E6%A5%AD%E4%B9%8B%E5%A4%96%E7%9A%84%E6%8E%A2%E7%B4%A2"></span>
+
 ## **走出不一樣的醫療之路：專業之外的探索**
 
 你有想過，穿上白袍後的人生，其實還能走出多少種可能嗎？你有想過脫下白袍之後你是誰嗎？有什麼斜槓技能或者人格特質，是你在卸下白袍之後還是受人依賴的技能嗎?
@@ -68,6 +74,8 @@ sourceVerbatim: true
 當然，這條探索路上也有風險。離開醫院體系的保障，就像脫離主流的經脈運行，會有一段混亂與不穩。但張醫師提醒，這不等於放棄或者標新立異，而是把專業轉化為更貼近人群的力量，更接近民眾想要的。很多事情就發生在診間，例如解釋病情上，醫師只顧著講他想講的，總是不自覺地使用醫師熟悉的專有醫學名詞來解釋病情，但這卻不是民眾所需要的所想聽的直白好理解的醫療溝通！良好的醫療溝通術無法在醫學院課程中學到，甚至在住院醫師訓練過程中也極為缺乏，可以透過畢業後在外面的相關課程進修來補強這塊匱乏，白袍人生學院中，豪老師也針對醫療溝通術歸納出『3個Ｖ型/4個向量/5個武功』當作武功心法，方便醫界同仁時時提醒自己、刻意練習與迭代自己的醫療溝通術！曾經有人說過，聰明的人講故事，愚蠢的人拼命講道理，也許也適用在醫病溝通上，拼命講艱澀的醫療專業名詞，可能比不上一個秒懂好理解的生活比喻或者故事！讓診間的衛教有達到三波的功效，那就是患者聽的當下、回家後在腦海中想像與複習的第二次，第三次就是將秒懂好理解的衛教內容分享給身旁的親友，這就是三波衛教的威力！
 
 「醫師不是只在[診間](https://ent33ent.com/?fbclid=IwY2xjawJy7DlleHRuA2FlbQIxMAABHlPtvENvGhfRnnGf2fAmtvrxpB_TL65Z9os-k250Duj2E0njqRGKCMdPje2J_aem_w1fZbNd0bYuBndHAcMRVHA)救人，還能在故事中點燈。」這句話，是他這些年最深的體悟。
+
+<span id="%E5%A4%9A%E5%85%83%E8%81%B7%E6%B6%AF%E9%81%B8%E6%93%87%E7%9A%84%E7%8F%BE%E5%AF%A6%E8%88%87%E6%8C%91%E6%88%B0%EF%BC%9A%E5%BE%9E%E9%8C%AF%E8%AA%A4%E4%B8%AD%E5%AD%B8%E6%9C%83%E5%88%86%E8%BE%A8"></span>
 
 ## **多元職涯選擇的現實與挑戰：從錯誤中學會分辨**
 
@@ -81,6 +89,8 @@ sourceVerbatim: true
 
 「不是每條岔路都華麗，但每一步都帶著勇氣。」這句話，張醫師常常用來安慰那些覺得自己「走歪了或選錯科」的年輕醫師。
 
+<span id="%E5%BE%9E%E6%B7%8B%E9%81%8E%E9%9B%A8%E5%88%B0%E6%92%90%E5%82%98%E4%BA%BA%EF%BC%9A%E7%B5%A6%E5%BE%8C%E8%BC%A9%E7%9A%84%E9%86%AB%E5%B8%AB%E8%81%B7%E6%B6%AF%E5%BB%BA%E8%AD%B0"></span>
+
 ## **從淋過雨到撐傘人：給後輩的醫師職涯建議**
 
 「我曾經在連續值班72小時之後，走出醫院看到早晨的第一道曙光時，一邊喝著冷掉的咖啡，一邊懷疑人生，懷疑自己的選擇與擔心未來。」[張益豪醫師](https://www.youtube.com/channel/UC6gOtclmn9vdyfg8X-kRyVw)語氣輕柔，像是在說別人的故事，卻句句落在心裡。他說，真正讓他撐下來的，不是堅強，而是那份「被理解」的溫柔。「當你知道自己不是唯一一個累的人，你會更願意，為別人撐傘。」
@@ -92,6 +102,8 @@ sourceVerbatim: true
 最後他說：「如果我撐的這把傘，能剛好遮住你正在淋的雨，那這段路，就不白走了。我相信，陪你走一段路之後，放下那把傘，將會是你重新看見好晴天的地方。」
 
 ![](/wp-content/uploads/Physician-Career-Path-by-Dr.-Chang２-1024x679.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BD%9C%E4%BD%A0%E4%B9%9F%E6%98%AF%E8%83%BD%E7%82%BA%E4%BA%BA%E6%92%90%E5%82%98%E7%9A%84%E9%82%A3%E5%80%8B%E4%BA%BA"></span>
 
 ## **結論｜你也是能為人撐傘的那個人**
 
@@ -114,7 +126,11 @@ sourceVerbatim: true
 
 1.  West CP, Dyrbye LN, Satele DV, Shanafelt TD. (2020). **A longitudinal study evaluating the association between physicians’ career choice regrets and well-being**. *JAMA Internal Medicine*, 180(6), 934–941. DOI: 10.1001/jamainternmed.2020.1223
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A%E6%88%91%E5%B0%8D%E7%8F%BE%E5%9C%A8%E7%9A%84%E9%86%AB%E5%B8%AB%E5%B7%A5%E4%BD%9C%E6%84%9F%E5%88%B0%E7%96%B2%E6%86%8A%EF%BC%8C%E4%BD%86%E5%8F%88%E4%B8%8D%E7%A2%BA%E5%AE%9A%E8%BD%89%E8%81%B7%E6%98%AF%E4%B8%8D%E6%98%AF%E9%80%83%E9%81%BF%EF%BC%8C%E6%80%8E%E9%BA%BC%E5%88%A4%E6%96%B7%EF%BC%9F"></span>
 
 ### **問題 1****：我對現在的醫師工作感到疲憊，但又不確定轉職是不是逃避，怎麼判斷？**
 
@@ -124,11 +140,15 @@ sourceVerbatim: true
 
 如果連續的回答都是否，那麼就值得重新檢視你的職涯選擇。自己的人生需要自己掌控，唯有自己活得好，才能發揮最高的醫療水準！當你勉強自己，身心失衡時，就容易失去方向。你可以先從微小的調整開始，例如轉換部門科別、縮減工時、斜槓其他自己能進入心流的領域、進修其他課程、多與其他領域的人交流或探索兼職新方向。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E9%99%A4%E4%BA%86%E8%87%A8%E5%BA%8A%EF%BC%8C%E9%86%AB%E5%B8%AB%E9%82%84%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%AF%E8%83%BD%E7%9A%84%E8%81%B7%E6%B6%AF%E9%81%B8%E6%93%87%EF%BC%9F"></span>
+
 ### **問題 2****：除了臨床，醫師還有哪些可能的職涯選擇？**
 
 **回覆：**  
 現代醫師的職涯已不再只有臨床這條路。你可以考慮進入健康教育、醫療顧問、醫療行銷、公衛政策、創業、社群經營，甚至像張醫師一樣，結合教育與品牌，創辦「白袍人生學院」。  
 建議你可依興趣將選項區分為：**知識傳遞型（如教學、寫作）、溝通影響型（如演講、顧問）、系統設計型（如創業、設計課程）**等類別，再逐步探索。記得，中醫講求「因時、因地、因人制宜」，你的職涯也可以是獨一無二的方劑，為你量身調製。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E6%88%91%E5%B0%8D%E5%AD%B8%E8%A1%93%E5%92%8C%E7%A0%94%E7%A9%B6%E6%B2%92%E6%9C%89%E7%86%B1%E6%83%85%EF%BC%8C%E6%9C%83%E4%B8%8D%E6%9C%83%E5%B0%B1%E7%84%A1%E6%B3%95%E5%9C%A8%E9%86%AB%E7%95%8C%E7%99%BC%E5%B1%95%EF%BC%9F"></span>
 
 ### **問題 3****：我對學術和研究沒有熱情，會不會就無法在醫界發展？**
 
@@ -141,6 +161,8 @@ sourceVerbatim: true
 醫界需要多樣化的角色，不是只有發論文的人才叫做成功。若你希望發展另一種形式的影響力，也許可以考慮開設Podcast、YouTube頻道、或參與社區健康教育，發揮你的影響力。
 
 **也務必開啟多元槓桿：人才槓桿、時間槓桿、資本槓桿與平台槓桿！方能事半功倍。**
+
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A%E9%9B%A2%E9%96%8B%E5%82%B3%E7%B5%B1%E7%9A%84%E9%86%AB%E7%99%82%E9%AB%94%E7%B3%BB%E6%98%AF%E5%90%A6%E6%9C%83%E8%AE%93%E5%B0%88%E6%A5%AD%E8%83%BD%E5%8A%9B%E9%80%80%E5%8C%96%EF%BC%9F"></span>
 
 ### **問題 4****：離開傳統的醫療體系是否會讓專業能力退化？**
 

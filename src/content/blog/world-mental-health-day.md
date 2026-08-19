@@ -48,6 +48,8 @@ sourceVerbatim: true
 (註1) World Health Organization. *Mental health: strengthening our response.* WHO, 2024.  
 (註2) Chrousos GP, et al. *Psychological Stress and Physical Health: A Comprehensive Review.* **Front Psychol.** 2022;13:928541. doi:10.3389/fpsyg.2022.928541
 
+<span id="1010%EF%BC%8C%E4%B8%96%E7%95%8C%E5%9C%A8%E6%8F%90%E9%86%92%E4%BD%A0%EF%BC%9A%E5%88%A5%E5%BF%98%E4%BA%86%E5%BF%83%E4%B9%9F%E6%9C%83%E7%94%9F%E7%97%85"></span>
+
 ## **10/10****，世界在提醒你：別忘了心也會生病**
 
 你有沒有發現，身體生病時，我們會立刻請假、看醫生、吃藥休養；  
@@ -66,6 +68,8 @@ sourceVerbatim: true
 所以，今年的10/10，不只是個日期。  
 它是一個邀請：  
 讓我們停下腳步，重新學會傾聽內在的聲音。
+
+<span id="%E4%B8%96%E7%95%8C%E7%B2%BE%E7%A5%9E%E8%A1%9B%E7%94%9F%E6%97%A5%E7%9A%84%E8%AA%95%E7%94%9F%EF%BC%9A%E5%BE%9E%E6%B2%89%E9%BB%98%E5%88%B0%E8%A2%AB%E7%9C%8B%E8%A6%8B"></span>
 
 ## **世界精神衛生日的誕生：從沉默到被看見**
 
@@ -86,6 +90,8 @@ sourceVerbatim: true
 
 也就是說，「看見」只是起點，  
 **陪伴與制度**，才是能讓人真正走出陰影的陽光。
+
+<span id="%E5%BF%83%E7%9A%84%E7%96%B2%E5%8B%9E%E4%B8%8D%E5%8F%AA%E6%98%AF%E5%A3%93%E5%8A%9B%EF%BC%9A%E4%BA%94%E8%87%9F%E6%83%85%E5%BF%97%E7%9A%84%E9%80%A3%E5%8B%95"></span>
 
 ## **心的疲勞不只是壓力：五臟情志的連動**
 
@@ -109,6 +115,8 @@ sourceVerbatim: true
 當我們覺得「累到心裡去」，那不只是心理負擔——  
 而是心、腸、腦三者的訊號正在同時閃爍。  
 **學會察覺這些小徵兆，就是自我療癒的起點。**
+
+<span id="%E5%AF%A6%E8%AD%89%E4%B9%9F%E9%80%99%E9%BA%BC%E8%AA%AA%EF%BC%9A%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E4%BB%8B%E5%85%A5%E7%9A%84%E6%96%B0%E8%B6%A8%E5%8B%A2"></span>
 
 ## **實證也這麼說：心理健康介入的新趨勢**
 
@@ -137,6 +145,8 @@ sourceVerbatim: true
 
 因為在心理健康的世界裡，  
 「被理解」本身，就是療癒的開始。![](/wp-content/uploads/World-Mental-Health-Day-5.jpg)
+
+<span id="%E8%AE%93%E5%BF%83%E5%96%98%E5%8F%A3%E6%B0%A3%EF%BC%9A3_%E5%80%8B%E8%87%AA%E6%88%91%E7%85%A7%E8%AD%B7%E7%B7%B4%E7%BF%92"></span>
 
 ## **讓心喘口氣：3** **個自我照護練習**
 
@@ -169,6 +179,8 @@ sourceVerbatim: true
 **10** **月 10** **日，不只是世界精神衛生日，也是重新學會「愛自己」的日子。**
 
 **![](/wp-content/uploads/World-Mental-Health-Day-6.jpg)**
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E5%85%89%E8%88%87%E5%BD%B1%E7%9A%84%E5%B0%8D%E8%A9%B1"></span>
 
 ## **結論：光與影的對話**
 
@@ -203,6 +215,8 @@ sourceVerbatim: true
 《本文將依據最新提問持續更新》
 
 <table style="border-collapse: collapse; border: 3px solid #145A32; width: 100%; font-family: 'Noto Sans TC',sans-serif; color: #333333;"><thead style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><tr><th style="padding: 10px; border: 3px solid #145A32;">面向</th><th style="padding: 10px; border: 3px solid #145A32;">現代心理介入（實證/場域）</th><th style="padding: 10px; border: 3px solid #145A32;">情志 × 臟腑（經典/機轉）</th><th style="padding: 10px; border: 3px solid #145A32;">今日怎麼做（3步行動）</th><th style="padding: 10px; border: 3px solid #145A32;">目標指標</th></tr></thead><tbody><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #145A32;">壓力調節</td><td style="padding: 10px; border: 3px solid #145A32;">正念/腹式呼吸、CBT、壓力管理課程（職場/校園）</td><td style="padding: 10px; border: 3px solid #145A32;">思傷脾、心神失養；「恬淡虛無，精神內守」</td><td style="padding: 10px; border: 3px solid #145A32;">①三息練心②番茄鐘50/10③睡前10分鐘離線</td><td style="padding: 10px; border: 3px solid #145A32;">睡眠品質、HRV、自覺壓力</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #145A32;">焦慮緊繃</td><td style="padding: 10px; border: 3px solid #145A32;">放鬆訓練、暴露＋認知重組、求助管道</td><td style="padding: 10px; border: 3px solid #145A32;">肝主疏泄、肝鬱氣滯 → 胸悶、嘆息</td><td style="padding: 10px; border: 3px solid #145A32;">①覺察觸發事件②步行10–15分鐘③寫下「我能掌握的一件事」</td><td style="padding: 10px; border: 3px solid #145A32;">GAD-7、心悸/胸悶頻率</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #145A32;">情緒低落</td><td style="padding: 10px; border: 3px solid #145A32;">行為活化、社會處方、同儕支持</td><td style="padding: 10px; border: 3px solid #145A32;">心主神明、腎主恐；陽不達、陰不藏</td><td style="padding: 10px; border: 3px solid #145A32;">①晨光曝曬10–20分②每週2次社交③記一件完成的小事</td><td style="padding: 10px; border: 3px solid #145A32;">PHQ-9、日常活動量</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #145A32;">失眠</td><td style="padding: 10px; border: 3px solid #145A32;">睡眠衛教、刺激控制、CBT-I</td><td style="padding: 10px; border: 3px solid #145A32;">心腎不交、陰陽失衡；「心藏神、腎藏精」</td><td style="padding: 10px; border: 3px solid #145A32;">①固定就寢/起床②晚間減藍光③睡前熱足浴</td><td style="padding: 10px; border: 3px solid #145A32;">入睡潛伏期、夜醒次數</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #145A32;">職場倦怠</td><td style="padding: 10px; border: 3px solid #145A32;">三層介入：預防傷害/促進正向/回應問題</td><td style="padding: 10px; border: 3px solid #145A32;">肝疏泄 + 脾運化，同步失調</td><td style="padding: 10px; border: 3px solid #145A32;">①週會加入「工作去模糊」②每月心理宣講③匿名回饋箱</td><td style="padding: 10px; border: 3px solid #145A32;">倦怠量表、離職率、病假</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #145A32;">去污名</td><td style="padding: 10px; border: 3px solid #145A32;">公共倡議、接觸式教育、素人故事</td><td style="padding: 10px; border: 3px solid #145A32;">「心者君主之官」—被理解即歸位</td><td style="padding: 10px; border: 3px solid #145A32;">①團隊心理對話②張貼求助資源③管理者訓練</td><td style="padding: 10px; border: 3px solid #145A32;">求助率、態度量表</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #145A32;">數位介入</td><td style="padding: 10px; border: 3px solid #145A32;">App/線上課：正念、ACT、睡眠/焦慮模組</td><td style="padding: 10px; border: 3px solid #145A32;">「調神以和氣」：節律＞強度</td><td style="padding: 10px; border: 3px solid #145A32;">①7天體驗App②設定每日提醒③14天後檢核</td><td style="padding: 10px; border: 3px solid #145A32;">使用黏著、症狀分數</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #145A32;">養心茶飲</td><td style="padding: 10px; border: 3px solid #145A32;">—</td><td style="padding: 10px; border: 3px solid #145A32;">合歡花、酸棗仁、百合、甘草：寧心安神</td><td style="padding: 10px; border: 3px solid #145A32;">①日間舒壓茶②晚間安神茶③咖啡因時段管理</td><td style="padding: 10px; border: 3px solid #145A32;">入睡時間、主觀平靜</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #145A32;">情緒書寫</td><td style="padding: 10px; border: 3px solid #145A32;">表達性寫作、情緒標記</td><td style="padding: 10px; border: 3px solid #145A32;">「五臟化五氣，以生喜怒悲憂恐」</td><td style="padding: 10px; border: 3px solid #145A32;">①每天一句心情②標記情緒強度③下一步小行動</td><td style="padding: 10px; border: 3px solid #145A32;">情緒波動幅度、可控行動</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #145A32;">社群支持</td><td style="padding: 10px; border: 3px solid #145A32;">同儕小組、家庭會談、信仰/社群場域</td><td style="padding: 10px; border: 3px solid #145A32;">「和其心，調其氣」：關係即良藥</td><td style="padding: 10px; border: 3px solid #145A32;">①每週一次交流②界線/回應SOP③感謝練習</td><td style="padding: 10px; border: 3px solid #145A32;">社交頻率、孤獨感量表</td></tr></tbody></table>
+
+<span id="%F0%9F%92%AC_%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **💬** **常見問題與回覆**
 

@@ -16,6 +16,10 @@ sourceVerbatim: true
 
 你中午買的便當，放到下午兩三點才吃，中間有沒有想過它在桌上經歷了什麼溫度？手搖飲店的冰塊看起來透明乾淨，實際的衛生風險可能跟你想的不一樣。夏天是全年食品中毒通報數最高的季節，原因不只是天氣熱，還包括手搖飲、冰品、便當、海鮮這幾種外食族每天都會碰到的品項，經手環節多，保存時間又特別容易被忽略。這篇文章整理幾個關鍵檢查點：買的時候看什麼，帶回家後怎麼保存，身體出現警訊時又該怎麼判斷。
 
+<span id="section-0"></span>
+
+<span id="%E4%B8%80%E3%80%81%E5%A4%8F%E5%A4%A9%E5%A4%96%E9%A3%9F%E9%A2%A8%E9%9A%AA%E7%82%BA%E4%BB%80%E9%BA%BC%E7%89%B9%E5%88%A5%E9%AB%98%EF%BC%9F"></span>
+
 ## 一、夏天外食風險為什麼特別高？
 
 **氣溫升高讓細菌繁殖速度加快，加上手搖飲、便當、冰品、海鮮這幾類外食經手環節多、保存時間長，是夏天腸胃問題變多的主要原因。**
@@ -23,6 +27,10 @@ sourceVerbatim: true
 根據衛生福利部食品藥物管理署統計，2024年全國通報食品中毒案件達1,750件，受害人數逼近9千人，雙雙創下新高，其中約七成發生在供膳營業場所（註1）。這個數字提醒一個事實：外食風險跟著氣溫走。細菌在攝氏7度到60度之間繁殖最快，這段區間也被稱為「危險溫度帶」，便當裡的滷肉、海鮮的生食或半熟料理，只要在這個溫度區間待太久，風險就會累積。
 
 街頭與攤位型的外食因為經手環節多，準備條件不一定符合規範，國際文獻回顧也指出，街賣食品中經常檢出糞便指標菌與多種病原菌（註2）。後面幾段會分別拆解手搖飲、便當、冰品、海鮮這幾種你每天可能都會遇到的情境。
+
+<span id="section-1"></span>
+
+<span id="%E4%BA%8C%E3%80%81%E6%89%8B%E6%90%96%E9%A3%B2%E8%88%87%E5%86%B0%E5%A1%8A%EF%BC%9A%E4%BD%A0%E4%BB%A5%E7%82%BA%E4%B9%BE%E6%B7%A8%E7%9A%84%E5%86%B0%EF%BC%8C%E5%8F%AF%E8%83%BD%E8%97%8F%E8%91%97%E4%BB%80%E9%BA%BC%EF%BC%9F"></span>
 
 ## 二、手搖飲與冰塊：你以為乾淨的冰，可能藏著什麼？
 
@@ -40,6 +48,10 @@ sourceVerbatim: true
 
 <table class="comparison-table" style="width: 100%; border-collapse: collapse; font-size: 0.95em; border: 3px solid #1B5E4B;"><thead><tr><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">品項</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">常見風險因素</th><th style="background: #2A9D8F; color: #ffffff; font-weight: bold; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">你可以觀察的線索</th></tr></thead><tbody><tr><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">手搖飲／冰塊</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">製冰機清潔頻率、操作台交叉污染</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">冰塊是否透明無異味、吧檯與製冰機外觀是否乾淨</td></tr><tr><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">便當</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">室溫暴露時間過長、飯菜混放</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">是否有保溫設備、飯菜是否還冒著熱氣、購買時間點</td></tr><tr><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">冰品（剉冰、冰棒）</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">配料存放溫度、砧板生熟不分</td><td style="background: #D4E9E2; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">配料是否冷藏展示、容器是否加蓋</td></tr><tr><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">海鮮（生食、半熟料理）</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">保鮮溫度不足、供應鏈時間拉長</td><td style="background: #FFFFFF; color: #333333; border: 1px solid #1B5E4B; padding: 10px; text-align: left;">是否持續冰鎮、攤位是否曝曬、氣味是否新鮮</td></tr></tbody></table>
 
+<span id="section-2"></span>
+
+<span id="%E4%B8%89%E3%80%81%E4%BE%BF%E7%95%B6%E5%9C%A8%E6%A1%8C%E4%B8%8A%E6%94%BE%E4%BA%86%E5%A4%9A%E4%B9%85%EF%BC%8C%E4%BD%A0%E7%AE%97%E9%81%8E%E5%97%8E%EF%BC%9F"></span>
+
 ## 三、便當在桌上放了多久，你算過嗎？
 
 **食品在攝氏7到60度的危險溫度帶中，建議室溫不超過1小時，夏天氣溫更高時應該更早收進冰箱或盡快食用。**
@@ -47,6 +59,10 @@ sourceVerbatim: true
 衛生福利部在食品衛生安全原則中提醒，熟食在室溫下放置不宜超過1小時（註5）。這個數字聽起來嚴格，但邏輯很單純：細菌在7度到60度之間繁殖最快，尤其是28度到35度左右的環境，增殖速度會明顯加快。夏天辦公室的外送便當，如果中午11點半送達，你下午兩三點才打開來吃，加上便當本身在保溫箱、機車廂裡經歷的時間，很可能已經超過安全窗口。
 
 這裡有一個常見誤解值得澄清：便當看起來還冒著熱氣，不代表整體溫度均勻。飯菜混裝、配菜量多的便當，中心溫度降到危險區間的速度比你想的快，尤其是澱粉類配菜和滷製品。
+
+<span id="section-3"></span>
+
+<span id="%E5%9B%9B%E3%80%81%E8%B2%B7%E4%B9%8B%E5%89%8D%EF%BC%8C%E7%9C%BC%E7%9D%9B%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%93%AA%E8%A3%A1%EF%BC%9F"></span>
 
 ## 四、買之前，眼睛可以看哪裡？
 
@@ -63,6 +79,10 @@ sourceVerbatim: true
 -   手搖飲吧檯的冰鏟、封口機看起來是否定期清潔
 -   便當、滷味等熟食是否持續保溫，而不是常溫擺放
 -   海鮮攤位是否持續冰鎮，魚眼、蝦身氣味是否新鮮
+
+<span id="section-4"></span>
+
+<span id="%E4%BA%94%E3%80%81%E5%B8%B6%E5%9B%9E%E5%AE%B6%E7%9A%84%E5%89%A9%E9%A3%9F%EF%BC%8C%E6%80%8E%E9%BA%BC%E4%BF%9D%E5%AD%98%E6%89%8D%E5%B0%8D%EF%BC%9F"></span>
 
 ## 五、帶回家的剩食，怎麼保存才對？
 
@@ -82,6 +102,10 @@ sourceVerbatim: true
 -   手搖飲喝不完，冰塊融化後的飲料建議直接倒掉，不留到隔天
 -   拿不準保存時間，寧可丟掉，也不要冒險吃下肚
 
+<span id="section-5"></span>
+
+<span id="%E5%85%AD%E3%80%81%E5%A4%8F%E5%A4%A9%E8%85%B8%E8%83%83%E4%BF%9D%E9%A4%8A%EF%BC%8C%E4%B8%AD%E9%86%AB%E6%80%8E%E9%BA%BC%E8%AA%AA%EF%BC%9F"></span>
+
 ## 六、夏天腸胃保養，中醫怎麼說？
 
 **傳統中醫觀點認為飲食過量與過度貪涼都會加重腸胃負擔，強調規律進食、避免暴飲暴食，這種觀念與現代腸胃保養的方向大致相符。**
@@ -95,6 +119,10 @@ sourceVerbatim: true
 > 這不是要你完全避開冰飲或大份量的便當。規律飲食、避免暴飲暴食、減少一次性大量攝取生冷刺激，是傳統飲食觀念與現代腸胃保養都認同的方向。如果已經出現急性腹瀉、發燒或血便等症狀，仍應以醫療建議為準，不宜自行判斷拖延。
 > 
 > <figure class="article-figure" style="margin: 24px auto; text-align: center;"><img loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 0;" src="https://writer.weiqi.kids/articles/appi.news/%E8%8D%89%E6%9C%AC%E4%B8%8A%E8%86%B3%E9%86%AB%E5%BB%9A-%E5%AD%90%E5%BD%A5(%E9%98%BF%E5%8D%A1%E8%A5%BF%E6%91%BA%E7%96%8A%E7%89%88)/issue-393/images/5.jpg" alt="以爐火比喻脾胃的插畫，適量進食時火勢均勻，暴飲暴食加冰品則像澆熄爐火" width="1536" height="1024"><figcaption style="font-size: 0.85em; color: #666; margin-top: 8px; line-height: 1.5;">以爐火比喻脾胃的插畫，適量進食時火勢均勻，暴飲暴食加冰品則像澆熄爐火</figcaption></figure>
+
+<span id="section-6"></span>
+
+<span id="%E4%B8%83%E3%80%81%E4%BB%8A%E5%A4%A9%E5%A4%96%E9%A3%9F%E5%89%8D%EF%BC%8C%E7%9C%8B%E4%B8%80%E7%9C%BC%E7%9A%84%E6%B8%85%E5%96%AE"></span>
 
 ## 七、今天外食前，看一眼的清單
 
@@ -130,6 +158,10 @@ sourceVerbatim: true
 
 放學時段氣溫通常偏高，建議留意店家配料是否冷藏展示、容器有沒有加蓋，並提醒孩子盡量現場吃完，不要放在書包裡帶著走太久。
 
+<span id="section-7"></span>
+
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB"></span>
+
 ## 參考文獻
 
 1.  衛生福利部食品藥物管理署（2024年統計數據，經《CTWANT》報導引述）(2025). 食品中毒通報創新高，近萬人受害「7成外食釀禍」. [https://www.ctwant.com/article/427645/](https://www.ctwant.com/article/427645/)
@@ -138,6 +170,8 @@ sourceVerbatim: true
 4.  新北市政府衛生局 (2026). 抽驗62件全數合格，新北夏季飲冰品檢驗零違規. 獨家報導. [https://www.scooptw.com/taiwanpost/502502/](https://www.scooptw.com/taiwanpost/502502/)
 5.  衛生福利部 (2026). 注意食品衛生安全原則，避免食品中毒. [https://www.mohw.gov.tw/cp-3160-25243-1.html](https://www.mohw.gov.tw/cp-3160-25243-1.html)
 6.  Smigic N, et al. (2023). Consumer attitudes and perceptions towards chilled ready-to-eat foods: a multi-national study. *Journal of Consumer Protection and Food Safety*. [https://pmc.ncbi.nlm.nih.gov/articles/PMC9994415/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9994415/)
+
+<span id="%E8%8D%89%E6%9C%AC%E4%B8%8A%E8%86%B3%E9%86%AB%E5%BB%9A%EF%BC%8D%E9%BB%83%E5%AD%90%E5%BD%A5"></span>
 
 ### 草本上膳醫廚－黃子彥
 

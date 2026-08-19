@@ -20,6 +20,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/sugary-drinks-nafld-young-risk_11zon.webp)
 
+<span id="%E4%BB%80%E9%BA%BC%E6%98%AF%E7%84%A1%E9%85%92%E7%B2%BE%E6%80%A7%E8%84%82%E8%82%AA%E8%82%9D%EF%BC%9F%E7%82%BA%E4%BD%95%E5%B9%B4%E8%BC%95%E4%BA%BA%E4%B9%9F%E6%9C%83%E5%BE%97%EF%BC%9F"></span>
+
 ## **什麼是無酒精性脂肪肝？為何年輕人也會得？**
 
 脂肪肝顧名思義，就是脂肪在肝細胞內異常堆積。當脂肪佔肝臟總重量的5%以上，就可以稱為脂肪肝。
@@ -27,6 +29,8 @@ sourceVerbatim: true
 無酒精性脂肪肝指的是：不是因為喝酒，而是因為代謝異常（例如過多糖分、肥胖、胰島素阻抗）所造成的肝脂肪堆積。
 
 以往脂肪肝被認為是「中年人疾病」，但近年越來越多年輕人，甚至是學生族群，在健檢或抽血中發現肝功能異常，或是腹部超音波顯示有脂肪肝。
+
+<span id="%E7%94%9C%E9%A3%B2%E7%82%BA%E4%BD%95%E6%9C%83%E8%AE%93%E8%82%9D%E8%87%9F%E3%80%8C%E8%AE%8A%E6%B2%B9%E3%80%8D%EF%BC%9F"></span>
 
 ## **甜飲為何會讓肝臟「變油」？**
 
@@ -39,6 +43,8 @@ sourceVerbatim: true
 **常見甜味劑與肝臟負擔總整理：**
 
 <table><tbody><tr><td width="192">甜味來源</td><td width="192">常見出現在</td><td width="192">對健康的影響</td></tr><tr><td width="192">高果糖玉米糖漿（HFCS）</td><td width="192">汽水、手搖飲、果汁、果醬、速食醬料</td><td width="192">肝臟負擔最大，促進脂肪合成</td></tr><tr><td width="192">果葡糖漿</td><td width="192">包裝甜飲、調味乳、麵包</td><td width="192">含高比例果糖，易形成脂肪肝</td></tr><tr><td width="192">異麥芽糖漿</td><td width="192">健康標示飲品、機能性飲品</td><td width="192">雖稱低升糖，但仍屬精緻糖類</td></tr><tr><td width="192">玉米糖漿</td><td width="192">果凍、布丁、糖果、餅乾</td><td width="192">若未註明果糖比例也需留意</td></tr><tr><td width="192">麥芽糊精、葡萄糖漿</td><td width="192">運動飲料、速溶咖啡、即溶湯包</td><td width="192">升糖指數高，也會促進脂肪生成</td></tr></tbody></table>
+
+<span id="%E6%AF%8F%E5%A4%A9%E5%88%B0%E5%BA%95%E5%8F%AF%E4%BB%A5%E5%96%9D%E5%A4%9A%E5%B0%91%E7%B3%96%EF%BC%9F%E7%9C%8B%E6%95%B8%E5%AD%97%E6%9C%80%E6%B8%85%E6%A5%9A%EF%BC%81"></span>
 
 ## **每天到底可以喝多少糖？看數字最清楚！**
 

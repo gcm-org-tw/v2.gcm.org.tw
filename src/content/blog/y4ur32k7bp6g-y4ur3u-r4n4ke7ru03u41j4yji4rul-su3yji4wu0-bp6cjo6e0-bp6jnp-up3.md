@@ -12,6 +12,8 @@ legacyPath: "/blog/y4ur32k7bp6g-y4ur3u-r4n4ke7ru03u41j4yji4rul-su3yji4wu0-bp6cjo
 sourceVerbatim: true
 ---
 
+<span id="%E8%AC%9B%E5%88%B0%E4%BA%BA%E8%94%98%EF%BC%8C%E5%A4%A7%E5%AE%B6%E6%9C%83%E6%83%B3%E5%88%B0%E7%94%9A%E9%BA%BC%E5%91%A2"></span>
+
 ## **講到人蔘，大家會想到甚麼呢?**
 
 這幾年，人蔘相關的機能食品如雨後春筍的冒出來，除了最近很紅的坐車不小心躺在帥哥肩膀上的廣告，抑或是律師的真誠推薦。有時候，電視廣告多到我都快懷疑人蔘(生)了，你們說對吧?
@@ -21,6 +23,8 @@ sourceVerbatim: true
 以中醫的角度來看，人蔘多半是用在氣虛的病患上面。但，就像人生百態一樣，每個人的人生都不一樣，每個人蔘的品種也不一樣，適應的病症也不一樣(突然覺得整句有點饒舌)。
 
 <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="533" class="wp-image-655 aligncenter" src="/wp-content/uploads/2021/12/ginseng02-800x533-1.png" alt="" srcset="/wp-content/uploads/2021/12/ginseng02-800x533-1.png 800w, /wp-content/uploads/2021/12/ginseng02-800x533-1-300x200.png 300w, /wp-content/uploads/2021/12/ginseng02-800x533-1-768x512.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
+
+<span id="%E4%BB%A5%E4%B8%8B%EF%BC%8C%E6%88%91%E6%A0%B9%E6%93%9A%E5%B8%82%E9%9D%A2%E4%B8%8A%E5%B8%B8%E8%A6%8B%E6%88%90%E5%88%86%E3%80%81%E7%94%A2%E5%9C%B0%E3%80%81%E7%82%AE%E8%A3%BD%E6%B3%95%EF%BC%8C%E5%81%9A%E4%BA%86%E5%85%A9%E5%BC%B5%E5%9C%96%E6%96%87%E6%87%B6%E4%BA%BA%E5%8C%85%E3%80%82"></span>
 
 ## **以下，我根據市面上常見成分、產地、炮製法，做了兩張圖文懶人包。**
 
@@ -40,19 +44,29 @@ sourceVerbatim: true
 
 <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="800" height="533" class="wp-image-657 aligncenter" src="/wp-content/uploads/2021/12/ginseng04-800x533-1.png" alt="" srcset="/wp-content/uploads/2021/12/ginseng04-800x533-1.png 800w, /wp-content/uploads/2021/12/ginseng04-800x533-1-300x200.png 300w, /wp-content/uploads/2021/12/ginseng04-800x533-1-768x512.png 768w" sizes="auto, (max-width: 800px) 100vw, 800px"></figure>
 
+<span id="%E9%A3%9F%E8%AD%9C%EF%BC%9A%E6%B8%85%E6%B6%BC%E7%9A%84%E4%BA%BA%E8%94%98%E9%A3%B2"></span>
+
 ## **食譜：清涼的人蔘飲**
+
+<span id="%E6%AD%A5%E9%A9%9F_1"></span>
 
 ### 步驟 1.
 
 至中藥材店購買人蔘鬚，請挑選白蔘或是花旗蔘，因為這兩種蔘較不易上火，藥性也溫和許多。
 
+<span id="%E6%AD%A5%E9%A9%9F_2"></span>
+
 ### 步驟 2.
 
 以10g的人蔘鬚搭配500cc的水，煮沸20分鐘
 
+<span id="%E6%AD%A5%E9%A9%9F_3"></span>
+
 ### 步驟 3.
 
 用果汁機打碎，均勻地倒入製冰盒，冷凍結冰。
+
+<span id="%E6%AD%A5%E9%A9%9F_4"></span>
 
 ### 步驟 4.
 

@@ -20,6 +20,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/beauty_1760689281999_18_11zon-scaled.webp)
 
+<span id="%E6%88%90%E5%88%86%E8%B6%85%E7%94%A8%E5%BF%83%EF%BC%9A%E4%B8%80%E7%93%B6%E9%9B%86%E5%90%88%E4%BF%9D%E6%BF%95%E3%80%81%E4%BF%AE%E8%AD%B7%E3%80%81%E6%92%AB%E5%B9%B3%E7%B4%B0%E7%B4%8B%E3%80%81%E5%B0%8D%E6%8A%97%E8%82%8C%E8%86%9A%E8%80%81%E5%8C%96"></span>
+
 ### **成分超用心：一瓶集合保濕、修護、**撫平細紋、**對抗肌膚老化**
 
 Almiya 這瓶精華液的成分設計非常完整，不是只保濕而已。
@@ -37,6 +39,8 @@ Almiya 這瓶精華液的成分設計非常完整，不是只保濕而已。
 
 ![](/wp-content/uploads/beauty_1760688883937_17_11zon-scaled.webp)
 
+<span id="%E5%AF%A6%E9%9A%9B%E4%BD%BF%E7%94%A8%E6%84%9F%E5%8F%97%EF%BC%9A%E4%B8%80%E9%96%8B%E5%A7%8B%E5%B0%B1%E8%AE%93%E6%88%91%E9%A9%9A%E8%89%B7"></span>
+
 ### **實際使用感受：一開始就讓我驚艷**
 
 我每天早晚都會用，洗完臉後擠兩下在手心，輕輕推開全臉和脖子。
@@ -53,6 +57,8 @@ Almiya 這瓶精華液的成分設計非常完整，不是只保濕而已。
 
 ![](/wp-content/uploads/beauty_1760688583212_15_11zon-scaled.webp)
 
+<span id="%E4%BB%A5%E6%88%90%E5%88%86%E5%AE%89%E5%85%A8%E8%A7%92%E5%BA%A6%E7%9C%8B%EF%BC%8C%E4%B9%9F%E8%AE%93%E4%BA%BA%E5%BE%88%E6%94%BE%E5%BF%83"></span>
+
 ### **以成分安全角度看，也讓人很放心**
 
 因為我自己本身就是醫療人員，對成分跟安全性都很注重。
@@ -64,6 +70,8 @@ Almiya 這瓶精華液的成分設計非常完整，不是只保濕而已。
 而紅蠍胜肽的撫紋科技也讓我很驚艷，它能使肌膚回復柔順平和的線條，不會影響自然表情，這對我這種常常拍攝要笑、要表情豐富的人來說真的太實用了。
 
 ![](/wp-content/uploads/beauty_1760689986764_13_11zon-scaled.webp)
+
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BCErina%E9%A1%98%E6%84%8F%E6%8E%A8%E8%96%A6"></span>
 
 ### **為什麼Erina願意推薦**
 

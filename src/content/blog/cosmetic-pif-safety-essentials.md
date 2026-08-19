@@ -23,6 +23,8 @@ sourceVerbatim: true
 
 問題在於，多數人不知道它存在，也不知道**沒有它意味著什麼**。當安全只剩下感覺，責任往往會在出事時消失。接下來的內容，會把這套看似專業的制度，拆解成你真正用得上的判斷線索，讓安全不再只是被相信，而是有跡可循。
 
+<span id="%E7%82%BA%E4%BB%80%E9%BA%BC%E7%8F%BE%E5%9C%A8%E6%AF%8F%E5%80%8B%E5%8C%96%E7%B2%A7%E5%93%81%E9%83%BD%E9%9C%80%E8%A6%81_PIF%EF%BC%9F"></span>
+
 ## **為什麼現在每個化粧品都需要 PIF****？**
 
 你有沒有想過，為什麼以前買保養品，好像只要有標示就能賣，現在卻反覆聽到「化粧品 PIF」這個名詞？其實關鍵不在文件變多，而在**責任轉移**。過去，化粧品安全比較像廚房裡「已經幫你試吃過」的菜色，政府先檢查，消費者再使用；現在則更像是把一鍋湯交給主廚，要求他清楚交代每一味藥材、用量與火候，這本說明書，就是**產品資訊檔案（****PIF****）**。
@@ -30,6 +32,8 @@ sourceVerbatim: true
 在新的管理邏輯下，化粧品 PIF 不只是行政資料，而是用來證明「這個產品在合理使用情境下，風險被評估過」。安全不再等於「感覺溫和」，而是建立在暴露量、使用頻率與成分毒理的計算上。這樣的制度，對消費者來說是一層保護，但也有盲點——**你看不到內容，只能判斷它有沒有被好好建立**。別小看這一點，當產品出現問題時，有沒有 PIF，往往決定能不能說清楚責任與風險來源。
 
 現代研究也指出，化粧品安全評估已從單一成分檢視，轉向整體配方與長期使用風險的管理，特別重視上市後的不良反應監測（註1）。這代表，PIF 的存在，不是為了限制選擇，而是為了讓安全有跡可循，而不是事後猜測。
+
+<span id="%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%AA%A4%E6%9C%83%E7%9A%84%E5%8C%96%E7%B2%A7%E5%93%81%E5%AE%89%E5%85%A8%EF%BC%8C%E5%85%B6%E5%AF%A6%E5%B7%AE%E5%9C%A8%E9%80%99%E8%A3%A1"></span>
 
 ## **很多人誤會的化粧品安全，其實差在這裡**
 
@@ -41,6 +45,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Cosmetic-PIF-Safety-Essentials2.jpg)
 
+<span id="%E5%AE%89%E5%85%A8%E8%A9%95%E4%BC%B0%E6%80%8E%E9%BA%BC%E5%88%A4%E6%96%B7%E3%80%8C%E5%8F%AF%E4%BB%A5%E7%94%A8%E3%80%8D%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E3%80%8C%E6%84%9F%E8%A6%BA%E5%AE%89%E5%85%A8%E3%80%8D%EF%BC%9F"></span>
+
 ## **安全評估怎麼判斷「可以用」，而不是「感覺安全」？**
 
 你有沒有發現，「用起來沒事」常被誤當成「一定安全」？其實，真正的化粧品安全評估，重點不在感覺，而在**計算**。評估者會把使用部位、用量、頻率與成分毒理資料放進同一個模型，算出在「正常使用條件下」的暴露風險。這就像煮藥膳，不是藥材名貴就行，而是火候、份量、天天吃還是偶爾喝，決定了身體承不承受得住。
@@ -48,6 +54,8 @@ sourceVerbatim: true
 在化粧品 PIF 中，這套邏輯會被具體化為安全邊際的判斷：把「可能造成影響的劑量」與「實際會接觸到的劑量」做比較。若邊際充足，才稱得上「可以用」。相反地，只說成分來源天然、沒有即時刺激，卻沒有量化計算，其實只是把風險延後。別忽略這一點，因為長期、高頻率使用，才是皮膚真正面對的現實。
 
 近年的系統性綜述指出，現代化粧品安全評估已逐步採用整合式風險管理，結合毒理資料、使用情境與上市後監測，來補足單次測試的不足（註3）。這提醒我們：安全不是一句承諾，而是一套持續被驗證的過程。
+
+<span id="%E7%AB%99%E5%9C%A8%E6%B6%88%E8%B2%BB%E8%80%85%E8%A7%92%E5%BA%A6%EF%BC%8C%E5%93%AA%E4%BA%9B%E7%94%A2%E5%93%81%E7%89%B9%E5%88%A5%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%EF%BC%9F"></span>
 
 ## **站在消費者角度，哪些產品特別需要注意？**
 
@@ -58,6 +66,8 @@ sourceVerbatim: true
 近期觀察也指出，對於高暴露族群與長期使用產品，單靠上市前測試並不足夠，**上市後監測**成為補足安全缺口的重要機制（註4）。這提醒消費者：選擇產品時，能否被追溯、是否有人持續負責，比一句「溫和不刺激」更關鍵。
 
 ![](/wp-content/uploads/Cosmetic-PIF-Safety-Essentials6.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BD%9C%E6%8A%8A%E5%AE%89%E5%85%A8%EF%BC%8C%E4%BA%A4%E7%B5%A6%E8%83%BD%E8%A2%AB%E8%AA%AA%E6%B8%85%E6%A5%9A%E7%9A%84%E5%9C%B0%E6%96%B9"></span>
 
 ## **結論｜把安全，交給能被說清楚的地方**
 
@@ -72,6 +82,8 @@ sourceVerbatim: true
 《本文將依據最新提問持續更新》
 
 <table style="border-collapse: collapse; width: 100%; border: 3px solid #1B5E52;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="padding: 12px; border: 3px solid #1B5E52;">比較面向</th><th style="padding: 12px; border: 3px solid #1B5E52;">有 PIF 的產品</th><th style="padding: 12px; border: 3px solid #1B5E52;">沒有 PIF 的產品</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #1B5E52;">安全責任歸屬</td><td style="padding: 12px; border: 3px solid #1B5E52;">明確指定產品責任者，出問題時有人必須說清楚安全依據與風險來源。</td><td style="padding: 12px; border: 3px solid #1B5E52;">責任模糊，出事時常只剩品牌說法或推給代工廠，難以追溯。</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px; border: 3px solid #1B5E52;">安全評估方式</td><td style="padding: 12px; border: 3px solid #1B5E52;">依實際使用情境進行評估，包含使用量、頻率與長期暴露風險。</td><td style="padding: 12px; border: 3px solid #1B5E52;">多半停留在成分列表或使用感受描述，缺乏整體風險計算。</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #1B5E52;">風險是否可追溯</td><td style="padding: 12px; border: 3px solid #1B5E52;">有完整文件可回溯原料來源、配方邏輯與安全判斷依據。</td><td style="padding: 12px; border: 3px solid #1B5E52;">缺乏系統化紀錄，問題發生後難以釐清真正原因。</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px; border: 3px solid #1B5E52;">長期使用的安全把關</td><td style="padding: 12px; border: 3px solid #1B5E52;">針對天天使用、長期接觸的情境進行風險考量。</td><td style="padding: 12px; border: 3px solid #1B5E52;">通常只考慮短期或單次使用，長期影響容易被忽略。</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 12px; border: 3px solid #1B5E52;">產品出問題時的處理能力</td><td style="padding: 12px; border: 3px solid #1B5E52;">可依資料快速判斷問題來源，啟動修正或下架處理。</td><td style="padding: 12px; border: 3px solid #1B5E52;">多半只能事後補救，處理速度慢，說法容易反覆。</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 12px; border: 3px solid #1B5E52;">消費者能得到的保障</td><td style="padding: 12px; border: 3px solid #1B5E52;">即使你看不到內容，也代表產品已被要求留下安全證據。</td><td style="padding: 12px; border: 3px solid #1B5E52;">安全多半仰賴信任與運氣，缺乏制度性的保護。</td></tr></tbody></table>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

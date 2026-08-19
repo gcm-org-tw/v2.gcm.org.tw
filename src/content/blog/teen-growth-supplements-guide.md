@@ -72,27 +72,39 @@ sourceVerbatim: true
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #2A9D8F;"><tbody><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="border: 3px solid #2A9D8F; padding: 10px;">項目</th><th style="border: 3px solid #2A9D8F; padding: 10px;">常見錯誤觀念與做法</th><th style="border: 3px solid #2A9D8F; padding: 10px;">醫師建議的正確做法</th></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #2A9D8F; padding: 10px;">轉骨方的服用方式</td><td style="border: 3px solid #2A9D8F; padding: 10px;">認為越多越有效，盲目增加劑量</td><td style="border: 3px solid #2A9D8F; padding: 10px;">嚴格遵守醫師建議劑量，適量適時，避免過量服用</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #2A9D8F; padding: 10px;">產品來源與選擇</td><td style="border: 3px solid #2A9D8F; padding: 10px;">未經確認購買網路或來路不明產品</td><td style="border: 3px solid #2A9D8F; padding: 10px;">選擇有清楚成分標示、有醫療專業推薦的品牌</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #2A9D8F; padding: 10px;">對副作用的認知</td><td style="border: 3px solid #2A9D8F; padding: 10px;">認為轉骨方沒有副作用，不注意身體變化</td><td style="border: 3px solid #2A9D8F; padding: 10px;">了解可能的副作用，隨時觀察，發現異常立即諮詢醫師</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #2A9D8F; padding: 10px;">飲食營養的搭配</td><td style="border: 3px solid #2A9D8F; padding: 10px;">單純依賴轉骨產品，忽略日常營養攝取</td><td style="border: 3px solid #2A9D8F; padding: 10px;">飲食中多攝取含鈣質、膠原蛋白與維生素D的天然食物</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #2A9D8F; padding: 10px;">中醫穴位按摩</td><td style="border: 3px solid #2A9D8F; padding: 10px;">忽視中醫調理或認為沒有必要</td><td style="border: 3px solid #2A9D8F; padding: 10px;">規律按摩足三里、腎俞、湧泉等穴位，促進氣血循環</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #2A9D8F; padding: 10px;">運動與活動建議</td><td style="border: 3px solid #2A9D8F; padding: 10px;">誤以為只需藥物即可促進生長</td><td style="border: 3px solid #2A9D8F; padding: 10px;">鼓勵適度的伸展與彈跳運動（如跳繩、籃球等），刺激骨骼生長</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #2A9D8F; padding: 10px;">定期回診追蹤</td><td style="border: 3px solid #2A9D8F; padding: 10px;">不定期或不回診，無法掌握孩子成長進度</td><td style="border: 3px solid #2A9D8F; padding: 10px;">定期回診並接受醫師專業追蹤與建議，及時調整計畫</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86%EF%BC%9A"></span>
+
 ## **常見問題與回覆：**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E8%BD%89%E9%AA%A8%E6%96%B9%E6%98%AF%E4%B8%8D%E6%98%AF%E5%90%83%E8%B6%8A%E5%A4%9A%E6%95%88%E6%9E%9C%E8%B6%8A%E5%A5%BD%EF%BC%9F"></span>
 
 ### **問題1****：轉骨方是不是吃越多效果越好？**
 
 **回覆：**  
 其實轉骨方並非吃越多效果就越好，過量服用反而可能導致腹瀉、上火或食慾下降等副作用。建議你一定要遵照醫師或產品標示的建議劑量服用，才能真正達到促進成長的理想效果，並避免不必要的副作用。
 
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E4%BD%BF%E7%94%A8%E8%BD%89%E9%AA%A8%E6%96%B9%E5%A4%9A%E4%B9%85%E6%89%8D%E8%83%BD%E7%9C%8B%E5%88%B0%E6%95%88%E6%9E%9C%EF%BC%9F"></span>
+
 ### **問題2****：使用轉骨方多久才能看到效果？**
 
 **回覆：**  
 通常青春期轉骨調理至少需要連續服用2到3個月才會明顯感受到效果，尤其搭配營養均衡的飲食與規律運動，更能明顯促進骨骼發育和身體強健。由於每個孩子的體質與狀態不同，建議你定期追蹤與醫師溝通調整，效果會更好。
+
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E9%9D%92%E6%98%A5%E6%9C%9F%E8%AA%BF%E7%90%86%EF%BC%8C%E6%97%A5%E5%B8%B8%E9%A3%B2%E9%A3%9F%E8%A9%B2%E6%B3%A8%E6%84%8F%E4%BB%80%E9%BA%BC%EF%BC%9F"></span>
 
 ### **問題3****：青春期調理，日常飲食該注意什麼？**
 
 **回覆：**  
 在青春期調理期間，飲食應注重補充鈣質、膠原蛋白和維生素D。例如牛奶、芝麻、豆類、深海魚或雞蛋等食物，都有助於促進骨骼發育。此外，也建議避免過多加工食品及含糖飲料，因為這些食物容易影響營養吸收。
 
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E4%B8%AD%E9%86%AB%E7%9A%84%E7%A9%B4%E4%BD%8D%E6%8C%89%E6%91%A9%E7%9C%9F%E7%9A%84%E8%83%BD%E5%B9%AB%E5%8A%A9%E8%BD%89%E9%AA%A8%E5%97%8E%EF%BC%9F"></span>
+
 ### **問題4****：中醫的穴位按摩真的能幫助轉骨嗎？**
 
 **回覆：**  
 根據中醫理論與臨床經驗，適當的穴位按摩確實能有效促進氣血循環，幫助骨骼生長與強化免疫功能。建議你每天睡前花幾分鐘按摩足三里穴、腎俞穴和湧泉穴，不僅安全簡單，也能有效提升轉骨的整體效果，對孩子的身心健康都有幫助。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E5%A6%82%E6%9E%9C%E4%BD%BF%E7%94%A8%E8%BD%89%E9%AA%A8%E7%94%A2%E5%93%81%E5%87%BA%E7%8F%BE%E5%89%AF%E4%BD%9C%E7%94%A8%EF%BC%8C%E6%87%89%E8%A9%B2%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F"></span>
 
 ### **問題5****：如果使用轉骨產品出現副作用，應該怎麼辦？**
 

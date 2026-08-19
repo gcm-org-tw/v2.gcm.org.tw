@@ -12,6 +12,8 @@ legacyPath: "/blog/cashew-health-switch/"
 sourceVerbatim: true
 ---
 
+<span id="%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%B2%92%E6%83%B3%E9%81%8E%EF%BC%8C%E7%9C%9F%E6%AD%A3%E6%94%B9%E8%AE%8A%E8%BA%AB%E9%AB%94%E7%9A%84%EF%BC%8C%E6%98%AF%E4%B8%80%E6%8A%8A%E7%84%A1%E5%91%B3%E7%9A%84%E8%85%B0%E6%9E%9C"></span>
+
 ## **你可能沒想過，真正改變身體的，是一把無味的腰果**
 
 你有多久沒打開體檢報告是笑著的了？  
@@ -31,6 +33,8 @@ sourceVerbatim: true
 參考文獻：  
 註1：Mohammadi-Sartang M, et al. (2023). *Effects of cashew nut consumption on lipid profile: A systematic review and meta-analysis of randomized controlled trials*. Nutrients.
 
+<span id="%E4%BB%96%E6%AF%8F%E5%A4%A9%E4%B8%8B%E5%8D%88%E5%8F%AA%E6%8F%9B%E4%BA%86%E4%B8%80%E6%A8%A3%E6%9D%B1%E8%A5%BF%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E9%AB%94%E6%AA%A2%E8%AE%8A%E5%A5%BD%E4%BA%86%EF%BC%9F"></span>
+
 ## **他每天下午只換了一樣東西，為什麼體檢變好了？**
 
 你有沒有想過，只換掉下午茶，就能讓體檢數字逆轉？
@@ -40,6 +44,8 @@ sourceVerbatim: true
 腰果含有豐富單元不飽和脂肪酸、鎂與銅，有助心血管健康與穩定情緒，還能提升飽足感，避免下午血糖飆高（註1）。但別忘了，過量可能導致熱量過剩，部分對堅果過敏者也需特別留意。想像免疫系統像廚房裡的消防器，適量補油沒有壞處，但加太多就可能漏油。
 
 **從身體長期保養與自我修復的角度來看**，把甜食換成「無添加、低溫烘焙、手工挑選」的原味腰果，就像是在身體機器裡裝上更穩定的燃料。
+
+<span id="%E8%85%B0%E6%9E%9C%E7%9C%9F%E7%9A%84%E5%81%A5%E5%BA%B7%E5%97%8E%EF%BC%9F%E5%90%83%E5%B0%8D%E4%BA%86%E6%89%8D%E8%83%BD%E8%A3%9C%E5%BF%83%E3%80%81%E8%A3%9C%E8%85%A6%E3%80%81%E4%B8%8D%E5%82%B7%E8%BA%AB"></span>
 
 ## **腰果真的健康嗎？吃對了才能補心、補腦、不傷身**
 
@@ -53,6 +59,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Cashew-Health-Switch4.jpg)
 
+<span id="%E4%BD%A0%E5%90%83%E7%9A%84%E8%85%B0%E6%9E%9C%EF%BC%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E3%80%8C%E9%81%8E%E5%BA%A6%E8%99%95%E7%90%86%E3%80%8D%E7%9A%84%E9%99%B7%E9%98%B1%EF%BC%9F"></span>
+
 ## **你吃的腰果，是不是「過度處理」的陷阱？**
 
 你是否曾買過那種「香得像餅乾」的腰果，一吃就停不下來？  
@@ -62,12 +70,16 @@ sourceVerbatim: true
 
 別讓「嘴巴的誘惑」成為你健康路上的絆腳石。改選原味、無添加，是你給自己最基本的尊重。
 
+<span id="%E5%AD%B8%E6%9C%83%E9%80%993%E6%8B%9B%E9%81%B8%E8%85%B0%E6%9E%9C%EF%BC%8C%E7%82%BA%E8%87%AA%E5%B7%B1%E6%8C%91%E4%B8%80%E4%BB%BD%E5%89%9B%E5%89%9B%E5%A5%BD%E7%9A%84%E5%AE%88%E8%AD%B7"></span>
+
 ## **學會這3****招選腰果，為自己挑一份剛剛好的守護**
 
 你想過嗎？挑腰果其實就像挑伴侶，外表好看不夠，內在純粹才是長久關鍵。  
 第一招：看色澤。好腰果應呈現自然乳白，不偏黃、不焦黑，沒有油光，就是沒被高溫炸過的證據。第二招：聞香氣。真正低溫烘焙的腰果香氣溫潤、柔和，不刺鼻、不甜膩，那是堅果本身的呼吸。第三招：查來源。選擇有標示處理方式的品牌，如「手工挑選、低溫輕焙、無添加調味」，才能確保吃進去的是營養，不是添加劑。
 
 **腰果的功效與禁忌**之所以讓人又愛又怕，多數問題出在「買錯」，不是「吃錯」。選得對，就是你日常飲食中默默守護健康的一把小盾牌。也許不張揚，卻恆久安穩，像你每天為自己泡的那杯熱水，無聲卻有效。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E6%97%A5%E5%B8%B8%E5%BE%AE%E8%AA%BF%EF%BC%8C%E5%B0%B1%E6%98%AF%E6%B7%B1%E5%B1%A4%E4%BF%AE%E5%BE%A9%E7%9A%84%E8%B5%B7%E9%BB%9E"></span>
 
 ## **結論：日常微調，就是深層修復的起點**
 
@@ -97,6 +109,8 @@ sourceVerbatim: true
 註2：Almeida P. M. et al. (2022). *Impact of roasting and storage on bioactive compounds of cashew nuts*. Journal of Food Processing and Preservation.
 
 <table style="border-collapse: collapse; width: 100%; border: 3px solid #264f42; font-family: sans-serif; text-align: left;"><thead><tr style="background-color: #2a9d8f; color: white; font-weight: bold;"><th style="padding: 10px; border: 3px solid #264f42;">比較項目</th><th style="padding: 10px; border: 3px solid #264f42;">一般市售調味腰果</th><th style="padding: 10px; border: 3px solid #264f42;">低溫輕焙原味腰果</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #264f42;">加工方式</td><td style="padding: 10px; border: 3px solid #264f42;">高溫油炸</td><td style="padding: 10px; border: 3px solid #264f42;">低溫烘焙</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #264f42;">添加物</td><td style="padding: 10px; border: 3px solid #264f42;">常含香精、糖、鹽、防腐劑</td><td style="padding: 10px; border: 3px solid #264f42;">無添加，僅原料</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #264f42;">營養完整度</td><td style="padding: 10px; border: 3px solid #264f42;">營養成分部分破壞</td><td style="padding: 10px; border: 3px solid #264f42;">保留天然營養</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #264f42;">對體檢指數影響</td><td style="padding: 10px; border: 3px solid #264f42;">易升高血脂、熱量超標</td><td style="padding: 10px; border: 3px solid #264f42;">有助穩定血脂與情緒</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #264f42;">適合每日食用量</td><td style="padding: 10px; border: 3px solid #264f42;">易超過建議攝取量</td><td style="padding: 10px; border: 3px solid #264f42;">每日約20g</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="padding: 10px; border: 3px solid #264f42;">口感與香氣</td><td style="padding: 10px; border: 3px solid #264f42;">香味強烈但易膩</td><td style="padding: 10px; border: 3px solid #264f42;">自然香氣，口感酥脆</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="padding: 10px; border: 3px solid #264f42;">潛在健康風險</td><td style="padding: 10px; border: 3px solid #264f42;">添加物過多、致敏風險高</td><td style="padding: 10px; border: 3px solid #264f42;">過量仍可能致熱量過高</td></tr></tbody></table>
+
+<span id="%E2%9C%85_%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **✅** **常見問題與回覆**
 

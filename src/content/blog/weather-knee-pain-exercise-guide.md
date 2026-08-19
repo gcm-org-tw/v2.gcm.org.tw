@@ -15,6 +15,8 @@ sourceVerbatim: true
 
 ⚡ 開始充能：退化性膝關節炎 基礎觀念載入中…|⚡⚡ 持續吸收：膝蓋痛 核心概念理解中…|⚡⚡⚡ 深度裝載：變天膝痛 實務技巧內化中…|⚡⚡⚡⚡ 能量強化：專業判斷力提升中…|🔋 充能完成！你已掌握「退化性膝關節炎」的關鍵知識
 
+<span id="%E6%9C%AC%E6%96%87%E9%87%8D%E9%BB%9E"></span>
+
 ## 本文重點
 
 -   「變天膝痛」有科學上的討論，但研究結果分歧，影響程度因人而異
@@ -39,6 +41,10 @@ sourceVerbatim: true
 
 * * *
 
+<span id="section-0"></span>
+
+<span id="%E4%B8%80%E3%80%81%E8%AE%8A%E5%A4%A9%E6%9C%83%E8%AE%93%E8%86%9D%E8%93%8B%E6%9B%B4%E7%97%9B%EF%BC%9F%E7%A7%91%E5%AD%B8%E7%B5%A6%E7%9A%84%E7%AD%94%E6%A1%88%E4%B8%8D%E5%8F%AA%E4%B8%80%E7%A8%AE"></span>
+
 ## 一、變天會讓膝蓋更痛？科學給的答案不只一種
 
 ![年長者坐在窗邊輕撫膝蓋，望著窗外雨天，自然光線溫柔的居家場景](https://images.unsplash.com/photo-1635849692447-28e2ffbdc15d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4ODgwMzN8MHwxfHNlYXJjaHwxfHxlbGRlcmx5JTIwcGVyc29uJTIwZ2VudGx5JTIwaG9sZGluZyUyMHRoZWlyJTIwa25lZSUyMHdoaWxlJTIwbG9va2luZyUyMG91dCUyMGElMjB3aW5kb3clMjBvbiUyMGElMjByYWlueSUyMGRheSUyQyUyMHNvZnQlMjBuYXR1cmFsJTIwbGlnaHRpbmclMkMlMjBjb3p5JTIwaG9tZSUyMGludGVyaW9yfGVufDB8MHx8fDE3ODAyOTc0NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080)
@@ -54,6 +60,10 @@ sourceVerbatim: true
 把膝蓋想像成鍋裡一道已經調好味的湯。湯本身的底子，也就是關節的健康程度，決定了它能撐多久；環境的溫濕度變化只是火候調整，而不是決定性的因素。
 
 * * *
+
+<span id="section-1"></span>
+
+<span id="%E4%BA%8C%E3%80%81%E9%80%80%E5%8C%96%E6%80%A7%E9%97%9C%E7%AF%80%E7%82%8E%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F%E4%BD%A0%E9%9C%80%E8%A6%81%E5%85%88%E6%90%9E%E6%B8%85%E6%A5%9A"></span>
 
 ## 二、退化性關節炎是什麼？你需要先搞清楚
 
@@ -77,11 +87,17 @@ sourceVerbatim: true
 > 
 > * * *
 
+<span id="section-2"></span>
+
+<span id="%E4%B8%89%E3%80%815_%E5%A4%A7%E9%81%8B%E5%8B%95%EF%BC%8C%E9%80%99%E6%A8%A3%E5%8B%95%E8%86%9D%E8%93%8B%E6%89%8D%E6%9C%83%E7%A9%A9"></span>
+
 ## 三、5 大運動，這樣動膝蓋才會穩
 
 可以，而且運動是目前證據最充分的非藥物治療選項之一。關鍵是選對動作方式，讓肌肉幫關節多分擔一些，2024 年 Cochrane 系統回顧指出，規律運動在短期內能改善退化性膝關節炎患者的疼痛、身體功能與生活品質（註3）。
 
 以下 5 種運動，是目前文獻支持度較高、適合膝關節退化者的選擇：
+
+<span id="1_%E7%9B%B4%E8%85%BF%E6%8A%AC%E8%88%89%EF%BC%88Straight_Leg_Raise%EF%BC%89"></span>
 
 ### 1\. 直腿抬舉（Straight Leg Raise）
 
@@ -89,11 +105,15 @@ sourceVerbatim: true
 
 建議：每組 10-15 下，左右各 2-3 組，每週 3-5 天。
 
+<span id="2_%E9%9D%A0%E7%89%86%E6%B7%B1%E8%B9%B2%EF%BC%88Wall_Slide_Mini_Squat%EF%BC%89"></span>
+
 ### 2\. 靠牆深蹲（Wall Slide / Mini Squat）
 
 背靠牆站立，慢慢下滑至膝蓋約 30-45 度角，維持 5-10 秒再回正。在有支撐的情況下訓練大腿肌群，比一般深蹲對膝蓋的壓力小得多。
 
 建議：每組 8-12 下，2-3 組，每週 3 天。
+
+<span id="3_%E5%9B%BA%E5%AE%9A%E8%85%B3%E8%B8%8F%E8%BB%8A%EF%BC%88Stationary_Cycling%EF%BC%89"></span>
 
 ### 3\. 固定腳踏車（Stationary Cycling）
 
@@ -101,11 +121,15 @@ sourceVerbatim: true
 
 建議：每次 20-30 分鐘，每週 3-5 次，從輕阻力開始。
 
+<span id="4_%E6%B0%B4%E4%B8%AD%E9%81%8B%E5%8B%95%EF%BC%88Aquatic_Exercise%EF%BC%89"></span>
+
 ### 4\. 水中運動（Aquatic Exercise）
 
 游泳或在水中行走，浮力替你分攤體重，大幅降低膝蓋承重壓力，同時有全身性的活動效果。研究顯示，水中運動和陸地運動在改善膝痛和功能方面效果相近（註4）。
 
 建議：每次 30-45 分鐘，每週 2-3 次。
+
+<span id="5_%E7%91%9C%E7%8F%88%E6%88%96%E5%A4%AA%E6%A5%B5%EF%BC%88Yoga_Tai_Chi%EF%BC%89"></span>
 
 ### 5\. 瑜珈或太極（Yoga / Tai Chi）
 
@@ -127,6 +151,10 @@ sourceVerbatim: true
 4.  **疼痛超過 3 分就暫停**（以 10 分制計）：輕微的「運動感」是正常的，尖銳疼痛是停止的信號
 
 * * *
+
+<span id="section-3"></span>
+
+<span id="%E5%9B%9B%E3%80%81%E5%90%83%E5%B0%8D%E4%BA%86%EF%BC%8C%E9%97%9C%E7%AF%80%E8%87%AA%E5%B7%B1%E6%9C%83%E8%AA%BF"></span>
 
 ## 四、吃對了，關節自己會調
 
@@ -179,6 +207,10 @@ sourceVerbatim: true
 -   體重控制是護膝最直接有效的行動：少 1 公斤，膝蓋每步少承受 4 公斤
 
 * * *
+
+<span id="section-4"></span>
+
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB"></span>
 
 ## 參考文獻
 

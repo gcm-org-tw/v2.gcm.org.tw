@@ -22,6 +22,8 @@ sourceVerbatim: true
 （註1）  
 • Mendell, M. J. et al. (2020). *Indoor residential chemical emissions and respiratory effects in children*. **Building and Environment**, 181, 107–118.（Open access review）
 
+<span id="%E6%9C%A8%E4%BD%9C%E6%AB%83%E7%94%B2%E9%86%9B%E6%9C%83%E8%B6%85%E6%A8%99%E5%97%8E%EF%BC%9F%E5%AD%A9%E5%AD%90%E7%82%BA%E4%BB%80%E9%BA%BC%E7%89%B9%E5%88%A5%E5%AE%B9%E6%98%93%E5%8F%97%E5%BD%B1%E9%9F%BF"></span>
+
 ## **木作櫃甲醛會超標嗎？孩子為什麼特別容易受影響**
 
 你有沒有注意過，孩子一回到家，揉眼睛、清喉嚨、鼻子不太舒服的頻率，反而比在外面高？其實呢，很多時候不是體質突然變差，而是空間裡多了一種「看不見的刺激」。木作櫃在施工時，會用到膠合劑與樹脂，這些材料在完成後，仍會持續釋放甲醛。對大人來說，可能只是覺得空氣悶悶的；但對孩子來說，狀況就不一樣了。孩子的呼吸頻率快、肺部還在發育，就像一台轉速很高、但濾網還沒裝好的空氣機，吸進去的刺激，自然比較多。
@@ -34,6 +36,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/圖片2（段落一｜木作櫃與孩子的距離）_0-e1767592372753.png)
 
+<span id="%E6%96%B0%E8%A3%9D%E6%BD%A2%E6%9C%A8%E4%BD%9C%E6%AB%83%E7%94%B2%E9%86%9B%E8%A6%81%E5%A4%9A%E4%B9%85%E6%89%8D%E6%95%A3%EF%BC%9F%E4%B8%8D%E6%98%AF%E9%80%9A%E9%A2%A8%E5%B9%BE%E5%A4%A9%E5%B0%B1%E5%A5%BD"></span>
+
 ## 新裝潢木作櫃甲醛要多久才散？不是通風幾天就好
 
 你可能會想：「味道散了，應該就安全了吧？」其實不一定。甲醛不像油漆味那樣一次揮發完，它更像剛買回家的新毛巾，洗過、晾乾，還是會慢慢釋出化學殘留。木作櫃在完成後，甲醛的釋放曲線通常是**前期高、後期長尾**：前幾週最明顯，接下來可能拖上好幾個月，甚至更久。通風能降低瞬間濃度，但很難改變「材料還在放氣」這件事。
@@ -43,6 +47,8 @@ sourceVerbatim: true
 **參考文獻**  
 （註2）  
 • *Journal of Hazardous Materials*（2024）系統性綜述與統合分析指出，室內甲醛暴露具有明顯季節性差異，且長期低劑量暴露仍構成健康風險。
+
+<span id="%E6%9C%A8%E4%BD%9C%E6%AB%83%E8%B7%9F%E7%B3%BB%E7%B5%B1%E6%AB%83%E5%93%AA%E5%80%8B%E7%94%B2%E9%86%9B%E6%AF%94%E8%BC%83%E9%AB%98%EF%BC%9F%E5%B7%AE%E5%88%A5%E4%B8%8D%E5%9C%A8%E5%A4%96%E8%A1%A8"></span>
 
 ## 木作櫃跟系統櫃哪個甲醛比較高？差別不在外表
 
@@ -54,6 +60,8 @@ sourceVerbatim: true
 （註3）  
 • *Environmental Research*（2022）研究指出，住宅中甲醛主要來源與家具及木質櫃體相關，且與兒童呼吸道症狀發生率呈正相關。![](/wp-content/uploads/Indoor-Formaldehyde-and-Child-Respiration3-1.jpg)
 
+<span id="%E8%A3%9D%E6%BD%A2%E5%BE%8C%E7%94%B2%E9%86%9B%E5%A4%AA%E9%AB%98%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F%E5%B0%8D%E5%AD%A9%E5%AD%90%E4%BE%86%E8%AA%AA%E8%A6%81%E5%85%88%E8%99%95%E7%90%86%E5%93%AA%E4%B8%80%E6%AD%A5"></span>
+
 ## 裝潢後甲醛太高怎麼辦？對孩子來說要先處理哪一步
 
 這時候很多家長會急著問：「那是不是買幾台空氣清淨機就好了？」老實說，這只能算是**止痛藥**。真正該先處理的，是「孩子每天最靠近的來源」。像書桌旁的高櫃、床邊的收納櫃，如果本身還在持續釋放甲醛，再多的循環設備，也只是把刺激在空間裡轉來轉去。對孩子來說，降低暴露的第一步，往往不是設備，而是**調整使用距離與停留時間**，甚至暫時關閉或更換特定櫃體。
@@ -63,6 +71,8 @@ sourceVerbatim: true
 **參考文獻**  
 （註4）  
 • *Journal of Hazardous Materials*（2024）系統性綜述與統合分析指出，即便低於現行建議值的室內甲醛濃度，對兒童仍存在可量化的健康風險。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E7%82%BA%E5%AD%A9%E5%AD%90%E7%95%99%E4%B8%80%E5%8F%A3%E8%83%BD%E5%AE%89%E5%BF%83%E5%91%BC%E5%90%B8%E7%9A%84%E7%A9%BA%E6%B0%A3"></span>
 
 ## **結論：為孩子留一口能安心呼吸的空氣**
 
@@ -83,27 +93,39 @@ sourceVerbatim: true
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #1B4D3E; font-family: Arial, Helvetica, sans-serif;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="border: 3px solid #1B4D3E; padding: 12px; text-align: left;">比較項目</th><th style="border: 3px solid #1B4D3E; padding: 12px; text-align: left;">木作櫃</th><th style="border: 3px solid #1B4D3E; padding: 12px; text-align: left;">系統櫃</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1B4D3E; padding: 10px;">製作方式</td><td style="border: 3px solid #1B4D3E; padding: 10px;">現場裁切、組裝、上膠、封邊，多工序同時進行</td><td style="border: 3px solid #1B4D3E; padding: 10px;">工廠預製完成，現場以組裝為主</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1B4D3E; padding: 10px;">甲醛主要來源</td><td style="border: 3px solid #1B4D3E; padding: 10px;">板材、膠合劑、封邊膠、塗料，來源疊加</td><td style="border: 3px solid #1B4D3E; padding: 10px;">以板材本身為主，來源相對單一</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1B4D3E; padding: 10px;">甲醛釋放特性</td><td style="border: 3px solid #1B4D3E; padding: 10px;">初期濃度高，後期持續釋放，時間拉長</td><td style="border: 3px solid #1B4D3E; padding: 10px;">釋放曲線較穩定，變數較少</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1B4D3E; padding: 10px;">氣味消散後是否安全</td><td style="border: 3px solid #1B4D3E; padding: 10px;">不一定，無味仍可能持續釋放</td><td style="border: 3px solid #1B4D3E; padding: 10px;">相對可控，但仍需看板材等級</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1B4D3E; padding: 10px;">對孩子的影響風險</td><td style="border: 3px solid #1B4D3E; padding: 10px;">若靠近活動區或床邊，長時間暴露風險較高</td><td style="border: 3px solid #1B4D3E; padding: 10px;">風險較低，但仍需注意配置位置</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1B4D3E; padding: 10px;">施工現場變數</td><td style="border: 3px solid #1B4D3E; padding: 10px;">高，與師傅工法、用膠習慣差異大</td><td style="border: 3px solid #1B4D3E; padding: 10px;">低，製程標準化</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1B4D3E; padding: 10px;">老屋翻修適配性</td><td style="border: 3px solid #1B4D3E; padding: 10px;">通風條件差時，甲醛累積風險高</td><td style="border: 3px solid #1B4D3E; padding: 10px;">較適合通風條件有限的空間</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1B4D3E; padding: 10px;">後續調整彈性</td><td style="border: 3px solid #1B4D3E; padding: 10px;">修改困難，常需拆除重做</td><td style="border: 3px solid #1B4D3E; padding: 10px;">可替換、可局部調整</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #1B4D3E; padding: 10px;">適合情境</td><td style="border: 3px solid #1B4D3E; padding: 10px;">特殊造型、非長時間停留區域</td><td style="border: 3px solid #1B4D3E; padding: 10px;">孩子房、書房、主要生活空間</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #1B4D3E; padding: 10px;">專業建議重點</td><td style="border: 3px solid #1B4D3E; padding: 10px;">重視位置、數量與施工細節</td><td style="border: 3px solid #1B4D3E; padding: 10px;">重視板材等級與配置規劃</td></tr></tbody></table>
 
+<span id="_%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86%EF%BC%88FAQ%EF%BC%89"></span>
+
 ##  **常見問題與回覆（FAQ****）**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A%E6%9C%A8%E4%BD%9C%E6%AB%83%E4%B8%80%E5%AE%9A%E6%9C%83%E6%9C%89%E7%94%B2%E9%86%9B%E5%95%8F%E9%A1%8C%E5%97%8E%EF%BC%9F%E6%98%AF%E4%B8%8D%E6%98%AF%E4%B8%8D%E8%83%BD%E5%81%9A%EF%BC%9F"></span>
 
 ### **問題 1****：木作櫃一定會有甲醛問題嗎？是不是不能做？**
 
 **回覆：**  
 不一定，但**風險確實比較高**。木作櫃本身不是問題，問題在於「現場製作方式」。現場裁切、上膠、封邊時，會同時引入多種化學來源，甲醛容易疊加。如果用在孩子長時間停留的空間，像房間或書桌旁，就需要特別謹慎。並不是不能做，而是要控制數量、位置與施工細節。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E8%A3%9D%E6%BD%A2%E5%BE%8C%E6%B2%92%E6%9C%89%E5%91%B3%E9%81%93%E4%BA%86%EF%BC%8C%E4%BB%A3%E8%A1%A8%E7%94%B2%E9%86%9B%E5%B7%B2%E7%B6%93%E5%AE%89%E5%85%A8%E5%97%8E%EF%BC%9F"></span>
+
 ### **問題 2****：裝潢後沒有味道了，代表甲醛已經安全嗎？**
 
 **回覆：**  
 不代表。甲醛是**無色、氣味不一定明顯**的刺激物，沒有味道，只代表嗅覺適應了，不等於風險消失。實際上，甲醛的釋放會隨時間、溫度與濕度變化，尤其在天氣炎熱時容易上升。如果家中有孩子，不能只用「聞起來」來判斷安全。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E6%9C%A8%E4%BD%9C%E6%AB%83%E8%B7%9F%E7%B3%BB%E7%B5%B1%E6%AB%83%EF%BC%8C%E5%93%AA%E4%B8%80%E7%A8%AE%E6%AF%94%E8%BC%83%E9%81%A9%E5%90%88%E6%9C%89%E5%AD%A9%E5%AD%90%E7%9A%84%E5%AE%B6%E5%BA%AD%EF%BC%9F"></span>
 
 ### **問題 3****：木作櫃跟系統櫃，哪一種比較適合有孩子的家庭？**
 
 **回覆：**  
 多數情況下，**系統櫃的風險較低、變數較少**，特別適合孩子房與主要生活空間。因為系統櫃在工廠完成，製程穩定，現場化學暴露較少。木作櫃則比較適合用在造型需求高、但不是長時間停留的區域。重點不是選哪一種，而是用在對的位置。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A%E5%A6%82%E6%9E%9C%E5%B7%B2%E7%B6%93%E8%A3%9D%E6%BD%A2%E5%AE%8C%E6%88%90%EF%BC%8C%E7%99%BC%E7%8F%BE%E5%AD%A9%E5%AD%90%E5%B8%B8%E5%92%B3%E5%97%BD%E6%88%96%E9%81%8E%E6%95%8F%EF%BC%8C%E8%A9%B2%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F"></span>
+
 ### **問題 4****：如果已經裝潢完成，發現孩子常咳嗽或過敏，該怎麼辦？**
 
 **回覆：**  
 第一步不是急著買設備，而是**拉開孩子與潛在來源的距離**。先調整活動區與睡眠區，避免緊貼櫃體；再來才評估通風、使用時間與必要的改善方式。如果症狀持續，代表這個空間目前不適合長時間使用，應優先保護孩子的身體，而不是勉強適應。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9A%E8%80%81%E5%B1%8B%E7%BF%BB%E4%BF%AE%E6%99%82%EF%BC%8C%E6%80%8E%E9%BA%BC%E9%81%BF%E5%85%8D%E6%9C%A8%E4%BD%9C%E7%94%B2%E9%86%9B%E5%95%8F%E9%A1%8C%E5%86%8D%E6%AC%A1%E7%99%BC%E7%94%9F%EF%BC%9F"></span>
 
 ### **問題 5****：老屋翻修時，怎麼避免木作甲醛問題再次發生？**
 

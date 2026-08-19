@@ -22,6 +22,8 @@ sourceVerbatim: true
 1.  Laumann, E. O., Paik, A., & Rosen, R. C. (1999). Sexual dysfunction in the United States: Prevalence and predictors. *JAMA*, 281(6), 537-544. doi: 10.1001/jama.281.6.537
 2.  Brooks, N. A., Wilcox, G., Walker, K. Z., Ashton, J. F., Cox, M. B., & Stojanovska, L. (2008). Effects of maca on psychological symptoms and measures of sexual dysfunction in postmenopausal women: A randomized, double-blind, placebo-controlled pilot study. *Menopause*, 15(6), 1157-1162. doi: 10.1097/gme.0b013e3181732953
 
+<span id="%E9%A6%AC%E5%8D%A1%E5%B0%8D%E5%A5%B3%E6%80%A7%E6%80%A7%E5%8A%9F%E8%83%BD%E7%9A%84%E5%BD%B1%E9%9F%BF%EF%BC%9A%E7%A0%94%E7%A9%B6%E8%88%87%E6%95%B8%E6%93%9A%E6%94%AF%E6%8C%81"></span>
+
 ## **馬卡對女性性功能的影響：研究與數據支持**
 
 你是否知道，馬卡（Maca）這種來自安第斯山區的神奇植物，不僅能增強活力，還對女性的性健康有顯著的影響？根據近年的科學研究，馬卡含有豐富的植物營養素與活性成分，如麥角硫因和類黃酮，這些成分被證實可以平衡荷爾蒙、提升性慾，並改善與更年期相關的性功能問題(註1)。
@@ -42,6 +44,8 @@ sourceVerbatim: true
     *Maca (Lepidium meyenii) for improving sexual function in women: A systematic review.*  
     **Journal**: Journal of Herbal Pharmacotherapy, **Volume**: 18(4), **Pages**: 123-130.
 
+<span id="%E5%B9%B8%E7%A6%8F%E6%84%9F%E7%9A%84%E6%8F%90%E5%8D%87%EF%BC%9A%E9%A6%AC%E5%8D%A1%E7%9A%84%E5%BF%83%E7%90%86%E6%95%88%E7%9B%8A%E8%88%87%E8%BA%AB%E5%BF%83%E9%97%9C%E8%81%AF"></span>
+
 ## **幸福感的提升：馬卡的心理效益與身心關聯**
 
 你是否感到壓力和疲憊時，幸福感似乎總是遙不可及？研究表明，馬卡（Maca）不僅對性健康有益，還能有效提升心理健康，改善壓力與情緒波動。馬卡中富含的植物活性成分能幫助調節壓力激素皮質醇的分泌，從而穩定心情，促進放鬆。
@@ -58,6 +62,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Maca-Benefits-for-Women：Boosting-Sexual-Health-and-Happiness-1024x588.jpg)
 
+<span id="%E8%A6%AA%E5%AF%86%E9%97%9C%E4%BF%82%E5%8D%87%E6%BA%AB%E7%9A%84%E9%A3%B2%E9%A3%9F%E5%BB%BA%E8%AD%B0%EF%BC%9A%E9%A6%AC%E5%8D%A1%E8%88%87%E5%81%A5%E5%BA%B7%E6%90%AD%E9%85%8D"></span>
+
 ## **親密關係升溫的飲食建議：馬卡與健康搭配**
 
 你知道嗎？日常飲食中的小改變，搭配馬卡這樣的天然補品，可以為你的親密關係注入新的活力。馬卡因其平衡荷爾蒙和提升性慾的特性，被譽為“天然的感情催化劑”。與其他健康食材結合，馬卡的功效更能發揮得淋漓盡致。
@@ -71,6 +77,8 @@ sourceVerbatim: true
 **參考文獻：**
 
 1.  Stone, M., Ibarra, A., Roller, M., & Zangara, A. (2017). A randomized, double-blind, placebo-controlled trial of Maca root powder in healthy women: A focus on sexual health and energy. *Journal of Food & Function*, 8(9), 3335–3344. doi: 10.1039/C7FO00889H.
+
+<span id="%E4%BC%B4%E4%BE%B6%E5%85%B1%E5%90%8C%E4%BD%BF%E7%94%A8%E9%A6%AC%E5%8D%A1%E7%9A%84%E5%A4%9A%E9%87%8D%E7%9B%8A%E8%99%95"></span>
 
 ## **伴侶共同使用馬卡的多重益處**
 
@@ -86,6 +94,8 @@ sourceVerbatim: true
 
 1.  Gonzales, C., Cordova, A., & Gasco, M. (2019). Effects of Lepidium meyenii (Maca) on sexual function and mood in couples: A randomized, controlled trial. *Reproductive Biology and Endocrinology*, 17(1), 68. doi: 10.1186/s12958-019-0502-7.
 
+<span id="%E5%B9%B8%E7%A6%8F%E6%84%9F%E8%A7%B8%E6%89%8B%E5%8F%AF%E5%8F%8A%EF%BC%9A%E8%88%87%E9%A6%AC%E5%8D%A1%E4%B8%80%E8%B5%B7%E9%82%81%E5%90%91%E5%81%A5%E5%BA%B7%E4%BA%BA%E7%94%9F"></span>
+
 ## **幸福感觸手可及：與馬卡一起邁向健康人生**
 
 每位女性都值得擁有一個充滿活力與幸福感的生活，而馬卡就是這條路上的最佳伴侶。無論是改善性功能，提升親密關係，還是幫助舒緩壓力，馬卡的奇妙功效都為身心健康注入了全新的能量。就像一道溫柔的橋梁，連接了生理的健康與心理的平靜，讓每一天都充滿活力與希望。
@@ -98,27 +108,39 @@ sourceVerbatim: true
 
 <table><thead><tr><th>比較項目</th><th>馬卡 (Maca)</th><th>其他補品 (例如：人參)</th></tr></thead><tbody><tr><td>主要功效</td><td>改善性功能、提升幸福感、減少壓力</td><td>補氣益血、改善疲勞、提升免疫力</td></tr><tr><td>適用人群</td><td>適合更年期女性、性冷淡者、壓力大的個體</td><td>適合體力不足者、年長者或需要增強免疫的人群</td></tr><tr><td>推薦使用方式</td><td>加入果昔、早餐碗或製作馬卡茶，每日1.5-3克</td><td>以煎湯或藥膳形式服用，每次5-10克，依需求調整</td></tr><tr><td>注意事項</td><td>避免過量，建議諮詢醫生，尤其是與藥物交互作用時</td><td>可能引發過敏，陰虛火旺者慎用</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E9%A6%AC%E5%8D%A1%E6%98%AF%E5%90%A6%E9%81%A9%E5%90%88%E6%89%80%E6%9C%89%E5%A5%B3%E6%80%A7%E4%BD%BF%E7%94%A8%EF%BC%9F"></span>
 
 ### **問題1****：馬卡是否適合所有女性使用？**
 
 **回覆：**  
 馬卡是一種天然的植物補品，對大多數女性來說是安全的，特別是那些處於更年期、性功能低下或壓力較大的女性。然而，對於孕婦、哺乳期女性或正在服用荷爾蒙治療藥物的人，建議在開始使用前先諮詢醫生。此外，如果你有腸胃敏感或容易過敏，也應該從小劑量開始，觀察身體反應。
 
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E5%A6%82%E4%BD%95%E5%B0%87%E9%A6%AC%E5%8D%A1%E8%9E%8D%E5%85%A5%E6%97%A5%E5%B8%B8%E9%A3%B2%E9%A3%9F%E4%B8%AD%EF%BC%9F"></span>
+
 ### **問題2****：如何將馬卡融入日常飲食中？**
 
 **回覆：**  
 馬卡的使用非常靈活。你可以將馬卡粉加入果昔、早餐燕麥碗，或者製作馬卡茶來飲用。建議每日攝取1.5至3克，避免過量。如果想搭配其他健康食材，像堅果、莓果或香蕉都是不錯的選擇，這樣既能增添風味，又能進一步提升健康益處。
+
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E6%9C%8D%E7%94%A8%E9%A6%AC%E5%8D%A1%E5%BE%8C%E9%9C%80%E8%A6%81%E5%A4%9A%E4%B9%85%E6%89%8D%E8%83%BD%E7%9C%8B%E5%88%B0%E6%95%88%E6%9E%9C%EF%BC%9F"></span>
 
 ### **問題3****：服用馬卡後需要多久才能看到效果？**
 
 **回覆：**  
 馬卡的效果因人而異，通常需要幾週的持續服用才能感受到明顯的改善。例如，對於性功能提升和情緒穩定，約4至6週可能會有顯著效果。不過，身體的反應也取決於劑量和個人體質。建議持續服用至少一個月，同時觀察身體的變化。
 
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E9%A6%AC%E5%8D%A1%E8%88%87%E5%85%B6%E4%BB%96%E8%A3%9C%E5%93%81%EF%BC%88%E5%A6%82%E4%BA%BA%E5%8F%83%EF%BC%89%E6%9C%89%E4%BD%95%E4%B8%8D%E5%90%8C%EF%BC%9F"></span>
+
 ### **問題4****：馬卡與其他補品（如人參）有何不同？**
 
 **回覆：**  
 馬卡和人參都有助於提升身體活力，但它們的主要作用不同。馬卡側重於調節荷爾蒙、改善性功能和提升幸福感，而人參則更注重補氣益血、改善免疫力。選擇哪一種補品取決於你的具體需求。如果希望同時享受兩者的好處，也可以交替或搭配使用，但建議遵循適量原則。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E9%A6%AC%E5%8D%A1%E6%9C%89%E5%89%AF%E4%BD%9C%E7%94%A8%E5%97%8E%EF%BC%9F"></span>
 
 ### **問題5****：馬卡有副作用嗎？**
 

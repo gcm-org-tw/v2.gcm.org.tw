@@ -19,9 +19,13 @@ sourceVerbatim: true
 1.  NCD Risk Factor Collaboration. Worldwide trends in hypertension prevalence, treatment, and control from 1990 to 2019: a pooled analysis of population-based studies. *Lancet*. 2021;398(10304):957–980. doi:10.1016/S0140-6736(20)31814-5
 2.  Zhou B, Bentham J, Di Cesare M, et al. Worldwide trends in blood pressure from 1975 to 2015: a pooled analysis. *Lancet*. 2017;389(10064):37–55. doi:10.1016/S0140-6736(16)31919-5
 
+<span id="%E4%B8%96%E7%95%8C%E9%AB%98%E8%A1%80%E5%A3%93%E6%97%A5%E7%9A%84%E6%84%8F%E7%BE%A9%EF%BC%9A%E4%B8%80%E5%B0%81%E7%97%85%E5%8F%8B%E4%BE%86%E4%BF%A1%E7%9A%84%E5%91%BC%E5%96%9A"></span>
+
 ## **世界高血壓日的意義：一封病友來信的呼喚**
 
 你是否曾在夜深人靜時，收到病友的手寫信？李先生筆跡顫抖，訴說被診斷為高血壓的震撼。全球超過11億人受高血壓影響，卻不到20%獲得有效控制，凸顯世界高血壓日的意義——喚起你我提高血壓疾病認識與控制。想像血管如鍋中管線，壓力過大恐爆裂。透過節日宣導，簡單減鹽飲食與定期檢測，如同烹調低鹽湯底般守護健康。別小看這一步，否則熱度易散。根據全球趨勢研究，結合社區支持與個人自律，才能真正提升控制率(註1)。
+
+<span id="%E8%AA%8D%E8%AD%98%E9%AB%98%E8%A1%80%E5%A3%93%EF%BC%9A%E8%A2%AB%E5%BF%BD%E7%95%A5%E7%9A%84%E8%BA%AB%E9%AB%94%E4%BD%8E%E8%AA%9E"></span>
 
 ## **認識高血壓：被忽略的身體低語**
 
@@ -29,15 +33,21 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Dr.-Jiang-on-World-Hypertension-Day2.jpg)
 
+<span id="%E6%8E%A7%E5%88%B6%E9%AB%98%E8%A1%80%E5%A3%93%EF%BC%9A%E6%97%A5%E5%B8%B8%E4%B8%AD%E7%9A%84%E5%B0%8F%E7%BF%92%E6%85%A3%E6%BA%AB%E6%9A%96%E5%AE%88%E8%AD%B7"></span>
+
 ## **控制高血壓：日常中的小習慣溫暖守護**
 
 你知道嗎？日常中的小習慣，就像廚房裡的香料，可悄悄調控你的血壓。姜封豪醫師建議，每日減鹽飲食配合5–10分鐘快走，能讓收縮壓平均下降4.41 mmHg，舒張壓下降1.66 mmHg，近六成患者達到血壓控制(註3)。此外，結合壓力管理與充足睡眠，如同用新鮮蔬果調配清爽湯底，更能平衡身體。可惜的是，過度節制鹽分或高強度運動，可能引起電解質失衡或肌肉拉傷，需量力而行。根據國際指引，減少攝鹽、維持正常體重及規律有氧運動，是最可靠的非藥物干預(註4)。姜醫師笑說，他自己常把香菜和檸檬汁當天然「降壓佐料」，為生活添味，也為血壓加分。這些簡單習慣，正是提高血壓疾病認識與控制的第一步，讓你在每個日常片刻，都能用暖心方式守護健康。
+
+<span id="%E6%8F%90%E9%AB%98%E8%A1%80%E5%A3%93%E7%96%BE%E7%97%85%E8%AA%8D%E8%AD%98%E8%88%87%E6%8E%A7%E5%88%B6%EF%BC%9A%E5%A7%9C%E5%B0%81%E8%B1%AA%E9%86%AB%E5%B8%AB%E7%9A%84%E5%BF%83%E5%BA%95%E5%91%8A%E7%99%BD"></span>
 
 ## **提高血壓疾病認識與控制：姜封豪醫師的心底告白**
 
 你是否好奇，只靠一個節日就能持續推動健康管理？姜封豪醫師坦言：「世界高血壓日的意義，不在於一日的宣傳，而在於持續陪伴與行動。」他回憶某次社區健康市集，義診團隊擺設血壓篩檢站後，測量人次較平日翻倍，超過五成民眾願意主動測壓並記錄數據。這種自我監測模式，如同在廚房裡放置溫度計，讓你隨時掌握「湯底」的溫度。系統性綜述也顯示，社區健康教育與篩檢干預可明顯提升血壓控制率，平均降低收縮壓與舒張壓 (註5)。然而，僅有單次宣導往往難以長效，必須結合定期追蹤與個人化回訪，才能真正幫助你提高血壓疾病認識與控制。
 
 ![](/wp-content/uploads/Dr.-Jiang-on-World-Hypertension-Day3.jpg)
+
+<span id="%E7%B5%90%E8%AA%9E%EF%BC%9A%E8%88%87%E9%AB%98%E8%A1%80%E5%A3%93%E5%92%8C%E8%A7%A3%EF%BC%8C%E5%BE%9E%E6%AD%A4%E5%88%BB%E9%96%8B%E5%A7%8B"></span>
 
 ## **結語：與高血壓和解，從此刻開始**
 
@@ -57,7 +67,11 @@ sourceVerbatim: true
 
 <table style="border-collapse: collapse; border: 3px solid #006400;"><thead><tr style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><th style="border: 3px solid #006400; padding: 8px;">內容主題</th><th style="border: 3px solid #006400; padding: 8px;">主旨</th><th style="border: 3px solid #006400; padding: 8px;">主要建議</th><th style="border: 3px solid #006400; padding: 8px;">研究依據</th><th style="border: 3px solid #006400; padding: 8px;">注意事項</th></tr></thead><tbody><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #006400; padding: 8px;">世界高血壓日的意義</td><td style="border: 3px solid #006400; padding: 8px;">喚醒對血壓疾病認識與控制的警覺</td><td style="border: 3px solid #006400; padding: 8px;">結合日常自我監測與社區宣導</td><td style="border: 3px solid #006400; padding: 8px;">註1: NCD Risk Factor Collaboration (2021)</td><td style="border: 3px solid #006400; padding: 8px;">單次宣導不足，需長期跟進</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #006400; padding: 8px;">認識高血壓</td><td style="border: 3px solid #006400; padding: 8px;">多數無症狀、易被忽略</td><td style="border: 3px solid #006400; padding: 8px;">定期測量血壓，留意微弱警訊</td><td style="border: 3px solid #006400; padding: 8px;">註2: Hypertension PMC (2019)</td><td style="border: 3px solid #006400; padding: 8px;">忽略微弱症狀可能延誤診斷</td></tr><tr style="background-color: #d4e9e2; color: #333333;"><td style="border: 3px solid #006400; padding: 8px;">控制高血壓</td><td style="border: 3px solid #006400; padding: 8px;">生活習慣干預為主</td><td style="border: 3px solid #006400; padding: 8px;">減鹽飲食＋規律有氧運動</td><td style="border: 3px solid #006400; padding: 8px;">註3: Treciokiene et al. (2021),<br>註4: Maniero et al. (2023)</td><td style="border: 3px solid #006400; padding: 8px;">過度節制或高強度運動可能帶來風險</td></tr><tr style="background-color: #ffffff; color: #333333;"><td style="border: 3px solid #006400; padding: 8px;">提高血壓疾病認識與控制</td><td style="border: 3px solid #006400; padding: 8px;">持續陪伴與個人化追蹤</td><td style="border: 3px solid #006400; padding: 8px;">社區教育＋定期篩檢＋個人化回訪</td><td style="border: 3px solid #006400; padding: 8px;">註5: Mengesha et al. (2024)</td><td style="border: 3px solid #006400; padding: 8px;">僅單次篩檢難以維持長效，需系統化跟進</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C1%EF%BC%9A%E5%A6%82%E4%BD%95%E5%9C%A8%E5%AE%B6%E6%AD%A3%E7%A2%BA%E6%B8%AC%E9%87%8F%E8%A1%80%E5%A3%93%EF%BC%9F_%E5%9B%9E%E8%A6%86%EF%BC%9A"></span>
 
 ### **問題1****：如何在家正確測量血壓？**  
 **回覆：**
@@ -68,6 +82,8 @@ sourceVerbatim: true
 4.  使用合格電子血壓計，定期校正。  
     如此才能獲得穩定、可信的數值，助你隨時掌握血壓變化。
 
+<span id="%E5%95%8F%E9%A1%8C2%EF%BC%9A%E8%8B%A5%E4%B8%80%E6%AC%A1%E6%B8%AC%E9%87%8F%E8%A1%80%E5%A3%93%E5%81%8F%E9%AB%98%EF%BC%8C%E6%88%91%E8%A9%B2%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F_%E5%9B%9E%E8%A6%86%EF%BC%9A"></span>
+
 ### **問題2****：若一次測量血壓偏高，我該怎麼辦？**  
 **回覆：**
 
@@ -76,6 +92,8 @@ sourceVerbatim: true
 3.  如連續多日皆偏高，請攜帶測量記錄就醫，並告知醫師日常飲食與作息。
 4.  同時調整生活：減鹽、均衡飲食、適度運動。  
     這樣能判斷是否為偶發波動或真正需要藥物介入。
+
+<span id="%E5%95%8F%E9%A1%8C3%EF%BC%9A%E5%B9%B3%E6%99%82%E6%87%89%E5%A6%82%E4%BD%95%E8%AA%BF%E6%95%B4%E9%A3%B2%E9%A3%9F%E4%BB%A5%E5%B9%AB%E5%8A%A9%E6%8E%A7%E5%88%B6%E8%A1%80%E5%A3%93%EF%BC%9F_%E5%9B%9E%E8%A6%86%EF%BC%9A"></span>
 
 ### **問題3****：平時應如何調整飲食以幫助控制血壓？**  
 **回覆：**
@@ -86,6 +104,8 @@ sourceVerbatim: true
 4.  **中醫藥膳**：可每日一杯菊花山楂茶，依《本草綱目》記載有活血舒經功效。
 5.  **均衡五色**：如同五行，色彩豐富的蔬果最能調和體內陰陽。
 
+<span id="%E5%95%8F%E9%A1%8C4%EF%BC%9A%E6%88%91%E8%A9%B2%E9%81%B8%E6%93%87%E4%BB%80%E9%BA%BC%E6%A8%A3%E7%9A%84%E9%81%8B%E5%8B%95%E4%BE%86%E5%8D%94%E5%8A%A9%E9%99%8D%E5%A3%93%EF%BC%9F_%E5%9B%9E%E8%A6%86%EF%BC%9A"></span>
+
 ### **問題4****：我該選擇什麼樣的運動來協助降壓？**  
 **回覆：**
 
@@ -94,6 +114,8 @@ sourceVerbatim: true
 3.  **分段進行**：可一天三次，每次10分鐘，避免一次過勞。
 4.  **留意身體反應**：若胸悶、頭暈，應立即休息並測壓。  
     適度運動如同日常「健康保養」，循序漸進最有效。
+
+<span id="%E5%95%8F%E9%A1%8C5%EF%BC%9A%E6%9C%89%E5%AE%B6%E6%97%8F%E9%AB%98%E8%A1%80%E5%A3%93%E5%8F%B2%EF%BC%8C%E6%88%91%E8%A9%B2%E5%A6%82%E4%BD%95%E9%A0%90%E9%98%B2%EF%BC%9F_%E5%9B%9E%E8%A6%86%EF%BC%9A"></span>
 
 ### **問題5****：有家族高血壓史，我該如何預防？**  
 **回覆：**

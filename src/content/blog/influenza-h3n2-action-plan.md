@@ -26,6 +26,8 @@ sourceVerbatim: true
 
 <iframe loading="lazy" title="【營養食踐家】流感 H3N2 還是感冒？30 秒分清楚、吃對更快回復" width="563" height="1000" src="https://www.youtube.com/embed/xmLt08lzE_8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
+<span id="%E6%B5%81%E6%84%9FH3N2_%E5%82%B3%E6%9F%93%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%BC%B7%EF%BC%9F%E3%80%8C%E4%B8%80%E4%BA%BA%E4%B8%AD%E9%8F%A2%E5%85%A8%E5%AE%B6%E5%80%92%E3%80%8D%E7%9A%84%E5%8E%9F%E5%9B%A0"></span>
+
 ## **流感H3N2** **傳染力有多強？「一人中鏢全家倒」的原因**
 
 你知道嗎？今年的流感病毒，傳得比以往更快。A型H3N2病毒株在乾冷環境下能存活超過48小時，比一般感冒病毒更頑強。就像是廚房裡一鍋還沒關火的湯，只要空氣一流動，熱氣就能帶著味道飄散開來——這就是群聚感染的縮影。當家中有人「中鏢」，病毒經由飛沫、共餐、甚至門把、遙控器等接觸面，就能迅速蔓延。
@@ -36,6 +38,8 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Influenza-H3N2-Action-Plan2.jpg)
 
+<span id="%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8%E6%B5%81%E6%84%9FH3N2%E8%88%87%E4%B8%80%E8%88%AC%E6%84%9F%E5%86%92%EF%BC%9F3%E5%88%86%E9%90%98%E5%BF%AB%E9%80%9F%E6%AA%A2%E6%B8%AC%E6%B3%95"></span>
+
 ## **如何分辨流感H3N2****與一般感冒？3****分鐘快速檢測法**
 
 你有沒有這樣的經驗——明明只是喉嚨癢、流點鼻水，卻在隔天突然高燒到38度、全身痠痛到像被卡車輾過？這，很可能不是感冒，而是流感H3N2。感冒像春雨，來得慢、潤得久；流感則像夏雷，突如其來、又急又猛。
@@ -44,6 +48,8 @@ sourceVerbatim: true
 
 中醫理論中提到：「風熱上攻，則頭痛項強；風寒束表，則惡寒發熱。」（出自《素問‧熱論》）這正說明不同外邪導致症狀差異。感冒偏「風寒」或「風熱」之輕，而流感則兼具熱毒與濕邪之勢，攻勢快、耗氣重。辨別出這一點，才能在48小時內啟動正確的醫療與調理行動。
 
+<span id="%E5%AE%B6%E5%BA%AD%E9%98%B2%E7%96%ABSOP%EF%BC%9A%E9%9A%94%E9%9B%A2%E3%80%81%E6%B8%85%E6%BD%94%E3%80%81%E6%B6%88%E6%AF%92%E4%B8%80%E6%A2%9D%E9%BE%8D"></span>
+
 ## **家庭防疫SOP****：隔離、清潔、消毒一條龍**
 
 當家裡有人確診流感H3N2時，防疫要快、要準，就像廚房起火時你不只滅火，還得關瓦斯、打開窗。流感病毒可在門把、手機、桌面上存活兩天以上，只要防護慢一步，整個家庭就可能淪陷。建議立即啟動「三步防線」——**隔離、清潔、消毒**。
@@ -51,6 +57,8 @@ sourceVerbatim: true
 第一步【隔離】：確診者應「一人一室」，並保持窗戶開啟通風，每小時流通空氣10分鐘以上。第二步【清潔】：每日用1:100稀釋漂白水或75%酒精擦拭門把、桌面、手機等高頻接觸物。第三步【消毒＋芳香療護】：可於室內擺放艾葉、藿香、薄荷等乾草香包，依《本草綱目》記載，艾葉能「溫中逐寒、去濕避穢」，在現代研究中也證實具揮發性抗菌作用（註5）。
 
 防疫不是恐慌，而是一種生活紀律。每天多洗一次手、多通一次風，就能少一次全家倒下的風險。別小看這些小動作，它們就是你家的無形護城河。
+
+<span id="%E7%96%AB%E8%8B%97%EF%BC%8B%E6%97%A9%E6%9C%9F%E7%94%A8%E8%97%A5%EF%BC%9D%E6%9C%80%E5%BC%B7%E9%98%B2%E8%AD%B7%E5%8A%9B"></span>
 
 ## **疫苗＋早期用藥＝最強防護力**
 
@@ -61,6 +69,8 @@ sourceVerbatim: true
 預防勝於治療，關鍵在於你願不願意提早準備。每一劑疫苗、每一次早期治療，都是給自己和家人的安心保險。
 
 ![](/wp-content/uploads/Influenza-H3N2-Action-Plan6.jpg)
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E4%B8%BB%E5%8B%95%E9%98%B2%E5%AE%88%EF%BC%8C%E6%89%8D%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%B2%BB%E7%99%82"></span>
 
 ## **結論：主動防守，才是最好的治療**
 
@@ -96,6 +106,8 @@ A型H3N2來勢洶洶，傳染力高、變異快，但它並非無法抵擋。
 10.  Lewis NM, Zhu Y, Peltan ID, et al. *Vaccine Effectiveness Against Influenza A–Associated Hospitalization, Organ Failure, and Death: United States, 2022–2023.* **Clin Infect Dis.** 2024;78(4):1056–1064. doi:10.1093/cid/ciad677
 
 <table style="width: 100%; border-collapse: collapse; border: 3px solid #1F5B4A; font-family: 'Noto Sans TC',sans-serif; color: #333333;"><thead style="background-color: #2a9d8f; color: #ffffff; font-weight: bold;"><tr><th style="padding: 10px; border: 3px solid #1F5B4A;">項目</th><th style="padding: 10px; border: 3px solid #1F5B4A;">流感 H3N2</th><th style="padding: 10px; border: 3px solid #1F5B4A;">一般感冒</th></tr></thead><tbody><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #1F5B4A;">病原體與型別</td><td style="padding: 10px; border: 3px solid #1F5B4A;">甲型流感 A(H3N2)，變異快、季節流行</td><td style="padding: 10px; border: 3px solid #1F5B4A;">多為鼻病毒或腺病毒，上呼吸道輕症為主</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #1F5B4A;">發病速度</td><td style="padding: 10px; border: 3px solid #1F5B4A;"><b>突發</b>，常於24小時內惡化</td><td style="padding: 10px; border: 3px solid #1F5B4A;"><b>漸進</b>，2–3天慢慢變嚴重</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #1F5B4A;">體溫範圍</td><td style="padding: 10px; border: 3px solid #1F5B4A;">常超過 <b>38–39.5°C</b>，伴畏寒</td><td style="padding: 10px; border: 3px solid #1F5B4A;">多低於 <b>38°C</b>，低燒或無發燒</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #1F5B4A;">全身症狀</td><td style="padding: 10px; border: 3px solid #1F5B4A;">明顯肌肉痠痛、極度疲倦、頭痛</td><td style="padding: 10px; border: 3px solid #1F5B4A;">輕微不適，少有痠痛與倦怠</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #1F5B4A;">主要呼吸道表現</td><td style="padding: 10px; border: 3px solid #1F5B4A;">乾咳、喉嚨痛，可迅速轉重</td><td style="padding: 10px; border: 3px solid #1F5B4A;">打噴嚏、流鼻水、喉嚨癢為主</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #1F5B4A;">潛伏期 / 傳染期</td><td style="padding: 10px; border: 3px solid #1F5B4A;">潛伏1–4天；發病前1天至症狀後5–7天具傳染力</td><td style="padding: 10px; border: 3px solid #1F5B4A;">潛伏1–3天；症狀初期傳染力最高</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #1F5B4A;">傳染力與群聚</td><td style="padding: 10px; border: 3px solid #1F5B4A;"><b>高</b>：家庭、學校、辦公室易「一人中鏢全家倒」</td><td style="padding: 10px; border: 3px solid #1F5B4A;"><b>中</b>：多為散發個案，群聚少見</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #1F5B4A;">併發症風險</td><td style="padding: 10px; border: 3px solid #1F5B4A;"><b>高</b>：病毒性肺炎、ARDS、敗血症、心肌炎</td><td style="padding: 10px; border: 3px solid #1F5B4A;">低，多自行痊癒</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #1F5B4A;">高風險族群</td><td style="padding: 10px; border: 3px solid #1F5B4A;">65歲以上、慢性病、孕婦、免疫低下、幼兒</td><td style="padding: 10px; border: 3px solid #1F5B4A;">嬰幼兒與體弱者需留意</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #1F5B4A;">3 分鐘快判（5 招）</td><td style="padding: 10px; border: 3px solid #1F5B4A;">①高燒&gt;38°C ②全身痠痛 ③突發倦怠 ④劇烈咳嗽 ⑤48小時內惡化</td><td style="padding: 10px; border: 3px solid #1F5B4A;">①低燒/無發燒 ②喉癢 ③流鼻水 ④打噴嚏 ⑤病程漸進</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #1F5B4A;">家庭防疫 SOP</td><td style="padding: 10px; border: 3px solid #1F5B4A;">一人一室、餐具分流、通風、每日漂白水或酒精擦拭</td><td style="padding: 10px; border: 3px solid #1F5B4A;">一般清潔＋勤洗手即可</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #1F5B4A;">48 小時內處置</td><td style="padding: 10px; border: 3px solid #1F5B4A;">就醫＋抗病毒藥（如Oseltamivir），避免硬撐</td><td style="padding: 10px; border: 3px solid #1F5B4A;">休息補水，對症觀察</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #1F5B4A;">何時就醫 / 急診紅旗</td><td style="padding: 10px; border: 3px solid #1F5B4A;">呼吸急促、胸悶、高燒&gt;48小時、意識改變、血氧下降、嬰幼兒嗜睡拒食</td><td style="padding: 10px; border: 3px solid #1F5B4A;">高燒不退或喘鳴、嬰幼兒精神差</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #1F5B4A;">疫苗策略</td><td style="padding: 10px; border: 3px solid #1F5B4A;">每年接種；長者/慢病者建議高劑量或加佐劑型</td><td style="padding: 10px; border: 3px solid #1F5B4A;">無特定疫苗（感冒非流感）</td></tr><tr style="background-color: #d4e9e2;"><td style="padding: 10px; border: 3px solid #1F5B4A;">康復期調理</td><td style="padding: 10px; border: 3px solid #1F5B4A;">益氣養陰：黃耆＋紅棗或梨＋枇杷葉潤肺護氣</td><td style="padding: 10px; border: 3px solid #1F5B4A;">清淡飲食、蜂蜜檸檬水舒緩喉嚨</td></tr><tr style="background-color: #ffffff;"><td style="padding: 10px; border: 3px solid #1F5B4A;">何時可回到工作 / 上學</td><td style="padding: 10px; border: 3px solid #1F5B4A;">退燒滿24小時且症狀改善，再返校返工</td><td style="padding: 10px; border: 3px solid #1F5B4A;">症狀改善即可</td></tr></tbody></table>
+
+<span id="%F0%9F%92%AC_%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **💬** **常見問題與回覆**
 

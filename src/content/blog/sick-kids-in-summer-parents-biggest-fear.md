@@ -14,6 +14,10 @@ sourceVerbatim: true
 
 ⚖️AI 法規審查通過📚實證文獻取證🩺上醫預防醫學發展協會 醫師具名發表
 
+<span id="sec-0"></span>
+
+<span id="%E8%87%BA%E7%81%A3%E8%85%B8%E7%97%85%E6%AF%92%E6%B5%81%E8%A1%8C%E8%B6%A8%E5%8B%A2%EF%BC%9A%E5%85%A8%E5%B9%B4%E5%8F%AF%E7%99%BC%EF%BC%8C4%E8%87%B39%E6%9C%88%E7%82%BA%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%9C%9F"></span>
+
 ## 臺灣腸病毒流行趨勢：全年可發，4至9月為高風險期
 
 臺灣腸病毒全年皆可能發生，疫情通常自3月下旬起上升，5月底至6月中達主要高峰，9月開學後可能再出現一波流行；4至9月為主要好發期間，與暑假孩子室內群聚時間高度重疊（註1）。值得注意的是，部分家長認為孩子留在家中或轉至安親班可降低感染風險，然而數據顯示，孩子移動至親子館、安親班等場所的頻率愈高，感染鏈愈難有效切斷（註2）。
@@ -23,6 +27,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/7fe74f60-5f99-4673-a4c0-fb7ca86499ec/paragraph-seg-1-1784006163303-f5164c8d.jpg" alt="臺灣腸病毒流行趨勢：全年可發，4至9月為高風險期"></figure>
+
+<span id="sec-1"></span>
+
+<span id="%E6%9A%91%E5%81%87%E9%A0%BB%E7%B9%81%E7%94%9F%E7%97%85%E7%9A%84%E4%B8%BB%E5%9B%A0%EF%BC%9A%E6%8E%A5%E8%A7%B8%E7%92%B0%E5%A2%83%E6%94%B9%E8%AE%8A%EF%BC%8C%E8%80%8C%E9%9D%9E%E5%85%8D%E7%96%AB%E5%8A%9B%E7%95%B0%E5%B8%B8"></span>
 
 ## 暑假頻繁生病的主因：接觸環境改變，而非免疫力異常
 
@@ -36,6 +44,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/7fe74f60-5f99-4673-a4c0-fb7ca86499ec/paragraph-seg-2-1784006243561-bee7f93f.jpg" alt="暑假頻繁生病的主因：接觸環境改變，而非免疫力異常"></figure>
 
+<span id="sec-2"></span>
+
+<span id="%E7%85%A7%E9%A1%A7%E8%80%85%E7%84%A6%E6%85%AE%E7%9A%84%E8%87%A8%E5%BA%8A%E6%84%8F%E7%BE%A9%EF%BC%9A%E5%BD%B1%E9%9F%BF%E7%85%A7%E8%AD%B7%E6%B1%BA%E7%AD%96%E5%93%81%E8%B3%AA"></span>
+
 ## 照顧者焦慮的臨床意義：影響照護決策品質
 
 兒童感染性疾病期間，主要照顧者承受的心理壓力往往被低估，且此壓力與照護決策品質存在直接關聯（註2）。過度焦慮的照顧者，容易在就醫時機的判斷上反覆猶豫，或於孩子短暫退燒後提早鬆懈警戒。
@@ -45,6 +57,10 @@ sourceVerbatim: true
 * * *
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/7fe74f60-5f99-4673-a4c0-fb7ca86499ec/paragraph-seg-3-1784006158640-fa89deaf.jpg" alt="照顧者焦慮的臨床意義：影響照護決策品質"></figure>
+
+<span id="sec-3"></span>
+
+<span id="%E9%9B%99%E8%96%AA%E5%AE%B6%E5%BA%AD%E7%85%A7%E8%AD%B7%E5%88%86%E5%B7%A5%E6%A1%86%E6%9E%B6%EF%BC%9A5%E9%A0%85%E9%97%9C%E9%8D%B5%E8%81%B7%E8%B2%AC%E5%8A%83%E5%88%86"></span>
 
 ## 雙薪家庭照護分工框架：5項關鍵職責劃分
 
@@ -69,6 +85,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/7fe74f60-5f99-4673-a4c0-fb7ca86499ec/paragraph-seg-4-1784006366441-7aff7d70.jpg" alt="雙薪家庭照護分工框架：5項關鍵職責劃分"></figure>
 
+<span id="sec-4"></span>
+
+<span id="%E8%85%B8%E7%97%85%E6%AF%92%E9%87%8D%E7%97%87%E5%89%8D%E5%85%86%EF%BC%9A%E5%87%BA%E7%8F%BE%E4%BB%A5%E4%B8%8B%E8%AD%A6%E8%A8%8A%E6%87%89%E7%AB%8B%E5%8D%B3%E5%B0%B1%E9%86%AB"></span>
+
 ## 腸病毒重症前兆：出現以下警訊應立即就醫
 
 腸病毒多數輕症可居家照護，但下列警示症狀一旦出現，不應再行觀察等待。依臺灣衛福部疾管署重症監測標準，**五歲以下孩童感染腸病毒71型者，重症風險相對較高**（註1）：
@@ -81,6 +101,8 @@ sourceVerbatim: true
 
 **居家照護基本原則**：退燒藥用於緩解不適，無需強制將體溫降至正常值；鼓勵少量多次補充水分；避免重口味及油炸食物，協助腸胃黏膜修復。
 
+<span id="%E5%B0%B1%E9%86%AB%E6%99%82%E6%A9%9F%E5%88%A4%E6%96%B7%E5%8F%83%E8%80%83%E8%A1%A8"></span>
+
 ### 就醫時機判斷參考表
 
 <table><thead><tr><th>判斷項目</th><th>🟢 居家觀察</th><th>🟡 建議盡快就診</th><th>🔴 立即就醫（急診）</th></tr></thead><tbody><tr><td><strong>發燒狀況</strong></td><td>38.5°C以下，退燒藥有效，精神尚可</td><td>超過38.5°C持續逾48小時，退燒後又燒</td><td>超過40°C、三個月以下嬰兒發燒、發燒合併抽搐</td></tr><tr><td><strong>精神與活動力</strong></td><td>雖不適，但有反應、能飲水</td><td>明顯安靜、對刺激反應遲鈍</td><td>叫不醒、眼神渙散、四肢無力癱軟</td></tr><tr><td><strong>飲食與水分</strong></td><td>食慾稍減，仍能喝水或喝奶</td><td>超過8小時不喝水、嘴唇乾裂</td><td>完全無法進食或喝水、疑似嚴重脫水</td></tr><tr><td><strong>症狀型態</strong></td><td>輕微流鼻水、口腔小水泡不影響進食</td><td>口腔潰瘍多且疼痛、手腳出現紅疹水泡</td><td>呼吸急促或困難、皮膚發紫、持續嘔吐</td></tr></tbody></table>
@@ -91,6 +113,10 @@ sourceVerbatim: true
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/7fe74f60-5f99-4673-a4c0-fb7ca86499ec/paragraph-seg-5-1784006370927-53be412a.jpg" alt="腸病毒重症前兆：出現以下警訊應立即就醫"></figure>
 
+<span id="sec-5"></span>
+
+<span id="%E5%AE%B6%E5%BA%AD%E7%85%A7%E8%AD%B7%E5%88%86%E5%B7%A5%E7%9A%84%E9%A0%90%E9%98%B2%E9%86%AB%E5%AD%B8%E6%84%8F%E7%BE%A9"></span>
+
 ## 家庭照護分工的預防醫學意義
 
 從預防醫學的視角，家庭照護分工不僅是症狀期間的應急措施，更應在孩子健康時即建立共識。明確的照護責任分配，可降低緊急狀況下的決策疲勞，並確保觀察、聯絡、補給、感染控制等各環節均有人負責。建議家庭照顧者事先討論分工職責，並以書面備忘錄記錄，於照護期間作為參照（註1）。
@@ -98,6 +124,10 @@ sourceVerbatim: true
 —
 
 <figure class="article-section-figure"><img decoding="async" src="https://rmuuzjnlqdafwfytdxqz.supabase.co/storage/v1/object/public/illustrations/7fe74f60-5f99-4673-a4c0-fb7ca86499ec/paragraph-seg-6-1784006374273-6b4456e3.jpg" alt="家庭照護分工的預防醫學意義"></figure>
+
+<span id="sec-6"></span>
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C"></span>
 
 ## 常見問題
 
@@ -135,6 +165,8 @@ sourceVerbatim: true
 
 **免責聲明：**  
 本文僅供一般健康資訊參考，不構成醫療建議。如有健康問題，請諮詢專業醫療人員。文中引用之研究結果可能因個人體質、生活習慣等因素而有所差異。
+
+<span id="%E5%8F%83%E8%80%83%E6%96%87%E7%8D%BB"></span>
 
 ## 參考文獻
 

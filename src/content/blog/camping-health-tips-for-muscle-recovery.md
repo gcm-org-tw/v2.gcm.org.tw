@@ -16,13 +16,19 @@ sourceVerbatim: true
 
 **作者：[蔡宗恩 物理治療師](https://www.facebook.com/profile.php?id=100087708383235&mibextid=LQQJ4d)**
 
+<span id="%E5%A6%82%E4%BD%95%E5%88%A4%E5%88%A5%E9%9C%B2%E7%87%9F%E7%97%87%E5%80%99%E7%BE%A4%EF%BC%9F%E5%87%BA%E7%8F%BE%E9%80%99%E4%BA%9B%E7%97%87%E7%8B%80%E8%A6%81%E7%95%B6%E5%BF%83"></span>
+
 ## **如何判別露營症候群？出現這些症狀要當心**
 
 脊椎旁有一群強壯的肌群在幫助身體做出動作，像是往前彎及往後伸直，但如果太常反覆使用，像是需要搬重物型態的工作者，就容易造成急性肌肉拉傷或是疲勞性損傷。反之，如果是太常時間沒活動或處於同一姿勢太久也會容易造成肌肉彈性變差、影響周邊血液循環，嚴重時更會產生神經性症狀，而露營症候群則較偏向於『後者』。
 
+<span id="%E9%9C%B2%E7%87%9F%E6%A4%85%E3%80%81%E5%85%85%E6%B0%A3%E5%BA%8A%E5%A2%8A%E5%A5%BD%E6%96%B9%E4%BE%BF%E3%80%82%E8%A6%81%E5%B0%8F%E5%BF%83%E6%83%A1%E9%AD%94%E5%9C%A8%E8%A3%A1%E9%9D%A2"></span>
+
 ### **露營椅、充氣床墊好方便。要小心惡魔在裡面**
 
 露營一般所使用的配備多半是屬於輕巧方便性高，而缺點就是少了良好的支撐，而當前述的前彎動作出現，時間一長肌肉就容易不堪被拉緊的負荷而造成發炎、嚴重時椎間盤甚至被擠壓破裂而壓迫神經。
+
+<span id="%E9%9C%B2%E7%87%9F%E4%BF%9D%E5%81%A5%E6%9C%89%E4%B8%89%E6%8B%9B%EF%BC%8C%E8%AE%93%E4%BD%A0%E6%81%A2%E5%BE%A9%E5%A5%BD%E7%AD%8B%E9%AA%A8%E3%80%82"></span>
 
 ### **露營保健有三招，讓你恢復好筋骨。**
 
@@ -50,7 +56,11 @@ sourceVerbatim: true
 
 可加入呼吸來作為調節;掌心相疊時吸氣、掌心分離時吐氣。
 
+<span id="%E9%BB%9E%E6%88%91%E9%A0%90%E7%B4%84"></span>
+
 ### [點我預約](https://line.me/R/ti/p/@435zyxuq)
+
+<span id="%E6%9B%B4%E5%A4%9A%E7%B2%BE%E5%BD%A9%E5%85%A7%E5%AE%B9%E8%AB%8B%E7%9C%8B%EF%BC%9Ahttps_dream7738tsungentsaiblogspotcom202303blog-posthtml"></span>
 
 ### 更多精彩內容請看：[https://dream7738tsungentsai.blogspot.com/2023/03/blog-post.html](https://dream7738tsungentsai.blogspot.com/2023/03/blog-post.html)
 

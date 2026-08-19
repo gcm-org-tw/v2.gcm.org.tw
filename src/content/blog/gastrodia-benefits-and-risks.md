@@ -18,15 +18,21 @@ sourceVerbatim: true
 1.  Zhang, X., et al. (2022). Gastrodin improves cerebral blood flow and alleviates dizziness in patients with vertebrobasilar insufficiency: A randomized controlled trial. *Phytotherapy Research*, 36(4), 1861–1870. doi:10.1002/ptr.7415
 2.  Wang, Q., et al. (2021). Gastrodin improves sleep quality and reduces anxiety-like behavior via modulating GABAergic transmission in mice. *Phytomedicine*, 91, 153694. doi:10.1016/j.phymed.2021.153694
 
+<span id="%E5%A4%A9%E9%BA%BB%E5%8A%9F%E6%95%88%E8%88%87%E5%89%AF%E4%BD%9C%E7%94%A8%E7%B8%BD%E8%A6%BD"></span>
+
 ## **天麻功效與副作用總覽**
 
 你有注意過，身體在暈眩時，就像突然被拔掉插頭的電器，整個系統瞬間斷電嗎？天麻，在《神農本草經》中被列為上品，用來「息風止痙、補益虛損」，現代研究也發現它含有天麻素、香莢蘭醇等活性成分，有助於調節腦血流、穩定神經訊號（註1）。常見的保健用途包括緩解頭暈、頭痛、降血壓、幫助睡眠及促進血液循環。然而，別以為天然就代表完全安全，天麻過量可能導致噁心、低血壓或頭重腳輕；而孕婦、低血壓患者或正在服用抗凝血藥物的人，更應在專業評估下使用。想在日常生活中用天麻養護，就像烹飪時放鹽——點到為止，才能調出平衡的滋味（註2）。
 
 ![](/wp-content/uploads/Gastrodia-Benefits-and-Risks3.jpg)
 
+<span id="%E5%A4%A9%E9%BA%BB%E6%94%B9%E5%96%84%E9%A0%AD%E6%9A%88%E8%88%87%E8%A1%80%E5%A3%93%E7%9A%84%E7%A7%91%E5%AD%B8%E4%BE%9D%E6%93%9A"></span>
+
 ## **天麻改善頭暈與血壓的科學依據**
 
 你有沒有經歷過那種「天旋地轉」的時刻？就像坐在失速的旋轉木馬上，心跳加快、額頭冒汗。天麻因含有天麻素（gastrodin）等活性物質，被研究發現可促進腦部血液循環，調節血管張力，進而減少因腦供血不足引起的眩暈（註3）。一項隨機對照臨床試驗顯示，長期補充天麻提取物能顯著降低暈眩頻率，並改善患者的平衡功能（註4）。此外，天麻對於高血壓相關的頭暈，可能透過抑制交感神經過度活化與減少氧化壓力，協助穩定血壓。不過，若與降壓藥物同時使用，可能會出現血壓過低的情況，尤其是老年族群與心血管疾病患者，更需要醫師監測與調整劑量。就像調茶的甜度，少許能解渴，過量卻會讓味道失衡。
+
+<span id="%E5%A4%A9%E9%BA%BB%E5%9C%A8%E5%8A%A9%E7%9C%A0%E8%88%87%E7%A5%9E%E7%B6%93%E4%BF%9D%E8%AD%B7%E7%9A%84%E6%87%89%E7%94%A8"></span>
 
 ## **天麻在助眠與神經保護的應用**
 
@@ -34,9 +40,13 @@ sourceVerbatim: true
 
 ![](/wp-content/uploads/Gastrodia-Benefits-and-Risks4.jpg)
 
+<span id="%E5%A4%A9%E9%BA%BB%E7%9A%84%E5%AE%89%E5%85%A8%E9%A3%9F%E7%94%A8%E6%8C%87%E5%8D%97"></span>
+
 ## **天麻的安全食用指南**
 
 你知道嗎？即使是藥食同源的植物，劑量與搭配也會決定它是保健良方，還是潛在風險。根據現代藥理研究，成人每日建議乾品天麻用量約為3–10克，若為濃縮萃取物則需依產品含量計算（註7）。煲湯或入膳時，可與魚、雞或健脾補氣的藥材同煮，增強穩定血壓與鎮靜神經的效果。但要特別注意，低血壓患者、大量服用抗凝血劑或安眠鎮靜藥者，使用天麻可能會增加頭暈、嗜睡或出血風險（註8）。另外，孕婦與哺乳婦女的安全性證據有限，最好避免長期或高劑量攝取。就像烹調時加辣，適度能提味，過量則會喧賓奪主，讓原本的美味變了調。
+
+<span id="%E7%B5%90%E8%AB%96%EF%BC%9A%E8%AE%93%E8%BA%AB%E5%BF%83%E9%87%8D%E5%9B%9E%E5%B9%B3%E8%A1%A1%E7%9A%84%E6%97%8B%E5%BE%8B"></span>
 
 ## **結論：讓身心重回平衡的旋律**
 
@@ -64,6 +74,8 @@ sourceVerbatim: true
 <table class="gm-compare" role="table" aria-label="天麻功效與風險比較表"><thead><tr><th>項目</th><th>主要功效／對象</th><th>可能機制</th><th>建議用量與時機</th><th>搭配建議</th><th>可能副作用／交互作用</th><th>不適合族群</th><th>證據強度*</th></tr></thead><tbody><tr><td>頭暈、腦供血不足</td><td>緩解眩暈、頭重感</td><td>天麻素促進腦血流、調節血管張力</td><td>乾品 3–10 g 入膳；或依標示之萃取物；發作頻或起床易暈者可於早晚少量分次</td><td>與<strong>魚／雞湯</strong>、紅棗、枸杞同煲，溫和穩定</td><td>可能頭重、噁心；與<strong>降壓藥</strong>同用恐低血壓</td><td>低血壓者、長期服降壓藥者</td><td>中～高（臨床＋藥理）</td></tr><tr><td>血壓管理</td><td>輔助穩定血壓波動</td><td>抑制交感過度、降低氧化壓力</td><td>飲食控制＋規律運動為主，天麻作為佐助；避免與多種降壓藥併用</td><td>搭配<strong>穀類高鉀菜</strong>（如地瓜葉），減鈉飲食</td><td>低血壓、頭暈、乏力</td><td>低血壓者、老年多藥使用者</td><td>中（小型臨床／機轉）</td></tr><tr><td>助眠、舒緩焦慮</td><td>入睡慢、淺眠、緊張</td><td>調節 GABAergic 傳導、抗神經發炎</td><td>睡前 1–2 小時少量暖飲；避免與安眠藥同時高劑量</td><td>與<strong>薑棗茶</strong>、溫牛奶（不耐者除外）</td><td>嗜睡、反應遲緩；可能增強<strong>鎮靜安眠藥</strong>作用</td><td>正在服用安眠／抗癲癇藥者、需高專注工作者</td><td>中（動物＋少數人體觀察）</td></tr><tr><td>血液循環不良、手腳冰冷</td><td>促進末梢循環、減少痠脹</td><td>抗氧化、平滑肌調節</td><td>天冷或久坐前後少量入膳；配合伸展走動</td><td>與<strong>川芎</strong>（需專業評估）、生薑</td><td>潛在<strong>出血風險</strong>（與抗凝藥並用）</td><td>使用抗凝／抗血小板藥者</td><td>中（藥理）</td></tr><tr><td>神經保護（頭痛、退化性問題之輔助）</td><td>緩解緊張型頭痛、保護神經</td><td>減少氧化壓力與神經發炎、促修復</td><td>週期性入膳為主；頭痛誘因管理更關鍵</td><td>與<strong>鎂、ω‑3</strong>飲食型態</td><td>胃不適、少數人頭悶</td><td>孕婦、哺乳、消化敏感者</td><td>中（前臨床為主）</td></tr><tr><td>安全與禁忌總覽</td><td>——</td><td>——</td><td><strong>總量控制</strong>：循序少量、避免長期大劑量</td><td>以食療為主、產品遵標示</td><td>可能低血壓、嗜睡、噁心；與<strong>降壓／抗凝／鎮靜藥</strong>交互作用</td><td>孕哺、低血壓、心血管用藥多者</td><td>——</td></tr></tbody></table>
 
 \* 證據強度依本文引用與常見研究設計綜合判斷（對應前文註1–註8）。
+
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
 
 ## **常見問題與回覆**
 

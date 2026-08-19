@@ -19,6 +19,8 @@ sourceVerbatim: true
 
 在接下來的內容中，我們將探索蝦的營養價值、精力提升的科學證據，以及如何巧妙地將這份美味融入日常生活。讓我們一起發現蝦的無限可能，為健康和活力注入新動能！
 
+<span id="%E8%9D%A6%E7%9A%84%E9%97%9C%E9%8D%B5%E7%87%9F%E9%A4%8A%E7%B4%A0%E8%88%87%E8%BA%AB%E9%AB%94%E5%8A%9F%E8%83%BD%E7%9A%84%E8%81%AF%E7%B9%AB%EF%BC%9A%E6%8F%90%E5%8D%87%E7%B2%BE%E5%8A%9B%E7%9A%84%E5%9F%BA%E7%9F%B3"></span>
+
 ## **蝦的關鍵營養素與身體功能的聯繫：提升精力的基石**
 
 你是否曾經在繁忙的一天結束後感到身體疲憊，精力難以恢復？這或許是因為你的飲食中缺少關鍵的營養元素。蝦，以其高品質的營養價值，正是解決這一問題的完美選擇。作為一種低脂高蛋白的食材，蝦富含多種維生素（如B群）、礦物質（如鋅、硒）以及Omega-3脂肪酸，這些成分在提升身體代謝、維持能量供應上起到了關鍵作用。
@@ -33,6 +35,8 @@ sourceVerbatim: true
 
 1.  Suliburska, J., & Krejpcio, Z. (2014). Effects of zinc supplementation on bone turnover markers, glycemic control, and antioxidative defense in older people. *Annals of Agricultural and Environmental Medicine*, 21(2), 329–332.
 2.  Rayman, M. P. (2012). Selenium and human health. *The Lancet*, 379(9822), 1256–1268.
+
+<span id="%E7%B2%BE%E5%8A%9B%E8%88%87%E8%83%BD%E9%87%8F%E6%8F%90%E5%8D%87%E7%9A%84%E5%AF%A6%E8%AD%89%E6%94%AF%E6%8C%81%EF%BC%9A%E8%9D%A6%E7%9A%84%E4%BD%9C%E7%94%A8%E6%9C%89%E5%A4%9A%E5%A4%A7%EF%BC%9F"></span>
 
 ## **精力與能量提升的實證支持：蝦的作用有多大？**
 
@@ -49,6 +53,8 @@ sourceVerbatim: true
 1.  Shils, M. E., Shike, M., Ross, A. C., Caballero, B., & Cousins, R. J. (2012). *Modern Nutrition in Health and Disease.* 11th ed. Philadelphia: Lippincott Williams & Wilkins.
 2.  Lin, W. C., Hsu, C. Y., & Huang, C. H. (2015). The effect of dietary magnesium on physical performance and recovery: A systematic review. *Journal of the International Society of Sports Nutrition*, 12(1), 38–44.
 
+<span id="%E7%9D%AA%E5%9B%BA%E9%85%AE%E6%BF%83%E5%BA%A6%E8%88%87%E8%9D%A6%E7%9A%84%E7%87%9F%E9%A4%8A%E9%97%9C%E8%81%AF%EF%BC%9A%E8%9D%A6%E8%83%BD%E5%A6%82%E4%BD%95%E6%94%AF%E6%8C%81%E8%8D%B7%E7%88%BE%E8%92%99%E5%81%A5%E5%BA%B7%EF%BC%9F"></span>
+
 ## **睪固酮濃度與蝦的營養關聯：蝦能如何支持荷爾蒙健康？**
 
 你知道嗎？睪固酮不僅是男性健康的標誌，同時也是女性維持精力與身心平衡的重要因素。近年的科學研究指出，蝦中富含的鋅對睪固酮的生成至關重要。鋅能激活促睪固酮的酵素，從而幫助維持荷爾蒙的穩定。根據一項臨床研究，日常攝取富含鋅的食物如蝦，能顯著提高血液中的睪固酮濃度，特別對於壓力較大的成人人群效果顯著(註1)。
@@ -63,6 +69,8 @@ sourceVerbatim: true
 
 1.  Prasad, A. S. (2014). Zinc is an antioxidant and anti-inflammatory agent: Its role in human health. *Frontiers in Nutrition*, 1, 14.
 2.  Costello, L. C., & Franklin, R. B. (2016). Zinc is decreased in prostate cancer: An established relationship of prostate cancer and zinc. *Frontiers in Oncology*, 6, 74.
+
+<span id="%E5%BE%9E%E7%A7%91%E5%AD%B8%E5%88%B0%E5%AF%A6%E8%B8%90%EF%BC%9A%E5%B0%87%E8%9D%A6%E8%9E%8D%E5%85%A5%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E7%9A%84%E5%81%A5%E5%BA%B7%E7%AD%96%E7%95%A5"></span>
 
 ## **從科學到實踐：將蝦融入日常生活的健康策略**
 
@@ -81,6 +89,8 @@ sourceVerbatim: true
 1.  Mozaffarian, D., & Rimm, E. B. (2006). Fish intake, contaminants, and human health: Evaluating the risks and the benefits. *JAMA*, 296(15), 1885–1899.
 2.  Ye, E. Q., Chacko, S. A., Chou, E. L., Kugizaki, M., & Liu, S. (2012). Greater whole-grain intake is associated with lower risk of type 2 diabetes, cardiovascular disease, and weight gain. *Journal of Nutrition*, 142(7), 1304–1313.
 
+<span id="%E6%97%A5%E5%B8%B8%E9%A3%B2%E9%A3%9F%E4%B8%AD%E7%9A%84%E5%B0%8F%E5%9E%8B%E8%83%BD%E9%87%8F%E7%AB%99"></span>
+
 ## **日常飲食中的小型能量站**
 
 蝦就像一座「小型能量站」，為忙碌的現代人提供穩定的能量補給。無論是在身心疲憊時快速恢復活力，還是為日常生活注入源源不斷的動力，蝦富含的高品質蛋白質、鋅和Omega-3脂肪酸，都是健康飲食中不可或缺的一環。當我們選擇攝取這種營養豐富的食材時，不僅能支持精力的持續提升，還能幫助荷爾蒙平衡，維持身體的最佳狀態。
@@ -91,23 +101,35 @@ sourceVerbatim: true
 
 <table class="dataframe" style="height: 295px;" border="1" width="1061"><thead><tr style="text-align: right;"><th>主題</th><th>重點</th><th>中醫觀點</th><th>科學實證</th></tr></thead><tbody><tr><td>蝦的營養價值</td><td>高品質蛋白質、鋅、硒、Omega-3脂肪酸，低脂高營養。</td><td>《本草綱目》：蝦性溫，味甘，有補腎壯陽、托痘瘡、通乳等功效。</td><td>蝦提供每日15%鋅需求，增強免疫力與新陳代謝。</td></tr><tr><td>精力提升</td><td>幫助疲憊恢復，支持能量代謝，提升體力。</td><td>調和陰陽，補充陽氣，增強能量與活力。</td><td>富含礦物質支持運動後恢復，減少疲勞。</td></tr><tr><td>荷爾蒙平衡</td><td>鋅促進睪固酮生成，Omega-3抗氧化減少炎症，支持荷爾蒙穩定。</td><td>補腎壯陽，養腎填精，調和內分泌。</td><td>鋅激活酵素促睪固酮生成，Omega-3減少炎症壓力。</td></tr><tr><td>飲食搭配</td><td>搭配青花菜、檸檬等健康食材，簡單烹飪保留營養。</td><td>食材間的協同作用，平衡五行養生。</td><td>清蒸、低溫煎煮可保持營養，避免加工蝦。</td></tr><tr><td>適量攝取與注意事項</td><td>建議每週食用2-3次，避免過量攝取，適合不同人群。</td><td>適量避免燥熱，適合體質偏虛弱或能量不足者。</td><td>過量可影響高尿酸人群，需根據需求調整攝取。</td></tr></tbody></table>
 
+<span id="%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C%E8%88%87%E5%9B%9E%E8%A6%86"></span>
+
 ## **常見問題與回覆**
+
+<span id="%E5%95%8F%E9%A1%8C_1%EF%BC%9A%E8%9D%A6%E7%9C%9F%E7%9A%84%E8%83%BD%E6%8F%90%E5%8D%87%E7%B2%BE%E5%8A%9B%E5%97%8E%EF%BC%9F%E5%A6%82%E4%BD%95%E7%99%BC%E6%8F%AE%E6%95%88%E6%9E%9C%EF%BC%9F"></span>
 
 ### **問題 1****：蝦真的能提升精力嗎？如何發揮效果？**
 
 **回覆：** 是的，蝦富含高品質蛋白質、鋅和Omega-3脂肪酸，這些營養素能支持能量代謝和細胞修復。為了發揮效果，建議選擇清蒸或低溫煎煮的烹飪方式，以保留其營養價值。同時，搭配如青花菜或檸檬等富含維生素的食材，能幫助進一步提升身體的吸收率。《黃帝內經》提到：「五穀為養，五畜為益」，合理攝取蝦類這樣的優質蛋白，有助於恢復精力並增強免疫力。
 
+<span id="%E5%95%8F%E9%A1%8C_2%EF%BC%9A%E5%90%83%E8%9D%A6%E8%83%BD%E5%B0%8D%E8%8D%B7%E7%88%BE%E8%92%99%E5%B9%B3%E8%A1%A1%E6%9C%89%E4%BB%80%E9%BA%BC%E5%B9%AB%E5%8A%A9%EF%BC%9F%E5%93%AA%E4%BA%9B%E4%BA%BA%E7%89%B9%E5%88%A5%E9%81%A9%E5%90%88%EF%BC%9F"></span>
+
 ### **問題 2****：吃蝦能對荷爾蒙平衡有什麼幫助？哪些人特別適合？**
 
 **回覆：** 蝦中的鋅是一種促進睪固酮生成的關鍵營養素，特別適合壓力大、容易疲勞的成年人。同時，蝦內的Omega-3脂肪酸可以減少炎症反應，幫助荷爾蒙穩定。對於男性，蝦有助於提高荷爾蒙濃度；對女性，蝦則可緩解疲勞並增強活力。但對於有海鮮過敏或痛風病史的人群，建議在專業醫師指導下適量食用。
+
+<span id="%E5%95%8F%E9%A1%8C_3%EF%BC%9A%E8%9D%A6%E6%87%89%E8%A9%B2%E6%80%8E%E9%BA%BC%E5%90%83%E6%89%8D%E8%83%BD%E6%9C%80%E5%A4%A7%E7%A8%8B%E5%BA%A6%E4%BF%9D%E7%95%99%E7%87%9F%E9%A4%8A%EF%BC%9F"></span>
 
 ### **問題 3****：蝦應該怎麼吃才能最大程度保留營養？**
 
 **回覆：** 為保留蝦的營養，最推薦的烹飪方法是清蒸、低溫煎煮或燜煮，這些方法能最大程度地保留其蛋白質和礦物質。避免油炸或高溫烹調，因為這會破壞Omega-3脂肪酸等有益成分。可搭配如糙米和菠菜這類全穀物與深綠色蔬菜，形成均衡的飲食，讓營養吸收更全面。
 
+<span id="%E5%95%8F%E9%A1%8C_4%EF%BC%9A%E5%90%83%E8%9D%A6%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E9%BA%BC%EF%BC%9F%E6%9C%89%E6%B2%92%E6%9C%89%E5%81%A5%E5%BA%B7%E9%A2%A8%E9%9A%AA%EF%BC%9F"></span>
+
 ### **問題 4****：吃蝦需要注意什麼？有沒有健康風險？**
 
 **回覆：** 雖然蝦富含多種營養，但過量攝取可能增加高尿酸或痛風患者的負擔。建議健康成年人每週食用2-3次，每次約100克。此外，選購蝦時應注意其新鮮度，避免過度加工或含有防腐劑的蝦製品。《本草綱目》提到，蝦性溫，適合大多數人食用，但體質偏燥熱者應適量。
+
+<span id="%E5%95%8F%E9%A1%8C_5%EF%BC%9A%E9%99%A4%E4%BA%86%E5%90%83%E8%9D%A6%EF%BC%8C%E9%82%84%E6%9C%89%E5%93%AA%E4%BA%9B%E9%A3%9F%E7%89%A9%E8%83%BD%E5%B9%AB%E5%8A%A9%E6%8F%90%E5%8D%87%E7%B2%BE%E5%8A%9B%EF%BC%9F"></span>
 
 ### **問題 5****：除了吃蝦，還有哪些食物能幫助提升精力？**
 

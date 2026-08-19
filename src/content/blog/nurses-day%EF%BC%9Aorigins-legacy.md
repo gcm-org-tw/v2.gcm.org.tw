@@ -12,6 +12,8 @@ legacyPath: "/blog/nurses-day%ef%bc%9aorigins-legacy/"
 sourceVerbatim: true
 ---
 
+<span id="%E4%BD%A0%E7%9F%A5%E9%81%93%E9%80%99%E4%B8%80%E5%A4%A9%EF%BC%8C%E8%83%8C%E5%BE%8C%E6%9C%89%E5%A4%9A%E5%B0%91%E4%BA%BA%E5%9C%A8%E5%AE%88%E8%AD%B7%E5%97%8E%EF%BC%9F"></span>
+
 ## **你知道這一天，背後有多少人在守護嗎？**
 
 你知道嗎？根據**世界衛生組織**在2022年的報告指出，全球護理人力短缺超過600萬人，這個數字仍在逐年攀升（註1）。在高齡化與疫情交織的時代，誰來守護我們的健康？這不是未來式，而是進行式。
@@ -25,6 +27,8 @@ sourceVerbatim: true
 1.  World Health Organization. *State of the World’s Nursing 2022: Investing in Education, Jobs and Leadership*. Geneva: WHO; 2022.
 2.  Turkowski Y, Turkowski V. *Florence Nightingale (1820–1910): The Founder of Modern Nursing*. Cureus. 2024;16(8):e66192.
 
+<span id="%E5%9C%8B%E9%9A%9B%E8%AD%B7%E5%A3%AB%E7%AF%80%E7%94%B1%E4%BE%86%E7%9A%84%E6%84%9F%E4%BA%BA%E5%88%9D%E8%A1%B7"></span>
+
 ## **國際護士節由來的感人初衷**
 
 你知道為什麼每年的 5 月 12 日被定為「國際護士節」嗎？這一天，是為了紀念一位在戰火中提燈守護病患的女性——佛羅倫斯·南丁格爾。她就像黑夜中的一束燈光，在19世紀的克里米亞戰爭裡穿梭戰地醫院，用雙手和堅定意志，重建了當時混亂的醫療體系（註1）。這份溫柔卻堅毅的力量，成為護理精神的原點，也奠定了這個節日的核心意義。
@@ -34,6 +38,8 @@ sourceVerbatim: true
 別小看這一天的存在。國際護士節不只是對一段歷史的回顧，而是提醒我們：「照顧」不是本能，而是一種需要被看見與支持的專業。
 
 ![](/wp-content/uploads/Nurses-Day：Origins-Legacy2.jpg)
+
+<span id="%E4%B8%80%E5%B0%81%E5%AF%AB%E7%B5%A6%E5%8D%97%E4%B8%81%E6%A0%BC%E7%88%BE%E7%9A%84%E4%BF%A1%EF%BC%9A%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%88%91%E5%80%91%E9%82%84%E8%A8%98%E5%BE%97%E5%A6%B3%E5%97%8E%EF%BC%9F"></span>
 
 ## **一封寫給南丁格爾的信：今天的我們還記得妳嗎？**
 
@@ -45,6 +51,8 @@ sourceVerbatim: true
 
 但我們沒忘記妳。我們仍然記得：護理，不只是職業，而是一種生命的溫柔回應。願妳的精神，繼續在每一個白班與夜班中，被點亮，被實踐。
 
+<span id="%E7%9C%9F%E5%AF%A6%E6%95%85%E4%BA%8B%EF%BC%9A%E5%B9%B3%E5%87%A1%E4%B8%AD%E7%9A%84%E5%81%89%E5%A4%A7%EF%BC%8C%E8%AD%B7%E5%A3%AB%E5%80%91%E7%9A%84%E6%97%A5%E5%B8%B8"></span>
+
 ## **真實故事：平凡中的偉大，護士們的日常**
 
 你有沒有遇過這樣的護士——總是記得你不喜歡抽左手靜脈，總是用最溫柔的語氣解釋手術前的準備？對你來說，或許只是短暫的住院經驗；對他們而言，卻是每天都要傾注全力的生活。
@@ -55,6 +63,8 @@ sourceVerbatim: true
 
 別忘了，那些你以為理所當然的照顧，背後藏著多少堅持與愛。
 
+<span id="%E8%AE%93%E6%88%91%E5%80%91%E4%B8%80%E8%B5%B7%E8%AA%AA%E8%81%B2%E8%AC%9D%E8%AC%9D%EF%BC%9A%E5%9C%8B%E9%9A%9B%E8%AD%B7%E5%A3%AB%E7%AF%80%E7%9A%84%E7%8F%BE%E4%BB%A3%E6%84%8F%E7%BE%A9"></span>
+
 ## **讓我們一起說聲謝謝：國際護士節的現代意義**
 
 國際護士節，不該只是醫院內部的小小慶典，更該成為全社會共同感謝與反思的時刻。你上一次向護理人員說「謝謝」是什麼時候？或許是在急診室，或許是在照顧年邁父母的長照機構裡，那些總是默默完成工作的身影，值得我們用行動來回應。
@@ -64,6 +74,8 @@ sourceVerbatim: true
 你可以怎麼做？送上一張卡片、公開感謝、支持護理改革倡議，甚至只是一句「你辛苦了」，都能點亮那盞來自南丁格爾的光。
 
 ![](/wp-content/uploads/Nurses-Day：Origins-Legacy3.jpg)
+
+<span id="%E4%B8%80%E5%8F%A5%E8%AC%9D%E8%AC%9D%EF%BC%8C%E8%AE%93%E5%AE%88%E8%AD%B7%E6%9B%B4%E6%9C%89%E5%8A%9B%E9%87%8F"></span>
 
 ## **一句謝謝，讓守護更有力量**
 
