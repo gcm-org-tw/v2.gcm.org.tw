@@ -18,6 +18,14 @@ concurrency:
 env:
   SITE_URL: https://gcm.org.tw
 
+# 上線閘門：deploy／verify／indexnow 三個 job 都要 repo variable PAGES_LIVE == 'true' 才動。
+# 為什麼要閘門：DNS 還指著舊站的 WordPress，這時部署會做出兩個壞結果——
+#   1. 站上線但圖片全破（/wp-content/uploads 還沒決定落點）
+#   2. verify job 去 curl https://gcm.org.tw 抓到的是舊站，驗的不是自己
+# 切換時機由用戶決定，切法：
+#   gh variable set PAGES_LIVE --repo gcm-org-tw/v2.gcm.org.tw --body true
+# build（含三道守門）不受閘門影響，每次 push 都跑，CI 才有意義。
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -48,6 +56,7 @@ jobs:
 
   deploy:
     needs: build
+    if: vars.PAGES_LIVE == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -58,6 +67,7 @@ jobs:
 
   verify:
     needs: deploy
+    if: vars.PAGES_LIVE == 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Wait for Pages CDN propagation
@@ -89,6 +99,7 @@ jobs:
 
   indexnow:
     needs: verify
+    if: vars.PAGES_LIVE == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
