@@ -5,3 +5,4 @@
 /activities/
 /gcm_podcast/
 /locations.kml
+/feed/

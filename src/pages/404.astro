@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="找不到這個頁面" noindex>
+  <div class="container">
+    <p class="code">404</p>
+    <h1>找不到這個頁面</h1>
+    <p class="lead">
+      網址可能輸入錯誤，或這個頁面已經移動。
+    </p>
+    <ul class="links">
+      <li><a href="/">回首頁</a></li>
+      <li><a href="/blog/">健康知識</a></li>
+      <li><a href="/contact/">聯絡我們</a></li>
+    </ul>
+  </div>
+</BaseLayout>
+
+<style>
+  .container {
+    padding-block: clamp(3rem, 10vw, 6rem);
+    max-width: 42rem;
+  }
+  .code {
+    margin: 0;
+    font-size: var(--text-3xl);
+    font-weight: 700;
+    color: var(--color-primary-a60);
+    line-height: 1;
+  }
+  .lead {
+    color: var(--color-ink-soft);
+  }
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem 1.5rem;
+    margin-top: 2rem;
+    padding: 0;
+    list-style: none;
+  }
+  .links a {
+    font-size: var(--text-sm);
+  }
+</style>

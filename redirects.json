@@ -1,0 +1,9 @@
+{
+  "_comment": [
+    "舊網址 → 新網址的 301 對照。astro.config.mjs 讀這一份，靜態輸出會產生 meta-refresh 轉址頁。",
+    "GitHub Pages 沒有伺服器層轉址，所以是 meta refresh + canonical，不是真 301——",
+    "對搜尋引擎有效，但會多一次往返。能直接保留原網址就不要用轉址。",
+    "check-urls.mjs 會把這裡的 key 當成『已處理』，所以每加一條都等於動了網址，需要用戶點頭。",
+    "/feed/ 不走這裡：trailingSlash always 會把目的地加成 /rss.xml/，改用 public/feed/index.html 手寫轉址。"
+  ]
+}

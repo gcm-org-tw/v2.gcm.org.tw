@@ -3,7 +3,9 @@
   "private": true,
   "type": "module",
   "packageManager": "pnpm@10.32.1",
-  "engines": { "node": ">=22.12.0" },
+  "engines": {
+    "node": ">=22.12.0"
+  },
   "scripts": {
     "dev": "astro dev",
     "build": "node scripts/check-design.mjs && node scripts/check-content.mjs && astro build",
@@ -16,8 +18,9 @@
     "wp:convert": "node scripts/wp-convert.mjs"
   },
   "dependencies": {
-    "astro": "^6",
-    "@astrojs/sitemap": "^3"
+    "@astrojs/rss": "^4.0.19",
+    "@astrojs/sitemap": "^3",
+    "astro": "^6"
   },
   "devDependencies": {
     "turndown": "^7"

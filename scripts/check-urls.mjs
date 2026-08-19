@@ -80,7 +80,8 @@ const retired = new Set((await readList(RETIRED)).map(toPath));
 const redirects = await exists(REDIRECTS)
   ? JSON.parse(await readFile(REDIRECTS, 'utf8'))
   : {};
-const redirectFrom = new Set(Object.keys(redirects).map(toPath));
+// redirects.json 裡有 _comment 這種說明欄位，不是路徑 → 只認 / 開頭的 key
+const redirectFrom = new Set(Object.keys(redirects).filter(k => k.startsWith('/')).map(toPath));
 
 const built = await collectDistPaths(DIST);
 

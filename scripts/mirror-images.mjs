@@ -17,7 +17,12 @@ import { dirname, join } from 'node:path';
 const args = process.argv.slice(2);
 const argVal = (n, d) => (args.includes(n) ? args[args.indexOf(n) + 1] : d);
 const OUT = argVal('--out', '.source/uploads');
-const CONCURRENCY = Number(argVal('--concurrency', 6));
+/* ⚠ 併發預設壓到 3、每檔間隔 150ms。
+ * 2026-08-19 教訓：為了估算總量對這 11,725 個檔開 concurrency 20 的 HEAD 掃描，
+ * 舊站（LiteSpeed 共享主機）整台失去回應約 20 分鐘——那是客戶的線上站。
+ * 這裡的節流不是效能參數，是安全參數，不要為了快而調高。 */
+const CONCURRENCY = Number(argVal('--concurrency', 3));
+const DELAY = Number(argVal('--delay', 150));
 const LIMIT = args.includes('--limit') ? Number(argVal('--limit')) : Infinity;
 const LIST = argVal('--list', '.source/image-urls.txt');
 
@@ -53,11 +58,12 @@ async function fetchOne(url) {
   }
 }
 
-// 舊站主機很脆（per_page=100 就 503）→ 併發壓低，別把客戶站打掛
+// 舊站主機很脆（per_page=100 就 503，高併發會整台失去回應）→ 併發壓低＋每檔間隔
 const queue = [...urls];
 await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
   while (queue.length) {
     await fetchOne(queue.shift());
+    if (DELAY) await new Promise(r => setTimeout(r, DELAY));
     const n = done + skipped + failed;
     if (n % 25 === 0) {
       process.stdout.write(`\r  ${n}/${urls.length}　下載 ${done}　既有 ${skipped}　失敗 ${failed}　${(bytes / 1024 / 1024).toFixed(0)}MB   `);
