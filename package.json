@@ -23,6 +23,7 @@
     "astro": "^6"
   },
   "devDependencies": {
+    "sharp": "^0.35.3",
     "turndown": "^7"
   }
 }
