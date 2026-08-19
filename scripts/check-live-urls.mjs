@@ -15,6 +15,10 @@
  * Pages 的 CDN 在併發下會偶發 503（2026-08-19 實測：同一條單獨重打即 200），
  * 所以第一輪的失敗不判死，序列重試兩輪都不過才算真的壞。
  *
+ * 429 是另一回事：網址數上萬之後 GitHub Pages 會限流，整批被打成 429，
+ * 那不是站壞了。遇到 429 就退避重試（依 Retry-After，沒有就指數退避），
+ * 併發也降到 4——驗證的目的是抓斷掉的網址，不是壓測自己的 CDN。
+ *
  * 用法：node scripts/check-live-urls.mjs [--base https://…] [--concurrency 8] [--limit N]
  *       預設 base ＝ site.config.mjs 的 SITE_URL。
  */
@@ -24,7 +28,7 @@ import { SITE_URL } from '../site.config.mjs';
 const args = process.argv.slice(2);
 const argVal = (n, d) => (args.includes(n) ? args[args.indexOf(n) + 1] : d);
 const BASE = (argVal('--base', SITE_URL)).replace(/\/$/, '');
-const CONCURRENCY = Number(argVal('--concurrency', 8));
+const CONCURRENCY = Number(argVal('--concurrency', 4));
 const LIMIT = args.includes('--limit') ? Number(argVal('--limit')) : Infinity;
 const RETRY_ROUNDS = 2;
 
@@ -69,11 +73,17 @@ async function probe(list, concurrency) {
     while (queue.length) {
       const url = queue.shift();
       let status = 0;
-      try {
-        const res = await fetch(url, { redirect: 'follow', signal: AbortSignal.timeout(30000) });
-        status = res.status;
-      } catch (err) {
-        status = err.name === 'TimeoutError' ? 408 : 0;
+      for (let attempt = 1; attempt <= 5; attempt += 1) {
+        try {
+          const res = await fetch(url, { redirect: 'follow', signal: AbortSignal.timeout(30000) });
+          status = res.status;
+          if (status !== 429) break;
+          const retryAfter = Number(res.headers.get('retry-after'));
+          await new Promise(r => setTimeout(r, (Number.isFinite(retryAfter) && retryAfter > 0 ? retryAfter * 1000 : 2000 * 2 ** (attempt - 1))));
+        } catch (err) {
+          status = err.name === 'TimeoutError' ? 408 : 0;
+          break;
+        }
       }
       if (status !== 200) failed.push({ url, status });
     }
