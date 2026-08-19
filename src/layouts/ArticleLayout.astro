@@ -24,6 +24,7 @@ const fmt = (d: Date) =>
   ogImage={heroImage}
   publishedTime={pubDate}
   modifiedTime={updatedDate}
+  breadcrumb={breadcrumb}
 >
   <article class="container">
     {breadcrumb.length > 0 && (
@@ -50,9 +51,13 @@ const fmt = (d: Date) =>
 
     {heroImage && <img class="hero" src={heroImage} alt={heroImageAlt ?? ''} loading="eager" />}
 
+    <slot name="before-content" />
+
     <div class="prose">
       <slot />
     </div>
+
+    <slot name="after-content" />
   </article>
 </BaseLayout>
 

@@ -1,0 +1,64 @@
+---
+/* 舊站用 ez-toc 外掛自動產生目錄，轉檔時整塊拆掉了（那是外掛渲染物，不是客戶原文）。
+ * 這裡用 Astro render() 回傳的 headings 重建，只收 h2/h3。 */
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+interface Props {
+  headings: Heading[];
+}
+const { headings } = Astro.props;
+const items = headings.filter(h => h.depth === 2 || h.depth === 3);
+---
+
+{items.length >= 3 && (
+  <nav class="toc" aria-labelledby="toc-title">
+    <p id="toc-title">內容目錄</p>
+    <ol>
+      {items.map(h => (
+        <li class={h.depth === 3 ? 'sub' : undefined}>
+          <a href={`#${h.slug}`}>{h.text}</a>
+        </li>
+      ))}
+    </ol>
+  </nav>
+)}
+
+<style>
+  .toc {
+    margin-block: 2rem;
+    padding: 1.25rem 1.5rem;
+    border: 1px solid var(--color-line);
+    border-radius: 0.5rem;
+    background: var(--color-bg-light);
+  }
+  #toc-title {
+    margin: 0 0 0.75rem;
+    font-size: var(--text-sm);
+    font-weight: 700;
+    color: var(--color-primary);
+  }
+  ol {
+    margin: 0;
+    padding-left: 1.5rem;
+  }
+  li {
+    font-size: var(--text-sm);
+    line-height: 1.6;
+  }
+  li.sub {
+    margin-left: 1rem;
+    list-style-type: circle;
+    color: var(--color-ink-soft);
+  }
+  a {
+    color: var(--color-text);
+    text-decoration: none;
+  }
+  a:hover {
+    color: var(--color-primary);
+    text-decoration: underline;
+  }
+</style>

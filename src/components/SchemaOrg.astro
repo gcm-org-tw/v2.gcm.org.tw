@@ -1,0 +1,68 @@
+---
+/* 結構化資料。舊站用 Rank Math 產生 schema，改版後不能掉——
+ * 掉了等於自己把已經拿到的搜尋結果樣式（麵包屑、文章日期）交出去。 */
+interface Props {
+  type: 'website' | 'article';
+  title: string;
+  description?: string;
+  url: URL;
+  image?: string;
+  pubDate?: Date;
+  updatedDate?: Date;
+  breadcrumb?: { href: string; label: string }[];
+}
+const { type, title, description, url, image, pubDate, updatedDate, breadcrumb = [] } = Astro.props;
+
+const site = Astro.site!;
+const ORG = {
+  '@type': 'Organization',
+  '@id': `${site}#organization`,
+  name: '社團法人台灣上醫預防醫學發展協會',
+  alternateName: 'GCM',
+  url: site.toString(),
+};
+
+const graph: Record<string, unknown>[] = [ORG];
+
+if (type === 'website') {
+  graph.push({
+    '@type': 'WebSite',
+    '@id': `${site}#website`,
+    url: site.toString(),
+    name: 'GCM 上醫預防醫學發展協會',
+    publisher: { '@id': `${site}#organization` },
+    inLanguage: 'zh-TW',
+  });
+}
+
+if (type === 'article' && pubDate) {
+  graph.push({
+    '@type': 'Article',
+    headline: title,
+    description,
+    image: image ? new URL(image, site).toString() : undefined,
+    datePublished: pubDate.toISOString(),
+    dateModified: (updatedDate ?? pubDate).toISOString(),
+    mainEntityOfPage: { '@type': 'WebPage', '@id': url.toString() },
+    publisher: { '@id': `${site}#organization` },
+    inLanguage: 'zh-TW',
+  });
+}
+
+if (breadcrumb.length > 0) {
+  graph.push({
+    '@type': 'BreadcrumbList',
+    itemListElement: [{ href: '/', label: '首頁' }, ...breadcrumb, { href: url.pathname, label: title }]
+      .map((item, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        name: item.label,
+        item: new URL(item.href, site).toString(),
+      })),
+  });
+}
+
+const jsonLd = JSON.stringify({ '@context': 'https://schema.org', '@graph': graph });
+---
+
+<script type="application/ld+json" set:html={jsonLd} is:inline />

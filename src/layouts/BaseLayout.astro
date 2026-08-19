@@ -1,6 +1,7 @@
 ---
 import '../styles/variables.css';
 import '../styles/global.css';
+import SchemaOrg from '../components/SchemaOrg.astro';
 import SiteHeader from '../components/SiteHeader.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 
@@ -12,6 +13,7 @@ interface Props {
   publishedTime?: Date;
   modifiedTime?: Date;
   noindex?: boolean;
+  breadcrumb?: { href: string; label: string }[];
 }
 const {
   title,
@@ -21,6 +23,7 @@ const {
   publishedTime,
   modifiedTime,
   noindex = false,
+  breadcrumb = [],
 } = Astro.props;
 
 const SITE_NAME = 'GCM 上醫預防醫學發展協會';
@@ -48,6 +51,16 @@ const ogImageUrl = ogImage ? new URL(ogImage, Astro.site) : undefined;
     {publishedTime && <meta property="article:published_time" content={publishedTime.toISOString()} />}
     {modifiedTime && <meta property="article:modified_time" content={modifiedTime.toISOString()} />}
     <meta name="twitter:card" content="summary_large_image" />
+    <SchemaOrg
+      type={ogType === 'article' ? 'article' : 'website'}
+      title={title}
+      description={description}
+      url={canonical}
+      image={ogImage}
+      pubDate={publishedTime}
+      updatedDate={modifiedTime}
+      breadcrumb={breadcrumb}
+    />
   </head>
   <body>
     <a class="skip-link" href="#main">跳到主要內容</a>

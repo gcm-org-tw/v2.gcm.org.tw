@@ -1,0 +1,76 @@
+---
+import PostCard from './PostCard.astro';
+
+/* 相關文章：舊站每篇是孤島，站內互連只有正文裡零星的 334 條。
+ * 同分類優先、其次同主題標籤，補足內部連結。 */
+interface Item {
+  id: string;
+  data: {
+    title: string;
+    description?: string;
+    pubDate: Date;
+    heroImage?: string;
+    heroImageAlt?: string;
+    legacyPath: string;
+    blog_cate: string[];
+    blog_tag_theme: string[];
+  };
+}
+interface Props {
+  current: Item;
+  all: Item[];
+  limit?: number;
+}
+const { current, all, limit = 3 } = Astro.props;
+
+const score = (p: Item) =>
+  p.data.blog_cate.filter(c => current.data.blog_cate.includes(c)).length * 2 +
+  p.data.blog_tag_theme.filter(t => current.data.blog_tag_theme.includes(t)).length;
+
+const related = all
+  .filter(p => p.id !== current.id)
+  .map(p => ({ p, s: score(p) }))
+  .filter(x => x.s > 0)
+  .sort((a, b) => b.s - a.s || b.p.data.pubDate.valueOf() - a.p.data.pubDate.valueOf())
+  .slice(0, limit)
+  .map(x => x.p);
+---
+
+{related.length > 0 && (
+  <section class="related" aria-labelledby="related-title">
+    <h2 id="related-title">相關文章</h2>
+    <div class="grid">
+      {related.map(post => (
+        <PostCard
+          href={post.data.legacyPath}
+          title={post.data.title}
+          description={post.data.description}
+          pubDate={post.data.pubDate}
+          heroImage={post.data.heroImage}
+          heroImageAlt={post.data.heroImageAlt}
+        />
+      ))}
+    </div>
+  </section>
+)}
+
+<style>
+  .related {
+    margin-top: clamp(3rem, 8vw, 4.5rem);
+    padding-top: 2rem;
+    border-top: 1px solid var(--color-line);
+  }
+  h2 {
+    margin-top: 0;
+    font-size: var(--text-lg);
+  }
+  .grid {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: 1fr;
+  }
+
+  @media (min-width: 768px) {
+    .grid { grid-template-columns: repeat(3, 1fr); }
+  }
+</style>
