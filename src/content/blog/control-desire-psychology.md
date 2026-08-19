@@ -6,6 +6,8 @@ updatedDate: "2025-12-10T15:12:22Z"
 heroImage: "/wp-content/uploads/Control-Desire-Psychology4.jpg"
 blog_cate: ["appreciation", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["bdsm"]
+authorId: 497
+author: "協會編輯"
 legacyId: 36238
 legacyPath: "/blog/control-desire-psychology/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

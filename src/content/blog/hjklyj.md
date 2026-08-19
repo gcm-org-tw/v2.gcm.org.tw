@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["axefit-自發電飛輪健身車-vr6011"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["李宥儒"]
+authorId: 246
+author: "李宥儒"
+authorRole: "物理治療師"
 legacyId: 27142
 legacyPath: "/blog/hjklyj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

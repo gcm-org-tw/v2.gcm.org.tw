@@ -6,6 +6,9 @@ updatedDate: "2025-05-27T03:46:45Z"
 heroImage: "/wp-content/uploads/World-No-Tobacco-Day.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_theme: ["世界無菸日"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 29987
 legacyPath: "/blog/world-no-tobacco-day/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

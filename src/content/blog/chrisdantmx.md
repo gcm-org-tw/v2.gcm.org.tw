@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/dytmx25032506-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["克莉絲丹光彩無暇蜜粉-光圈蜜粉-克莉絲丹香氛奧秘"]
 blog_tag_theme: ["醫友生活"]
+authorId: 466
+author: "蔡孟璇"
+authorRole: "家庭醫學科醫師"
 legacyId: 28108
 legacyPath: "/blog/chrisdantmx/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

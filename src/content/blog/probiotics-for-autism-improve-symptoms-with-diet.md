@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/益生菌的奇妙力量：如何通過飲食調
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["自閉症"]
 blog_tag_theme: ["psychological-symptoms", "自閉症"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 23920
 legacyPath: "/blog/probiotics-for-autism-improve-symptoms-with-diet/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/1711885611663.jpg"
 blog_cate: ["news"]
 blog_tag_keyword: ["醫療人員"]
 blog_tag_theme: ["醫友生活"]
+authorId: 497
+author: "協會編輯"
 legacyId: 20306
 legacyPath: "/blog/wiholifrecli/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

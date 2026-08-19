@@ -6,6 +6,9 @@ updatedDate: "2024-09-11T02:37:12Z"
 heroImage: "/wp-content/uploads/S__61399053_0.jpg"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["李宜庭"]
+authorId: 228
+author: "李宜庭"
+authorRole: "職能治療師"
 legacyId: 23422
 legacyPath: "/blog/moonlight-lyt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

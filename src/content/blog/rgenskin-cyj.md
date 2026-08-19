@@ -5,6 +5,9 @@ pubDate: "2025-04-25T09:41:11Z"
 heroImage: "/wp-content/uploads/tccyj25041503-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
+authorId: 549
+author: "邱于嘉"
+authorRole: "內科醫師"
 legacyId: 28295
 legacyPath: "/blog/rgenskin-cyj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,8 @@ updatedDate: "2024-10-16T06:25:40Z"
 heroImage: "/wp-content/uploads/新聞稿2-scaled.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "press"]
 blog_tag_keyword: ["傳新教育"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23978
 legacyPath: "/blog/new-tcm-course-empowers-professionals-in-herbal-medicine-use/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

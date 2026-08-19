@@ -10,6 +10,9 @@ blog_tag: ["運動傷害"]
 blog_tag_keyword: ["運動傷害"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["凃建維"]
+authorId: 139
+author: "凃建維"
+authorRole: "中醫師"
 legacyId: 6921
 legacyPath: "/blog/sports-injuries/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

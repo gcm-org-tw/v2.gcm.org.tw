@@ -6,6 +6,9 @@ updatedDate: "2026-04-04T05:58:02Z"
 heroImage: "/wp-content/uploads/TCM-Cold-Heat-Constitution-Explained-by-Modern-Physiology2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["自律神經"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 39288
 legacyPath: "/blog/tcm-cold-heat-constitution-explained-by-modern-physiology/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

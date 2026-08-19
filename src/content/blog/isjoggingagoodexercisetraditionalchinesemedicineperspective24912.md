@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/medicineperspective24912.jpg"
 heroImageAlt: "medicineperspective24912"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_fr_doctors: ["林芳伃"]
+authorId: 487
+author: "林芳伃"
+authorRole: "中醫師, 藥師"
 legacyId: 23557
 legacyPath: "/blog/isjoggingagoodexercisetraditionalchinesemedicineperspective24912/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

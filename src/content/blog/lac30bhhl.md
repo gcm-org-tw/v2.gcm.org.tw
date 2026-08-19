@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["lac-lac女用益菌群30b膠囊-300億高菌數益生菌-保證效力標章"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["謝凰玲"]
+authorId: 509
+author: "謝凰玲"
+authorRole: "營養師"
 legacyId: 28010
 legacyPath: "/blog/lac30bhhl/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

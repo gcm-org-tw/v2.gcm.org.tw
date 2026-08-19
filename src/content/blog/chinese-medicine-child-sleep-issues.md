@@ -10,6 +10,9 @@ blog_tag: ["中醫師", "失眠"]
 blog_tag_keyword: ["失眠", "孩童"]
 blog_tag_theme: ["sleep-problems"]
 blog_fr_doctors: ["陳建甫"]
+authorId: 137
+author: "陳建甫"
+authorRole: "中醫師"
 legacyId: 8246
 legacyPath: "/blog/chinese-medicine-child-sleep-issues/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

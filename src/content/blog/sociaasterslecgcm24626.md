@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/sociaasterslecgcm24626NEW-e1719380697419.jpg"
 heroImageAlt: "社群行銷大師開講 GCM協會助醫事人員提升社群即戰力"
 blog_cate: ["press"]
 blog_tag_theme: ["媒體報導"]
+authorId: 497
+author: "協會編輯"
 legacyId: 22093
 legacyPath: "/blog/sociaasterslecgcm24626/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -4,6 +4,9 @@ description: "它使用韓國專利GABAEX麩胺酸發酵物，提供高濃度GAB
 pubDate: "2026-03-04T03:04:33Z"
 updatedDate: "2026-03-06T11:51:15Z"
 heroImage: "/wp-content/uploads/11zon_S__53264388_0.webp"
+authorId: 942
+author: "林奎妙"
+authorRole: "藥師"
 legacyId: 37969
 legacyPath: "/blog/uflow-gaba-lkm/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

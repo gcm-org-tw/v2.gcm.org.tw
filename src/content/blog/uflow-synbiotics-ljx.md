@@ -4,6 +4,9 @@ description: "綜合專業評估與實際體驗，UFLOW 維他菌合生元是一
 pubDate: "2026-03-06T04:58:55Z"
 heroImage: "/wp-content/uploads/11zon_1770127673240.webp"
 blog_cate: ["appreciation"]
+authorId: 529
+author: "廖家祥"
+authorRole: "營養師"
 legacyId: 37991
 legacyPath: "/blog/uflow-synbiotics-ljx/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

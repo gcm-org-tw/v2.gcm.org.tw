@@ -10,6 +10,9 @@ blog_tag: ["母嬰", "物理治療師"]
 blog_tag_keyword: ["媽媽", "疲勞"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["李宥儒"]
+authorId: 246
+author: "李宥儒"
+authorRole: "物理治療師"
 legacyId: 7184
 legacyPath: "/blog/defeat-parenting-fatigue/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

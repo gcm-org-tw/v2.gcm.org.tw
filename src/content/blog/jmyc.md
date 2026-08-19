@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["嬰幼兒營養", "常溫寶寶粥", "鈞媽御食堂"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["劉郁辰"]
+authorId: 286
+author: "劉郁辰"
+authorRole: "中醫師"
 legacyId: 21342
 legacyPath: "/blog/jmyc/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

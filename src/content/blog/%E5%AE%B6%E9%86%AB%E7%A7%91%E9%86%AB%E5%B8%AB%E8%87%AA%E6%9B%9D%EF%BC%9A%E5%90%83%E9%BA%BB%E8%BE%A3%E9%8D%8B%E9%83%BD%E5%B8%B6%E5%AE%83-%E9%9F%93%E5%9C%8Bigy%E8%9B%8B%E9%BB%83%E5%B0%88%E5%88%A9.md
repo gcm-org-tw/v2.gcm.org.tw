@@ -10,6 +10,9 @@ blog_tag: ["上班族", "益生菌", "飲食"]
 blog_tag_keyword: ["益生菌"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["姜封豪"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 9539
 legacyPath: "/blog/%e5%ae%b6%e9%86%ab%e7%a7%91%e9%86%ab%e5%b8%ab%e8%87%aa%e6%9b%9d%ef%bc%9a%e5%90%83%e9%ba%bb%e8%be%a3%e9%8d%8b%e9%83%bd%e5%b8%b6%e5%ae%83-%e9%9f%93%e5%9c%8bigy%e8%9b%8b%e9%bb%83%e5%b0%88%e5%88%a9/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,8 @@ updatedDate: "2026-06-23T11:48:03Z"
 heroImage: "/wp-content/uploads/Betel-Nut-Risks-Addiction-Oral-Cancer-Quitting-Guide8.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["口腔癌"]
+authorId: 497
+author: "協會編輯"
 legacyId: 41531
 legacyPath: "/blog/betel-nut-risks-addiction-oral-cancer-quitting-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

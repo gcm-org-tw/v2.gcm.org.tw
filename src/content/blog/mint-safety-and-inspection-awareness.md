@@ -6,6 +6,8 @@ updatedDate: "2026-03-02T02:34:42Z"
 heroImage: "/wp-content/uploads/Mint-Safety-and-Inspection-Awareness6.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["薄荷"]
+authorId: 497
+author: "協會編輯"
 legacyId: 38666
 legacyPath: "/blog/mint-safety-and-inspection-awareness/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,8 @@ updatedDate: "2026-06-01T06:43:18Z"
 heroImage: "/wp-content/uploads/Glaucoma-Drops-Presbyopia-Risk-8.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["青光眼"]
+authorId: 887
+author: "莊勝傑"
 legacyId: 40644
 legacyPath: "/blog/glaucoma-drops-presbyopia-risk/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

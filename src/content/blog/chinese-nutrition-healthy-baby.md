@@ -10,6 +10,9 @@ blog_tag: ["中醫", "婦幼"]
 blog_tag_keyword: ["中醫", "新生兒"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["王柏鈞"]
+authorId: 134
+author: "王柏鈞"
+authorRole: "中醫師"
 legacyId: 7385
 legacyPath: "/blog/chinese-nutrition-healthy-baby/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["aranea-treatment蜘蛛胜肽深層修護護髮素", "aranea-蜘蛛胜肽密集養髮洗髮精", "mcb-formula", "蜘蛛絲蛋白"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["黃泳霏"]
+authorId: 465
+author: "黃泳霏"
+authorRole: "藥師"
 legacyId: 28443
 legacyPath: "/blog/dr-graft-aranea-hyf/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

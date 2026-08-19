@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/Soul-Kind-Real-zyz-25112003-scaled.webp"
 blog_tag_keyword: ["100-精油調香", "大馬士革玫瑰純露", "孕婦", "敏感肌", "洗面乳推薦", "胺基酸洗面乳", "零稀釋純淨配方"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["鍾宜臻"]
+authorId: 397
+author: "鍾宜臻"
+authorRole: "藥師"
 legacyId: 35542
 legacyPath: "/blog/soul-kind-real-zyz/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

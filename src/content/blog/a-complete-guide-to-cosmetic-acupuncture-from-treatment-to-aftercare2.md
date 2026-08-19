@@ -5,6 +5,9 @@ pubDate: "2026-07-28T08:25:00Z"
 updatedDate: "2026-08-04T07:45:53Z"
 heroImage: "/wp-content/uploads/a-complete-guide-to-cosmetic-acupuncture-from-treatment-to-aftercare.jpg"
 blog_tag_keyword: ["美顏針"]
+authorId: 1076
+author: "陳翊昀"
+authorRole: "中醫師"
 legacyId: 41499
 legacyPath: "/blog/a-complete-guide-to-cosmetic-acupuncture-from-treatment-to-aftercare2/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

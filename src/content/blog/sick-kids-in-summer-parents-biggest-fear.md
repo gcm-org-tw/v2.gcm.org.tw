@@ -6,6 +6,8 @@ updatedDate: "2026-07-22T12:58:52Z"
 heroImage: "/wp-content/uploads/Sick-Kids-in-Summer-Parents-Biggest-Fear-8.jpg"
 heroImageAlt: "Sick Kids in Summer Parents' Biggest Fear"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 497
+author: "協會編輯"
 legacyId: 42235
 legacyPath: "/blog/sick-kids-in-summer-parents-biggest-fear/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

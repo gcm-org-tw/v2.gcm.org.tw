@@ -6,6 +6,9 @@ updatedDate: "2026-04-23T23:33:25Z"
 heroImage: "/wp-content/uploads/Cheerio-yjx25041303_11zon_11zon-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["每日一顆", "玻尿酸", "珍珠粉", "膠原蛋白", "薏仁萃取", "賽洛美", "麥角硫因"]
+authorId: 944
+author: "董若賢"
+authorRole: "營養師"
 legacyId: 39465
 legacyPath: "/blog/cheerio-tjx/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

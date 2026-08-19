@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/蔬果脫水保存與藥材炮製的相似與相
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["飲食"]
 blog_tag_theme: ["body-health"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 20364
 legacyPath: "/blog/gj-eji3wji-gjo31l3hjp6/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

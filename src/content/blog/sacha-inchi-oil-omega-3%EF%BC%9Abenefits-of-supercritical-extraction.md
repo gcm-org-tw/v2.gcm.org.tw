@@ -5,6 +5,9 @@ pubDate: "2025-01-17T05:14:50Z"
 updatedDate: "2025-06-07T12:26:37Z"
 heroImage: "/wp-content/uploads/Sacha-Inchi-Oil-Omega-3：Benefits-of-Supercritical-Extraction3.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25757
 legacyPath: "/blog/sacha-inchi-oil-omega-3%ef%bc%9abenefits-of-supercritical-extraction/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

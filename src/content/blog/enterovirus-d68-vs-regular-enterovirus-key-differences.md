@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/Enterovirus-D68-vs-Regular-Enterovirus-Key-Diffe
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["腸病毒"]
 blog_tag_theme: ["腸病毒"]
+authorId: 497
+author: "協會編輯"
 legacyId: 42232
 legacyPath: "/blog/enterovirus-d68-vs-regular-enterovirus-key-differences/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

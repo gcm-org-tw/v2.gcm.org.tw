@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["cleantex-超臨界萃取", "dha", "epa", "flutex-淨化技術", "omega-3", "omega-3-含量-94-8", "r-tg型態", "sgs", "西班牙-solutex-原廠魚油"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["崔郁文"]
+authorId: 827
+author: "崔郁文"
+authorRole: "家庭醫學科醫師"
 legacyId: 36288
 legacyPath: "/blog/halomavisbeauty-tyw/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/Ttnnituswd241217.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["中醫", "慢性病", "耳鳴"]
 blog_tag_theme: ["媒體報導", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 791
+author: "吳岱璇"
+authorRole: "中醫師, 呼吸治療師"
 legacyId: 25457
 legacyPath: "/blog/%e6%af%8f%e5%a4%a9%e8%80%b3%e9%b3%b4%e8%bd%9f%e8%bd%9f%e9%9f%bf%ef%bc%9f%e5%b0%88%e5%ae%b6%e6%95%99%e4%bd%a0%e5%a6%82%e4%bd%95%e9%a0%90%e9%98%b2/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

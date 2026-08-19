@@ -6,6 +6,8 @@ updatedDate: "2026-08-05T07:55:12Z"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["食品中毒"]
 gcm_supplier_category: ["appi-news"]
+authorId: 497
+author: "協會編輯"
 legacyId: 42446
 legacyPath: "/blog/five-summer-food-safety-rules-for-safer-eating/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

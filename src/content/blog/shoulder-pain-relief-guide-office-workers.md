@@ -10,6 +10,9 @@ blog_tag: ["上班族", "久坐", "肩痛"]
 blog_tag_keyword: ["上班族", "肩頸痛"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["協會顧問"]
+authorId: 131
+author: "曾荃鈺"
+authorRole: "協會顧問"
 legacyId: 9000
 legacyPath: "/blog/shoulder-pain-relief-guide-office-workers/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

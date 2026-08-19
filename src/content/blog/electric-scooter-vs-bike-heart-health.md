@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "news", "appreciation", "preventive-heal
 blog_tag: ["物理治療", "運動醫學", "預防醫學"]
 blog_tag_keyword: ["心肺健康", "物理治療", "電動機車"]
 blog_tag_theme: ["活動", "body-health", "醫友生活"]
+authorId: 854
+author: "陳敬衡"
+authorRole: "物理治療師"
 legacyId: 30054
 legacyPath: "/blog/electric-scooter-vs-bike-heart-health/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

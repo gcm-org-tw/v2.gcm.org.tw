@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["三重煥膚", "厚朴萃取", "深入減法的純淨保養", "百里香萃取", "補骨脂酚"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["吳岱璇"]
+authorId: 791
+author: "吳岱璇"
+authorRole: "中醫師, 呼吸治療師"
 legacyId: 32887
 legacyPath: "/blog/greenvines-ws-wdh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

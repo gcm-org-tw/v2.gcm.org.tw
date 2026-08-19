@@ -6,6 +6,9 @@ updatedDate: "2024-12-27T12:49:24Z"
 heroImage: "/wp-content/uploads/Ophiopogon-Benefits-Uses-Precautions-and-Common-Mistakes.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["麥門冬"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25730
 legacyPath: "/blog/ophiopogon-benefits-uses-precautions-and-common-mistakes/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -5,6 +5,9 @@ pubDate: "2025-01-07T05:14:45Z"
 updatedDate: "2024-12-21T09:45:49Z"
 heroImage: "/wp-content/uploads/Rooibos-Tea-Benefits-Comprehensive-Health-Guide.jpg"
 blog_cate: ["rss-newstalk", "appreciation", "preventive-healthcare"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25559
 legacyPath: "/blog/rooibos-tea-benefits-comprehensive-health-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

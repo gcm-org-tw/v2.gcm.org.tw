@@ -5,6 +5,9 @@ pubDate: "2026-06-16T11:26:24Z"
 updatedDate: "2026-06-23T11:28:06Z"
 heroImage: "/wp-content/uploads/Recover-Backstage-Ignite-Onstage-8-1.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 40835
 legacyPath: "/blog/recover-backstage-ignite-onstage-8/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -5,6 +5,9 @@ pubDate: "2025-01-25T05:14:44Z"
 updatedDate: "2025-02-05T02:10:35Z"
 heroImage: "/wp-content/uploads/STD-Prevention-Tips-5-Ways-to-Reduce-High-Risk-Behavior2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25801
 legacyPath: "/blog/std-prevention-tips-5-ways-to-reduce-high-risk-behavior/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

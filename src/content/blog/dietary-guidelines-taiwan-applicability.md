@@ -6,6 +6,9 @@ updatedDate: "2026-01-20T08:42:33Z"
 heroImage: "/wp-content/uploads/Dietary-Guidelines-Taiwan-Applicability3.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["膳食指南"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 36979
 legacyPath: "/blog/dietary-guidelines-taiwan-applicability/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

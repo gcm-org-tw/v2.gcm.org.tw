@@ -10,6 +10,9 @@ blog_tag: ["上班族", "營養保健"]
 blog_tag_keyword: ["保健食品"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["茆盛庭"]
+authorId: 239
+author: "茆盛庭"
+authorRole: "婦產科醫師"
 legacyId: 17103
 legacyPath: "/blog/lukadlife/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

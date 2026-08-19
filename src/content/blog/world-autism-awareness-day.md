@@ -5,6 +5,9 @@ pubDate: "2025-04-21T05:14:09Z"
 updatedDate: "2025-04-05T09:14:56Z"
 heroImage: "/wp-content/uploads/World-Autism-Awareness-Day3.jpg"
 blog_tag_keyword: ["自閉症"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 28227
 legacyPath: "/blog/world-autism-awareness-day/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

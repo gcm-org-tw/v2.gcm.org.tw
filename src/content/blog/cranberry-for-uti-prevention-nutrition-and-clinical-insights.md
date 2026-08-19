@@ -5,6 +5,9 @@ pubDate: "2026-06-18T08:56:36Z"
 heroImage: "/wp-content/uploads/Cranberry-for-UTI-Prevention-Nutrition-and-Clinical-Insights-3.png"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["蔓越莓"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 41471
 legacyPath: "/blog/cranberry-for-uti-prevention-nutrition-and-clinical-insights/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

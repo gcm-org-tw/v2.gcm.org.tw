@@ -10,6 +10,9 @@ blog_tag: ["中醫", "五行", "腦瘤", "陰陽五行"]
 blog_tag_keyword: ["腦瘤"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["吳奕璇"]
+authorId: 97
+author: "吳奕璇"
+authorRole: "中醫師"
 legacyId: 8958
 legacyPath: "/blog/tcm-five-elements-brain-tumor/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

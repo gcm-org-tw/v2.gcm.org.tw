@@ -6,6 +6,9 @@ updatedDate: "2026-05-20T08:52:55Z"
 heroImage: "/wp-content/uploads/1_16_11zon-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["16種野菜", "5-倍濃縮辣木葉萃取", "植物乳桿菌-twk10", "舞茸子實體萃取粉（β-葡聚醣）", "酵母營養素", "韓國-fiberest-水溶性膳食纖維", "高純度褐藻醣膠"]
+authorId: 290
+author: "張馨方"
+authorRole: "營養師"
 legacyId: 39963
 legacyPath: "/blog/rapap-gloomi-vivi/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

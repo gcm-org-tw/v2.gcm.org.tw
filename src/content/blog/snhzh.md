@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["sona-植萃明眸膜", "sona外泌體-靈芝修護潤膚乳", "sona外泌體-靈芝賦活精華液", "sona外泌體-靈芝逆齡植萃水漾噴霧", "sona小晶瓶", "台美檢驗", "小晶瓶", "極致懶人保養", "靈芝外泌體"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["侯政弘"]
+authorId: 365
+author: "侯政宏"
+authorRole: "整形外科醫師"
 legacyId: 26668
 legacyPath: "/blog/snhzh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

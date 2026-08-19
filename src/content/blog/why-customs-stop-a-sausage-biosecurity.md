@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "news", "appreciation", "preven
 blog_tag: ["營養保健", "營養師", "預防醫學"]
 blog_tag_keyword: ["走私肉品", "醫師", "非洲豬瘟"]
 blog_tag_theme: ["媒體報導", "營養保健", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 292
+author: "李冠毅"
+authorRole: "復健科醫師"
 legacyId: 33716
 legacyPath: "/blog/why-customs-stop-a-sausage-biosecurity/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

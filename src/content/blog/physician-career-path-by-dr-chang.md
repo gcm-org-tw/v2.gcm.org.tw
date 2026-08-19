@@ -6,6 +6,9 @@ updatedDate: "2025-04-28T03:29:46Z"
 heroImage: "/wp-content/uploads/Physician-Career-Path-by-Dr.-Chan５.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["職涯規劃"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 28346
 legacyPath: "/blog/physician-career-path-by-dr-chang/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

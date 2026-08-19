@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag: ["dasuit大適坐墊"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["艾莉絲"]
+authorId: 60
+author: "艾莉絲"
+authorRole: "中醫師"
 legacyId: 4498
 legacyPath: "/blog/best-gift-for-dasuit/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

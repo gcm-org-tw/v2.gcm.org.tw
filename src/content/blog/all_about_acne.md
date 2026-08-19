@@ -10,6 +10,9 @@ blog_tag: ["中醫", "暗瘡"]
 blog_tag_keyword: ["暗瘡", "肌膚保養"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["艾莉絲"]
+authorId: 60
+author: "艾莉絲"
+authorRole: "中醫師"
 legacyId: 6895
 legacyPath: "/blog/all_about_acne/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

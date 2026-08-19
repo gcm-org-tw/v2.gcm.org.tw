@@ -9,6 +9,9 @@ blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["肩頸痠痛"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["王凱平"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 7095
 legacyPath: "/blog/neck-problems/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -5,6 +5,8 @@ pubDate: "2024-08-28T05:28:41Z"
 heroImage: "/wp-content/uploads/客戶指定照-IMG_0128-scaled-e1724593524474.jpg"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["陳莉婷"]
+authorId: 268
+author: "陳莉婷"
 legacyId: 23377
 legacyPath: "/blog/elissah-clt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

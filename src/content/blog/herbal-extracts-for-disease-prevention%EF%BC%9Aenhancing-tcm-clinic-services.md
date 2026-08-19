@@ -8,6 +8,9 @@ blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag: ["中醫"]
 blog_tag_keyword: ["科研萃取藥材"]
 blog_tag_theme: ["醫友生活"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25865
 legacyPath: "/blog/herbal-extracts-for-disease-prevention%ef%bc%9aenhancing-tcm-clinic-services/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

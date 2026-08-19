@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/Deep-Gluteal-Syndrome-Treatment8.jpg"
 heroImageAlt: "Deep Gluteal Syndrome Treatment8"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["深臀症候群"]
+authorId: 1095
+author: "王威鵬"
+authorRole: "中醫師"
 legacyId: 39947
 legacyPath: "/blog/deep-gluteal-syndrome-treatment/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2024-09-23T13:12:21Z"
 heroImage: "/wp-content/uploads/薑黃料理.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["心臟血管阻塞"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 23860
 legacyPath: "/blog/3-habits-with-turmeric-to-reduce-heart-blockage/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

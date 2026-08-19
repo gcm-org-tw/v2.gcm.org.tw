@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "news", "appreciation", "preven
 blog_tag: ["上班族", "運動醫學", "預防醫學"]
 blog_tag_keyword: ["冷氣病", "肩頸痠痛"]
 blog_tag_theme: ["媒體報導", "營養保健", "body-health", "醫友生活"]
+authorId: 839
+author: "周奕廷"
+authorRole: "耳鼻喉科醫師"
 legacyId: 32510
 legacyPath: "/blog/3-ways-relieve-air-conditioning-shoulder-neck-pain/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

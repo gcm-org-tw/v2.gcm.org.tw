@@ -5,6 +5,8 @@ pubDate: "2026-06-12T07:41:54Z"
 updatedDate: "2026-06-16T09:18:22Z"
 heroImage: "/wp-content/uploads/Functional-Food-Regulation-Lutein-Probiotics-and-Fish-Oil-2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 497
+author: "協會編輯"
 legacyId: 40928
 legacyPath: "/blog/functional-food-regulation-lutein-probiotics-and-fish-oil/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

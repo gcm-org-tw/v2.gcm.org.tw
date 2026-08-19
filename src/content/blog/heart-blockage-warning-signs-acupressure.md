@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["中醫", "營養保健", "預防醫學"]
 blog_tag_keyword: ["心血管疾病", "慢性病", "黃金穴位"]
 blog_tag_theme: ["慢性病", "營養保健", "body-health", "醫友生活"]
+authorId: 791
+author: "吳岱璇"
+authorRole: "中醫師, 呼吸治療師"
 legacyId: 26935
 legacyPath: "/blog/heart-blockage-warning-signs-acupressure/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2025-05-02T12:43:44Z"
 heroImage: "/wp-content/uploads/World-Hemophilia-Day-Origins.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["世界血友病日"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 28403
 legacyPath: "/blog/world-hemophilia-day-origins/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

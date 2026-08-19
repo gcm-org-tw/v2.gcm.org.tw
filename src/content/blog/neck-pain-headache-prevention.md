@@ -6,6 +6,9 @@ updatedDate: "2026-04-21T03:44:41Z"
 heroImage: "/wp-content/uploads/Neck-Pain-Headache-Prevention-8.jpg"
 blog_cate: ["rss-newstalk", "press"]
 blog_tag_keyword: ["肩頸僵硬"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 39913
 legacyPath: "/blog/neck-pain-headache-prevention/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

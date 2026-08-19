@@ -6,6 +6,9 @@ updatedDate: "2024-11-03T08:31:22Z"
 heroImage: "/wp-content/uploads/玻尿酸修復膝蓋損傷的效果如何？中西醫專家揭密.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["玻尿酸"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 24544
 legacyPath: "/blog/how-effective-is-hyaluronic-acid-for-knee-repair-tcm-medical-insights/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

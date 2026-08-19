@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["40種保健原料", "sgs無農業殘留", "動物萃取", "專利生醫科技胜肽等級", "植物萃取"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["崔郁文"]
+authorId: 827
+author: "崔郁文"
+authorRole: "家庭醫學科醫師"
 legacyId: 31273
 legacyPath: "/blog/yummyfood-tyw/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

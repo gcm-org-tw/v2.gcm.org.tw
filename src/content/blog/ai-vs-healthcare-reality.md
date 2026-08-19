@@ -6,6 +6,8 @@ updatedDate: "2026-03-27T03:19:35Z"
 heroImage: "/wp-content/uploads/AI-vs-Healthcare-Reality8.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["ai"]
+authorId: 497
+author: "協會編輯"
 legacyId: 39180
 legacyPath: "/blog/ai-vs-healthcare-reality/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

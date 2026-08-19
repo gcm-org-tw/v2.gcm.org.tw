@@ -10,6 +10,9 @@ blog_tag: ["慢性病", "運動醫學"]
 blog_tag_keyword: ["慢性病", "運動"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["王凱平"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 8856
 legacyPath: "/blog/chronic-disease-risks/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

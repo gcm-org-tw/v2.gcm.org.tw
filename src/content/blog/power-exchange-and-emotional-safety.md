@@ -6,6 +6,8 @@ updatedDate: "2025-12-15T08:23:06Z"
 heroImage: "/wp-content/uploads/Power-Exchange-and-Emotional-Safety5.jpg"
 blog_cate: ["preventive-healthcare", "experts"]
 blog_tag_keyword: ["bdsm"]
+authorId: 497
+author: "協會編輯"
 legacyId: 36258
 legacyPath: "/blog/power-exchange-and-emotional-safety/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

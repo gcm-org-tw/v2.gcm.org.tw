@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["不含乳糖認證", "不含大豆製品認證", "不含麩質認證", "熱銷-26-國", "素食認證"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["錢懿捷"]
+authorId: 605
+author: "錢懿捷"
+authorRole: "解剖病理科醫師"
 legacyId: 28388
 legacyPath: "/blog/pb-yj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

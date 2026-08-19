@@ -10,6 +10,9 @@ blog_tag: ["增肌"]
 blog_tag_keyword: ["健身", "運動"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["協會顧問"]
+authorId: 131
+author: "曾荃鈺"
+authorRole: "協會顧問"
 legacyId: 9002
 legacyPath: "/blog/fitness-myth-muscle-growth-and-pain/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

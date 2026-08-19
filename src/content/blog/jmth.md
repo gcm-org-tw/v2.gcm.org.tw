@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["嬰幼兒營養", "常溫寶寶粥", "鈞媽御食堂"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["陳亭瑄"]
+authorId: 380
+author: "陳亭瑄"
+authorRole: "職能治療師"
 legacyId: 21335
 legacyPath: "/blog/jmth/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/Shangyi-Biotech-Taoist-Wisdom-Herbal-Wellness2.j
 blog_cate: ["five-elements", "appreciation", "preventive-healthcare", "experts"]
 blog_tag: ["上一生醫"]
 blog_tag_theme: ["上一生醫"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26929
 legacyPath: "/blog/shangyi-biotech-taoist-wisdom-herbal-wellness/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

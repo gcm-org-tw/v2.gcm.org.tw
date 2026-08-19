@@ -8,6 +8,9 @@ heroImageAlt: "jylzy240806c"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["28種酵素", "4種嚴選腸道活菌", "sgs試驗報告365項西藥未檢出", "多種草本纖維", "素食可用"]
 blog_fr_doctors: ["廖哲鶯"]
+authorId: 366
+author: "廖哲鶯"
+authorRole: "一般醫學科醫師"
 legacyId: 23153
 legacyPath: "/blog/chrishealthyliving-ymx-lzy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

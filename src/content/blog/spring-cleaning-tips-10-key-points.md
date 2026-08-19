@@ -8,6 +8,9 @@ heroImageAlt: "spring-cleaning-tips-10-key-points"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["大掃除", "春節企劃", "身體保健", "運動傷害"]
 blog_tag_theme: ["body-health", "醫友生活"]
+authorId: 796
+author: "蔡昀庭"
+authorRole: "中醫師, 職能治療師"
 legacyId: 25705
 legacyPath: "/blog/spring-cleaning-tips-10-key-points/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

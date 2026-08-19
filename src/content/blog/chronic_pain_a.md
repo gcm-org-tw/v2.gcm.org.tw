@@ -7,6 +7,8 @@ heroImageAlt: "揭開慢性疼痛的殘酷真相！戰勝隱形惡魔的可能�
 blog_tag: ["慢性疼痛", "預防醫學"]
 blog_tag_keyword: ["壓力", "慢性疼痛", "物理治療", "運動傷害"]
 blog_tag_theme: ["慢性疼痛", "body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23866
 legacyPath: "/blog/chronic_pain_a/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

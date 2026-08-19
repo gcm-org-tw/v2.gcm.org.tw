@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "news", "appreciation", "preven
 blog_tag: ["運動傷害", "運動醫學", "預防醫學"]
 blog_tag_keyword: ["物理治療師", "足底筋膜炎", "高跟鞋"]
 blog_tag_theme: ["慢性疼痛", "body-health", "醫友生活"]
+authorId: 854
+author: "陳敬衡"
+authorRole: "物理治療師"
 legacyId: 30041
 legacyPath: "/blog/high-heels-plantar-fasciitis-prevention/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

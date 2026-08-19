@@ -10,6 +10,9 @@ blog_tag: ["fun憩治療", "podcast", "營養師", "白內障", "術後復原", 
 blog_tag_keyword: ["白內障"]
 blog_tag_theme: ["nutritional-supplement"]
 blog_fr_doctors: ["黃芷昕"]
+authorId: 107
+author: "黃芷昕"
+authorRole: "營養師"
 legacyId: 6547
 legacyPath: "/blog/podcast13548/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

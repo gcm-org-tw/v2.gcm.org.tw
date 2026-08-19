@@ -6,6 +6,9 @@ updatedDate: "2026-03-27T13:20:29Z"
 heroImage: "/wp-content/uploads/Spring-Irritability-and-Liver-Qi2.png"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["煩躁"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 39230
 legacyPath: "/blog/spring-irritability-and-liver-qi/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

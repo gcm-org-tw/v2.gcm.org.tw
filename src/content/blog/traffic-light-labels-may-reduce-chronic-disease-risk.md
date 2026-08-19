@@ -6,6 +6,8 @@ updatedDate: "2026-06-22T14:16:09Z"
 heroImage: "/wp-content/uploads/Traffic-Light-Labels-May-Reduce-Chronic-Disease-Risk-8.jpg"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["慢性病風險"]
+authorId: 497
+author: "協會編輯"
 legacyId: 41513
 legacyPath: "/blog/traffic-light-labels-may-reduce-chronic-disease-risk/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

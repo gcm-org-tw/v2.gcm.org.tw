@@ -7,6 +7,8 @@ blog_cate: ["preventive-healthcare"]
 blog_tag: ["運動醫學"]
 blog_tag_keyword: ["童話醫師"]
 blog_tag_theme: ["body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 22410
 legacyPath: "/blog/active-kid-but-not-tall-reasons-solutions/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

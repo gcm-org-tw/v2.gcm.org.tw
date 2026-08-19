@@ -6,6 +6,9 @@ updatedDate: "2024-12-06T14:08:55Z"
 heroImage: "/wp-content/uploads/RSV是什麼？快速解讀呼吸道融合病毒與健康風險.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["rsv"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25279
 legacyPath: "/blog/what-is-rsv-quick-guide-to-health-risks-of-the-virus/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

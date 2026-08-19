@@ -7,6 +7,8 @@ heroImageAlt: "常常情緒低落，我是不是得了憂鬱症？了解憂鬱�
 blog_tag: ["壓力", "預防醫學"]
 blog_tag_keyword: ["壓力", "憂鬱症"]
 blog_tag_theme: ["psychological-symptoms", "憂鬱症", "body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 24409
 legacyPath: "/blog/majordepressivedisorder_a/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

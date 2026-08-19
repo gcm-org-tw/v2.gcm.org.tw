@@ -6,6 +6,9 @@ updatedDate: "2025-12-29T08:41:50Z"
 heroImage: "/wp-content/uploads/Prevent-Elderly-Falls-and-Fractures1.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["老年骨折"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 36821
 legacyPath: "/blog/prevent-elderly-falls-and-fractures/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

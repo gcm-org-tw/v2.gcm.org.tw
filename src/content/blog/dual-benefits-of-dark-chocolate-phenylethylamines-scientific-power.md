@@ -6,6 +6,9 @@ updatedDate: "2025-01-13T15:02:04Z"
 heroImage: "/wp-content/uploads/Dual-Benefits-of-Dark-Chocolate：Phenylethylamines-Scientific-Power3.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["黑巧克力"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25839
 legacyPath: "/blog/dual-benefits-of-dark-chocolate-phenylethylamines-scientific-power/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2025-03-24T15:46:18Z"
 heroImage: "/wp-content/uploads/TCM-Scalp-Health-Tips.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["調理頭皮"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 28023
 legacyPath: "/blog/tcm-scalp-health-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

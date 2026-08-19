@@ -6,6 +6,9 @@ updatedDate: "2026-04-23T23:31:54Z"
 heroImage: "/wp-content/uploads/kilm-ex-ucii-hl26041302-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["11種維生素", "8大不添加", "omega-3-323毫克", "uc-ii-40毫克", "瑞士進口魚油", "紐西蘭優蛋白", "雙倍高鈣"]
+authorId: 303
+author: "黃立"
+authorRole: "家庭醫學科醫師"
 legacyId: 39442
 legacyPath: "/blog/kilm-ex-ucii-hl/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

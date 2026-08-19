@@ -10,6 +10,9 @@ blog_tag: ["中醫飲食", "五行飲食"]
 blog_tag_keyword: ["食療", "飲食"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["蔡旻堅"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 7787
 legacyPath: "/blog/five-elements-balancing-body-mind/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

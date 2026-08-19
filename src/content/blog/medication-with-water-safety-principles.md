@@ -6,6 +6,9 @@ updatedDate: "2026-04-05T06:47:30Z"
 heroImage: "/wp-content/uploads/Medication-With-Water-Safety-Principles5.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["服藥配水"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 39316
 legacyPath: "/blog/medication-with-water-safety-principles/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

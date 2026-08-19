@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/smzqwby25050802-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["王柏鈞"]
+authorId: 694
+author: "王柏筠"
+authorRole: "家庭醫學科醫師"
 legacyId: 28591
 legacyPath: "/blog/cellcore-infini-wby/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

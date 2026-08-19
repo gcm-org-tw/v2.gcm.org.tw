@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["非洲豬瘟", "預防醫學"]
 blog_tag_keyword: ["獸醫師", "臨床症狀", "非洲豬瘟"]
 blog_tag_theme: ["媒體報導", "營養保健", "body-health", "醫友生活"]
+authorId: 938
+author: "潘又瑄"
+authorRole: "獸醫師"
 legacyId: 33715
 legacyPath: "/blog/african-swine-fever-vs-foot-and-mouth-disease-and-classical-swine-fever/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,8 @@ updatedDate: "2024-02-17T09:34:07Z"
 heroImage: "/wp-content/uploads/封面.jpg"
 blog_cate: ["news"]
 blog_tag_keyword: ["活動"]
+authorId: 497
+author: "協會編輯"
 legacyId: 16209
 legacyPath: "/blog/healthcare-food-sales-workshop-online/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

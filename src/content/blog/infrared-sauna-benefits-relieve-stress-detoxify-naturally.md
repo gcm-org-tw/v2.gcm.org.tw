@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/汗蒸的功效與作用：釋放壓力與排出
 blog_cate: ["rss-newstalk", "appreciation"]
 blog_tag_keyword: ["汗蒸"]
 blog_tag_theme: ["body-health"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 24553
 legacyPath: "/blog/infrared-sauna-benefits-relieve-stress-detoxify-naturally/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

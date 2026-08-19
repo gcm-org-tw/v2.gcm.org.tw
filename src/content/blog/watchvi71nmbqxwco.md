@@ -10,6 +10,9 @@ blog_tag: ["孕吐", "母嬰", "營養師", "預防醫學", "飲食"]
 blog_tag_keyword: ["懷孕", "母嬰"]
 blog_tag_theme: ["nutritional-supplement"]
 blog_fr_doctors: ["黃芷昕"]
+authorId: 107
+author: "黃芷昕"
+authorRole: "營養師"
 legacyId: 12741
 legacyPath: "/blog/watchvi71nmbqxwco/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

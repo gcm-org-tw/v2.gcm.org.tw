@@ -8,6 +8,8 @@ blog_cate: ["preventive-healthcare"]
 blog_tag: ["肩頸痠痛"]
 blog_tag_keyword: ["物理治療"]
 blog_tag_theme: ["body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 19218
 legacyPath: "/blog/pre-holiday-cleaning-shoulder-pain-relief-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

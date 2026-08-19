@@ -10,6 +10,9 @@ blog_tag: ["止痛藥"]
 blog_tag_keyword: ["止痛藥"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["吳禾中"]
+authorId: 98
+author: "吳禾中"
+authorRole: "藥師"
 legacyId: 6978
 legacyPath: "/blog/painkiller-chronic-disease/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

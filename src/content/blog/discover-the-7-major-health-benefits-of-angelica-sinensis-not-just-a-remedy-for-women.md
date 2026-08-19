@@ -8,6 +8,9 @@ blog_cate: ["preventive-healthcare"]
 blog_tag: ["中醫"]
 blog_tag_keyword: ["當歸"]
 blog_tag_theme: ["body-health"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 22110
 legacyPath: "/blog/discover-the-7-major-health-benefits-of-angelica-sinensis-not-just-a-remedy-for-women/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

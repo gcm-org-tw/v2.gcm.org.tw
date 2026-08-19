@@ -6,6 +6,9 @@ updatedDate: "2026-04-05T06:23:14Z"
 heroImage: "/wp-content/uploads/Light-vs-Dark-Roast-Health2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["咖啡烘焙度"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 39310
 legacyPath: "/blog/light-vs-dark-roast-health/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

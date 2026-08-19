@@ -8,6 +8,9 @@ heroImageAlt: "粽子要煮多久才會熟"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["中醫飲食"]
 blog_tag_theme: ["body-health"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 21675
 legacyPath: "/blog/how-long-to-cook-zongzi-to-perfection-7-healthy-variants-for-a-life-loving-you/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -9,6 +9,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["中醫師", "花旗蔘"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["劉郁辰"]
+authorId: 286
+author: "劉郁辰"
+authorRole: "中醫師"
 legacyId: 21136
 legacyPath: "/blog/jgpower-yc/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

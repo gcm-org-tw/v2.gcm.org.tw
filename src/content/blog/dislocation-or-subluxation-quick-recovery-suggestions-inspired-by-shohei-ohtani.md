@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "appreciation"]
 blog_tag: ["運動傷害"]
 blog_tag_keyword: ["脫臼"]
 blog_tag_theme: ["body-health"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 24379
 legacyPath: "/blog/dislocation-or-subluxation-quick-recovery-suggestions-inspired-by-shohei-ohtani/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

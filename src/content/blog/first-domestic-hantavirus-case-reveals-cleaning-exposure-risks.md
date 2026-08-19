@@ -5,6 +5,8 @@ pubDate: "2026-06-23T11:15:34Z"
 heroImage: "/wp-content/uploads/First-Domestic-Hantavirus-Case-Reveals-Cleaning-Exposure-Risks8.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["漢他病毒"]
+authorId: 497
+author: "協會編輯"
 legacyId: 41519
 legacyPath: "/blog/first-domestic-hantavirus-case-reveals-cleaning-exposure-risks/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

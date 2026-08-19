@@ -6,6 +6,9 @@ updatedDate: "2024-09-25T09:28:20Z"
 heroImage: "/wp-content/uploads/winterskicarewd9524.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_theme: ["body-health"]
+authorId: 791
+author: "吳岱璇"
+authorRole: "中醫師, 呼吸治療師"
 legacyId: 23883
 legacyPath: "/blog/winterskicarewd9524/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

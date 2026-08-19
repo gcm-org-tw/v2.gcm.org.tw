@@ -5,6 +5,9 @@ pubDate: "2025-02-12T03:39:08Z"
 updatedDate: "2025-02-12T03:46:50Z"
 heroImage: "/wp-content/uploads/cwhjy20250203c-scaled.webp"
 blog_cate: ["appreciation"]
+authorId: 394
+author: "張暐弘"
+authorRole: "內科醫師"
 legacyId: 26531
 legacyPath: "/blog/cwhjy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

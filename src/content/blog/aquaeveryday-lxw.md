@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["5-3-倍吸收速率（相較傳統葉黃素）", "90分鐘有感", "affron-cool-tech-專利冷萃技術", "葉黃素每日法定足量添加（30mg）", "西班牙專利-affroneye-藏紅花萃取", "通過-sgs-三項檢驗"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["林湘宛"]
+authorId: 514
+author: "林湘宛"
+authorRole: "中醫師"
 legacyId: 33540
 legacyPath: "/blog/aquaeveryday-lxw/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

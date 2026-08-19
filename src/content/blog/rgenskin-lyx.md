@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/tclyx25041502.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["劉姸希"]
+authorId: 813
+author: "劉姸希"
+authorRole: "皮膚科醫師"
 legacyId: 28302
 legacyPath: "/blog/rgenskin-lyx/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

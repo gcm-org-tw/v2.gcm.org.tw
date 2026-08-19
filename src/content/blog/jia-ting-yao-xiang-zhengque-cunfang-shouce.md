@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/jia-ting-yao-xiang-zhengque-cunfang-shouce_11zon
 blog_cate: ["gcm-news", "rss-newstalk", "press", "news", "appreciation", "preventive-healthcare"]
 blog_tag_keyword: ["常備藥", "收納", "藥師"]
 blog_tag_theme: ["媒體報導", "body-health", "醫友生活"]
+authorId: 918
+author: "李佩蓁"
+authorRole: "藥師"
 legacyId: 34920
 legacyPath: "/blog/jia-ting-yao-xiang-zhengque-cunfang-shouce/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

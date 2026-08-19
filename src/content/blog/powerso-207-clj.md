@@ -6,6 +6,9 @@ updatedDate: "2024-10-28T03:49:05Z"
 heroImage: "/wp-content/uploads/AnyConv.com__IMG_7274-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["鄭玲君"]
+authorId: 77
+author: "鄭玲君"
+authorRole: "營養師"
 legacyId: 24000
 legacyPath: "/blog/powerso-207-clj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

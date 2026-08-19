@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/LQY-E-2.jpg"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["廖全裕"]
+authorId: 253
+author: "廖全裕"
+authorRole: "藥師"
 legacyId: 23290
 legacyPath: "/blog/ustrong-vitamine-dha-lqu/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

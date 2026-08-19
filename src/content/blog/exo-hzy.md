@@ -6,6 +6,9 @@ updatedDate: "2026-01-30T08:21:05Z"
 heroImage: "/wp-content/uploads/IMG_6106_11zon_11zon.webp"
 blog_tag_keyword: ["sgs檢驗", "玻尿酸", "白皮杉醇", "神經醯胺", "穀胱甘肽"]
 blog_fr_doctors: ["黃鎮佑"]
+authorId: 294
+author: "黃鎮佑"
+authorRole: "營養師"
 legacyId: 36961
 legacyPath: "/blog/exo-hzy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

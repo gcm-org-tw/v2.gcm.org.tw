@@ -6,6 +6,9 @@ updatedDate: "2026-08-10T09:31:17Z"
 heroImage: "/wp-content/uploads/bnd-hzh04.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["365項西藥未檢出", "500mg-顆", "60顆-盒", "sgs檢驗", "不能掉", "外在形象保養", "植物萃取", "每日空腹12顆", "毛髮保養"]
+authorId: 365
+author: "侯政宏"
+authorRole: "整形外科醫師"
 legacyId: 42214
 legacyPath: "/blog/bnd-hzh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

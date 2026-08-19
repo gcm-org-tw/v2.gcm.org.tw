@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["何首烏", "咖啡莓果萃取", "專利日本魚膠原蛋白", "專利鮭魚精巢dna", "酵母b群", "酵母鋅"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["廖敏涵"]
+authorId: 206
+author: "廖敏涵"
+authorRole: "營養師"
 legacyId: 28549
 legacyPath: "/blog/yonamelmh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

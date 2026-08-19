@@ -10,6 +10,9 @@ blog_tag: ["營養師"]
 blog_tag_keyword: ["減重"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["黃詩涵"]
+authorId: 115
+author: "黃詩涵"
+authorRole: "營養師"
 legacyId: 7013
 legacyPath: "/blog/summer-weight-loss/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

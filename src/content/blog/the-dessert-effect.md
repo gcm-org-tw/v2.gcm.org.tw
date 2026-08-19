@@ -5,6 +5,8 @@ pubDate: "2025-11-22T08:14:27Z"
 updatedDate: "2025-11-20T13:49:42Z"
 heroImage: "/wp-content/uploads/The-Dessert-Effect6.jpg"
 blog_tag_keyword: ["巧克力"]
+authorId: 497
+author: "協會編輯"
 legacyId: 35530
 legacyPath: "/blog/the-dessert-effect/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

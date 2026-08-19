@@ -6,6 +6,9 @@ updatedDate: "2025-09-15T10:24:08Z"
 heroImage: "/wp-content/uploads/Allergic-Rhinitis-3-Body-Remedies1.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_theme: ["鼻過敏"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 32883
 legacyPath: "/blog/allergic-rhinitis-3-body-remedies/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

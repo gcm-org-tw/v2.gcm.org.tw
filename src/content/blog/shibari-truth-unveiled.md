@@ -6,6 +6,8 @@ updatedDate: "2025-10-12T14:26:00Z"
 heroImage: "/wp-content/uploads/Shibari-Truth-Unveiled4.jpg"
 blog_cate: ["preventive-healthcare", "experts"]
 blog_tag_keyword: ["繩縛"]
+authorId: 497
+author: "協會編輯"
 legacyId: 33510
 legacyPath: "/blog/shibari-truth-unveiled/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

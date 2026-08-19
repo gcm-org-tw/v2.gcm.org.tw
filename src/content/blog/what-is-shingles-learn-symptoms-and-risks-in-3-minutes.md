@@ -6,6 +6,8 @@ updatedDate: "2024-12-07T04:31:57Z"
 heroImage: "/wp-content/uploads/帶狀皰疹是什麼-3分鐘帶你了解皮蛇的症狀與危險What-Is-Shingles-Learn-Symptoms-and-Risks-in-3-Minutes.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["帶狀皰疹"]
+authorId: 497
+author: "協會編輯"
 legacyId: 25281
 legacyPath: "/blog/what-is-shingles-learn-symptoms-and-risks-in-3-minutes/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

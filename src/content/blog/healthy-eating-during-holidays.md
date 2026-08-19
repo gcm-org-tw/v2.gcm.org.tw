@@ -6,6 +6,8 @@ updatedDate: "2026-02-02T10:05:56Z"
 heroImage: "/wp-content/uploads/Healthy-Eating-During-Holidays7.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["過年"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37460
 legacyPath: "/blog/healthy-eating-during-holidays/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

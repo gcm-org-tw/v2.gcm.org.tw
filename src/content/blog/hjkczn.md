@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["axefit-自發電飛輪健身車-vr6011"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["陳子妮"]
+authorId: 331
+author: "陳子妮"
+authorRole: "物理治療師"
 legacyId: 27161
 legacyPath: "/blog/hjkczn/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -8,6 +8,9 @@ blog_cate: ["rss-newstalk", "appreciation"]
 blog_tag: ["中醫", "中醫師", "中醫飲食", "營養保健", "預防醫學"]
 blog_tag_keyword: ["中醫", "少吃", "減重迷思"]
 blog_tag_theme: ["營養保健", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 286
+author: "劉郁辰"
+authorRole: "中醫師"
 legacyId: 39338
 legacyPath: "/blog/why-eating-less-doesnt-help-weight-loss/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

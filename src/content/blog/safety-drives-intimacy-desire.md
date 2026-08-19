@@ -6,6 +6,8 @@ updatedDate: "2025-12-27T14:16:21Z"
 heroImage: "/wp-content/uploads/Safety-Drives-Intimacy-Desire5.jpg"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["bdsm"]
+authorId: 497
+author: "協會編輯"
 legacyId: 36815
 legacyPath: "/blog/safety-drives-intimacy-desire/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/Chung-Lien-Oil-Benzoapyrene-Risk-8.jpg"
 heroImageAlt: "Chung Lien Oil Benzo[a]pyrene Risk"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["中聯油脂"]
+authorId: 497
+author: "協會編輯"
 legacyId: 42405
 legacyPath: "/blog/chung-lien-oil-benzoapyrene-risk/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

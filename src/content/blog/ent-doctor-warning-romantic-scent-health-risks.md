@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["耳鼻喉科", "過敏", "預防醫學"]
 blog_tag_keyword: ["耳鼻喉科", "過敏", "香氛蠟燭"]
 blog_tag_theme: ["耳鼻喉科", "醫友生活"]
+authorId: 839
+author: "周奕廷"
+authorRole: "耳鼻喉科醫師"
 legacyId: 31908
 legacyPath: "/blog/ent-doctor-warning-romantic-scent-health-risks/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

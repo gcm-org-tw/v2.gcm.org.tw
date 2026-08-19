@@ -9,6 +9,9 @@ blog_cate: ["appreciation"]
 blog_tag: ["營養保健", "營養師", "飲食"]
 blog_tag_keyword: ["益生菌"]
 blog_tag_theme: ["nutritional-supplement"]
+authorId: 210
+author: "楊芷宜"
+authorRole: "營養師"
 legacyId: 14480
 legacyPath: "/blog/toyobiotoyo23idob/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

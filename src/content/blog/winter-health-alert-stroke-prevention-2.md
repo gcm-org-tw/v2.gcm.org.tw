@@ -10,6 +10,9 @@ blog_tag: ["腦中風", "血壓"]
 blog_tag_keyword: ["腦中風"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["陳亭瑄"]
+authorId: 380
+author: "陳亭瑄"
+authorRole: "職能治療師"
 legacyId: 14496
 legacyPath: "/blog/winter-health-alert-stroke-prevention-2/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

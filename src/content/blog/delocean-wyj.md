@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["bakuchiol補骨脂", "南極海醣蛋白類nmf", "秋葵多醣", "積雪草外泌體", "維他命b3b5", "複合果酸", "香桃葉植萃"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["黃毓如"]
+authorId: 731
+author: "黃毓如"
+authorRole: "一般醫學科醫師"
 legacyId: 31197
 legacyPath: "/blog/delocean-wyj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

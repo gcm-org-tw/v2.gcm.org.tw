@@ -6,6 +6,9 @@ updatedDate: "2026-08-04T07:13:26Z"
 heroImage: "/wp-content/uploads/facial-acupuncture-beyond-beauty-tcm-holistic-skin-health.jpg"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["美顏針"]
+authorId: 1076
+author: "陳翊昀"
+authorRole: "中醫師"
 legacyId: 41495
 legacyPath: "/blog/facial-acupuncture-beyond-beauty-tcm-holistic-skin-health2/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

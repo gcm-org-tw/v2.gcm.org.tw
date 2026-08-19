@@ -5,6 +5,9 @@ pubDate: "2024-09-03T10:17:11Z"
 heroImage: "/wp-content/uploads/timeline_20240705_110420.jpg"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["黃立"]
+authorId: 303
+author: "黃立"
+authorRole: "家庭醫學科醫師"
 legacyId: 23282
 legacyPath: "/blog/ustrong-vitamine-dha-hl/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

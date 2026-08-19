@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "news", "appreciation"]
 blog_tag: ["營養保健", "預防醫學"]
 blog_tag_keyword: ["春節飲食", "減肥"]
 blog_tag_theme: ["媒體報導", "營養保健", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 294
+author: "黃鎮佑"
+authorRole: "營養師"
 legacyId: 26461
 legacyPath: "/blog/new-year-diet-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -5,6 +5,9 @@ pubDate: "2026-06-18T08:42:27Z"
 heroImage: "/wp-content/uploads/Black-Pepper-Health-Effects-1.png"
 blog_cate: ["appreciation", "preventive-healthcare"]
 blog_tag_keyword: ["黑胡椒"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 41465
 legacyPath: "/blog/black-pepper-health-effects/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

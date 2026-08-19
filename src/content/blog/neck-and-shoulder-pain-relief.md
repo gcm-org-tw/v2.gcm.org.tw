@@ -6,6 +6,8 @@ updatedDate: "2026-01-23T10:33:54Z"
 heroImage: "/wp-content/uploads/Neck-and-Shoulder-Pain-Relief1.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["肩頸痠痛"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37290
 legacyPath: "/blog/neck-and-shoulder-pain-relief/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

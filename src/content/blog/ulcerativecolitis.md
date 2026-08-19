@@ -8,6 +8,8 @@ heroImageAlt: "【病症比較】血便小心！分不清大腸激躁症與潰�
 blog_tag: ["營養保健", "預防醫學"]
 blog_tag_keyword: ["壓力", "腸道疾病"]
 blog_tag_theme: ["body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 24417
 legacyPath: "/blog/ulcerativecolitis/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

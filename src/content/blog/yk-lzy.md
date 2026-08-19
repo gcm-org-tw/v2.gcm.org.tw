@@ -6,6 +6,9 @@ updatedDate: "2026-01-09T02:46:56Z"
 heroImage: "/wp-content/uploads/IMG_2511_13_11zon.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["sgs檢驗", "七大草本複方", "冬蟲夏草", "加拿大vita-naturals低溫萃取技術", "左旋精胺酸", "祕魯黑馬卡", "粉光蔘", "紅景天", "維生素b群", "螯合鋅"]
+authorId: 366
+author: "廖哲鶯"
+authorRole: "一般醫學科醫師"
 legacyId: 36474
 legacyPath: "/blog/yk-lzy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

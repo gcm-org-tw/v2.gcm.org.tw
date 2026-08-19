@@ -10,6 +10,9 @@ blog_tag: ["腦瘤", "藥物保健"]
 blog_tag_keyword: ["腦瘤"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["吳禾中"]
+authorId: 98
+author: "吳禾中"
+authorRole: "藥師"
 legacyId: 8962
 legacyPath: "/blog/medicine-brain-tumor-defense/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

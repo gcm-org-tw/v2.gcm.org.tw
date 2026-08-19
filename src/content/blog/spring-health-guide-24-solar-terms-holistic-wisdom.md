@@ -5,6 +5,9 @@ pubDate: "2025-03-10T05:14:52Z"
 updatedDate: "2025-02-16T12:07:43Z"
 heroImage: "/wp-content/uploads/Spring-Health-Guide-24-Solar-Terms-Holistic-Wisdom-1.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare", "experts"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26716
 legacyPath: "/blog/spring-health-guide-24-solar-terms-holistic-wisdom/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

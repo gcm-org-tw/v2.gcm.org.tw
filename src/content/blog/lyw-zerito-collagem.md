@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["98-8高度仿生膠原蛋白", "富士雪櫻靈芝粉", "維生素c", "纖維包覆超級莓果發酵精華粉"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["吳亞薇"]
+authorId: 297
+author: "林亞薇"
+authorRole: "護理師"
 legacyId: 25533
 legacyPath: "/blog/lyw-zerito-collagem/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

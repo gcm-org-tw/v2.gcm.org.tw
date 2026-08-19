@@ -10,6 +10,9 @@ blog_tag: ["自然療法", "西醫治療"]
 blog_tag_keyword: ["自然療法"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["羅文佑"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 8312
 legacyPath: "/blog/natural-therapy-vs-western-medicine/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

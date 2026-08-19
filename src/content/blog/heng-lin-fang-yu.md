@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["南非醉茄全譜提取技術", "日本高濃度gaba", "珍貴法國技術海水抽出物", "綠色提取技術"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["林芳伃"]
+authorId: 487
+author: "林芳伃"
+authorRole: "中醫師, 藥師"
 legacyId: 23093
 legacyPath: "/blog/heng-lin-fang-yu/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

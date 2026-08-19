@@ -5,6 +5,9 @@ pubDate: "2025-02-14T09:37:01Z"
 heroImage: "/wp-content/uploads/lwjjy20250203c.webp"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["林偉傑"]
+authorId: 794
+author: "林偉傑"
+authorRole: "耳鼻喉科醫師"
 legacyId: 26526
 legacyPath: "/blog/jylwj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

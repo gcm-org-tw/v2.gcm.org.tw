@@ -6,6 +6,9 @@ updatedDate: "2025-06-29T13:38:31Z"
 heroImage: "/wp-content/uploads/Face-Wash-Hydration-Boost.jpg"
 blog_cate: ["rss-newstalk", "appreciation", "preventive-healthcare"]
 blog_tag_keyword: ["洗臉"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 30995
 legacyPath: "/blog/face-wash-hydration-boost/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/AMPM素材圖更改.jpg"
 heroImageAlt: "牛爾旗下專業保養品牌ampm神經醯胺穩膚系列"
 blog_cate: ["press"]
 blog_tag_theme: ["媒體報導"]
+authorId: 497
+author: "協會編輯"
 legacyId: 21478
 legacyPath: "/blog/ampmgcmdgannouncement/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2026-01-30T03:57:44Z"
 heroImage: "/wp-content/uploads/diadora-hzcc.jpg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["e-楦頭寬楦設計", "jacquard透氣網布", "swift-foam", "台灣設計研發", "無縫貼合-tpu-工藝", "義大利diadora", "雙密度足弓支撐鞋墊", "雙層氣動大底"]
+authorId: 908
+author: "黃琮棋"
+authorRole: "物理治療師"
 legacyId: 37312
 legacyPath: "/blog/diadora-htc/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

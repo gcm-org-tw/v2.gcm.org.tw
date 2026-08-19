@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/Snapping-Hip-Warning-Signs8.jpg"
 heroImageAlt: "Snapping Hip Warning Signs8"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["彈響髖"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 39953
 legacyPath: "/blog/snapping-hip-warning-signs/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

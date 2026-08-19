@@ -8,6 +8,9 @@ blog_cate: ["rss-newstalk", "press", "appreciation"]
 blog_tag: ["營養保健", "預防醫學"]
 blog_tag_keyword: ["慢性疲勞", "營養師"]
 blog_tag_theme: ["營養保健", "睡眠品質", "body-health"]
+authorId: 348
+author: "吳孟潔"
+authorRole: "營養師"
 legacyId: 39332
 legacyPath: "/blog/sleeping-8-hours-but-still-tired/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

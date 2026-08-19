@@ -9,6 +9,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["10倍濃縮", "好好先生", "提升男性活力"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["李冠毅"]
+authorId: 292
+author: "李冠毅"
+authorRole: "復健科醫師"
 legacyId: 21181
 legacyPath: "/blog/hh-gi/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

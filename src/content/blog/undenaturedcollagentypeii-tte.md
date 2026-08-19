@@ -5,6 +5,9 @@ pubDate: "2026-04-17T08:53:34Z"
 updatedDate: "2026-06-23T10:52:43Z"
 heroImage: "/wp-content/uploads/圖片7-1.jpg"
 blog_cate: ["appreciation"]
+authorId: 369
+author: "蔡宗恩"
+authorRole: "物理治療師"
 legacyId: 39357
 legacyPath: "/blog/undenaturedcollagentypeii-tte/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

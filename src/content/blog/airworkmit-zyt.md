@@ -6,6 +6,9 @@ updatedDate: "2026-06-22T02:11:06Z"
 heroImage: "/wp-content/uploads/line_oa_chat_260201_162541_group_7_11zon_11zon.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["mit研發-設計-製造", "sgs-無毒檢驗", "一級防霾實證", "靜電吸附原理", "高透光", "高透氣"]
+authorId: 839
+author: "周奕廷"
+authorRole: "耳鼻喉科醫師"
 legacyId: 40564
 legacyPath: "/blog/airworkmit-zyt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

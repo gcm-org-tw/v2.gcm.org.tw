@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["抽取包棉柔巾（竹纖紋）", "抽取包棉柔巾（蜂巢紋）", "隨行包大浴巾（珍珠紋）", "隨行包毛巾（珍珠紋）", "隨行包洗臉巾（蜂巢紋）"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["沈虹㚬"]
+authorId: 862
+author: "沈虹㚬"
+authorRole: "營養師"
 legacyId: 31009
 legacyPath: "/blog/wugeei-shy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

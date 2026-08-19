@@ -7,6 +7,8 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["auscentic", "呼吸精萃", "夜息精華", "新睡前儀式", "香氛界的褪黑激素"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["綦珮如"]
+authorId: 479
+author: "綦珮如"
 legacyId: 32242
 legacyPath: "/blog/auscentic-jpj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

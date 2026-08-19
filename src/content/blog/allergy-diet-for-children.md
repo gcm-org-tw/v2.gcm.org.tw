@@ -6,6 +6,8 @@ updatedDate: "2026-06-04T13:39:17Z"
 heroImage: "/wp-content/uploads/Allergy-Diet-for-Children5.png"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["過敏體質"]
+authorId: 497
+author: "協會編輯"
 legacyId: 40805
 legacyPath: "/blog/allergy-diet-for-children/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

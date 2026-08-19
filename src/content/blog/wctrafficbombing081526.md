@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/wctrafficbombing081526-1.png"
 heroImageAlt: "wctrafficbombing081526"
 blog_cate: ["rss-newstalk"]
 gcm_supplier_category: ["appi-news"]
+authorId: 497
+author: "協會編輯"
 legacyId: 42419
 legacyPath: "/blog/wctrafficbombing081526/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,8 @@ updatedDate: "2024-08-17T12:49:03Z"
 heroImage: "/wp-content/uploads/膠原蛋白怎麼選才適合？醫美專家教你-5-種挑選小技巧！.jpg"
 blog_cate: ["gcm-news"]
 blog_tag_keyword: ["膠原蛋白"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23329
 legacyPath: "/blog/how-to-choose-collagen-5-expert-tips-for-selecting-the-best/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

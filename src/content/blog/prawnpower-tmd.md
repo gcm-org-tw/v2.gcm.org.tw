@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/pptmd240612c.jpg"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["蔡旻達"]
+authorId: 259
+author: "蔡旻達"
+authorRole: "營養師"
 legacyId: 21937
 legacyPath: "/blog/prawnpower-tmd/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

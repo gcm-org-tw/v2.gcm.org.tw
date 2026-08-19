@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/line_oa_chat_241105_112015.jpg"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["吳芳芝"]
+authorId: 815
+author: "吳芳芝"
+authorRole: "藥師"
 legacyId: 25261
 legacyPath: "/blog/wufanvitagrains/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

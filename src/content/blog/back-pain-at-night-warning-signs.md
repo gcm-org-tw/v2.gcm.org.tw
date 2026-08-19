@@ -6,6 +6,8 @@ heroImage: "/wp-content/uploads/back-pain-at-night-warning-signs_11zon.webp"
 blog_cate: ["news", "appreciation", "preventive-healthcare"]
 blog_tag_keyword: ["上背痛", "慢性病", "物理治療"]
 blog_tag_theme: ["慢性疼痛", "營養保健", "body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 28142
 legacyPath: "/blog/back-pain-at-night-warning-signs/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

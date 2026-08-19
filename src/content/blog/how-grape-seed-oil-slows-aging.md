@@ -6,6 +6,9 @@ updatedDate: "2025-03-05T15:09:54Z"
 heroImage: "/wp-content/uploads/How-Grape-Seed-Oil-Slows-Aging2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["葡萄籽油"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26647
 legacyPath: "/blog/how-grape-seed-oil-slows-aging/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

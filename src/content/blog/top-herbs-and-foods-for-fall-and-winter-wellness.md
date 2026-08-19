@@ -6,6 +6,9 @@ updatedDate: "2024-10-12T09:27:31Z"
 heroImage: "/wp-content/uploads/【養生食材：秋冬必備的中藥材與食物】.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["秋冬進補"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 23965
 legacyPath: "/blog/top-herbs-and-foods-for-fall-and-winter-wellness/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -5,6 +5,8 @@ pubDate: "2026-02-25T09:41:04Z"
 heroImage: "/wp-content/uploads/S__53592096_0.jpg"
 heroImageAlt: "2025 GCM醫友健賞團歲末感恩暨會員大會"
 blog_cate: ["gcm-news"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37035
 legacyPath: "/blog/gcmmmae2025news/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

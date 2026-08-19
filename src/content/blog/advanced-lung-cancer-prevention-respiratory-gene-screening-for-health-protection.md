@@ -9,6 +9,8 @@ blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag: ["預防醫學"]
 blog_tag_keyword: ["肺癌"]
 blog_tag_theme: ["body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 24622
 legacyPath: "/blog/advanced-lung-cancer-prevention-respiratory-gene-screening-for-health-protection/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

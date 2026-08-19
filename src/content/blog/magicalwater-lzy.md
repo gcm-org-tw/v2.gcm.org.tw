@@ -6,6 +6,9 @@ updatedDate: "2026-02-09T04:22:17Z"
 heroImage: "/wp-content/uploads/magiclzy06020303-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["sgs未檢出塑膠微粒", "中央山脈活水", "埔里水源", "微量元素", "未檢出重金屬", "溴酸鹽", "調整體質", "調節生理機能"]
+authorId: 366
+author: "廖哲鶯"
+authorRole: "一般醫學科醫師"
 legacyId: 37479
 legacyPath: "/blog/magicalwater-lzy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["運動傷害", "運動醫學", "預防醫學"]
 blog_tag_keyword: ["傷害復原", "復健科", "運動傷害"]
 blog_tag_theme: ["媒體報導", "body-health", "醫友生活"]
+authorId: 292
+author: "李冠毅"
+authorRole: "復健科醫師"
 legacyId: 26906
 legacyPath: "/blog/sports-injury-recovery-stages/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

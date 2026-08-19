@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/Hepatitis-Types-Difference5.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["肝炎"]
 blog_tag_theme: ["肝炎"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 31475
 legacyPath: "/blog/hepatitis-types-difference/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

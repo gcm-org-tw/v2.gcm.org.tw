@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/擺脫體內濕氣：女性的身心保養之道
 heroImageAlt: "擺脫體內濕氣：女性的身心保養之道"
 blog_cate: ["preventive-healthcare"]
 blog_tag_theme: ["body-health"]
+authorId: 487
+author: "林芳伃"
+authorRole: "中醫師, 藥師"
 legacyId: 21206
 legacyPath: "/blog/g-fu41l3u3xup6z-m6/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

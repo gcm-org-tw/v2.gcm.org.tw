@@ -6,6 +6,9 @@ updatedDate: "2026-01-29T01:18:08Z"
 heroImage: "/wp-content/uploads/beauty_1766710540674_11zon.webp"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["蔡昀庭"]
+authorId: 796
+author: "蔡昀庭"
+authorRole: "中醫師, 職能治療師"
 legacyId: 36962
 legacyPath: "/blog/exo-tyt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

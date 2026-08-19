@@ -6,6 +6,9 @@ updatedDate: "2025-06-26T13:12:39Z"
 heroImage: "/wp-content/uploads/Cholesterol-Risk-Gap3.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_theme: ["膽固醇"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 30981
 legacyPath: "/blog/cholesterol-risk-gap/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

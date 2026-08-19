@@ -7,6 +7,8 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "news", "appreciation", "preven
 blog_tag: ["諮商心理師", "預防醫學"]
 blog_tag_keyword: ["毛孩陪伴", "諮商心理師", "身心療癒"]
 blog_tag_theme: ["psychological-symptoms", "憂鬱症", "body-health", "醫友生活"]
+authorId: 479
+author: "綦珮如"
 legacyId: 30048
 legacyPath: "/blog/cat-therapy-5-healing-benefits/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

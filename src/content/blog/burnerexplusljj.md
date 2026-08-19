@@ -5,6 +5,8 @@ pubDate: "2025-04-01T05:51:44Z"
 heroImage: "/wp-content/uploads/burnerexplusljj25032405.webp"
 blog_tag_keyword: ["船井生醫-船井倍熱-船井burner-夜孅胺基酸-夜孅錠"]
 blog_tag_theme: ["醫友生活"]
+authorId: 511
+author: "林佳瑾"
 legacyId: 27990
 legacyPath: "/blog/burnerexplusljj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

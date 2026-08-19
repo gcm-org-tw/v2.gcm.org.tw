@@ -6,6 +6,8 @@ updatedDate: "2026-06-04T13:56:55Z"
 heroImage: "/wp-content/uploads/Seasonal-Diet-Preparation8.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["換季飲食"]
+authorId: 497
+author: "協會編輯"
 legacyId: 40810
 legacyPath: "/blog/seasonal-diet-preparation/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -5,6 +5,9 @@ pubDate: "2026-03-30T03:55:39Z"
 updatedDate: "2026-06-23T10:53:36Z"
 heroImage: "/wp-content/uploads/lutein-compare-lht-01.jpg"
 blog_cate: ["appreciation"]
+authorId: 169
+author: "林惠慈"
+authorRole: "營養師"
 legacyId: 39235
 legacyPath: "/blog/lutein-compare-lht/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

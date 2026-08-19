@@ -6,6 +6,9 @@ updatedDate: "2026-06-01T06:57:59Z"
 heroImage: "/wp-content/uploads/Saffron-Health-Benefits-Risks-1.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["藏紅花"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 39505
 legacyPath: "/blog/saffron-health-benefits-risks/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

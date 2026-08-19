@@ -9,6 +9,9 @@ blog_cate: ["appreciation"]
 blog_tag: ["飲食"]
 blog_tag_keyword: ["享嘉-dailyenjoy"]
 blog_tag_theme: ["營養保健", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 338
+author: "李宜真"
+authorRole: "營養師"
 legacyId: 20286
 legacyPath: "/blog/dailyenjoy13548/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

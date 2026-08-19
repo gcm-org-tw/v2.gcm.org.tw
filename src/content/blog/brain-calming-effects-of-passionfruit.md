@@ -6,6 +6,9 @@ updatedDate: "2025-11-28T09:00:35Z"
 heroImage: "/wp-content/uploads/Brain-Calming-Effects-of-Passionfruit２.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["百香果"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 35782
 legacyPath: "/blog/brain-calming-effects-of-passionfruit/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

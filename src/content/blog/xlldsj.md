@@ -6,6 +6,9 @@ updatedDate: "2025-05-06T05:51:08Z"
 heroImage: "/wp-content/uploads/xlldsj25041503.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["nutritional-supplement"]
+authorId: 790
+author: "戴淑娟"
+authorRole: "藥師"
 legacyId: 28289
 legacyPath: "/blog/xlldsj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

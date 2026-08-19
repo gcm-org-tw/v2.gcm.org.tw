@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/Food-Poisoning-Symptoms-and-When-to-Seek-Care-8.
 heroImageAlt: "Food Poisoning Symptoms and When to Seek Care"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["食品中毒"]
+authorId: 497
+author: "協會編輯"
 legacyId: 42427
 legacyPath: "/blog/food-poisoning-symptoms-and-when-to-seek-care/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -10,6 +10,9 @@ blog_tag: ["中醫", "飲食"]
 blog_tag_keyword: ["減重", "飲食"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["黃子彥"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 7188
 legacyPath: "/blog/chinese-medicine-diet/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

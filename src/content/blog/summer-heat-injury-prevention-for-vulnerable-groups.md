@@ -5,6 +5,8 @@ pubDate: "2026-07-08T07:17:02Z"
 updatedDate: "2026-07-07T07:34:56Z"
 heroImage: "/wp-content/uploads/Summer-Heat-Injury-Prevention-for-Vulnerable-Groups-8.jpg"
 blog_tag_keyword: ["熱傷害"]
+authorId: 497
+author: "協會編輯"
 legacyId: 41827
 legacyPath: "/blog/summer-heat-injury-prevention-for-vulnerable-groups/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

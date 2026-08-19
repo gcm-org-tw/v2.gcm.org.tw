@@ -10,6 +10,9 @@ blog_tag: ["中醫", "產後"]
 blog_tag_keyword: ["產後月子"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["王柏鈞"]
+authorId: 134
+author: "王柏鈞"
+authorRole: "中醫師"
 legacyId: 6997
 legacyPath: "/blog/postpartum-revelation/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

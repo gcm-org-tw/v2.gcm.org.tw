@@ -6,6 +6,9 @@ updatedDate: "2024-10-23T11:26:00Z"
 heroImage: "/wp-content/uploads/秋冬提升免疫力：中醫食療與養生的實用秘訣1.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["秋冬進補"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 24035
 legacyPath: "/blog/boost-immunity-in-winter-practical-tcm-food-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

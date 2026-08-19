@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/S__32874508_0.jpg"
 heroImageAlt: "Cure medi 癒醫 日光活力膠囊"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["營養師", "膠囊"]
+authorId: 107
+author: "黃芷昕"
+authorRole: "營養師"
 legacyId: 20406
 legacyPath: "/blog/cure-medi-b4ru0/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

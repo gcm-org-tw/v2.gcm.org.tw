@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["7種純菌益生菌菌株", "亞太十大伴手禮", "六階段專利轉化技術", "台灣全果發酵", "多樣飲用體驗", "鎂", "音樂發酵"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["崔郁文"]
+authorId: 827
+author: "崔郁文"
+authorRole: "家庭醫學科醫師"
 legacyId: 33378
 legacyPath: "/blog/fizzt-tyw/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

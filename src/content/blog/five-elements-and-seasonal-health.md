@@ -6,6 +6,9 @@ updatedDate: "2026-03-27T12:01:24Z"
 heroImage: "/wp-content/uploads/Five-Elements-and-Seasonal-Health4.png"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["24節氣"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 39219
 legacyPath: "/blog/five-elements-and-seasonal-health/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

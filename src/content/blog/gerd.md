@@ -6,6 +6,8 @@ heroImage: "/wp-content/uploads/胃食道逆流是什麼原因？一文看懂胃
 heroImageAlt: "胃食道逆流是什麼原因？一文看懂胃食道逆流病因及治療方式"
 blog_tag_keyword: ["上班族", "壓力", "胃食道逆流"]
 blog_tag_theme: ["慢性病", "營養保健", "body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 24415
 legacyPath: "/blog/gerd/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

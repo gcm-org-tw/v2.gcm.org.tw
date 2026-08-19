@@ -5,6 +5,9 @@ pubDate: "2024-10-22T05:14:25Z"
 updatedDate: "2024-10-23T10:35:52Z"
 heroImage: "/wp-content/uploads/7個簡單步驟幫助你快速降低血脂肪過高.jpg"
 blog_cate: ["rss-newstalk"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 23932
 legacyPath: "/blog/7-steps-to-quickly-lower-high-blood-fat/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

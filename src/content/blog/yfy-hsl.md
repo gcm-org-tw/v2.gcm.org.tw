@@ -6,6 +6,9 @@ updatedDate: "2026-01-28T03:47:05Z"
 heroImage: "/wp-content/uploads/S__10641452_0_7_11zon.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["20-倍微胞橘油", "99-9-制菌力", "true-clean-動態除臭科技", "β-胡蘿蔔素除臭因子", "制菌因子", "無添加", "無香精"]
+authorId: 1000
+author: "黃士倫"
+authorRole: "兒科醫師"
 legacyId: 36923
 legacyPath: "/blog/yfy-hsl/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2026-08-03T01:24:57Z"
 heroImage: "/wp-content/uploads/IMG_5689.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["fibryxa膳食纖維", "sgs檢驗", "山茶花萃取", "排便順暢", "毛喉鞘蕊花萃取", "生薑複合萃取物", "白腎豆萃取", "藤黃果", "調整體質"]
+authorId: 742
+author: "陳冠伶"
+authorRole: "營養師"
 legacyId: 42348
 legacyPath: "/blog/aipro-fiber-cgl/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

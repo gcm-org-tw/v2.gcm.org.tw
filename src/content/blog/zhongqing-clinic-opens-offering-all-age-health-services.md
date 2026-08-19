@@ -5,6 +5,8 @@ pubDate: "2024-09-28T10:38:53Z"
 updatedDate: "2024-09-29T11:42:01Z"
 heroImage: "/wp-content/uploads/新聞稿照片.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23893
 legacyPath: "/blog/zhongqing-clinic-opens-offering-all-age-health-services/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

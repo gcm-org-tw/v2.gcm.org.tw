@@ -6,6 +6,9 @@ updatedDate: "2026-06-03T01:47:51Z"
 heroImage: "/wp-content/uploads/IMG_0146_24_11zon.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["haccp-驗證", "iso22000-驗證", "合格嬰兒副食品工廠", "嬰幼兒副食品高規格", "寶寶與大人都能吃", "快速加熱免開火", "添加益生菌"]
+authorId: 208
+author: "陳盈穎"
+authorRole: "營養師"
 legacyId: 40157
 legacyPath: "/blog/chinbp-zbz-cyy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,8 @@ updatedDate: "2026-07-17T08:16:40Z"
 heroImage: "/wp-content/uploads/Summer-Mosquito-Checklist-Dengue-Japanese-Encephalitis-Outdoor-Safety8.jpg"
 heroImageAlt: "Summer Mosquito Checklist Dengue Japanese Encephalitis, Outdoor Safety"
 blog_cate: ["preventive-healthcare"]
+authorId: 497
+author: "協會編輯"
 legacyId: 41907
 legacyPath: "/blog/summer-mosquito-checklist-dengue-japanese-encephalitis-outdoor-safety/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

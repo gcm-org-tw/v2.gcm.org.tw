@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "news"]
 blog_tag: ["預防醫學"]
 blog_tag_keyword: ["屈公病"]
 blog_tag_theme: ["醫友生活"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 31932
 legacyPath: "/blog/chikungunya-vs-dengue-symptoms-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

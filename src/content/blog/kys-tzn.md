@@ -3,6 +3,9 @@ title: "久站+愛打籃球的物理治療師也愛用！智康生技關養素"
 description: "老實說，市面上號稱保健的產品很多，但看清楚成分與劑量，常常是「名稱好聽，實力空心」。但《關養素》讓我驚喜的是每個成分都講究科學、來源清楚，而且成分之間彼此呼應，發揮加乘效益。"
 pubDate: "2025-08-13T06:51:22Z"
 heroImage: "/wp-content/uploads/IMG_005_修.jpg"
+authorId: 369
+author: "蔡宗恩"
+authorRole: "物理治療師"
 legacyId: 31806
 legacyPath: "/blog/kys-tzn/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

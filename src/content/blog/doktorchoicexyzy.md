@@ -5,6 +5,9 @@ pubDate: "2024-09-23T04:55:54Z"
 heroImage: "/wp-content/uploads/水汪汪亮晶晶膠囊1-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["廖哲鶯"]
+authorId: 366
+author: "廖哲鶯"
+authorRole: "一般醫學科醫師"
 legacyId: 23464
 legacyPath: "/blog/doktorchoicexyzy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

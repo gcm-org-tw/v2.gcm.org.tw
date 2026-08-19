@@ -6,6 +6,9 @@ updatedDate: "2024-09-07T12:47:22Z"
 heroImage: "/wp-content/uploads/20240804_193151-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["廖哲鶯"]
+authorId: 366
+author: "廖哲鶯"
+authorRole: "一般醫學科醫師"
 legacyId: 23395
 legacyPath: "/blog/jy-easycare-lzy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

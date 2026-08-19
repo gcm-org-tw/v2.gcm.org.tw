@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/kkslsy25061801-e1750319394960.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["盧思云"]
+authorId: 544
+author: "盧思云"
+authorRole: "一般醫學科醫師"
 legacyId: 30702
 legacyPath: "/blog/coco-flora-lsy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

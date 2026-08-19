@@ -6,6 +6,9 @@ updatedDate: "2025-05-30T09:09:49Z"
 heroImage: "/wp-content/uploads/Camu-Camu-Weight-Loss-Studies.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["卡姆果"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 30083
 legacyPath: "/blog/camu-camu-weight-loss-studies/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

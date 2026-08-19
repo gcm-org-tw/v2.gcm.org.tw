@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "appreciation", "preventive-healthcare"]
 blog_tag: ["中醫師", "中醫飲食", "營養保健", "預防醫學"]
 blog_tag_keyword: ["中醫師", "減體脂", "燃脂瘦身"]
 blog_tag_theme: ["營養保健", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 514
+author: "林湘宛"
+authorRole: "中醫師"
 legacyId: 28129
 legacyPath: "/blog/weight-loss-myths-busted/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

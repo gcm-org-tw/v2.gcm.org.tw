@@ -6,6 +6,9 @@ updatedDate: "2024-08-23T03:22:38Z"
 heroImage: "/wp-content/uploads/0441DBCC-7282-440F-AE7F-97F55FD7F87A-scaled-e1728013912709.jpeg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["28種酵素", "4種嚴選腸道活菌", "sgs試驗報告365項西藥未檢出", "多種草本纖維", "素食可用"]
+authorId: 523
+author: "林宛瑩"
+authorRole: "家庭醫學科醫師"
 legacyId: 23147
 legacyPath: "/blog/chrishealthyliving-ymx-lwy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

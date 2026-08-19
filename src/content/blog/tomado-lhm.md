@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["永欣診所", "番茄激光膠囊", "番茄透光蠶絲修復面膜"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["李協明"]
+authorId: 204
+author: "李協明"
+authorRole: "營養師"
 legacyId: 24595
 legacyPath: "/blog/tomado-lhm/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

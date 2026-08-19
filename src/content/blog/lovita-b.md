@@ -6,6 +6,9 @@ updatedDate: "2026-05-27T01:37:55Z"
 heroImage: "/wp-content/uploads/fab26504-dc3d-4e9d-a5f6-a3f54e67d9c6_10_11zon.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["10種完整b群組合", "4合1美妍複方", "美國認證", "美妍活力", "蔓越莓萃取", "重金屬檢驗", "鐵鋅鉻硒", "長效緩釋"]
+authorId: 694
+author: "王柏筠"
+authorRole: "家庭醫學科醫師"
 legacyId: 40098
 legacyPath: "/blog/lovita-b/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

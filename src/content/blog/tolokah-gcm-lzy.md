@@ -5,6 +5,9 @@ pubDate: "2025-07-16T08:21:17Z"
 heroImage: "/wp-content/uploads/創辦人陳炫然與廖哲鶯醫師交流妥樂高的系統設計_已修改.webp"
 blog_tag_keyword: ["妥樂高"]
 blog_fr_doctors: ["廖哲鶯"]
+authorId: 366
+author: "廖哲鶯"
+authorRole: "一般醫學科醫師"
 legacyId: 31183
 legacyPath: "/blog/tolokah-gcm-lzy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

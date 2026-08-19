@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/GOYAMINxxt25061801.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["謝欣庭"]
+authorId: 693
+author: "謝欣庭"
+authorRole: "家庭醫學科醫師"
 legacyId: 30747
 legacyPath: "/blog/goyamin-xxt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

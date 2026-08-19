@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["msm", "凍晶蛹蟲草", "加拿大專利蛋殼膜", "愛爾蘭紅藻海藻鈣", "杜仲葉", "筋骨草", "薑黃素", "貓爪藤"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["吳慈華"]
+authorId: 368
+author: "吳慈華"
+authorRole: "護理師"
 legacyId: 31511
 legacyPath: "/blog/kys-wth/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

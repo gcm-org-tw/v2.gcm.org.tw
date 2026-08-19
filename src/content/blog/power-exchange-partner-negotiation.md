@@ -6,6 +6,8 @@ updatedDate: "2026-01-13T03:51:43Z"
 heroImage: "/wp-content/uploads/Power-Exchange-Partner-Negotiation5.jpg"
 blog_cate: ["preventive-healthcare", "experts"]
 blog_tag_keyword: ["bdsm"]
+authorId: 497
+author: "協會編輯"
 legacyId: 36922
 legacyPath: "/blog/power-exchange-partner-negotiation/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -5,6 +5,9 @@ pubDate: "2025-03-01T05:14:16Z"
 updatedDate: "2025-02-09T13:17:55Z"
 heroImage: "/wp-content/uploads/Prevent-Colon-Cancer-Naturally.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare", "experts"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26640
 legacyPath: "/blog/prevent-colon-cancer-naturally/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

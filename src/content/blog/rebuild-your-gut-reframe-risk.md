@@ -8,6 +8,9 @@ blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag: ["預防醫學"]
 blog_tag_keyword: ["大腸癌"]
 blog_tag_theme: ["益生菌"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 33581
 legacyPath: "/blog/rebuild-your-gut-reframe-risk/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

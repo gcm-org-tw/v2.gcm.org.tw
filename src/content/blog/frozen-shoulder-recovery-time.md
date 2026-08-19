@@ -6,6 +6,9 @@ updatedDate: "2026-05-03T12:56:30Z"
 heroImage: "/wp-content/uploads/Frozen-Shoulder-Recovery-Time8.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["五十肩"]
+authorId: 242
+author: "張家誠"
+authorRole: "中醫師"
 legacyId: 38930
 legacyPath: "/blog/frozen-shoulder-recovery-time/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

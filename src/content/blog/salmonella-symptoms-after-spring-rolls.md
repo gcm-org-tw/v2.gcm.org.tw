@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/Salmonella-Symptoms-After-Spring-Rolls4.jpg"
 heroImageAlt: "Salmonella Symptoms After Spring Rolls"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["沙門氏菌"]
+authorId: 497
+author: "協會編輯"
 legacyId: 39352
 legacyPath: "/blog/salmonella-symptoms-after-spring-rolls/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

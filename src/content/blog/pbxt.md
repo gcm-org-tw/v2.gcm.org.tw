@@ -6,6 +6,9 @@ updatedDate: "2025-05-07T09:27:28Z"
 heroImage: "/wp-content/uploads/從腸道到大腦-益生菌竟有助情緒管理-1.png"
 heroImageAlt: "從腸道到大腦 益生菌竟有助情緒管理"
 blog_tag_keyword: ["不含乳糖認證", "不含大豆製品認證", "不含麩質認證", "熱銷-26-國", "素食認證"]
+authorId: 693
+author: "謝欣庭"
+authorRole: "家庭醫學科醫師"
 legacyId: 28389
 legacyPath: "/blog/pbxt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

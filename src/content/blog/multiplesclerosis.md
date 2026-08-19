@@ -8,6 +8,8 @@ heroImageAlt: "【罕見疾病】多發性硬化症：症狀、成因、治療�
 blog_tag: ["多發性硬化症", "預防醫學"]
 blog_tag_keyword: ["多發性硬化症"]
 blog_tag_theme: ["罕見疾病", "body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 24412
 legacyPath: "/blog/multiplesclerosis/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

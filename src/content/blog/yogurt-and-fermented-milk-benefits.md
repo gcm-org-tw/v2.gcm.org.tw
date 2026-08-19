@@ -5,6 +5,9 @@ pubDate: "2026-06-23T12:13:49Z"
 updatedDate: "2026-06-23T13:41:29Z"
 heroImage: "/wp-content/uploads/Yogurt-and-Fermented-Milk-Benefits8.jpg"
 blog_tag_keyword: ["優酪乳"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 41534
 legacyPath: "/blog/yogurt-and-fermented-milk-benefits/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

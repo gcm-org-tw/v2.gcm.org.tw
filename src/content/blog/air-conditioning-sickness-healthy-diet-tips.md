@@ -10,6 +10,9 @@ blog_tag: ["冷氣病"]
 blog_tag_keyword: ["冷氣病"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["黃詩涵"]
+authorId: 115
+author: "黃詩涵"
+authorRole: "營養師"
 legacyId: 8536
 legacyPath: "/blog/air-conditioning-sickness-healthy-diet-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

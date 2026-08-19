@@ -9,6 +9,8 @@ blog_cate: ["press"]
 blog_tag: ["sportvis", "stabha玻尿酸", "復健", "王凱平", "玻尿酸", "肌腱", "肌腱韌帶專用玻尿酸", "運動醫學", "韌帶"]
 blog_tag_keyword: ["sportvis"]
 blog_tag_theme: ["媒體報導"]
+authorId: 497
+author: "協會編輯"
 legacyId: 14768
 legacyPath: "/blog/sportvisdrkp/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

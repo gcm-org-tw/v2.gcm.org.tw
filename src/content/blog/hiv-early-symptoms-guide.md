@@ -6,6 +6,9 @@ updatedDate: "2025-04-03T10:58:42Z"
 heroImage: "/wp-content/uploads/HIV-Early-Symptoms-Guide2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["人類免疫缺乏病毒"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 28204
 legacyPath: "/blog/hiv-early-symptoms-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

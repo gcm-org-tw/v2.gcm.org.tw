@@ -6,6 +6,9 @@ updatedDate: "2026-06-23T06:18:48Z"
 heroImage: "/wp-content/uploads/zrdffishob-01-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["95-epa魚油", "96-omega-3", "epa-1140mg", "台灣在地純化", "小膠囊", "超臨界流體技術"]
+authorId: 963
+author: "鄭瑞德"
+authorRole: "家庭醫學科醫師"
 legacyId: 40593
 legacyPath: "/blog/zrdffishob/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

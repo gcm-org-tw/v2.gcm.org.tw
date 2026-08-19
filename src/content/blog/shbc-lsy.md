@@ -6,6 +6,9 @@ updatedDate: "2025-10-08T12:10:26Z"
 heroImage: "/wp-content/uploads/shbc-lsy25092401.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
+authorId: 544
+author: "盧思云"
+authorRole: "一般醫學科醫師"
 legacyId: 33395
 legacyPath: "/blog/shbc-lsy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

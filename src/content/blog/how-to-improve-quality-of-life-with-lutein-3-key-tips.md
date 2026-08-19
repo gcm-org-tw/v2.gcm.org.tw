@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/玉米黃素.jpg"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["玉米黃素"]
 blog_tag_theme: ["body-health"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 21974
 legacyPath: "/blog/how-to-improve-quality-of-life-with-lutein-3-key-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -5,6 +5,9 @@ pubDate: "2025-04-25T05:03:38Z"
 updatedDate: "2025-04-20T13:20:22Z"
 heroImage: "/wp-content/uploads/World-Parkinsons-Day-Guide.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 28341
 legacyPath: "/blog/world-parkinsons-day-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

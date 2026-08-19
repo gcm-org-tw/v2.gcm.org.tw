@@ -5,6 +5,8 @@ pubDate: "2024-09-05T12:37:25Z"
 heroImage: "/wp-content/uploads/是否有蔓越莓禁忌？這-4-大蔓越莓副作用不可不知.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["蔓越莓"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23518
 legacyPath: "/blog/are-there-any-cranberry-warnings-4-major-cranberry-side-effects-you-must-know/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/exthatnongernmentionablelfy24612.jpg"
 heroImageAlt: "不再難以啟齒的”性”—談談漢方壯陽的全方位調理"
 blog_cate: ["preventive-healthcare"]
 blog_tag_theme: ["body-health"]
+authorId: 431
+author: "廖芳儀"
+authorRole: "中醫師"
 legacyId: 21951
 legacyPath: "/blog/exthatnongernmentionablelfy24612/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

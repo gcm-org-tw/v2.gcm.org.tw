@@ -7,6 +7,8 @@ blog_cate: ["gcm-news", "rss-newstalk", "news", "appreciation", "preventive-heal
 blog_tag: ["預防醫學"]
 blog_tag_keyword: ["心理", "感情問題"]
 blog_tag_theme: ["媒體報導", "psychological-symptoms", "醫友生活"]
+authorId: 268
+author: "陳莉婷"
 legacyId: 27902
 legacyPath: "/blog/avoid-players-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

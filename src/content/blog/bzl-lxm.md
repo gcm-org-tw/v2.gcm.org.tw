@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["90天毒性試驗", "sgs檢驗合格", "三萜類", "多醣體", "晶球劑型", "牛樟椴木子實體", "牛樟芝"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["李協明"]
+authorId: 204
+author: "李協明"
+authorRole: "營養師"
 legacyId: 33445
 legacyPath: "/blog/bzl-lxm/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,8 @@ updatedDate: "2026-06-04T03:07:26Z"
 heroImage: "/wp-content/uploads/S__66879590_0.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["大西瓜"]
+authorId: 497
+author: "協會編輯"
 legacyId: 40749
 legacyPath: "/blog/huabao-watermelon-selection-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

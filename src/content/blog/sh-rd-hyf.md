@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/SHRD-HYF25102201.webp"
 blog_tag_keyword: ["10-秒順髮神器", "6-大功效", "rd霜", "sgs檢驗合格", "乾濕兩用", "免沖洗護髮霜", "水解蠶絲蛋白", "維他命原-b5", "迷迭香植萃"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["黃詠霏"]
+authorId: 465
+author: "黃泳霏"
+authorRole: "藥師"
 legacyId: 33651
 legacyPath: "/blog/sh-rd-hyf/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

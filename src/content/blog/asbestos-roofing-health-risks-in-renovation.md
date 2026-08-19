@@ -6,6 +6,8 @@ updatedDate: "2026-03-12T09:54:02Z"
 heroImage: "/wp-content/uploads/4.Asbestos-Roofing-Health-Risks-in-Renovation_0.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["石棉瓦"]
+authorId: 497
+author: "協會編輯"
 legacyId: 36990
 legacyPath: "/blog/asbestos-roofing-health-risks-in-renovation/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

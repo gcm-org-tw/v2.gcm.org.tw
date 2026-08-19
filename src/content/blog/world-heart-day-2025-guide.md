@@ -4,6 +4,9 @@ description: "世界心臟日2025聚焦「啟動護心每一H.E.A.R.T.」，提�
 pubDate: "2025-09-15T05:14:19Z"
 updatedDate: "2025-09-14T12:43:30Z"
 heroImage: "/wp-content/uploads/World-Heart-Day-2025-Guide2.jpg"
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 32877
 legacyPath: "/blog/world-heart-day-2025-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

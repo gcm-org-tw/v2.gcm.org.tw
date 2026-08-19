@@ -8,6 +8,9 @@ blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["免疫力"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["黃子彥"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 4323
 legacyPath: "/blog/enhance-immunity-reishi-soup/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

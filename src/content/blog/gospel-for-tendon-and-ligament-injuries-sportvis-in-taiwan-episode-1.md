@@ -5,6 +5,8 @@ pubDate: "2024-09-06T06:10:36Z"
 heroImage: "/wp-content/uploads/肌腱韌帶損傷福音.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["sportvis"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23529
 legacyPath: "/blog/gospel-for-tendon-and-ligament-injuries-sportvis-in-taiwan-episode-1/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

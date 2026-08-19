@@ -6,6 +6,9 @@ updatedDate: "2025-02-06T09:59:43Z"
 heroImage: "/wp-content/uploads/Boost-Health-with-5-Blood-Nourishing-Tips4.jpg"
 blog_cate: ["rss-newstalk", "appreciation", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["補血"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26608
 legacyPath: "/blog/boost-health-with-5-blood-nourishing-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

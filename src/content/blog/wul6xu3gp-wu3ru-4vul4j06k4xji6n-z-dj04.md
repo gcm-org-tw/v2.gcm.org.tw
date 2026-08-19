@@ -5,6 +5,9 @@ pubDate: "2024-05-13T01:12:17Z"
 heroImage: "/wp-content/uploads/調理身體就像玩俄羅斯方塊.jpg"
 blog_cate: ["preventive-healthcare"]
 blog_tag_theme: ["body-health"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 20484
 legacyPath: "/blog/wul6xu3gp-wu3ru-4vul4j06k4xji6n-z-dj04/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2026-06-24T01:37:54Z"
 heroImage: "/wp-content/uploads/omni-99-caw02-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["9-種人體原生菌株", "全球前三大益生菌品牌", "國際益生菌高標準", "專利-probioact-technology", "調節生理機能"]
+authorId: 982
+author: "張安華"
+authorRole: "家庭醫學科醫師"
 legacyId: 40713
 legacyPath: "/blog/omni-biotic-caw/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

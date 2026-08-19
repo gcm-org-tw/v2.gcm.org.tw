@@ -6,6 +6,8 @@ updatedDate: "2025-10-26T14:48:56Z"
 heroImage: "/wp-content/uploads/BDSM-Health-Risk-Guide5.jpg"
 blog_cate: ["preventive-healthcare", "experts"]
 blog_tag_keyword: ["bdsm"]
+authorId: 497
+author: "協會編輯"
 legacyId: 33699
 legacyPath: "/blog/bdsm-health-risk-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

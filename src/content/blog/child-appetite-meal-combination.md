@@ -6,6 +6,9 @@ updatedDate: "2026-01-22T12:19:08Z"
 heroImage: "/wp-content/uploads/Child-Appetite-Meal-Combination1.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["轉大人"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 37241
 legacyPath: "/blog/child-appetite-meal-combination/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

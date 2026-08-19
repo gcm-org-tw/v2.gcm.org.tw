@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["sgs檢驗", "海星枝管藻", "玻尿酸", "神經胜肽複合物", "神經醯胺", "紅蠍胜肽", "高山火絨草"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["蔡昀庭"]
+authorId: 796
+author: "蔡昀庭"
+authorRole: "中醫師, 職能治療師"
 legacyId: 35064
 legacyPath: "/blog/almiya-tyt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -10,6 +10,9 @@ blog_tag: ["健身", "按摩", "痠痛"]
 blog_tag_keyword: ["痠痛"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["協會顧問"]
+authorId: 131
+author: "曾荃鈺"
+authorRole: "協會顧問"
 legacyId: 9004
 legacyPath: "/blog/pain-despite-massage-posture-issue/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

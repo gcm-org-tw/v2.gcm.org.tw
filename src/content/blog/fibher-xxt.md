@@ -6,6 +6,9 @@ updatedDate: "2026-05-04T02:49:14Z"
 heroImage: "/wp-content/uploads/FIBHER-xxt26041701.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["sgs-安心檢驗", "專利藤黃果", "日本專利水溶性纖維fibersol-2", "熱帶水果乳酸", "白腎豆萃取", "蔬果酵素", "超級莓果", "醇濃可可", "高濃度玻尿酸"]
+authorId: 693
+author: "謝欣庭"
+authorRole: "家庭醫學科醫師"
 legacyId: 39730
 legacyPath: "/blog/fibher-xxt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

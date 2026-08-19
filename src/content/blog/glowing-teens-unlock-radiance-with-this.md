@@ -8,6 +8,9 @@ blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["飲食"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["黃子彥"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 4317
 legacyPath: "/blog/glowing-teens-unlock-radiance-with-this/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

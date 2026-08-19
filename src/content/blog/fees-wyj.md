@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["soline-葵花籽精萃", "一抹涼感，五秒喚醒身體能量", "三重涼感因子", "孕婦可用（3個月以上）", "複方花植精油", "階段涼感", "雙重玫瑰花水"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["吳妍潔"]
+authorId: 543
+author: "吳妍潔"
+authorRole: "營養師"
 legacyId: 33724
 legacyPath: "/blog/fees-wyj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

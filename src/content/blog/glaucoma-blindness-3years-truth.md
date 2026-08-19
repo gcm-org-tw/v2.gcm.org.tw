@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/glaucoma-blindness-3years-truth.jpg"
 heroImageAlt: "glaucoma-blindness-3years-truth"
 blog_tag_keyword: ["慢性病", "白內障", "眼部疾病", "青光眼"]
 blog_tag_theme: ["營養保健", "body-health", "醫友生活"]
+authorId: 497
+author: "協會編輯"
 legacyId: 25710
 legacyPath: "/blog/glaucoma-blindness-3years-truth/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

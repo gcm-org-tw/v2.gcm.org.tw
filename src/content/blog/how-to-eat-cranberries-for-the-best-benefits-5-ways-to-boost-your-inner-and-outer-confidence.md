@@ -4,6 +4,8 @@ description: "蔓越莓因其豐富的營養成分，如維生素C、E、花青�
 pubDate: "2024-09-05T08:18:34Z"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["蔓越莓"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23513
 legacyPath: "/blog/how-to-eat-cranberries-for-the-best-benefits-5-ways-to-boost-your-inner-and-outer-confidence/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

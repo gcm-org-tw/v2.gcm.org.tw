@@ -5,6 +5,8 @@ pubDate: "2025-12-01T00:53:41Z"
 updatedDate: "2025-11-30T13:57:44Z"
 heroImage: "/wp-content/uploads/esthetics-and-Pressure-Dynamics4.jpg"
 blog_cate: ["preventive-healthcare", "experts"]
+authorId: 497
+author: "協會編輯"
 legacyId: 35786
 legacyPath: "/blog/aesthetics-and-pressure-dynamics/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

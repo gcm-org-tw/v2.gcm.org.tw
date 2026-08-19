@@ -5,6 +5,8 @@ pubDate: "2026-03-06T04:40:29Z"
 heroImage: "/wp-content/uploads/S__9805893_0_14_11zon-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["ses319-因子", "sgs-檢驗", "β-隱黃素", "專利藻紅素", "愛媛溫州蜜柑", "游離型葉黃素"]
+authorId: 516
+author: "陳安湲"
 legacyId: 37560
 legacyPath: "/blog/largan-jklk-cay/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

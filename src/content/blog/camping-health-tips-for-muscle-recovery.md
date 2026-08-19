@@ -8,6 +8,8 @@ blog_cate: ["preventive-healthcare"]
 blog_tag: ["物理治療師"]
 blog_tag_keyword: ["物理治療"]
 blog_tag_theme: ["body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 18591
 legacyPath: "/blog/camping-health-tips-for-muscle-recovery/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2024-10-20T09:21:04Z"
 heroImage: "/wp-content/uploads/中醫男女性保健：秋冬季身心健康的6大實用建議.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["秋冬"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 24028
 legacyPath: "/blog/6-tcm-tips-for-mens-and-womens-health-in-winter/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

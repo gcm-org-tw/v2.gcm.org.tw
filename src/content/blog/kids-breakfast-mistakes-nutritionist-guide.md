@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["營養保健", "營養師", "預防醫學"]
 blog_tag_keyword: ["兒童早餐", "營養師"]
 blog_tag_theme: ["營養保健", "nutritional-supplement", "醫友生活"]
+authorId: 290
+author: "張馨方"
+authorRole: "營養師"
 legacyId: 28671
 legacyPath: "/blog/kids-breakfast-mistakes-nutritionist-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

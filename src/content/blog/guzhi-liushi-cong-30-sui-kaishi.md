@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["營養保健", "營養師", "鈣", "預防醫學"]
 blog_tag_keyword: ["營養師", "骨質流失", "骨質疏鬆"]
 blog_tag_theme: ["營養保健", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 308
+author: "陳盈州"
+authorRole: "營養師"
 legacyId: 31572
 legacyPath: "/blog/guzhi-liushi-cong-30-sui-kaishi/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

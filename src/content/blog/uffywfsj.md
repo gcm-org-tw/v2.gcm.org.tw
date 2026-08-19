@@ -9,6 +9,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["無非梳", "遠紅外線按摩梳", "頭皮保養"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["何欣蓉"]
+authorId: 285
+author: "何欣蓉"
+authorRole: "中醫師"
 legacyId: 21279
 legacyPath: "/blog/uffywfsj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2025-07-12T08:57:59Z"
 heroImage: "/wp-content/uploads/Dark-Chocolate-Habit6.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["巧克力"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 31246
 legacyPath: "/blog/dark-chocolate-habit/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -10,6 +10,9 @@ blog_tag: ["抑鬱", "物理治療"]
 blog_tag_keyword: ["抑鬱"]
 blog_tag_theme: ["psychological-symptoms"]
 blog_fr_doctors: ["李宥儒"]
+authorId: 246
+author: "李宥儒"
+authorRole: "物理治療師"
 legacyId: 8636
 legacyPath: "/blog/depression-therapy-power-duo/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

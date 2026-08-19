@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/Wheat-Germ-Oil-Benefits.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["小麥胚芽油"]
 blog_tag_theme: ["body-health"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25491
 legacyPath: "/blog/wheat-germ-oil-benefits5-key-health-advantages/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

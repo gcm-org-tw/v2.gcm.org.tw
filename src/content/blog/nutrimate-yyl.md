@@ -6,6 +6,9 @@ updatedDate: "2026-05-20T01:42:53Z"
 heroImage: "/wp-content/uploads/IMG_1931_15_11zon-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["bjp2", "全素", "專利咸豐草", "茯苓萃", "車前草", "飯後食用"]
+authorId: 1080
+author: "楊幼琳"
+authorRole: "內科醫師"
 legacyId: 40122
 legacyPath: "/blog/nutrimate-yyl/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

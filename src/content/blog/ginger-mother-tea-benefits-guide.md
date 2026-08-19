@@ -5,6 +5,9 @@ pubDate: "2026-06-24T07:27:36Z"
 updatedDate: "2026-06-24T07:39:53Z"
 heroImage: "/wp-content/uploads/Ginger-Mother-Tea-Benefits-Guide8.jpg"
 blog_tag_keyword: ["薑母茶"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 41538
 legacyPath: "/blog/ginger-mother-tea-benefits-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

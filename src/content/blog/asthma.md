@@ -8,6 +8,8 @@ heroImageAlt: "氣喘會好嗎？氣喘的成因與改善、治療對策一次�
 blog_tag: ["氣喘", "預防醫學"]
 blog_tag_keyword: ["壓力", "氣喘", "飲食"]
 blog_tag_theme: ["氣喘", "body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23889
 legacyPath: "/blog/asthma/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2024-10-10T11:53:34Z"
 heroImage: "/wp-content/uploads/避免農藥殘留：如何選擇更健康的加工食品.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["農藥殘留"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 23957
 legacyPath: "/blog/how-to-choose-healthier-processed-foods-avoid-pesticide-residue/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

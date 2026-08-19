@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["妥樂高"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["姜封豪"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 31550
 legacyPath: "/blog/tolokah-jfh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

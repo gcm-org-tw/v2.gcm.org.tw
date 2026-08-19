@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/shbc-ttn25092403.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["蔡宗恩"]
+authorId: 369
+author: "蔡宗恩"
+authorRole: "物理治療師"
 legacyId: 33396
 legacyPath: "/blog/shbc-ttn/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

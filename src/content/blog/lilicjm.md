@@ -7,6 +7,9 @@ heroImageAlt: "lilicja"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["陳進明"]
+authorId: 814
+author: "陳進明"
+authorRole: "內科醫師"
 legacyId: 25267
 legacyPath: "/blog/lilicjm/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

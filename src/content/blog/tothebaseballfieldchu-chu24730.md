@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/tothebaseballfieldchu-chu24730-scaled.jpg"
 heroImageAlt: "炎炎夏日去哪裡？物理治療師：棒球場啊！"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["物理治療", "運動"]
+authorId: 256
+author: "陳郁安"
+authorRole: "物理治療師"
 legacyId: 23109
 legacyPath: "/blog/tothebaseballfieldchu-chu24730/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

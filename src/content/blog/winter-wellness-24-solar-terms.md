@@ -5,6 +5,9 @@ pubDate: "2025-09-30T08:31:41Z"
 updatedDate: "2025-09-30T07:54:55Z"
 heroImage: "/wp-content/uploads/Winter-Wellness-24-Solar-Terms5.jpg"
 blog_cate: ["rss-newstalk", "news", "preventive-healthcare"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 33430
 legacyPath: "/blog/winter-wellness-24-solar-terms/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2026-05-20T08:55:06Z"
 heroImage: "/wp-content/uploads/LINE_NOTE_260325_5_16_11zon.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["三萜類", "多醣體", "朝鮮薊萃取", "法國-guaraxus-專利瓜拿納", "牛樟芝菌絲體", "牛磺酸", "紅景天", "草本適應原"]
+authorId: 286
+author: "劉郁辰"
+authorRole: "中醫師"
 legacyId: 39987
 legacyPath: "/blog/rapap-wake-up-lyc/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

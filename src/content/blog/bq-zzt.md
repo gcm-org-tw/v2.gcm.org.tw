@@ -8,6 +8,8 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["博泉月亮杯"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["張至婷"]
+authorId: 497
+author: "協會編輯"
 legacyId: 30914
 legacyPath: "/blog/bq-zzt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -8,6 +8,9 @@ heroImageAlt: "Prorection012"
 blog_cate: ["gcm-news", "rss-newstalk", "press"]
 blog_tag_keyword: ["運動保健", "運動傷害"]
 blog_tag_theme: ["媒體報導", "body-health", "醫友生活"]
+authorId: 292
+author: "李冠毅"
+authorRole: "復健科醫師"
 legacyId: 25497
 legacyPath: "/blog/key_protection_and_movement_health_guide01/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2025-05-04T14:16:07Z"
 heroImage: "/wp-content/uploads/5-Pregnancy-Hair-Care-Tips5-3.jpg"
 blog_cate: ["rss-newstalk", "press", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["頭髮保養"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 28476
 legacyPath: "/blog/5-pregnancy-hair-care-tips5/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

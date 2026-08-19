@@ -6,6 +6,9 @@ updatedDate: "2025-07-20T07:20:09Z"
 heroImage: "/wp-content/uploads/HIV-Contact-Fear.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare"]
 blog_tag_theme: ["愛滋病毒"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 31470
 legacyPath: "/blog/hiv-contact-fear/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

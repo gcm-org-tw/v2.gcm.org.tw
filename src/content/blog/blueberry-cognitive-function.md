@@ -6,6 +6,8 @@ updatedDate: "2026-01-27T14:34:42Z"
 heroImage: "/wp-content/uploads/Blueberry-Cognitive-Function2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["腦部血流"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37359
 legacyPath: "/blog/blueberry-cognitive-function/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

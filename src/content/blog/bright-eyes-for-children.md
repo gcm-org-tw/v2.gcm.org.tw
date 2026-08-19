@@ -10,6 +10,9 @@ blog_tag: ["視力保健"]
 blog_tag_keyword: ["視力"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["陳建甫"]
+authorId: 137
+author: "陳建甫"
+authorRole: "中醫師"
 legacyId: 7812
 legacyPath: "/blog/bright-eyes-for-children/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

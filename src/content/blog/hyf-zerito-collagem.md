@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/hyf20241219c.jpg"
 blog_tag_keyword: ["98-8高度仿生膠原蛋白", "富士雪櫻靈芝粉", "維生素c", "纖維包覆超級莓果發酵精華粉"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["黃泳霏"]
+authorId: 465
+author: "黃泳霏"
+authorRole: "藥師"
 legacyId: 25539
 legacyPath: "/blog/hyf-zerito-collagem/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

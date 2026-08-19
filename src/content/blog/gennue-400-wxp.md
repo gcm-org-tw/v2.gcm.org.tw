@@ -6,6 +6,9 @@ updatedDate: "2026-08-05T00:44:40Z"
 heroImage: "/wp-content/uploads/11zon_IMG_7536.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["11種命名菌株", "a-a-clean-label", "gennue-400億纖舒敏益生菌", "lp28", "m1-後生元", "sgs", "wellmune"]
+authorId: 858
+author: "王筱萍"
+authorRole: "中醫師"
 legacyId: 41887
 legacyPath: "/blog/gennue-400-wxp/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2026-07-15T08:40:02Z"
 heroImage: "/wp-content/uploads/ftvmallgaffishob-01.jpg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["95-epa魚油", "96-omega-3", "epa-1140mg", "台灣在地純化", "小膠囊", "超臨界流體技術"]
+authorId: 1090
+author: "郭安妮"
+authorRole: "婦產科醫師"
 legacyId: 40594
 legacyPath: "/blog/ftvmallgaffishob-annie/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

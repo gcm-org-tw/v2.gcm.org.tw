@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "news"]
 blog_tag: ["營養保健", "營養師"]
 blog_tag_keyword: ["a型流感", "併發症", "流感病毒"]
 blog_tag_theme: ["媒體報導", "營養保健", "nutritional-supplement", "body-health"]
+authorId: 259
+author: "蔡旻達"
+authorRole: "營養師"
 legacyId: 26603
 legacyPath: "/blog/flu-complications-pneumonia-risk/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

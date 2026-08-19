@@ -6,6 +6,9 @@ updatedDate: "2026-05-29T00:35:24Z"
 heroImage: "/wp-content/uploads/IMG_6668_4_11zon-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["1-顆抵-18-顆", "1000-mcg-關鍵補給", "11", "專業保健品牌", "生物素", "素食", "美國製造"]
+authorId: 827
+author: "崔郁文"
+authorRole: "家庭醫學科醫師"
 legacyId: 40099
 legacyPath: "/blog/lovita-11000mcg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

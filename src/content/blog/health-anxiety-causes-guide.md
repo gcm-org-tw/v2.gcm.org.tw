@@ -6,6 +6,8 @@ updatedDate: "2026-03-23T12:21:25Z"
 heroImage: "/wp-content/uploads/Health-Anxiety-Causes-Guide8.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["慮病症"]
+authorId: 497
+author: "協會編輯"
 legacyId: 39177
 legacyPath: "/blog/health-anxiety-causes-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

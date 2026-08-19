@@ -8,6 +8,9 @@ heroImageAlt: "沙漠鹽"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["沙漠鹽"]
 blog_tag_theme: ["body-health"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 22004
 legacyPath: "/blog/desert-salts-magic-power/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

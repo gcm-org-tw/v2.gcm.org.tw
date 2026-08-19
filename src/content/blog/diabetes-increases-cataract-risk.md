@@ -9,6 +9,9 @@ blog_tag: ["白內障", "糖尿病"]
 blog_tag_keyword: ["白內障"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["黃芷昕"]
+authorId: 107
+author: "黃芷昕"
+authorRole: "營養師"
 legacyId: 13839
 legacyPath: "/blog/diabetes-increases-cataract-risk/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

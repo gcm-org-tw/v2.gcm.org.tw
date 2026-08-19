@@ -6,6 +6,9 @@ updatedDate: "2024-12-30T06:51:45Z"
 heroImage: "/wp-content/uploads/Echinacea-Tea-Benefits2.jpg"
 blog_cate: ["rss-newstalk", "appreciation", "preventive-healthcare"]
 blog_tag_keyword: ["紫錐花"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25470
 legacyPath: "/blog/echinacea-tea-benefits-natural-immune-boost-and-anti-inflammation/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

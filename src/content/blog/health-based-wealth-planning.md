@@ -6,6 +6,8 @@ updatedDate: "2025-07-10T05:32:33Z"
 heroImage: "/wp-content/uploads/Health-Based-Wealth-Planning3.jpg"
 blog_cate: ["gcm-news", "press", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["財務規劃師"]
+authorId: 497
+author: "協會編輯"
 legacyId: 31217
 legacyPath: "/blog/health-based-wealth-planning/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

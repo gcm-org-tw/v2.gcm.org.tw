@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/BDSM-Safety-Intimacy-Guide6.jpg"
 blog_cate: ["preventive-healthcare", "experts"]
 blog_tag: ["預防醫學"]
 blog_tag_theme: ["bdsm"]
+authorId: 497
+author: "協會編輯"
 legacyId: 33626
 legacyPath: "/blog/bdsm-safety-intimacy-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

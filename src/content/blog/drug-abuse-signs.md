@@ -10,6 +10,9 @@ blog_tag: ["濫用藥物"]
 blog_tag_keyword: ["濫用藥物"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["吳禾中"]
+authorId: 98
+author: "吳禾中"
+authorRole: "藥師"
 legacyId: 7626
 legacyPath: "/blog/drug-abuse-signs/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -10,6 +10,9 @@ blog_tag: ["益生菌"]
 blog_tag_keyword: ["益生菌"]
 blog_tag_theme: ["nutritional-supplement"]
 blog_fr_doctors: ["黃芷昕"]
+authorId: 107
+author: "黃芷昕"
+authorRole: "營養師"
 legacyId: 18529
 legacyPath: "/blog/anti-aging-secrets-nutritionist-guide-probiotics/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

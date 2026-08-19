@@ -6,6 +6,9 @@ updatedDate: "2025-09-18T13:11:18Z"
 heroImage: "/wp-content/uploads/AI-Doctor-Twin-Support3.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_theme: ["ai醫師分身"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 33236
 legacyPath: "/blog/ai-doctor-twin-support/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

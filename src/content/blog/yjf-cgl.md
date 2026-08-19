@@ -6,6 +6,9 @@ updatedDate: "2026-01-08T01:05:59Z"
 heroImage: "/wp-content/uploads/11zon_IMG_7903_11zon-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["低脂肪", "可常溫保存", "在地放牧土雞", "無添加人工香料", "無膽固醇", "胺基酸", "色素", "農藥與動物用藥未檢出", "防腐劑", "零飽和脂肪"]
+authorId: 742
+author: "陳冠伶"
+authorRole: "營養師"
 legacyId: 36451
 legacyPath: "/blog/yjf-cgl/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

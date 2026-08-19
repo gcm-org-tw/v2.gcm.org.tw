@@ -6,6 +6,9 @@ updatedDate: "2025-08-22T07:24:55Z"
 heroImage: "/wp-content/uploads/The-Secret-of-Premium-Functional-Eggs6.jpg"
 blog_cate: ["preventive-healthcare", "experts"]
 blog_tag_keyword: ["富硒蛋"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 32314
 legacyPath: "/blog/the-secret-of-premium-functional-eggs/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

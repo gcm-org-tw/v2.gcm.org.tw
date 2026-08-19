@@ -6,6 +6,9 @@ updatedDate: "2026-03-09T01:09:50Z"
 heroImage: "/wp-content/uploads/hyt260225C3_11zon.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["nmn", "亞精胺", "冰晶番茄萃取", "卡姆果萃取", "日本玄米神經醯胺", "玻尿酸", "頂級柏金五重膠原蛋白"]
+authorId: 844
+author: "許雅婷"
+authorRole: "營養師"
 legacyId: 38643
 legacyPath: "/blog/doctor-choice-hyt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

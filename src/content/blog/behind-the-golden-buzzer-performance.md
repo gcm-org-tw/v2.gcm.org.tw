@@ -5,6 +5,9 @@ pubDate: "2026-06-08T00:00:38Z"
 updatedDate: "2026-06-08T08:32:07Z"
 heroImage: "/wp-content/uploads/bgtliwei266502.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 40827
 legacyPath: "/blog/behind-the-golden-buzzer-performance/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

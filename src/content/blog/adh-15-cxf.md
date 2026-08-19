@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/IMG_5847_11zon_11zon-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["15株益菌", "乳鐵蛋白", "出廠每包添加500億活菌", "日本森永bb536-龍根菌", "母乳桿菌", "維持消化道機能", "調整體質", "酵母葡聚醣"]
 blog_fr_doctors: ["張馨方"]
+authorId: 290
+author: "張馨方"
+authorRole: "營養師"
 legacyId: 37037
 legacyPath: "/blog/adh-15-cxf/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

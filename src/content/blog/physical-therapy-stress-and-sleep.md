@@ -10,6 +10,9 @@ blog_tag: ["壓力", "物理治療師", "睡眠"]
 blog_tag_keyword: ["壓力", "失眠"]
 blog_tag_theme: ["sleep-problems"]
 blog_fr_doctors: ["李宥儒"]
+authorId: 246
+author: "李宥儒"
+authorRole: "物理治療師"
 legacyId: 9142
 legacyPath: "/blog/physical-therapy-stress-and-sleep/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

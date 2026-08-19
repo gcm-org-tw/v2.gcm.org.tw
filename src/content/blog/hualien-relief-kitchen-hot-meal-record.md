@@ -5,6 +5,9 @@ pubDate: "2025-10-02T05:14:42Z"
 updatedDate: "2025-10-02T12:50:17Z"
 heroImage: "/wp-content/uploads/Hualien-Relief-Kitchen-Hot-Meal-Record.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare", "experts"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 33435
 legacyPath: "/blog/hualien-relief-kitchen-hot-meal-record/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

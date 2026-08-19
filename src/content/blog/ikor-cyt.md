@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["卵黃萃取物", "單麥芽胺型葉酸", "日本百年漢方", "暖宮美巡", "枸杞萃取物", "檸檬酸", "焦磷酸鐵", "紅棗萃取物"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["蔡昀庭"]
+authorId: 796
+author: "蔡昀庭"
+authorRole: "中醫師, 職能治療師"
 legacyId: 33554
 legacyPath: "/blog/ikor-cyt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

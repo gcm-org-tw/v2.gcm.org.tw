@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/GCM保健專櫃活動20240617.jpg"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["惠生大藥局"]
 blog_tag_theme: ["body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 21997
 legacyPath: "/blog/gcm-x-ai-618-celebration/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

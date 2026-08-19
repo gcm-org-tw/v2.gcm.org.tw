@@ -6,6 +6,9 @@ updatedDate: "2024-07-09T06:55:05Z"
 heroImage: "/wp-content/uploads/hzsup2479-4-scaled.jpg"
 heroImageAlt: "醫院藥師變身SUP教練！夏日消暑好去處：慶安水樂園"
 blog_cate: ["appreciation"]
+authorId: 238
+author: "洪正憲"
+authorRole: "藥師"
 legacyId: 22432
 legacyPath: "/blog/hzsup2479summer/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

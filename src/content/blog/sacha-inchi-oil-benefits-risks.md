@@ -6,6 +6,9 @@ updatedDate: "2025-08-14T08:07:09Z"
 heroImage: "/wp-content/uploads/Sacha-Inchi-Oil-Benefits-Risks2.jpg"
 blog_cate: ["rss-newstalk", "news", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["印加果油"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 31945
 legacyPath: "/blog/sacha-inchi-oil-benefits-risks/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -10,6 +10,9 @@ blog_tag: ["營養保健", "腦瘤"]
 blog_tag_keyword: ["腦瘤"]
 blog_tag_theme: ["nutritional-supplement"]
 blog_fr_doctors: ["鄭玲君"]
+authorId: 77
+author: "鄭玲君"
+authorRole: "營養師"
 legacyId: 8925
 legacyPath: "/blog/brain-tumor-with-diet/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

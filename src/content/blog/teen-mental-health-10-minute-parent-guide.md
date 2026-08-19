@@ -6,6 +6,9 @@ updatedDate: "2025-10-06T14:09:24Z"
 heroImage: "/wp-content/uploads/Teen-Mental-Health-10-Minute-Parent-Guide3.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["青少年"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 33473
 legacyPath: "/blog/teen-mental-health-10-minute-parent-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

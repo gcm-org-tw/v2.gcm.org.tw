@@ -6,6 +6,8 @@ updatedDate: "2025-12-23T14:49:59Z"
 heroImage: "/wp-content/uploads/Attachment-Control-and-Psychological-Safety6.jpg"
 blog_cate: ["experts"]
 blog_tag_theme: ["bdsm"]
+authorId: 497
+author: "協會編輯"
 legacyId: 36473
 legacyPath: "/blog/attachment-control-and-psychological-safety/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

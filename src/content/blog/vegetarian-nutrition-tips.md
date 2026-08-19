@@ -10,6 +10,9 @@ blog_tag: ["素食", "蛋白質"]
 blog_tag_keyword: ["植物性蛋白質"]
 blog_tag_theme: ["nutritional-supplement"]
 blog_fr_doctors: ["黃詩涵"]
+authorId: 115
+author: "黃詩涵"
+authorRole: "營養師"
 legacyId: 8264
 legacyPath: "/blog/vegetarian-nutrition-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

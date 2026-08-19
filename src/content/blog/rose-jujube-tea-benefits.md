@@ -6,6 +6,9 @@ updatedDate: "2025-03-28T09:38:08Z"
 heroImage: "/wp-content/uploads/Rose-Jujube-Tea-Benefits.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["玫瑰紅棗茶"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 28138
 legacyPath: "/blog/rose-jujube-tea-benefits/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

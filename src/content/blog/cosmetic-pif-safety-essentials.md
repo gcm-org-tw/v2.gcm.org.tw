@@ -6,6 +6,8 @@ updatedDate: "2026-02-08T14:44:34Z"
 heroImage: "/wp-content/uploads/Cosmetic-PIF-Safety-Essentials8.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["pif"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37573
 legacyPath: "/blog/cosmetic-pif-safety-essentials/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

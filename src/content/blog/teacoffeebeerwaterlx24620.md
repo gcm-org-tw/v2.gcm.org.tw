@@ -6,6 +6,9 @@ updatedDate: "2024-06-20T01:11:13Z"
 heroImage: "/wp-content/uploads/teacoffeebeerwaterlx24620.png"
 heroImageAlt: "茶、咖啡、啤酒能補充水分嗎?"
 blog_cate: ["preventive-healthcare"]
+authorId: 204
+author: "李協明"
+authorRole: "營養師"
 legacyId: 22050
 legacyPath: "/blog/teacoffeebeerwaterlx24620/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

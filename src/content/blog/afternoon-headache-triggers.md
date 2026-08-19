@@ -6,6 +6,9 @@ updatedDate: "2026-04-05T07:06:21Z"
 heroImage: "/wp-content/uploads/Afternoon-Headache-Triggers1.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["下午頭痛"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 39322
 legacyPath: "/blog/afternoon-headache-triggers/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

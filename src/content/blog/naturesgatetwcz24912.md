@@ -5,6 +5,9 @@ pubDate: "2024-09-12T10:54:12Z"
 heroImage: "/wp-content/uploads/3-1-3.jpg"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["何欣蓉"]
+authorId: 285
+author: "何欣蓉"
+authorRole: "中醫師"
 legacyId: 23416
 legacyPath: "/blog/naturesgatetwcz24912/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

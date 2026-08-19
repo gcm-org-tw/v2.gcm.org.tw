@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["營養保健", "藥物", "預防醫學", "飲食"]
 blog_tag_keyword: ["用藥禁忌", "藥效降低"]
 blog_tag_theme: ["媒體報導", "營養保健", "body-health", "醫友生活"]
+authorId: 790
+author: "戴淑娟"
+authorRole: "藥師"
 legacyId: 28328
 legacyPath: "/blog/pharmacist-explains-food-drug-interactions/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

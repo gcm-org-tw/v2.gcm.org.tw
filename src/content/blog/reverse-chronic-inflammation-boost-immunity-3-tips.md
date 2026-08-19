@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/reverse-chronic-inflammation-boost-immunity-3-ti
 blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-healthcare"]
 blog_tag_keyword: ["壓力", "慢性發炎", "營養師", "飲食"]
 blog_tag_theme: ["營養保健", "body-health", "醫友生活"]
+authorId: 257
+author: "張姝緹"
+authorRole: "營養師"
 legacyId: 30784
 legacyPath: "/blog/reverse-chronic-inflammation-boost-immunity-3-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

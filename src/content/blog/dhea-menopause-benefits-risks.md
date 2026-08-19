@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/DHEA-Menopause-Benefits-Risks1.jpg"
 heroImageAlt: "DHEA Menopause Benefits Risks1"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["dhea"]
+authorId: 497
+author: "協會編輯"
 legacyId: 39344
 legacyPath: "/blog/dhea-menopause-benefits-risks/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2024-10-09T08:58:59Z"
 heroImage: "/wp-content/uploads/泛自閉症飲食與情緒調節-1.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["泛自閉症"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 23906
 legacyPath: "/blog/autism-diet-and-mood-regulation3/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

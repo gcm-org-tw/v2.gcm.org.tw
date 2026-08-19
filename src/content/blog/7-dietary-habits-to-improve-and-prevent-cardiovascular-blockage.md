@@ -8,6 +8,9 @@ blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag: ["預防醫學"]
 blog_tag_keyword: ["心臟血管阻塞"]
 blog_tag_theme: ["body-health"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 23853
 legacyPath: "/blog/7-dietary-habits-to-improve-and-prevent-cardiovascular-blockage/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -5,6 +5,9 @@ pubDate: "2025-01-22T12:28:05Z"
 updatedDate: "2025-02-05T02:06:25Z"
 heroImage: "/wp-content/uploads/Why-Health-Maintenance-Boost-Your-Wellness-Score-2.webp"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26410
 legacyPath: "/blog/why-health-maintenance-boost-your-wellness-score/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

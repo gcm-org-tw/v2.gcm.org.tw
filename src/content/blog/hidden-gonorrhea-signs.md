@@ -6,6 +6,9 @@ updatedDate: "2025-06-20T14:46:01Z"
 heroImage: "/wp-content/uploads/Hidden-Gonorrhea-Signs.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["淋病"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 30780
 legacyPath: "/blog/hidden-gonorrhea-signs/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,8 @@ updatedDate: "2024-08-17T12:38:17Z"
 heroImage: "/wp-content/uploads/Q10-食物排行榜大公開！讓你獲得活力與青春的美麗秘密.jpg"
 blog_cate: ["gcm-news"]
 blog_tag_keyword: ["q10"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23283
 legacyPath: "/blog/q10-food-ranking-energy-youth-beauty-secrets-2/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["女人美顏草本", "日本專利金絲燕窩", "無水滴煉古法滴雞精", "米精紅棗露"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["陳姿燕"]
+authorId: 440
+author: "陳姿燕"
+authorRole: "營養師"
 legacyId: 30242
 legacyPath: "/blog/zght-mnr-czy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

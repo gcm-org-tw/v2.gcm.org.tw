@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/preventingheat-strokeguoyuxin2462.jpg"
 heroImageAlt: "預防中暑？中醫師這麼說，7祕訣教你有效預防"
 blog_cate: ["preventive-healthcare"]
 blog_tag_theme: ["body-health"]
+authorId: 358
+author: "郭雨欣"
+authorRole: "中醫師"
 legacyId: 21660
 legacyPath: "/blog/preventingheat-strokeguoyuxin2462/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

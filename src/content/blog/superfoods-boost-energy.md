@@ -10,6 +10,9 @@ blog_tag: ["提神"]
 blog_tag_keyword: ["提神"]
 blog_tag_theme: ["營養保健", "body-health"]
 blog_fr_doctors: ["黃芷昕"]
+authorId: 107
+author: "黃芷昕"
+authorRole: "營養師"
 legacyId: 8342
 legacyPath: "/blog/superfoods-boost-energy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

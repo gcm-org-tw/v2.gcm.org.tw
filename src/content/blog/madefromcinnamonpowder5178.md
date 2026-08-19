@@ -7,6 +7,9 @@ heroImageAlt: "肉桂粉是用肉桂樹的哪個部位製成的? 不同部位有
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["中醫飲食", "肉桂粉"]
 blog_tag_theme: ["營養保健"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 20259
 legacyPath: "/blog/madefromcinnamonpowder5178/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

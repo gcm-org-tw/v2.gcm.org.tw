@@ -8,6 +8,8 @@ heroImageAlt: "【新手糖友懶人包】糖尿病是不治之症嗎？糖尿�
 blog_tag: ["慢性病", "糖尿病", "預防醫學", "飲食"]
 blog_tag_keyword: ["上班族", "壓力", "慢性病", "減重", "營養師", "糖友", "糖尿病"]
 blog_tag_theme: ["營養保健", "糖尿病", "body-health", "醫友生活"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23863
 legacyPath: "/blog/diabetes/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/diadora-cyac-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["e-楦頭寬楦設計", "jacquard透氣網布", "swift-foam", "台灣設計研發", "無縫貼合-tpu-工藝", "義大利diadora", "雙密度足弓支撐鞋墊", "雙層氣動大底"]
 blog_fr_doctors: ["陳郁安"]
+authorId: 256
+author: "陳郁安"
+authorRole: "物理治療師"
 legacyId: 37315
 legacyPath: "/blog/diadora-cya/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2026-05-20T08:56:56Z"
 heroImage: "/wp-content/uploads/greenteamilk-tyt26041603-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["sgs-檢驗不含西藥", "專利時鐘果", "專利茶花萃取", "專利藤黃果", "望江南萃取", "氫氧檸檬酸-hca", "白皮杉醇", "百香果萃取", "肯亞紫茶萃取"]
+authorId: 796
+author: "蔡昀庭"
+authorRole: "中醫師, 職能治療師"
 legacyId: 39708
 legacyPath: "/blog/greenteamilk-tyt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

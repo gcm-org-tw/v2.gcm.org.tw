@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["運動傷害", "運動醫學", "預防醫學"]
 blog_tag_keyword: ["傷害防護", "運動傷害", "運動醫學科"]
 blog_tag_theme: ["媒體報導", "慢性疼痛", "body-health", "醫友生活"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 32774
 legacyPath: "/blog/shou-shang-hou-yun-dong-3-step/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

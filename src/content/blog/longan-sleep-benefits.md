@@ -5,6 +5,9 @@ pubDate: "2025-08-30T05:14:40Z"
 updatedDate: "2025-09-21T13:31:32Z"
 heroImage: "/wp-content/uploads/Longan-Sleep-Benefits1.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 32551
 legacyPath: "/blog/longan-sleep-benefits/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

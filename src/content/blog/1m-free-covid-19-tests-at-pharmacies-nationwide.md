@@ -8,6 +8,8 @@ heroImageAlt: "即日起 千萬劑新冠快篩全台藥局免費領"
 blog_cate: ["news"]
 blog_tag_keyword: ["新冠快篩"]
 blog_tag_theme: ["body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 21370
 legacyPath: "/blog/1m-free-covid-19-tests-at-pharmacies-nationwide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

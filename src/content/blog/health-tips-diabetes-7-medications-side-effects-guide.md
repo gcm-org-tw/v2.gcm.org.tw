@@ -7,6 +7,8 @@ heroImageAlt: "health-tips-diabetes-7-medications-side-effects-guide"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["慢性病", "糖尿病", "飲食"]
 blog_tag_theme: ["營養保健", "nutritional-supplement", "body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 25740
 legacyPath: "/blog/health-tips-diabetes-7-medications-side-effects-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

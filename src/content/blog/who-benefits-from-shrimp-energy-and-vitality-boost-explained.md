@@ -6,6 +6,9 @@ updatedDate: "2024-12-18T14:13:46Z"
 heroImage: "/wp-content/uploads/Who-Benefits-from-Shrimp-Energy-and-Vitality-Boost-Explained.jpg"
 blog_cate: ["rss-newstalk", "appreciation", "preventive-healthcare"]
 blog_tag_keyword: ["蝦能"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25528
 legacyPath: "/blog/who-benefits-from-shrimp-energy-and-vitality-boost-explained/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

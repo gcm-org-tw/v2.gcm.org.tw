@@ -8,6 +8,9 @@ blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag: ["預防醫學"]
 blog_tag_keyword: ["世界精神衛生日"]
 blog_tag_theme: ["世界精神衛生日", "psychological-symptoms"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 33621
 legacyPath: "/blog/world-mental-health-day/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

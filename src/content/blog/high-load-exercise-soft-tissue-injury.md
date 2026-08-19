@@ -6,6 +6,9 @@ updatedDate: "2026-01-29T04:08:30Z"
 heroImage: "/wp-content/uploads/High-Load-Exercise-Soft-Tissue-Injury2.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["高負荷運動"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 37394
 legacyPath: "/blog/high-load-exercise-soft-tissue-injury/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

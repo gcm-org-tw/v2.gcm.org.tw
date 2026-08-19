@@ -6,6 +6,8 @@ updatedDate: "2026-06-23T11:26:56Z"
 heroImage: "/wp-content/uploads/Preventing-Deadly-Elderly-Falls-Osteoporosis-and-Home-Safety8.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["老年跌倒"]
+authorId: 497
+author: "協會編輯"
 legacyId: 41528
 legacyPath: "/blog/preventing-deadly-elderly-falls-osteoporosis-and-home-safety/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

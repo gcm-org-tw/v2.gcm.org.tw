@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/miconia-yyc25110501-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["nrf", "丹參精萃", "女性抗老-中年女性保健", "延緩衰老", "彩虹蔬果酵素植萃", "抗氧化保健品", "抗老保健品", "松樹皮萃取", "端粒保健", "端麗生", "粒線體活化", "紐西蘭松樹皮", "細胞活化", "青春保養", "高端保健品推薦"]
 blog_tag_theme: ["醫友生活"]
+authorId: 212
+author: "姚蘊珈"
+authorRole: "營養師"
 legacyId: 34306
 legacyPath: "/blog/miconia-yyj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

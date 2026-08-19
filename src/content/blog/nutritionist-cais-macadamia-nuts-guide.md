@@ -6,6 +6,9 @@ updatedDate: "2025-05-06T03:23:51Z"
 heroImage: "/wp-content/uploads/Nutritionist-Cais-Macadamia-Nuts-Guide2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["夏威夷豆"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 28488
 legacyPath: "/blog/nutritionist-cais-macadamia-nuts-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

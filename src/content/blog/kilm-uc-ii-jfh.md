@@ -6,6 +6,9 @@ updatedDate: "2026-04-28T02:54:30Z"
 heroImage: "/wp-content/uploads/kilm-ucii-jfh25041303_11zon.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["13-種維生素礦物質", "710-mg-高鈣", "8-大不添加", "uc-ii", "優蛋白-10-1-g", "原廠認證", "喝的足量uc-ii", "足量40-mg"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 39426
 legacyPath: "/blog/kilm-uc-ii-jfh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

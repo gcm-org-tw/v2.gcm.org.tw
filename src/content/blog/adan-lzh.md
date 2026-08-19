@@ -6,6 +6,9 @@ updatedDate: "2026-05-27T02:00:25Z"
 heroImage: "/wp-content/uploads/ADAN20260512lzh06.jpg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["0-sls-sles-als", "ales", "六重舒敏植萃", "弱酸-ph5-5", "微生物", "神經醯胺", "第三方檢驗（不含四大致病菌", "胺基酸界面活性劑", "重金屬等）"]
+authorId: 506
+author: "林智亨"
+authorRole: "中醫師"
 legacyId: 40613
 legacyPath: "/blog/adan-lzh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

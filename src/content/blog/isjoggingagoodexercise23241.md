@@ -5,6 +5,9 @@ pubDate: "2024-08-08T05:13:30Z"
 heroImage: "/wp-content/uploads/Isjoggingagoodexerciselg2488.png"
 heroImageAlt: "慢跑是好運動嗎"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 292
+author: "李冠毅"
+authorRole: "復健科醫師"
 legacyId: 23241
 legacyPath: "/blog/isjoggingagoodexercise23241/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

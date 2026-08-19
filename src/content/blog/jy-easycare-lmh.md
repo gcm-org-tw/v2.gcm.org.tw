@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["sgs試驗不含西藥", "創新研發技術獎", "國家品質金牌獎", "清真halal認證", "精準植萃配方"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["廖敏涵"]
+authorId: 206
+author: "廖敏涵"
+authorRole: "營養師"
 legacyId: 23404
 legacyPath: "/blog/jy-easycare-lmh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

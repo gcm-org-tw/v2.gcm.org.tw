@@ -10,6 +10,9 @@ blog_tag: ["新冠後遺症", "物理治療"]
 blog_tag_keyword: ["物理治療"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["李宥儒"]
+authorId: 246
+author: "李宥儒"
+authorRole: "物理治療師"
 legacyId: 7105
 legacyPath: "/blog/covid-aftereffects/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -10,6 +10,9 @@ blog_tag: ["營養保健", "營養師", "腦瘤"]
 blog_tag_keyword: ["腦瘤"]
 blog_tag_theme: ["nutritional-supplement", "body-health"]
 blog_fr_doctors: ["蔡旻堅"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 8939
 legacyPath: "/blog/diet-plan-for-brain-tumor/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["職能治療師", "運動醫學", "預防醫學"]
 blog_tag_keyword: ["孩子字醜", "職能治療師"]
 blog_tag_theme: ["媒體報導", "body-health", "醫友生活"]
+authorId: 283
+author: "孫懋淇"
+authorRole: "職能治療師"
 legacyId: 28325
 legacyPath: "/blog/ugly-handwriting-kids-9-hidden-reasons/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

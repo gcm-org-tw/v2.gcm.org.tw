@@ -6,6 +6,9 @@ updatedDate: "2026-02-01T14:31:30Z"
 heroImage: "/wp-content/uploads/Human-Value-in-the-AI-Era2.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["醫療決策"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 37452
 legacyPath: "/blog/human-value-in-the-ai-era/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2024-12-23T08:50:27Z"
 heroImage: "/wp-content/uploads/Maca-Benefits-for-Women：Boosting-Sexual-Health-and-Happiness2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["馬卡"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25477
 legacyPath: "/blog/maca-benefits-for-women%ef%bc%9aboosting-sexual-health-and-happiness/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

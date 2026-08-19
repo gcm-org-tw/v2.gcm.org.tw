@@ -6,6 +6,9 @@ updatedDate: "2025-03-20T10:38:45Z"
 heroImage: "/wp-content/uploads/ADHD-Symptoms-Treatment-Routine-Nutrition-and-Medication2.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "press", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["adhd"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 27876
 legacyPath: "/blog/adhd-symptoms-treatment-routine-nutrition-and-medication/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

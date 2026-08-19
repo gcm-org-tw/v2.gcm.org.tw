@@ -4,6 +4,8 @@ description: "疾管署開放65歲以上民眾追加新冠疫苗，背後有科�
 pubDate: "2026-06-22T14:02:34Z"
 heroImage: "/wp-content/uploads/COVID-19-Booster-for-Adults-65-and-Older-5-Things-You-Need-to-Know-1.webp"
 blog_tag_keyword: ["新冠疫苗"]
+authorId: 497
+author: "協會編輯"
 legacyId: 41511
 legacyPath: "/blog/covid-19-booster-for-adults-65-and-older-5-things-you-need-to-know/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

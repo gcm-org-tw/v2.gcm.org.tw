@@ -5,6 +5,9 @@ pubDate: "2024-08-06T02:51:17Z"
 heroImage: "/wp-content/uploads/ppylw240612c-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
+authorId: 178
+author: "楊立暐"
+authorRole: "中醫師"
 legacyId: 21936
 legacyPath: "/blog/prawnpower-ylw/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

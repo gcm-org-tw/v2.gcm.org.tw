@@ -6,6 +6,8 @@ updatedDate: "2026-01-30T09:28:32Z"
 heroImage: "/wp-content/uploads/Inflammation-Resolution-Failure8.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["抗發炎"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37441
 legacyPath: "/blog/inflammation-resolution-failure/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

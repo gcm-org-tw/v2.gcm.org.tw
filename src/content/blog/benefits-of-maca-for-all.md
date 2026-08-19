@@ -5,6 +5,8 @@ pubDate: "2024-09-06T06:00:05Z"
 heroImage: "/wp-content/uploads/馬卡功效大揭密｜不只對男性有效，對女性健康也很有幫助！.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["馬卡"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23527
 legacyPath: "/blog/benefits-of-maca-for-all/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

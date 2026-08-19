@@ -5,6 +5,9 @@ pubDate: "2024-10-01T01:00:58Z"
 updatedDate: "2024-09-25T09:12:28Z"
 heroImage: "/wp-content/uploads/eatnionsyj92524.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 543
+author: "吳妍潔"
+authorRole: "營養師"
 legacyId: 23886
 legacyPath: "/blog/eatnionsyj92524/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

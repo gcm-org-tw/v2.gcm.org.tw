@@ -10,6 +10,9 @@ blog_tag: ["慢性病", "物理治療"]
 blog_tag_keyword: ["慢性病"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["李宥儒"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 8860
 legacyPath: "/blog/physical-therapy-against-lifestyle/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

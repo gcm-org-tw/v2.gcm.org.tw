@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["運動傷害", "運動醫學", "預防醫學"]
 blog_tag_keyword: ["復健科醫師", "運動", "運動傷害"]
 blog_tag_theme: ["慢性疼痛", "body-health", "醫友生活"]
+authorId: 292
+author: "李冠毅"
+authorRole: "復健科醫師"
 legacyId: 33639
 legacyPath: "/blog/ice-vs-heat-after-exercise-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

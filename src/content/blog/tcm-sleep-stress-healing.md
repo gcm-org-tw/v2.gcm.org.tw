@@ -6,6 +6,9 @@ updatedDate: "2025-04-03T03:14:40Z"
 heroImage: "/wp-content/uploads/TCM-Sleep-Stress-Healing2.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_theme: ["中醫芳療"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 28172
 legacyPath: "/blog/tcm-sleep-stress-healing/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

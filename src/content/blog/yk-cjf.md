@@ -6,6 +6,9 @@ updatedDate: "2026-01-09T02:46:40Z"
 heroImage: "/wp-content/uploads/S__67616796_7_11zon.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["sgs檢驗", "七大草本複方", "冬蟲夏草", "加拿大vita-naturals低溫萃取技術", "左旋精胺酸", "祕魯黑馬卡", "粉光蔘", "紅景天", "維生素b群", "螯合鋅"]
+authorId: 137
+author: "陳建甫"
+authorRole: "中醫師"
 legacyId: 36476
 legacyPath: "/blog/yk-cjf/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

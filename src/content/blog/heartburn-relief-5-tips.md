@@ -8,6 +8,9 @@ heroImageAlt: "heartburn-relief-5-tips"
 blog_cate: ["rss-newstalk", "press"]
 blog_tag_keyword: ["壓力", "慢性病", "飲食"]
 blog_tag_theme: ["媒體報導", "營養保健", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 383
+author: "陳思吟"
+authorRole: "營養師"
 legacyId: 25715
 legacyPath: "/blog/heartburn-relief-5-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

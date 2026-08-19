@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/中藥奶茶有哪些常見成分？揭開「液
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["中藥奶茶"]
 blog_tag_theme: ["中藥奶茶"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 24557
 legacyPath: "/blog/common-ingredients-in-herbal-milk-tea-unveiling-the-liquid-herbal-elixir/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

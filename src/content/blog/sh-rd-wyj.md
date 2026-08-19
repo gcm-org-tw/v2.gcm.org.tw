@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["10-秒順髮神器", "6-大功效", "rd霜", "sgs檢驗合格", "乾濕兩用", "免沖洗護髮霜", "水解蠶絲蛋白", "維他命原-b5", "迷迭香植萃"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["吳妍潔"]
+authorId: 543
+author: "吳妍潔"
+authorRole: "營養師"
 legacyId: 33649
 legacyPath: "/blog/sh-rd-wyj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

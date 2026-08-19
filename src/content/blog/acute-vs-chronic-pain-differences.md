@@ -6,6 +6,9 @@ updatedDate: "2026-04-23T09:25:07Z"
 heroImage: "/wp-content/uploads/Acute-vs-Chronic-Pain-Differences2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["疼痛"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 39163
 legacyPath: "/blog/acute-vs-chronic-pain-differences/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

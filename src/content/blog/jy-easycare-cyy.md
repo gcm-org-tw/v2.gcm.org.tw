@@ -5,6 +5,9 @@ pubDate: "2024-09-05T13:25:36Z"
 heroImage: "/wp-content/uploads/S__18047085.jpg"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["張瑜育"]
+authorId: 151
+author: "張瑜育"
+authorRole: "中醫師"
 legacyId: 23387
 legacyPath: "/blog/jy-easycare-cyy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

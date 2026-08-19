@@ -5,6 +5,8 @@ pubDate: "2026-03-04T05:14:24Z"
 updatedDate: "2026-03-03T14:11:02Z"
 heroImage: "/wp-content/uploads/Resistance-Training-Safety-Guide3.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 497
+author: "協會編輯"
 legacyId: 38909
 legacyPath: "/blog/resistance-training-safety-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

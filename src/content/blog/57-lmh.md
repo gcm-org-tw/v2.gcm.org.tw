@@ -6,6 +6,9 @@ updatedDate: "2024-08-27T03:57:33Z"
 heroImage: "/wp-content/uploads/IMG_0979.jpg"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["廖敏涵"]
+authorId: 206
+author: "廖敏涵"
+authorRole: "營養師"
 legacyId: 23266
 legacyPath: "/blog/57-lmh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

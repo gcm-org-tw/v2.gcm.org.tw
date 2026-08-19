@@ -5,6 +5,8 @@ pubDate: "2026-03-05T07:05:58Z"
 updatedDate: "2026-03-06T14:37:55Z"
 heroImage: "/wp-content/uploads/joymony-drkp-260225001.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
+authorId: 497
+author: "協會編輯"
 legacyId: 38657
 legacyPath: "/blog/joymonydrkpnews260225/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

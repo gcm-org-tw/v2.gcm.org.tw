@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/vina-cjf25103002.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["95薑黃素", "9大綜合消化酵素", "三薑配方", "專利毛喉鞘蕊花", "綠薑發熱素（薑辣素＋兒茶素egcg）", "黑生薑"]
 blog_tag_theme: ["醫友生活"]
+authorId: 137
+author: "陳建甫"
+authorRole: "中醫師"
 legacyId: 33987
 legacyPath: "/blog/vina-cjf/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

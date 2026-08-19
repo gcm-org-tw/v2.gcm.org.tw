@@ -5,6 +5,9 @@ pubDate: "2026-03-02T02:41:21Z"
 heroImage: "/wp-content/uploads/cyuan4-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["totipro-益萃質-plus", "四大專利益生菌", "後生元", "漢方", "異麥芽寡醣", "酵素", "難消化性麥芽糊精"]
+authorId: 256
+author: "陳郁安"
+authorRole: "物理治療師"
 legacyId: 37990
 legacyPath: "/blog/uflow-synbiotics-cya/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

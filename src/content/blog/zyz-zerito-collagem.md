@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["98-8高度仿生膠原蛋白", "富士雪櫻靈芝粉", "維生素c", "纖維包覆超級莓果發酵精華粉"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["鍾宜臻"]
+authorId: 397
+author: "鍾宜臻"
+authorRole: "藥師"
 legacyId: 25545
 legacyPath: "/blog/zyz-zerito-collagem/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

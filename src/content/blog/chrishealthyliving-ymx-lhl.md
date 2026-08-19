@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/30298_0.jpg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["28種酵素", "4種嚴選腸道活菌", "sgs試驗報告365項西藥未檢出", "多種草本纖維", "素食可用"]
 blog_fr_doctors: ["劉鴻略"]
+authorId: 378
+author: "劉鴻略"
+authorRole: "家庭醫學科醫師"
 legacyId: 23160
 legacyPath: "/blog/chrishealthyliving-ymx-lhl/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

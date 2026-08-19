@@ -6,6 +6,9 @@ updatedDate: "2026-01-28T04:52:36Z"
 heroImage: "/wp-content/uploads/Nipah-Virus-Human-Transmission1.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["立百病毒"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 37366
 legacyPath: "/blog/nipah-virus-human-transmission/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

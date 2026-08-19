@@ -9,6 +9,9 @@ blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag: ["營養保健", "預防醫學"]
 blog_tag_keyword: ["青光眼", "黃斑部病變"]
 blog_tag_theme: ["nutritional-supplement", "body-health", "醫友生活"]
+authorId: 796
+author: "蔡昀庭"
+authorRole: "中醫師, 職能治療師"
 legacyId: 25735
 legacyPath: "/blog/visionrescue/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

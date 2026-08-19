@@ -6,6 +6,8 @@ updatedDate: "2026-06-30T07:29:31Z"
 heroImage: "/wp-content/uploads/Why-Heat-Increases-the-Risk-of-Heat-Injury-8.jpg"
 blog_cate: ["rss-newstalk"]
 blog_tag_keyword: ["熱傷害"]
+authorId: 497
+author: "協會編輯"
 legacyId: 41559
 legacyPath: "/blog/why-heat-increases-the-risk-of-heat-injury/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

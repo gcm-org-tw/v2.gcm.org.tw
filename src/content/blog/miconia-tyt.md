@@ -6,6 +6,9 @@ updatedDate: "2025-11-12T05:52:12Z"
 heroImage: "/wp-content/uploads/miconia-tyt25110501.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
+authorId: 796
+author: "蔡昀庭"
+authorRole: "中醫師, 職能治療師"
 legacyId: 34304
 legacyPath: "/blog/miconia-tyt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

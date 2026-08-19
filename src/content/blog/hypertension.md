@@ -8,6 +8,8 @@ heroImageAlt: "罹患高血壓怎麼辦？高血壓的預防與治療指南一�
 blog_tag: ["預防醫學", "高血壓"]
 blog_tag_keyword: ["壓力", "慢性病", "減重", "血管", "飲食", "高血壓"]
 blog_tag_theme: ["營養保健", "body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23874
 legacyPath: "/blog/hypertension/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

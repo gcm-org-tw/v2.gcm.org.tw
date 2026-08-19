@@ -6,6 +6,9 @@ updatedDate: "2025-04-12T11:07:49Z"
 heroImage: "/wp-content/uploads/World-Health-Day-Prevention2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["世界衛生日"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 28248
 legacyPath: "/blog/world-health-day-prevention/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/chinesemedicinewinterskincare92524fy.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["廖芳儀"]
+authorId: 431
+author: "廖芳儀"
+authorRole: "中醫師"
 legacyId: 23880
 legacyPath: "/blog/chinesemedicinewinterskincare92524fy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

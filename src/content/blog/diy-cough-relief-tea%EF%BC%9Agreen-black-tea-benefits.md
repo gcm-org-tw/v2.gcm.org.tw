@@ -5,6 +5,9 @@ pubDate: "2025-03-19T06:39:31Z"
 heroImage: "/wp-content/uploads/DIY-Cough-Relief-Tea：Green-Black-Tea-Benefits3.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "press", "preventive-healthcare"]
 blog_tag_keyword: ["鎮咳"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 27880
 legacyPath: "/blog/diy-cough-relief-tea%ef%bc%9agreen-black-tea-benefits/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

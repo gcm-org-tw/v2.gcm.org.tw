@@ -7,6 +7,8 @@ heroImageAlt: "痛起來要人命！如何對抗慢性疼痛這個無形殺手�
 blog_tag: ["慢性疼痛", "物理治療師", "運動", "預防醫學"]
 blog_tag_keyword: ["壓力", "慢性疼痛", "慢性病"]
 blog_tag_theme: ["慢性疼痛", "body-health", "醫友生活"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23857
 legacyPath: "/blog/chronic_pain/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

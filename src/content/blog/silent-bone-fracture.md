@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare"]
 blog_tag: ["預防醫學"]
 blog_tag_keyword: ["骨質疏鬆"]
 blog_tag_theme: ["body-health"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 33642
 legacyPath: "/blog/silent-bone-fracture/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2024-12-31T14:05:08Z"
 heroImage: "/wp-content/uploads/Top-5-Tips-to-Prevent-Sports-Injuries-with-TCM-and-Science3.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["運動傷害"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25771
 legacyPath: "/blog/top-5-tips-to-prevent-sports-injuries-with-tcm-and-science/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

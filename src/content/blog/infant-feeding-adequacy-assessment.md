@@ -6,6 +6,8 @@ updatedDate: "2026-08-05T08:23:42Z"
 heroImage: "/wp-content/uploads/Infant-Feeding-Adequacy-Assessment-0.jpg"
 heroImageAlt: "Infant Feeding Adequacy Assessment"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 497
+author: "協會編輯"
 legacyId: 42592
 legacyPath: "/blog/infant-feeding-adequacy-assessment/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -5,6 +5,8 @@ pubDate: "2024-07-11T14:01:49Z"
 heroImage: "/wp-content/uploads/達哥說書會24711-1.jpg"
 heroImageAlt: "達哥說書會24711"
 blog_cate: ["gcm-news"]
+authorId: 497
+author: "協會編輯"
 legacyId: 22489
 legacyPath: "/blog/dagereadingclub2024711/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

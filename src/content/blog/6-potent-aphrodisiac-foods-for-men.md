@@ -10,6 +10,9 @@ blog_tag: ["壯陽"]
 blog_tag_keyword: ["壯陽", "食療"]
 blog_tag_theme: ["nutritional-supplement"]
 blog_fr_doctors: ["蔡旻堅"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 18504
 legacyPath: "/blog/6-potent-aphrodisiac-foods-for-men/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

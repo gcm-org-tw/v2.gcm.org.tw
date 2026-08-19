@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["8-倍濃縮", "七萃草本高倍濃縮", "神奇紅棗茶", "米精紅棗露"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["陳怡婷"]
+authorId: 513
+author: "陳怡婷"
+authorRole: "婦產科醫師"
 legacyId: 32539
 legacyPath: "/blog/zghtcz-cyt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

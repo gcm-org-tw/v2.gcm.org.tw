@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "news", "appreciation", "preven
 blog_tag: ["營養保健", "營養師", "預防醫學", "飲食"]
 blog_tag_keyword: ["壓力", "減肥", "減重", "營養師", "飲食"]
 blog_tag_theme: ["媒體報導", "營養保健", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 257
+author: "張姝緹"
+authorRole: "營養師"
 legacyId: 32562
 legacyPath: "/blog/taiwan-hand-shaken-drinks-sugar-limit-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

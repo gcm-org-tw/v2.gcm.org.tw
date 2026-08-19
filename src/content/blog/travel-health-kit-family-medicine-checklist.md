@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "press", "news", "appreciation", "preventive-healthcare"
 blog_tag: ["家醫科醫師", "預防醫學"]
 blog_tag_keyword: ["國外旅行", "家庭科醫師", "旅行健康包", "海外旅行"]
 blog_tag_theme: ["醫友生活"]
+authorId: 693
+author: "謝欣庭"
+authorRole: "家庭醫學科醫師"
 legacyId: 31910
 legacyPath: "/blog/travel-health-kit-family-medicine-checklist/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

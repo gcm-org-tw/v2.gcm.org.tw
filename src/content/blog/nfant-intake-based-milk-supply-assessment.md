@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/nfant-intake-based-milk-supply-assessment-8.jpg"
 heroImageAlt: "nfant-intake-based-milk-supply-assessment"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 gcm_supplier_category: ["appi-news"]
+authorId: 497
+author: "協會編輯"
 legacyId: 42584
 legacyPath: "/blog/nfant-intake-based-milk-supply-assessment/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

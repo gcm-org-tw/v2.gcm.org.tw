@@ -6,6 +6,9 @@ updatedDate: "2026-06-17T02:18:23Z"
 heroImage: "/wp-content/uploads/windows-lyj052401.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["mit研發-設計-製造", "sgs-無毒檢驗", "一級防霾實證", "靜電吸附原理", "高透光", "高透氣"]
+authorId: 246
+author: "李宥儒"
+authorRole: "物理治療師"
 legacyId: 40563
 legacyPath: "/blog/airworkmit-lyj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

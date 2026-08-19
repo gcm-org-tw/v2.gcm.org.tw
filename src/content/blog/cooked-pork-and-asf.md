@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/Cooked-Pork-and-ASF3.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["非洲豬瘟"]
 blog_tag_theme: ["body-health"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 33682
 legacyPath: "/blog/cooked-pork-and-asf/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2026-08-04T07:38:04Z"
 heroImage: "/wp-content/uploads/facial-acupuncture-and-whole-body-balance-dr-wei-peng-wang-on-integrative-chinese-and-western-medicine.jpg"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["美顏針"]
+authorId: 1095
+author: "王威鵬"
+authorRole: "中醫師"
 legacyId: 41501
 legacyPath: "/blog/facial-acupuncture-and-whole-body-balance-dr-wei-peng-wang-on-integrative-chinese-and-western-medicine2/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

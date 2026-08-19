@@ -10,6 +10,9 @@ blog_tag: ["白內障", "老化"]
 blog_tag_keyword: ["白內障"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["鄭玲君"]
+authorId: 77
+author: "鄭玲君"
+authorRole: "營養師"
 legacyId: 14123
 legacyPath: "/blog/eye-aging-foods-to-avoid-for-cataract-patients/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

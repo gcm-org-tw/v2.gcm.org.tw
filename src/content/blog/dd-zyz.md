@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/ddzyz25081103-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["鍾宜臻"]
+authorId: 397
+author: "鍾宜臻"
+authorRole: "藥師"
 legacyId: 31916
 legacyPath: "/blog/dd-zyz/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

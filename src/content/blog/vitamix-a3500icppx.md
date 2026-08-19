@@ -9,6 +9,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["1鍵清理", "智能聯鎖", "超跑級調理機"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["杜芃萱"]
+authorId: 166
+author: "杜芃萱"
+authorRole: "物理治療師"
 legacyId: 21638
 legacyPath: "/blog/vitamix-a3500icppx/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

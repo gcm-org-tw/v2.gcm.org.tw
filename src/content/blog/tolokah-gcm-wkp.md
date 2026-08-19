@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/王凱平醫師右2和妥樂高創辦人中合�
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["妥樂高"]
 blog_fr_doctors: ["王凱平"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 31182
 legacyPath: "/blog/tolokah-gcm-wkp/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

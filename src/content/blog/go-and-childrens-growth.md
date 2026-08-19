@@ -6,6 +6,8 @@ updatedDate: "2024-06-21T06:46:47Z"
 heroImage: "/wp-content/uploads/0616的好棋寶寶嘉年華-1.jpg"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["圍棋"]
+authorId: 497
+author: "協會編輯"
 legacyId: 22077
 legacyPath: "/blog/go-and-childrens-growth/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

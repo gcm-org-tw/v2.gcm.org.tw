@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["40種保健原料", "sgs無農業殘留", "動物萃取", "專利生醫科技胜肽等級", "植物萃取"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["艾莉絲"]
+authorId: 60
+author: "艾莉絲"
+authorRole: "中醫師"
 legacyId: 31272
 legacyPath: "/blog/yummyfood-alice/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

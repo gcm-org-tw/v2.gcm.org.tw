@@ -6,6 +6,8 @@ updatedDate: "2026-03-27T09:06:31Z"
 heroImage: "/wp-content/uploads/Gut-Recovery-After-Antibiotics1.png"
 blog_tag_keyword: ["抗生素"]
 blog_tag_theme: ["腸道菌相"]
+authorId: 497
+author: "協會編輯"
 legacyId: 39208
 legacyPath: "/blog/gut-recovery-after-antibiotics/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

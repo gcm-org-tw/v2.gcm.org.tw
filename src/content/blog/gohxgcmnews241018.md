@@ -5,6 +5,8 @@ pubDate: "2024-10-18T06:33:44Z"
 heroImage: "/wp-content/uploads/iBGY3de9-scaled.jpeg"
 heroImageAlt: "張益豪醫師(左1)、鄭晴醫師(左2)、孫克嘉醫師(右2)、GCM預防醫學協會公關長藍祖恩(右1)響應預防性別暴力（圖：勵馨基金會提供）"
 blog_cate: ["gcm-news", "rss-newstalk"]
+authorId: 497
+author: "協會編輯"
 legacyId: 24012
 legacyPath: "/blog/gohxgcmnews241018/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

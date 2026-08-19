@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/你的段落文字-2.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "press", "news", "preventive-healthcare"]
 blog_tag: ["營養保健", "預防醫學"]
 blog_tag_keyword: ["健賞團", "營養師"]
+authorId: 497
+author: "協會編輯"
 legacyId: 32233
 legacyPath: "/blog/gcm-shangyi-bencaosuiji-results-4-8/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

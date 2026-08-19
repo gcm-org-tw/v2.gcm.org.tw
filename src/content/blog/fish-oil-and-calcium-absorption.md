@@ -6,6 +6,9 @@ updatedDate: "2024-06-18T06:44:23Z"
 heroImage: "/wp-content/uploads/魚油吃漢.jpg"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["魚油"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 22015
 legacyPath: "/blog/fish-oil-and-calcium-absorption/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

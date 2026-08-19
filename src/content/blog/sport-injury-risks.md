@@ -10,6 +10,9 @@ blog_tag: ["運動傷害"]
 blog_tag_keyword: ["運動傷害"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["姜封豪"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 8298
 legacyPath: "/blog/sport-injury-risks/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

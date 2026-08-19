@@ -10,6 +10,9 @@ blog_tag: ["魚油"]
 blog_tag_keyword: ["魚油"]
 blog_tag_theme: ["nutritional-supplement"]
 blog_fr_doctors: ["黃芷昕"]
+authorId: 107
+author: "黃芷昕"
+authorRole: "營養師"
 legacyId: 18510
 legacyPath: "/blog/do-you-need-fish-oil-top-10-omega-3-foods/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

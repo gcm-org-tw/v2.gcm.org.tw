@@ -6,6 +6,8 @@ updatedDate: "2026-07-29T03:48:16Z"
 heroImage: "/wp-content/uploads/AIPRO-czn05.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["98高純度gsh", "sgs檢驗", "專利型nmn-s酵母", "山茶花精粹", "玫瑰萃取", "神經醯胺", "穀胱甘肽gsh", "維生素c"]
+authorId: 516
+author: "陳安湲"
 legacyId: 42349
 legacyPath: "/blog/aipro-light-cay/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -5,6 +5,9 @@ pubDate: "2025-11-18T05:14:02Z"
 updatedDate: "2025-11-16T14:47:12Z"
 heroImage: "/wp-content/uploads/Red-Dragon-Fruit-Benefits2.jpg"
 blog_tag_keyword: ["紅龍果"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 35209
 legacyPath: "/blog/red-dragon-fruit-benefits/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

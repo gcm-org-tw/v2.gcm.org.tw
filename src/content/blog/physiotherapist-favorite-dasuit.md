@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/2023/02/S__15237135-scaled-1-e1680158423499.jpg"
 blog_cate: ["appreciation"]
 blog_tag: ["dasuit大適坐墊"]
 blog_tag_theme: ["醫友生活"]
+authorId: 6
+author: "職人"
 legacyId: 4426
 legacyPath: "/blog/physiotherapist-favorite-dasuit/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,8 @@ updatedDate: "2026-06-29T12:19:20Z"
 heroImage: "/wp-content/uploads/熱傷害症狀有哪些？中暑、熱衰竭、熱痙攣一次分清楚8.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["中暑"]
+authorId: 497
+author: "協會編輯"
 legacyId: 41556
 legacyPath: "/blog/heat-illness-symptoms-spot-heat-stroke-early/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -10,6 +10,9 @@ blog_tag: ["自律神經失調"]
 blog_tag_keyword: ["自律神經"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["楊立暐"]
+authorId: 178
+author: "楊立暐"
+authorRole: "中醫師"
 legacyId: 7566
 legacyPath: "/blog/emotion-imbalance-autonomic/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

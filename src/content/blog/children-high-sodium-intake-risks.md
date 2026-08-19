@@ -6,6 +6,8 @@ updatedDate: "2026-03-27T08:09:24Z"
 heroImage: "/wp-content/uploads/Children-High-Sodium-Intake-Risks8.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_theme: ["高鈉飲食"]
+authorId: 497
+author: "協會編輯"
 legacyId: 39196
 legacyPath: "/blog/children-high-sodium-intake-risks/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

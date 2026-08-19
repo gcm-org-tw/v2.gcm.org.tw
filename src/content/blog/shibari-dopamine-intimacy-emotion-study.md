@@ -6,6 +6,8 @@ updatedDate: "2025-10-06T15:08:40Z"
 heroImage: "/wp-content/uploads/Shibari-Dopamine-Intimacy-Emotion-Study7.jpg"
 blog_cate: ["preventive-healthcare", "experts"]
 blog_tag_keyword: ["bdsm"]
+authorId: 497
+author: "協會編輯"
 legacyId: 33467
 legacyPath: "/blog/shibari-dopamine-intimacy-emotion-study/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

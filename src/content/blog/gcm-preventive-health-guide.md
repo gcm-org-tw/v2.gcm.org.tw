@@ -6,6 +6,8 @@ updatedDate: "2025-12-02T15:09:14Z"
 heroImage: "/wp-content/uploads/GCM-Preventive-Health-Guide5.jpg"
 blog_cate: ["rss-newstalk", "appreciation", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["gcm"]
+authorId: 497
+author: "協會編輯"
 legacyId: 35952
 legacyPath: "/blog/gcm-preventive-health-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -10,6 +10,9 @@ blog_tag: ["中醫"]
 blog_tag_keyword: ["減重"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["潘天健"]
+authorId: 63
+author: "潘天健"
+authorRole: "內科醫師"
 legacyId: 7126
 legacyPath: "/blog/lose-weight-expert/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

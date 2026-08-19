@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/Weather-Knee-Pain-Exercise-Guide-8.jpg"
 heroImageAlt: "Weather Knee Pain Exercise Guide"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["膝蓋退化"]
+authorId: 497
+author: "協會編輯"
 legacyId: 40664
 legacyPath: "/blog/weather-knee-pain-exercise-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

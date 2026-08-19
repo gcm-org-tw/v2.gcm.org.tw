@@ -6,6 +6,9 @@ updatedDate: "2025-11-02T14:38:31Z"
 heroImage: "/wp-content/uploads/Post-Surgery-Soul-Care6.jpg"
 blog_cate: ["gcm-news", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["假體先生"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 33982
 legacyPath: "/blog/post-surgery-soul-care/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

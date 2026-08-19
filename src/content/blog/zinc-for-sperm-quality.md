@@ -5,6 +5,9 @@ pubDate: "2025-01-03T05:14:32Z"
 updatedDate: "2025-12-30T10:50:38Z"
 heroImage: "/wp-content/uploads/Zinc-for-Sperm-Quality2.jpg"
 blog_cate: ["rss-newstalk"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 36830
 legacyPath: "/blog/zinc-for-sperm-quality/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

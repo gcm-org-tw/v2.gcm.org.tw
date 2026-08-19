@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["歐洲赤松精油", "波旁天竺葵精油", "綠花白千層精油", "苦楝油冷壓初榨酪梨油植物固醇", "薰衣草精油"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["劉鴻略"]
+authorId: 378
+author: "劉鴻略"
+authorRole: "家庭醫學科醫師"
 legacyId: 29848
 legacyPath: "/blog/natrees-lhl/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

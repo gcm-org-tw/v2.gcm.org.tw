@@ -6,6 +6,9 @@ updatedDate: "2026-06-17T02:21:27Z"
 heroImage: "/wp-content/uploads/omni-99-sjh05.jpg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["9-種人體原生菌株", "全球前三大益生菌品牌", "國際益生菌高標準", "專利-probioact-technology", "調節生理機能"]
+authorId: 231
+author: "宋瑞欣"
+authorRole: "營養師"
 legacyId: 40704
 legacyPath: "/blog/omni-99-sjh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

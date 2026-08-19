@@ -10,6 +10,9 @@ blog_tag: ["白內障"]
 blog_tag_keyword: ["白內障"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["陳建甫"]
+authorId: 137
+author: "陳建甫"
+authorRole: "中醫師"
 legacyId: 13925
 legacyPath: "/blog/kids-cataracts-chinese-medicine-eye-protection-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

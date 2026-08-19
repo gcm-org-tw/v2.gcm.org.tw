@@ -7,6 +7,8 @@ heroImageAlt: "視力衰退的無情考驗，眼睛健康的忽視與後果"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["弱視", "眼睛", "視力", "近視"]
 blog_tag_theme: ["body-health"]
+authorId: 516
+author: "陳安湲"
 legacyId: 21669
 legacyPath: "/blog/visionlossca2465/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

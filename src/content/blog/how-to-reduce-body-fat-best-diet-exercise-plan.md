@@ -6,6 +6,9 @@ updatedDate: "2024-10-16T06:12:59Z"
 heroImage: "/wp-content/uploads/如何健康地降低體脂肪：運動與飲食的最佳結合方案2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["體脂肪"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 23948
 legacyPath: "/blog/how-to-reduce-body-fat-best-diet-exercise-plan/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

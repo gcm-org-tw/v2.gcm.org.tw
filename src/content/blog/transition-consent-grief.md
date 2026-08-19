@@ -6,6 +6,9 @@ updatedDate: "2025-08-07T09:01:17Z"
 heroImage: "/wp-content/uploads/Transition-Consent-Grief6.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["跨性別"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 31856
 legacyPath: "/blog/transition-consent-grief/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

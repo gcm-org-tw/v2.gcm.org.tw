@@ -10,6 +10,9 @@ blog_tag: ["腦瘤", "飲食保健"]
 blog_tag_keyword: ["腦瘤"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["黃詩涵"]
+authorId: 115
+author: "黃詩涵"
+authorRole: "營養師"
 legacyId: 8911
 legacyPath: "/blog/dietary-strategies-brain-tumor/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

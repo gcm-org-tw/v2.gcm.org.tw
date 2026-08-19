@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/xosome-Anti-Aging-Breakthrough.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag: ["預防醫學"]
 blog_tag_keyword: ["外泌體"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26840
 legacyPath: "/blog/exosome-anti-aging-breakthrough/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

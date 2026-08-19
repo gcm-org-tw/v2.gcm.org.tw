@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["aranea-treatment蜘蛛胜肽深層修護護髮素", "aranea-蜘蛛胜肽密集養髮洗髮精", "mcb-formula", "蜘蛛絲蛋白"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["陳坤志"]
+authorId: 364
+author: "陳坤志"
+authorRole: "營養師"
 legacyId: 28437
 legacyPath: "/blog/dr-graft-aranea-ckz/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

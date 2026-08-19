@@ -5,6 +5,9 @@ pubDate: "2024-12-30T06:36:02Z"
 heroImage: "/wp-content/uploads/2025返鄉攻略：長途旅程中的「三大健康救星」.jpg"
 blog_cate: ["rss-newstalk", "appreciation", "preventive-healthcare"]
 blog_tag_keyword: ["長途旅程"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25284
 legacyPath: "/blog/2025-homecoming-tips-3-health-essentials-for-long-trips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2024-12-17T02:30:51Z"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["上班族", "壓力", "慢性病", "耳部疾病", "耳鳴"]
 blog_tag_theme: ["媒體報導", "營養保健", "body-health"]
+authorId: 796
+author: "蔡昀庭"
+authorRole: "中醫師, 職能治療師"
 legacyId: 25488
 legacyPath: "/blog/tinnitus_characteristics_causes/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

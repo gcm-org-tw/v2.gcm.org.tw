@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/Fatigue-Steals-Focus6.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag: ["預防醫學"]
 blog_tag_keyword: ["過勞"]
+authorId: 497
+author: "協會編輯"
 legacyId: 32796
 legacyPath: "/blog/fatigue-steals-focus/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

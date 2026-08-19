@@ -6,6 +6,8 @@ updatedDate: "2024-12-19T14:13:53Z"
 heroImage: "/wp-content/uploads/podcast-e38090e9babbe793.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "press"]
 blog_tag_theme: ["焦慮"]
+authorId: 497
+author: "協會編輯"
 legacyId: 25553
 legacyPath: "/blog/tcm-solutions-for-stress-relief-and-emotional-balance/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

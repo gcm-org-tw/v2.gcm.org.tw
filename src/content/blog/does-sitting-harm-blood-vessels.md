@@ -6,6 +6,8 @@ updatedDate: "2026-03-21T10:39:40Z"
 heroImage: "/wp-content/uploads/Does-Sitting-Harm-Blood-Vessels8.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["下肢循環"]
+authorId: 497
+author: "協會編輯"
 legacyId: 39174
 legacyPath: "/blog/does-sitting-harm-blood-vessels/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

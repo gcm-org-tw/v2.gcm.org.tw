@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/吃蝦能有什麼好處助你提升精力與荷
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["蝦能"]
 blog_tag_theme: ["body-health"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25275
 legacyPath: "/blog/benefits-of-eating-shrimp-boost-energy-and-hormone-balance/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

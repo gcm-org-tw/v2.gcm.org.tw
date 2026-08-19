@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["營養保健", "預防醫學"]
 blog_tag_keyword: ["藥師", "補水", "電解質"]
 blog_tag_theme: ["媒體報導", "body-health", "醫友生活"]
+authorId: 915
+author: "王毓辰"
+authorRole: "藥師"
 legacyId: 33417
 legacyPath: "/blog/sports-drink-vs-electrolyte-water-hydration-king/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

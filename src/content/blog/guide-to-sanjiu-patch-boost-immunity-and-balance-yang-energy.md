@@ -5,6 +5,9 @@ pubDate: "2024-12-28T05:14:41Z"
 updatedDate: "2024-12-30T06:59:21Z"
 heroImage: "/wp-content/uploads/Guide-to-Sanjiu-Patch-Boost-Immunity-and-Balance-Yang-Energy.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25717
 legacyPath: "/blog/guide-to-sanjiu-patch-boost-immunity-and-balance-yang-energy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

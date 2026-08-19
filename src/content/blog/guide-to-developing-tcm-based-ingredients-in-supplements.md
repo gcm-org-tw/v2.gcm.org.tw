@@ -6,6 +6,9 @@ updatedDate: "2024-11-03T12:30:17Z"
 heroImage: "/wp-content/uploads/保健品中醫成分的研發與流程管理指南.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["保健食品研發"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 24546
 legacyPath: "/blog/guide-to-developing-tcm-based-ingredients-in-supplements/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

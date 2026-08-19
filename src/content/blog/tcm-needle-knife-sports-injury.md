@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "news", "appreciation", "preven
 blog_tag: ["中醫", "運動傷害", "預防醫學"]
 blog_tag_keyword: ["中醫治療", "運動傷害", "針刀療法"]
 blog_tag_theme: ["營養保健", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 339
+author: "陳炳曄"
+authorRole: "中醫師"
 legacyId: 26719
 legacyPath: "/blog/tcm-needle-knife-sports-injury/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

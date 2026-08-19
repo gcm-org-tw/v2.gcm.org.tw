@@ -6,6 +6,9 @@ updatedDate: "2026-04-04T05:39:51Z"
 heroImage: "/wp-content/uploads/Summer-Cardiovascular-Risk-Factors5.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["心血管"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 39280
 legacyPath: "/blog/summer-cardiovascular-risk-factors/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,8 @@ updatedDate: "2026-01-23T10:02:38Z"
 heroImage: "/wp-content/uploads/Nocturnal-Cough-Causes-in-Adults6.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["夜咳"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37285
 legacyPath: "/blog/nocturnal-cough-causes-in-adults/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

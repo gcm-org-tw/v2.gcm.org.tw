@@ -10,6 +10,9 @@ blog_tag: ["中醫", "人參", "花旗蔘"]
 blog_tag_keyword: ["中醫師", "花旗蔘"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["陳建甫"]
+authorId: 137
+author: "陳建甫"
+authorRole: "中醫師"
 legacyId: 21121
 legacyPath: "/blog/jgpower-jf/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/IMG_8606-min-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["陳安湲"]
+authorId: 516
+author: "陳安湲"
 legacyId: 23458
 legacyPath: "/blog/doktorchoicexyay/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

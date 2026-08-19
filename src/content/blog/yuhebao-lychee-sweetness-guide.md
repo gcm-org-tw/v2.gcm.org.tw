@@ -6,6 +6,8 @@ updatedDate: "2026-06-04T03:38:33Z"
 heroImage: "/wp-content/uploads/段落二.png"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["玉荷包"]
+authorId: 497
+author: "協會編輯"
 legacyId: 40757
 legacyPath: "/blog/yuhebao-lychee-sweetness-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

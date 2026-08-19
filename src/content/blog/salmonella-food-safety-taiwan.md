@@ -6,6 +6,8 @@ updatedDate: "2026-04-11T08:28:28Z"
 heroImage: "/wp-content/uploads/Salmonella-Food-Safety-Taiwan8.jpg"
 heroImageAlt: "Salmonella Food Safety Taiwan8"
 blog_tag_keyword: ["食物中毒"]
+authorId: 497
+author: "協會編輯"
 legacyId: 39395
 legacyPath: "/blog/salmonella-food-safety-taiwan/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

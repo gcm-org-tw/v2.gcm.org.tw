@@ -6,6 +6,9 @@ updatedDate: "2026-01-19T13:58:58Z"
 heroImage: "/wp-content/uploads/Antrodia-cinnamomea-Triterpenoid-Effects1.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["牛樟芝"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 37005
 legacyPath: "/blog/antrodia-cinnamomea-triterpenoid-effects/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

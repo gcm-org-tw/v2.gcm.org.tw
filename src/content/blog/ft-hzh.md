@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["美國ft養色技術服務"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["侯政宏"]
+authorId: 365
+author: "侯政宏"
+authorRole: "整形外科醫師"
 legacyId: 31614
 legacyPath: "/blog/ft-hzh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

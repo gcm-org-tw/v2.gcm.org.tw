@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/標題.png"
 heroImageAlt: "體檢要空腹，到底是為什麼？"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["空腹", "體檢"]
+authorId: 204
+author: "李協明"
+authorRole: "營養師"
 legacyId: 20429
 legacyPath: "/blog/wu3ru03jd-zj4g4jo4gk6ia7/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

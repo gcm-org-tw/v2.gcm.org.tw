@@ -6,6 +6,8 @@ heroImage: "/wp-content/uploads/Spine-Care-Design.jpg"
 blog_cate: ["gcm-news", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["脊椎矯正"]
 blog_tag_theme: ["脊椎矯正"]
+authorId: 497
+author: "協會編輯"
 legacyId: 30115
 legacyPath: "/blog/spine-care-design/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

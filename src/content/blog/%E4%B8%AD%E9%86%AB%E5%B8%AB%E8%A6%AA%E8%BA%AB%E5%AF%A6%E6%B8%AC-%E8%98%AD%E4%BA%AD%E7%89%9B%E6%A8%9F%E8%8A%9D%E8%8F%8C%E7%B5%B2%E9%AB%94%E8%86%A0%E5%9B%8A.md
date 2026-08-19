@@ -8,6 +8,9 @@ heroImageAlt: "蘭亭牛樟芝菌絲體膠囊"
 blog_cate: ["appreciation"]
 blog_tag: ["中醫師", "蘭亭牛樟芝菌絲體膠囊", "預防醫學"]
 blog_tag_theme: ["醫友生活"]
+authorId: 242
+author: "張家誠"
+authorRole: "中醫師"
 legacyId: 19549
 legacyPath: "/blog/%e4%b8%ad%e9%86%ab%e5%b8%ab%e8%a6%aa%e8%ba%ab%e5%af%a6%e6%b8%ac-%e8%98%ad%e4%ba%ad%e7%89%9b%e6%a8%9f%e8%8a%9d%e8%8f%8c%e7%b5%b2%e9%ab%94%e8%86%a0%e5%9b%8a/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

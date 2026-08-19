@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare"]
 blog_tag: ["預防醫學"]
 blog_tag_keyword: ["阿爾茨海默"]
 blog_tag_theme: ["body-health"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 32833
 legacyPath: "/blog/small-habits-speed-brain-aging/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

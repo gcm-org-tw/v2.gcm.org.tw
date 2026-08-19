@@ -10,6 +10,9 @@ blog_tag: ["漢方食品", "白內障"]
 blog_tag_keyword: ["白內障"]
 blog_tag_theme: ["nutritional-supplement"]
 blog_fr_doctors: ["蔡旻堅"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 13878
 legacyPath: "/blog/chinese-herbs-prevent-cataracts-benefits-revealed/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2024-12-01T12:13:55Z"
 heroImage: "/wp-content/uploads/棒球世界冠軍的訓練計劃與飲食調理技巧2.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "appreciation"]
 blog_tag_keyword: ["世界冠軍"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 24630
 legacyPath: "/blog/world-baseball-champion-training-and-diet-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

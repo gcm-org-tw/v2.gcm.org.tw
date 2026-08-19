@@ -6,6 +6,9 @@ updatedDate: "2024-12-23T04:16:55Z"
 heroImage: "/wp-content/uploads/South-African-Wine-The-Secret-of-Audacias-Sulfite-Free-Innovation2.jpg"
 blog_cate: ["rss-newstalk", "appreciation"]
 blog_tag_keyword: ["南非葡萄酒"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25562
 legacyPath: "/blog/south-african-wine-the-secret-of-audacias-sulfite-free-innovation/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

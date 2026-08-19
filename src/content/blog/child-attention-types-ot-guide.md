@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["兒童發展", "注意力", "預防醫學"]
 blog_tag_keyword: ["兒童發展", "注意力不集中"]
 blog_tag_theme: ["adhd", "兒童注意力", "注意不集中", "醫友生活"]
+authorId: 283
+author: "孫懋淇"
+authorRole: "職能治療師"
 legacyId: 30031
 legacyPath: "/blog/child-attention-types-ot-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

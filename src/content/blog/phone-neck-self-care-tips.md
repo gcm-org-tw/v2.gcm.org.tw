@@ -10,6 +10,9 @@ blog_tag: ["手機頸"]
 blog_tag_keyword: ["低頭族", "手機", "頸椎"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["凃建維"]
+authorId: 139
+author: "凃建維"
+authorRole: "中醫師"
 legacyId: 7587
 legacyPath: "/blog/phone-neck-self-care-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/dybwdh25032505-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["克莉絲丹光彩無暇蜜粉-光圈蜜粉-克莉絲丹香氛奧秘"]
 blog_fr_doctors: ["吳岱璇"]
+authorId: 791
+author: "吳岱璇"
+authorRole: "中醫師, 呼吸治療師"
 legacyId: 28080
 legacyPath: "/blog/chrisdanwdx/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

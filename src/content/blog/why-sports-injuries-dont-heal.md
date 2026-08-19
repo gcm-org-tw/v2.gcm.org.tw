@@ -7,6 +7,9 @@ blog_cate: ["rss-newstalk", "appreciation"]
 blog_tag: ["運動傷害", "運動醫學", "預防醫學"]
 blog_tag_keyword: ["物理治療", "運動傷害"]
 blog_tag_theme: ["body-health", "醫友生活"]
+authorId: 854
+author: "陳敬衡"
+authorRole: "物理治療師"
 legacyId: 39336
 legacyPath: "/blog/why-sports-injuries-dont-heal/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -10,6 +10,9 @@ blog_tag: ["白內障", "運動傷害", "運動醫學"]
 blog_tag_keyword: ["白內障"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["王凱平"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 13895
 legacyPath: "/blog/sports-medicine-uv-protection-outdoor-exercise-avoid-cataracts/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

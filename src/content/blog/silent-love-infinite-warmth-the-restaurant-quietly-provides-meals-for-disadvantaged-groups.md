@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/LINE_ALBUM_之前說到外燴食材做愛心的�
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["愛心餐"]
 blog_tag_theme: ["醫友生活"]
+authorId: 497
+author: "協會編輯"
 legacyId: 22522
 legacyPath: "/blog/silent-love-infinite-warmth-the-restaurant-quietly-provides-meals-for-disadvantaged-groups/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

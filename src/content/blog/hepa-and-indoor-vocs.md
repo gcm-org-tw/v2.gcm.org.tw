@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/8.HEPA-and-Indoor-VOCs_0-scaled.jpg"
 heroImageAlt: "HEPA and Indoor VOCs_"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["居住健康"]
+authorId: 497
+author: "協會編輯"
 legacyId: 39402
 legacyPath: "/blog/hepa-and-indoor-vocs/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

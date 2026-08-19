@@ -6,6 +6,9 @@ updatedDate: "2026-06-01T07:05:13Z"
 heroImage: "/wp-content/uploads/Coix-Seed-Benefits-Overview8.jpg"
 blog_cate: ["rss-newstalk", "news", "preventive-healthcare"]
 blog_tag_keyword: ["薏仁"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 40651
 legacyPath: "/blog/coix-seed-benefits-overview/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

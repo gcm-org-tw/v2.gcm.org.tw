@@ -6,6 +6,9 @@ updatedDate: "2025-02-04T01:58:25Z"
 heroImage: "/wp-content/uploads/Influenza-Pneumonia-Prevention-Tips2.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["流感併發肺炎"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26552
 legacyPath: "/blog/influenza-pneumonia-prevention-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

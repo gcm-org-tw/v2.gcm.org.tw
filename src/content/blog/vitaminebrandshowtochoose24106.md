@@ -5,6 +5,9 @@ pubDate: "2025-02-09T03:47:13Z"
 updatedDate: "2026-02-23T03:28:18Z"
 heroImage: "/wp-content/uploads/c6rvte20251009.jpg"
 heroImageAlt: "市售6家維生素E品牌推薦評比"
+authorId: 206
+author: "廖敏涵"
+authorRole: "營養師"
 legacyId: 33488
 legacyPath: "/blog/vitaminebrandshowtochoose24106/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

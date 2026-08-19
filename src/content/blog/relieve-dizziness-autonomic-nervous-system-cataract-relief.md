@@ -10,6 +10,9 @@ blog_tag: ["中醫", "白內障", "自律神經"]
 blog_tag_keyword: ["白內障"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["楊立暐"]
+authorId: 178
+author: "楊立暐"
+authorRole: "中醫師"
 legacyId: 14129
 legacyPath: "/blog/relieve-dizziness-autonomic-nervous-system-cataract-relief/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

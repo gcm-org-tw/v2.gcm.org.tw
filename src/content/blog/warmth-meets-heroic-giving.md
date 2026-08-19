@@ -5,6 +5,8 @@ pubDate: "2026-01-23T05:14:24Z"
 updatedDate: "2026-01-19T12:09:18Z"
 heroImage: "/wp-content/uploads/1768823928976.jpg"
 blog_cate: ["rss-newstalk"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37002
 legacyPath: "/blog/warmth-meets-heroic-giving/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

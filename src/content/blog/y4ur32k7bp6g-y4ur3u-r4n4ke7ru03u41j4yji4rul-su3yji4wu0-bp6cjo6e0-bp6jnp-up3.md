@@ -6,6 +6,9 @@ updatedDate: "2024-05-23T23:27:22Z"
 heroImage: "/wp-content/uploads/2023/02/ginseng-01.png"
 heroImageAlt: "自己的人生自己救 4 個簡易步驟，教你做天然回甘人蔘飲"
 blog_cate: ["preventive-healthcare"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 4455
 legacyPath: "/blog/y4ur32k7bp6g-y4ur3u-r4n4ke7ru03u41j4yji4rul-su3yji4wu0-bp6cjo6e0-bp6jnp-up3/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

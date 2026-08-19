@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/哪些人最適合吃-Q10？這-3-大族群吃�
 blog_cate: ["gcm-news"]
 blog_tag_keyword: ["q10"]
 blog_tag_theme: ["body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23314
 legacyPath: "/blog/who-gains-most-from-q10-top-3-groups/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

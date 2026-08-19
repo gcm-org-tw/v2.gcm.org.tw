@@ -10,6 +10,9 @@ blog_tag: ["中醫", "中醫師", "中醫飲食", "久坐", "陳建甫", "飲食
 blog_tag_keyword: ["益生菌"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["陳建甫"]
+authorId: 137
+author: "陳建甫"
+authorRole: "中醫師"
 legacyId: 9895
 legacyPath: "/blog/%e5%8d%97%e7%ab%b9%e9%a2%a8%e6%be%a4%e4%b8%ad%e9%86%ab%e8%a8%ba%e6%89%80%e9%99%b3%e5%bb%ba%e7%94%ab%e9%86%ab%e5%b8%ab%e5%b0%88%e6%a5%ad%e9%96%8b%e7%ae%b1%ef%bc%9a%e9%ad%8f%e6%99%82%e5%84%aa%e7%b6%9c/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

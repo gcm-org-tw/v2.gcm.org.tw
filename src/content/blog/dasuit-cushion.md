@@ -6,6 +6,8 @@ updatedDate: "2024-01-24T05:04:49Z"
 heroImage: "/wp-content/uploads/2023/02/S__33775651.jpg"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
+authorId: 6
+author: "職人"
 legacyId: 4432
 legacyPath: "/blog/dasuit-cushion/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

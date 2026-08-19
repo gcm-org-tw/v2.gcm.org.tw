@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/水美眉養成心法—談談中醫袪濕.jpg"
 heroImageAlt: "水美眉養成心法—談談中醫袪濕"
 blog_cate: ["preventive-healthcare"]
 blog_tag_theme: ["body-health"]
+authorId: 431
+author: "廖芳儀"
+authorRole: "中醫師"
 legacyId: 21396
 legacyPath: "/blog/5j-u-wjo4g/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

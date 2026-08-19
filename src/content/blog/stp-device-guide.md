@@ -6,6 +6,9 @@ updatedDate: "2025-10-16T14:07:49Z"
 heroImage: "/wp-content/uploads/STP-Device-Guide6.jpg"
 blog_cate: ["preventive-healthcare", "experts"]
 blog_tag_keyword: ["假體"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 33610
 legacyPath: "/blog/stp-device-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

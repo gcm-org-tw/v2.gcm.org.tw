@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/tipspreventheatstroke24613lg.png"
 heroImageAlt: "預防中暑？10項祕訣教你快速掌握"
 blog_cate: ["preventive-healthcare"]
 blog_tag_theme: ["body-health"]
+authorId: 292
+author: "李冠毅"
+authorRole: "復健科醫師"
 legacyId: 21955
 legacyPath: "/blog/tipspreventheatstroke24613lg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

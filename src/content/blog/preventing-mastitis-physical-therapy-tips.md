@@ -9,6 +9,8 @@ blog_cate: ["news"]
 blog_tag: ["物理治療師", "產後"]
 blog_tag_keyword: ["乳腺炎", "產後"]
 blog_tag_theme: ["body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 17808
 legacyPath: "/blog/preventing-mastitis-physical-therapy-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

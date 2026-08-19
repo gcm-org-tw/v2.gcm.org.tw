@@ -8,6 +8,9 @@ blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag: ["益生菌"]
 blog_tag_keyword: ["香蕉"]
 blog_tag_theme: ["nutritional-supplement"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 33615
 legacyPath: "/blog/banana-gut-sleep-study/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

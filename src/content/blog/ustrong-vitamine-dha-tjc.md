@@ -5,6 +5,9 @@ pubDate: "2024-08-27T03:53:56Z"
 heroImage: "/wp-content/uploads/IMG_7648-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["蔡季芩"]
+authorId: 410
+author: "蔡季芩"
+authorRole: "藥師"
 legacyId: 23297
 legacyPath: "/blog/ustrong-vitamine-dha-tjc/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -10,6 +10,9 @@ blog_tag: ["抑鬱"]
 blog_tag_keyword: ["壓力", "抑鬱"]
 blog_tag_theme: ["psychological-symptoms"]
 blog_fr_doctors: ["潘天健"]
+authorId: 63
+author: "潘天健"
+authorRole: "內科醫師"
 legacyId: 8639
 legacyPath: "/blog/workplace-stress-exploring-depression/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

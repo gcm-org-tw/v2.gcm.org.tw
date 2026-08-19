@@ -6,6 +6,8 @@ updatedDate: "2026-08-03T01:24:09Z"
 heroImage: "/wp-content/uploads/in-plus-vitamin-cpj07.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["12合1超能維他命", "cbr-108", "gaba", "in-plus", "ovopet", "sgs", "低敏0穀", "茶胺酸", "貓用維他命", "雞肉軟嚼錠"]
+authorId: 479
+author: "綦珮如"
 legacyId: 42277
 legacyPath: "/blog/in-plus-vitamin-cpj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

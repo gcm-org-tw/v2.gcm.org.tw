@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/數位中藥標本館.jpg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["中醫"]
 blog_tag_theme: ["醫友生活"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 20368
 legacyPath: "/blog/digitalchinesemedicineherbarium/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

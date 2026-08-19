@@ -6,6 +6,8 @@ updatedDate: "2024-08-17T12:28:59Z"
 heroImage: "/wp-content/uploads/膠原蛋白副作用不可不知！在食用之前，你必須知道這些注意事項.jpg"
 blog_cate: ["gcm-news"]
 blog_tag_keyword: ["膠原蛋白"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23324
 legacyPath: "/blog/collagen-side-effects-precautions/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

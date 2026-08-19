@@ -5,6 +5,9 @@ pubDate: "2024-08-29T10:19:04Z"
 heroImage: "/wp-content/uploads/20240622_201307-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["李冠毅"]
+authorId: 292
+author: "李冠毅"
+authorRole: "復健科醫師"
 legacyId: 23260
 legacyPath: "/blog/57collagenlgi24816/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

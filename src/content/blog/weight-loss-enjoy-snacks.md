@@ -10,6 +10,9 @@ blog_tag: ["減重"]
 blog_tag_keyword: ["減重", "零食"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["協會顧問"]
+authorId: 131
+author: "曾荃鈺"
+authorRole: "協會顧問"
 legacyId: 8994
 legacyPath: "/blog/weight-loss-enjoy-snacks/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

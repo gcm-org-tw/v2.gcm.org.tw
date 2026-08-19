@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/Hypertension-Lifestyle-Interventions3.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["高血壓"]
 blog_tag_theme: ["高血壓"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 36807
 legacyPath: "/blog/hypertension-lifestyle-interventions/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

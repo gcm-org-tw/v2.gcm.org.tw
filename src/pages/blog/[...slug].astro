@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import ArticleLayout from '../../layouts/ArticleLayout.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import RelatedPosts from '../../components/RelatedPosts.astro';
+import AuthorCard from '../../components/AuthorCard.astro';
 import { slugFromLegacy } from '../../lib/urls';
 import { cateLabel } from '../../lib/taxonomy';
 
@@ -36,5 +37,12 @@ const taxonomy = post.data.blog_cate.map(slug => ({
 >
   <TableOfContents headings={headings} slot="before-content" />
   <Content />
-  <RelatedPosts current={post} all={all} slot="after-content" />
+  <Fragment slot="after-content">
+    <AuthorCard
+      authorId={post.data.authorId}
+      name={post.data.author}
+      role={post.data.authorRole}
+    />
+    <RelatedPosts current={post} all={all} />
+  </Fragment>
 </ArticleLayout>

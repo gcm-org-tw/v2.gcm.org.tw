@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["sgs檢驗", "海星枝管藻", "玻尿酸", "神經胜肽複合物", "神經醯胺", "紅蠍胜肽", "高山火絨草"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["姚蘊珈"]
+authorId: 212
+author: "姚蘊珈"
+authorRole: "營養師"
 legacyId: 35065
 legacyPath: "/blog/almiya-yyj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

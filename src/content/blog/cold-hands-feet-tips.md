@@ -6,6 +6,9 @@ updatedDate: "2025-08-23T04:41:29Z"
 heroImage: "/wp-content/uploads/Cold-Hands-Feet-Tips4.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["手腳冰冷"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 32319
 legacyPath: "/blog/cold-hands-feet-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2025-01-04T13:37:36Z"
 heroImage: "/wp-content/uploads/TCM-Insights-Quality-Control-of-Extracted-Herbal-Medicines2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["科研萃取藥材"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25499
 legacyPath: "/blog/tcm-insights-quality-control-of-extracted-herbal-medicines/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

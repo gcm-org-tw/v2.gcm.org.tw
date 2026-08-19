@@ -5,6 +5,8 @@ pubDate: "2024-09-20T06:12:27Z"
 heroImage: "/wp-content/uploads/【耳鳴治療】耳鳴嗡嗡響好痛苦？一文帶你深入分析5大耳鳴原因與治療方法！-2.jpg"
 blog_tag_keyword: ["壓力", "心理", "慢性病", "耳鳴", "腦瘤"]
 blog_tag_theme: ["psychological-symptoms", "耳鳴", "body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23840
 legacyPath: "/blog/tinnitus_a/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

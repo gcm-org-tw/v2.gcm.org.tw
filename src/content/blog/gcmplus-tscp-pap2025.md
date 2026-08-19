@@ -4,6 +4,8 @@ description: "加入聯盟的社區藥局即可享有以下高額廣告曝光免
 pubDate: "2025-06-02T03:41:04Z"
 updatedDate: "2025-06-02T06:30:02Z"
 heroImage: "/wp-content/uploads/橫Banner.jpg"
+authorId: 497
+author: "協會編輯"
 legacyId: 28498
 legacyPath: "/blog/gcmplus-tscp-pap2025/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

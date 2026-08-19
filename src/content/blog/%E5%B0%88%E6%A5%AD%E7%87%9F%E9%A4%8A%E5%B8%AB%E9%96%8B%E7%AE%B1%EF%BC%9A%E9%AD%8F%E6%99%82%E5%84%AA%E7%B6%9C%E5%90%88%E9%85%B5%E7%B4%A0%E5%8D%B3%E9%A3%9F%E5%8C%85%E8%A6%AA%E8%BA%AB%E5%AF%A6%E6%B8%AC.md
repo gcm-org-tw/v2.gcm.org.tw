@@ -10,6 +10,9 @@ blog_tag: ["營養師", "益生菌", "飲食"]
 blog_tag_keyword: ["益生菌"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["黃芷昕"]
+authorId: 107
+author: "黃芷昕"
+authorRole: "營養師"
 legacyId: 9877
 legacyPath: "/blog/%e5%b0%88%e6%a5%ad%e7%87%9f%e9%a4%8a%e5%b8%ab%e9%96%8b%e7%ae%b1%ef%bc%9a%e9%ad%8f%e6%99%82%e5%84%aa%e7%b6%9c%e5%90%88%e9%85%b5%e7%b4%a0%e5%8d%b3%e9%a3%9f%e5%8c%85%e8%a6%aa%e8%ba%ab%e5%af%a6%e6%b8%ac/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

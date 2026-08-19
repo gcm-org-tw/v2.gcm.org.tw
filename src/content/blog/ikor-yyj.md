@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/11zon_IMG_8386-e1761204111132.jpg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["卵黃萃取物", "單麥芽胺型葉酸", "日本百年漢方", "暖宮美巡", "枸杞萃取物", "檸檬酸", "焦磷酸鐵", "紅棗萃取物"]
 blog_fr_doctors: ["姚蘊珈"]
+authorId: 212
+author: "姚蘊珈"
+authorRole: "營養師"
 legacyId: 33552
 legacyPath: "/blog/ikor-yyj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

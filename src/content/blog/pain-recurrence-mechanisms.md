@@ -5,6 +5,9 @@ pubDate: "2026-04-27T00:00:47Z"
 updatedDate: "2026-04-23T09:28:19Z"
 heroImage: "/wp-content/uploads/Pain-Recurrence-Mechanisms1.jpg"
 blog_tag_keyword: ["慢性疼痛"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 39156
 legacyPath: "/blog/pain-recurrence-mechanisms/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

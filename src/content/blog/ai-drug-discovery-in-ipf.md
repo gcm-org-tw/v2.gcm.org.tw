@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/AI-Drug-Discovery-in-IPF8.jpg"
 heroImageAlt: "AI Drug Discovery in IPF8"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["ai藥物研發"]
+authorId: 497
+author: "協會編輯"
 legacyId: 39268
 legacyPath: "/blog/ai-drug-discovery-in-ipf/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

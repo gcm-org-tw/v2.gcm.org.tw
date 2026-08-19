@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/Exosome-Beauty-Guide-Your-Skincare-Plan4.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["外泌體"]
 blog_tag_theme: ["外泌體"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26469
 legacyPath: "/blog/exosome-beauty-guide%ef%bc%9ayour-skincare-plan/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2025-01-20T13:25:09Z"
 heroImage: "/wp-content/uploads/Caffeine-Free-Tea-for-Glowing-Skin.webp"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_theme: ["無咖啡因茶飲"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26360
 legacyPath: "/blog/caffeine-free-tea-for-glowing-skin/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

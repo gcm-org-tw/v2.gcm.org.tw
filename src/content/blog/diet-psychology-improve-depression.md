@@ -9,6 +9,9 @@ blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["抑鬱"]
 blog_tag_theme: ["psychological-symptoms"]
 blog_fr_doctors: ["黃芷昕"]
+authorId: 107
+author: "黃芷昕"
+authorRole: "營養師"
 legacyId: 8600
 legacyPath: "/blog/diet-psychology-improve-depression/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

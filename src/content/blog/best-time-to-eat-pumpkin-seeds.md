@@ -10,6 +10,9 @@ blog_tag: ["南瓜籽"]
 blog_tag_keyword: ["南瓜籽"]
 blog_tag_theme: ["nutritional-supplement"]
 blog_fr_doctors: ["黃芷昕"]
+authorId: 107
+author: "黃芷昕"
+authorRole: "營養師"
 legacyId: 17197
 legacyPath: "/blog/best-time-to-eat-pumpkin-seeds/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

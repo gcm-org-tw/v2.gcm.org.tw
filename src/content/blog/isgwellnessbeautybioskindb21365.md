@@ -9,6 +9,9 @@ blog_cate: ["appreciation"]
 blog_tag: ["乳液", "保濕", "保養", "慕斯", "肌膚", "膚況", "醫友健賞團", "醫友生活", "面膜"]
 blog_tag_keyword: ["肌膚保養"]
 blog_tag_theme: ["醫友生活"]
+authorId: 466
+author: "蔡孟璇"
+authorRole: "家庭醫學科醫師"
 legacyId: 17210
 legacyPath: "/blog/isgwellnessbeautybioskindb21365/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -10,6 +10,8 @@ blog_tag: ["上醫預防醫學發展協會"]
 blog_tag_keyword: ["活動"]
 blog_tag_theme: ["活動"]
 blog_fr_doctors: ["狄錦熙allen"]
+authorId: 497
+author: "協會編輯"
 legacyId: 14138
 legacyPath: "/blog/gcmnews23111/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2025-12-11T03:02:38Z"
 heroImage: "/wp-content/uploads/Prevent-Winter-Hypothermia5.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["寒冬"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 36246
 legacyPath: "/blog/prevent-winter-hypothermia/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

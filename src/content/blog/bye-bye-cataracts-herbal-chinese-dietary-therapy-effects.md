@@ -10,6 +10,9 @@ blog_tag: ["中醫食療", "白內障"]
 blog_tag_keyword: ["白內障"]
 blog_tag_theme: ["nutritional-supplement"]
 blog_fr_doctors: ["黃子彥"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 13899
 legacyPath: "/blog/bye-bye-cataracts-herbal-chinese-dietary-therapy-effects/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

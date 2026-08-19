@@ -6,6 +6,8 @@ updatedDate: "2025-12-10T04:13:45Z"
 heroImage: "/wp-content/uploads/Phytoncides-and-Cell-Energy-Pathways2.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["芬多精"]
+authorId: 497
+author: "協會編輯"
 legacyId: 36213
 legacyPath: "/blog/phytoncides-and-cell-energy-pathways/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

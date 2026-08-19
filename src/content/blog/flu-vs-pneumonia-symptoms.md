@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["營養保健", "預防醫學"]
 blog_tag_keyword: ["a型流感", "流感併發肺炎", "流感病毒"]
 blog_tag_theme: ["媒體報導", "營養保健", "body-health", "醫友生活"]
+authorId: 378
+author: "劉鴻略"
+authorRole: "家庭醫學科醫師"
 legacyId: 26627
 legacyPath: "/blog/flu-vs-pneumonia-symptoms/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

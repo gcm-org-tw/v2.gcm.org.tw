@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/yongfeioat24830.jpg"
 heroImageAlt: "保養品選擇新指南？專業藥師：要含燕麥成分"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_fr_doctors: ["黃泳霏"]
+authorId: 465
+author: "黃泳霏"
+authorRole: "藥師"
 legacyId: 23437
 legacyPath: "/blog/yongfeioat24830/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

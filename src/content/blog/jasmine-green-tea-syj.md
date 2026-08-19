@@ -6,6 +6,9 @@ updatedDate: "2026-07-25T00:41:25Z"
 heroImage: "/wp-content/uploads/IMG_5856.jpg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["台灣製造", "植物草本", "毛喉鞘蕊花", "玉米來源可溶性纖維", "玉米鬚萃取", "瓜拿納", "礦物營養", "綠茶粉", "鉻酵母", "非洲芒果種子", "飲食節奏管理"]
+authorId: 896
+author: "蘇鈺茹"
+authorRole: "營養師"
 legacyId: 41310
 legacyPath: "/blog/jasmine-green-tea-syj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

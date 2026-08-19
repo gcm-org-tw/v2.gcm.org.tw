@@ -6,6 +6,8 @@ updatedDate: "2025-02-10T14:50:15Z"
 heroImage: "/wp-content/uploads/sbredgcm250210banner-scaled.jpg"
 heroImageAlt: "GCM中華民國上醫預防醫學發展協會與傳新教育共同舉辦中醫師春季轉骨班"
 blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-healthcare"]
+authorId: 497
+author: "協會編輯"
 legacyId: 26655
 legacyPath: "/blog/sbredgcm250210/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

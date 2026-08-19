@@ -6,6 +6,9 @@ updatedDate: "2025-02-03T14:39:55Z"
 heroImage: "/wp-content/uploads/5-Keys-to-Blood-Sugar-Control-with-CGM3.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["cgm"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26517
 legacyPath: "/blog/5-keys-to-blood-sugar-control-with-cgm/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

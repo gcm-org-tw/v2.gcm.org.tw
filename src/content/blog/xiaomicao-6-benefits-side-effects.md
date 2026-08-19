@@ -6,6 +6,9 @@ updatedDate: "2025-06-09T14:37:22Z"
 heroImage: "/wp-content/uploads/Xiaomicao-6-Benefits-Side-Effects.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["小米草"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 30195
 legacyPath: "/blog/xiaomicao-6-benefits-side-effects/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

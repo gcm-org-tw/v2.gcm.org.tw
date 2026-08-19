@@ -10,6 +10,9 @@ blog_tag: ["聲音沙啞", "聲音疲勞"]
 blog_tag_keyword: ["沙啞", "疲勞", "聲音"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["王銘祥"]
+authorId: 61
+author: "王銘祥"
+authorRole: "耳鼻喉科醫師"
 legacyId: 7009
 legacyPath: "/blog/voice-fatigue-hoarseness/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

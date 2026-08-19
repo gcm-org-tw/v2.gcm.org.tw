@@ -6,6 +6,9 @@ updatedDate: "2026-08-05T00:44:05Z"
 heroImage: "/wp-content/uploads/in-plus-vitamin-lxy02.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["12合1超能維他命", "in-plus", "m-gard", "ovopet", "sgs", "犬用維他命", "雞肉軟嚼錠"]
+authorId: 284
+author: "李筱媛"
+authorRole: "物理治療師"
 legacyId: 42276
 legacyPath: "/blog/in-plus-vitamin-lxy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

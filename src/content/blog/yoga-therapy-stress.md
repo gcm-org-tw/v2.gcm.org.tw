@@ -10,6 +10,9 @@ blog_tag: ["物理治療", "瑜珈"]
 blog_tag_keyword: ["壓力", "瑜珈"]
 blog_tag_theme: ["psychological-symptoms"]
 blog_fr_doctors: ["李宥儒"]
+authorId: 246
+author: "李宥儒"
+authorRole: "物理治療師"
 legacyId: 8257
 legacyPath: "/blog/yoga-therapy-stress/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

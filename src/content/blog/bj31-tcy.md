@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["bj31寶健生醫", "綠蜂膠葉黃素膠囊"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["曾佳儀"]
+authorId: 836
+author: "曾佳儀"
+authorRole: "營養師"
 legacyId: 35965
 legacyPath: "/blog/bj31-tcy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

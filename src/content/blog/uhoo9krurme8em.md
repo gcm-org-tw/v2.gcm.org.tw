@@ -10,6 +10,8 @@ blog_tag: ["新冠疫苗", "疫苗"]
 blog_tag_keyword: ["新冠肺炎"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["黃立"]
+authorId: 497
+author: "協會編輯"
 legacyId: 16202
 legacyPath: "/blog/uhoo9krurme8em/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/hotbestfriendmountaincampingfun24912005.jpg"
 heroImageAlt: "hotbestfriendmountaincampingfun24912005"
 blog_cate: ["rss-newstalk", "appreciation"]
 blog_fr_doctors: ["蔡季芩"]
+authorId: 410
+author: "蔡季芩"
+authorRole: "藥師"
 legacyId: 23550
 legacyPath: "/blog/hotbestfriendmountaincampingfun24912/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

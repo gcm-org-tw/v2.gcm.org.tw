@@ -7,6 +7,9 @@ blog_cate: ["rss-newstalk", "appreciation"]
 blog_tag: ["營養保健", "營養師", "預防醫學"]
 blog_tag_keyword: ["抗老保養", "營養師"]
 blog_tag_theme: ["營養保健", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 290
+author: "張馨方"
+authorRole: "營養師"
 legacyId: 36868
 legacyPath: "/blog/anti-aging-supplements-vs-lifestyle-truth/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

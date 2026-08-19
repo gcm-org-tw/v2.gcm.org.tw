@@ -6,6 +6,8 @@ updatedDate: "2026-03-04T15:07:26Z"
 heroImage: "/wp-content/uploads/Wheat-Antifreeze-Protein-Sources6.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["抗凍蛋白"]
+authorId: 497
+author: "協會編輯"
 legacyId: 38915
 legacyPath: "/blog/wheat-antifreeze-protein-sources/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

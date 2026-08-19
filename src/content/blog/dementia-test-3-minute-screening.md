@@ -6,6 +6,9 @@ updatedDate: "2026-01-07T11:32:39Z"
 heroImage: "/wp-content/uploads/Dementia-Test-3-Minute-Screening2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["失智"]
+authorId: 63
+author: "潘天健"
+authorRole: "內科醫師"
 legacyId: 36874
 legacyPath: "/blog/dementia-test-3-minute-screening/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

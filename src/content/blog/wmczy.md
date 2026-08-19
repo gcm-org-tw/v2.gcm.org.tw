@@ -5,6 +5,9 @@ pubDate: "2025-04-08T07:07:33Z"
 heroImage: "/wp-content/uploads/hmczy25032101C_11zon.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["外泌體保養", "外泌體皇后exo-queen", "煥泌生技"]
+authorId: 440
+author: "陳姿燕"
+authorRole: "營養師"
 legacyId: 27956
 legacyPath: "/blog/wmczy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -8,6 +8,8 @@ heroImageAlt: "高血壓預防與控制：一文看懂症狀、原因及治療�
 blog_tag: ["營養保健", "預防醫學", "飲食"]
 blog_tag_keyword: ["原因", "高血壓"]
 blog_tag_theme: ["慢性病", "body-health", "高血壓"]
+authorId: 497
+author: "協會編輯"
 legacyId: 24042
 legacyPath: "/blog/hypertension_a/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

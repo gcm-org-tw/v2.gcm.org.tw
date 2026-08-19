@@ -6,6 +6,9 @@ updatedDate: "2024-12-10T14:30:42Z"
 heroImage: "/wp-content/uploads/拜年送「健康」如何用台灣味傳遞養生祝福？New-Year-Gifts-Sharing-Health-with-Taiwanese-Flavors.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "appreciation"]
 blog_tag_keyword: ["拜年"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25347
 legacyPath: "/blog/new-year-gifts-sharing-health-with-taiwanese-flavors/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

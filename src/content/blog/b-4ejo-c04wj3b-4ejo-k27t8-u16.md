@@ -8,6 +8,9 @@ heroImageAlt: "土肉桂"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["中醫飲食", "土肉桂"]
 blog_tag_theme: ["body-health"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 20257
 legacyPath: "/blog/b-4ejo-c04wj3b-4ejo-k27t8-u16/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

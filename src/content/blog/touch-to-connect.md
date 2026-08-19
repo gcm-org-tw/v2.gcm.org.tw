@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/Touch-to-Connect2.jpg"
 blog_cate: ["appreciation", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["bdsm"]
 blog_tag_theme: ["body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 34261
 legacyPath: "/blog/touch-to-connect/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

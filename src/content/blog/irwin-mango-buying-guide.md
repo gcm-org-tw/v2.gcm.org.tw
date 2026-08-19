@@ -6,6 +6,8 @@ updatedDate: "2026-06-04T03:38:56Z"
 heroImage: "/wp-content/uploads/芒果段落二.png"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["芒果"]
+authorId: 497
+author: "協會編輯"
 legacyId: 40774
 legacyPath: "/blog/irwin-mango-buying-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2025-03-02T14:18:10Z"
 heroImage: "/wp-content/uploads/neumothorax-Signs-Daily-Care-Guide.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["氣胸"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26944
 legacyPath: "/blog/pneumothorax-signs-daily-care-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

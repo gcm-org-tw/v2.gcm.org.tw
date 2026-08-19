@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["何首烏", "咖啡莓果萃取", "專利日本魚膠原蛋白", "專利鮭魚精巢dna", "酵母b群", "酵母鋅"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["黃泳霏"]
+authorId: 465
+author: "黃泳霏"
+authorRole: "藥師"
 legacyId: 28547
 legacyPath: "/blog/hyjyun25059/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

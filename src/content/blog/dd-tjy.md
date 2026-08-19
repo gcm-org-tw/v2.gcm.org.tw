@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/ddtjy25081104-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["曾佳儀"]
+authorId: 836
+author: "曾佳儀"
+authorRole: "營養師"
 legacyId: 31914
 legacyPath: "/blog/dd-tjy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

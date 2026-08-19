@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/cmhairlosscare24830.jpg"
 heroImageAlt: "中醫觀點下的頭皮養護趨勢 落髮問題有解"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_fr_doctors: ["林芳伃"]
+authorId: 487
+author: "林芳伃"
+authorRole: "中醫師, 藥師"
 legacyId: 23435
 legacyPath: "/blog/cmhairlosscare24830/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

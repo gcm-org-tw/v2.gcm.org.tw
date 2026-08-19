@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/IMG_1089-min-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["蔡孟璇"]
+authorId: 466
+author: "蔡孟璇"
+authorRole: "家庭醫學科醫師"
 legacyId: 23272
 legacyPath: "/blog/57collagencm24816/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

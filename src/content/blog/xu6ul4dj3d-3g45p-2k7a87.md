@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/良藥苦口1.jpg"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["中醫"]
 blog_tag_theme: ["醫友生活"]
+authorId: 497
+author: "協會編輯"
 legacyId: 20413
 legacyPath: "/blog/xu6ul4dj3d-3g45p-2k7a87/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

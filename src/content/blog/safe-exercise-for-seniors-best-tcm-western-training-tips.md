@@ -8,6 +8,9 @@ blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag: ["運動傷害"]
 blog_tag_keyword: ["長者"]
 blog_tag_theme: ["body-health"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26870
 legacyPath: "/blog/safe-exercise-for-seniors-best-tcm-western-training-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2024-10-12T13:57:18Z"
 heroImage: "/wp-content/uploads/人工智能在醫療中的應用：5個未來可能改變健康的趨勢.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["人工智能"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 23971
 legacyPath: "/blog/ai-in-healthcare-5-trends-shaping-future-health/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

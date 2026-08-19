@@ -6,6 +6,9 @@ updatedDate: "2026-06-05T05:10:19Z"
 heroImage: "/wp-content/uploads/S__11018243.jpg"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["李瑜瑩"]
+authorId: 243
+author: "李瑜瑩"
+authorRole: "營養師"
 legacyId: 23985
 legacyPath: "/blog/powerso-207-lyy-2/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

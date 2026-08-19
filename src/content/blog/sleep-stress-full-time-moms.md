@@ -10,6 +10,9 @@ blog_tag: ["壓力", "睡眠"]
 blog_tag_keyword: ["壓力", "失眠", "媽媽", "睡眠"]
 blog_tag_theme: ["sleep-problems"]
 blog_fr_doctors: ["王珮君"]
+authorId: 92
+author: "王珮君"
+authorRole: "中醫師"
 legacyId: 9136
 legacyPath: "/blog/sleep-stress-full-time-moms/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

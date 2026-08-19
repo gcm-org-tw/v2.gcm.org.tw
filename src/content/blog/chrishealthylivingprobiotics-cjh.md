@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/chrishealthylivingProbiotics-cjh25091904.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["11種嚴選腸道活菌", "不嗆口", "專利冷凍三層包埋技術", "逐批檢驗出廠保證達300億隻益生活菌"]
 blog_tag_theme: ["醫友生活"]
+authorId: 792
+author: "陳瑾萱"
+authorRole: "一般醫學科醫師"
 legacyId: 33248
 legacyPath: "/blog/chrishealthylivingprobiotics-cjh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

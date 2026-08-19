@@ -6,6 +6,9 @@ updatedDate: "2026-06-01T01:53:51Z"
 heroImage: "/wp-content/uploads/IMG_3473_17_11zon.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["94高濃度魚油", "dha-epa", "omega-3", "rtg型魚油", "冰島政府認證", "美國製造", "耐酸崩解技術", "腸溶緩釋膠囊", "迷你型軟膠囊"]
+authorId: 466
+author: "蔡孟璇"
+authorRole: "家庭醫學科醫師"
 legacyId: 40097
 legacyPath: "/blog/lovita-94-tmh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

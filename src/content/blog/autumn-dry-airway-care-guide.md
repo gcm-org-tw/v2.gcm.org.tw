@@ -6,6 +6,9 @@ updatedDate: "2026-03-27T12:26:57Z"
 heroImage: "/wp-content/uploads/Autumn-Dry-Airway-Care-Guide4-1.png"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["乾咳"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 39225
 legacyPath: "/blog/autumn-dry-airway-care-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

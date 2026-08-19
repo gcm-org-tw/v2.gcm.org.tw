@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["三重煥膚", "厚朴萃取", "深入減法的純淨保養", "百里香萃取", "補骨脂酚"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["蔡季芩"]
+authorId: 410
+author: "蔡季芩"
+authorRole: "藥師"
 legacyId: 32893
 legacyPath: "/blog/greenvines-ws-tjt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

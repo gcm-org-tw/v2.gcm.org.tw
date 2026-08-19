@@ -6,6 +6,8 @@ updatedDate: "2026-05-27T03:33:13Z"
 heroImage: "/wp-content/uploads/Cholesterol-Egg-Myths-8.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["膽固醇"]
+authorId: 497
+author: "協會編輯"
 legacyId: 40632
 legacyPath: "/blog/cholesterol-egg-myths/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

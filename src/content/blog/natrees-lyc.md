@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["歐洲赤松精油", "波旁天竺葵精油", "綠花白千層精油", "苦楝油冷壓初榨酪梨油植物固醇", "薰衣草精油"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["劉郁辰"]
+authorId: 286
+author: "劉郁辰"
+authorRole: "中醫師"
 legacyId: 29849
 legacyPath: "/blog/natrees-lyc/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

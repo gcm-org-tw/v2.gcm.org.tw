@@ -8,6 +8,8 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["船井生醫-船井倍熱-船井burner-夜孅胺基酸-夜孅錠"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["綦珮如"]
+authorId: 479
+author: "綦珮如"
 legacyId: 27997
 legacyPath: "/blog/burnerexpluscpj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

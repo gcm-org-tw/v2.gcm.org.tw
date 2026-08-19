@@ -6,6 +6,9 @@ updatedDate: "2025-04-29T13:52:26Z"
 heroImage: "/wp-content/uploads/Earth-Day-and-Health-Insight3.jpg"
 blog_cate: ["rss-newstalk", "press", "preventive-healthcare", "experts"]
 blog_tag_theme: ["世界地球日"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 28450
 legacyPath: "/blog/earth-day-and-health-insight/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/endofyearstressmanagement24912.jpg"
 heroImageAlt: "endofyearstressmanagement24912"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_fr_doctors: ["蔡旻達"]
+authorId: 259
+author: "蔡旻達"
+authorRole: "營養師"
 legacyId: 23562
 legacyPath: "/blog/endofyearstressmanagement24912/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/Astragalus-Health-Benefits-Overview-1.png"
 heroImageAlt: "Astragalus Health Benefits Overview"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["黃耆"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 39408
 legacyPath: "/blog/astragalus-health-benefits-overview/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

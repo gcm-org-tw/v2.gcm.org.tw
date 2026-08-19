@@ -6,6 +6,9 @@ updatedDate: "2026-08-14T02:27:57Z"
 heroImage: "/wp-content/uploads/diadora-mmy-c.jpg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["reaction-反彈中底", "健康足弓成長鞋墊", "旋鈕快扣", "沖孔透氣設計", "立體康特杯", "童鞋專用足弓支撐", "耐磨橡膠大底", "雙密度-eva"]
+authorId: 50
+author: "馬銘翊"
+authorRole: "物理治療師"
 legacyId: 42652
 legacyPath: "/blog/diadora-mmy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2026-06-01T07:19:56Z"
 heroImage: "/wp-content/uploads/Kimchi-Health-Benefits-Guide8.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["泡菜"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 40657
 legacyPath: "/blog/kimchi-health-benefits-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

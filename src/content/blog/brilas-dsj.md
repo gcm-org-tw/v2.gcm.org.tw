@@ -6,6 +6,9 @@ updatedDate: "2026-08-03T01:24:27Z"
 heroImage: "/wp-content/uploads/BRILAS-dsj01.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["75種果蔬酵", "sod超氧歧化酵素", "乳酸菌abcl", "啤酒酵母", "專利明日葉", "專利非洲芒果籽", "決明子", "綠茶萃取", "膳食纖維補充", "藍藻"]
+authorId: 790
+author: "戴淑娟"
+authorRole: "藥師"
 legacyId: 42254
 legacyPath: "/blog/brilas-dsj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

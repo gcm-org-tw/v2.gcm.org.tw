@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["物理治療", "物理治療師", "運動傷害", "預防醫學"]
 blog_tag_keyword: ["正確姿勢", "物理治療師", "登山新手"]
 blog_tag_theme: ["物理治療", "物理治療師", "運動傷害", "醫友生活"]
+authorId: 908
+author: "黃琮棋"
+authorRole: "物理治療師"
 legacyId: 31587
 legacyPath: "/blog/hiking-posture-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

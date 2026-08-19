@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/童話醫師.jpg"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["童話醫師"]
 blog_tag_theme: ["body-health"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 21425
 legacyPath: "/blog/the-fairy-tale-doctor-podcast-healing-stories-for-childrens-wellness2/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

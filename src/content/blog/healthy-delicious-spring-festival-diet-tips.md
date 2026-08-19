@@ -9,6 +9,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["中醫", "營養保健", "預防醫學"]
 blog_tag_keyword: ["健康養生", "年菜", "春節飲食"]
 blog_tag_theme: ["媒體報導", "營養保健", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 765
+author: "唐家瑩"
+authorRole: "中醫師, 營養師"
 legacyId: 25748
 legacyPath: "/blog/healthy-delicious-spring-festival-diet-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

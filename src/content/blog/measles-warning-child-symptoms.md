@@ -9,6 +9,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "appreciation", "preventive-healthcare"]
 blog_tag: ["藥物", "預防醫學"]
 blog_tag_keyword: ["本土麻疹", "麻疹疫苗"]
 blog_tag_theme: ["body-health"]
+authorId: 693
+author: "謝欣庭"
+authorRole: "家庭醫學科醫師"
 legacyId: 25827
 legacyPath: "/blog/measles-warning-child-symptoms/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

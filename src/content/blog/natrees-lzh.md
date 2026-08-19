@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/natress25052602.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["林智亨"]
+authorId: 506
+author: "林智亨"
+authorRole: "中醫師"
 legacyId: 29850
 legacyPath: "/blog/natrees-lzh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

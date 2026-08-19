@@ -5,6 +5,9 @@ pubDate: "2024-11-11T05:14:44Z"
 updatedDate: "2024-10-19T12:50:12Z"
 heroImage: "/wp-content/uploads/中西醫師一致推薦的冬天養生法則：4個健康秘訣.jpg"
 blog_tag_keyword: ["冬天養生"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 24026
 legacyPath: "/blog/4-winter-health-tips-from-tcm-and-western-doctors/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

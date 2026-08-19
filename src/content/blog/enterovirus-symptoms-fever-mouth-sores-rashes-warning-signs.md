@@ -6,6 +6,8 @@ updatedDate: "2026-07-22T12:57:08Z"
 heroImage: "/wp-content/uploads/Enterovirus-Symptoms-Fever-Mouth-Sores-Rashes-Warning-Signs-8.jpg"
 heroImageAlt: "Enterovirus Symptoms Fever, Mouth Sores, Rashes, Warning Signs"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 497
+author: "協會編輯"
 legacyId: 41911
 legacyPath: "/blog/enterovirus-symptoms-fever-mouth-sores-rashes-warning-signs/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -10,6 +10,9 @@ blog_tag: ["年長者運動"]
 blog_tag_keyword: ["銀髮", "銀髮運動"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["姜封豪"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 7579
 legacyPath: "/blog/elderly-fitness-revolution/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

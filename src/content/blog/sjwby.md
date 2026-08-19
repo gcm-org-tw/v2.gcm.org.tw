@@ -6,6 +6,9 @@ updatedDate: "2025-02-10T06:09:13Z"
 heroImage: "/wp-content/uploads/sjwbj04c_11zon-scaled.webp"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["王柏筠"]
+authorId: 694
+author: "王柏筠"
+authorRole: "家庭醫學科醫師"
 legacyId: 26420
 legacyPath: "/blog/sjwby/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

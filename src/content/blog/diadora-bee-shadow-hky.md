@@ -6,6 +6,9 @@ updatedDate: "2026-04-16T01:28:54Z"
 heroImage: "/wp-content/uploads/Diadora-shadow-hky26041001_11zon.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["reaction-反彈中底", "健康足弓成長鞋墊", "旋鈕快扣", "沖孔透氣設計", "立體康特杯", "童鞋專用足弓支撐", "耐磨橡膠大底", "雙密度-eva"]
+authorId: 240
+author: "許愷彥"
+authorRole: "物理治療師"
 legacyId: 39380
 legacyPath: "/blog/diadora-bee-shadow-hky/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

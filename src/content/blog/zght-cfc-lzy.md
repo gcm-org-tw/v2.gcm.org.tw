@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["古法滴雞精", "呈鳳", "呈龍", "本草植萃", "祖傳獨家配方", "米精紅棗露"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["廖哲鶯"]
+authorId: 366
+author: "廖哲鶯"
+authorRole: "一般醫學科醫師"
 legacyId: 30230
 legacyPath: "/blog/zght-cfc-lzy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -8,6 +8,9 @@ blog_cate: ["rss-newstalk", "appreciation", "preventive-healthcare"]
 blog_tag: ["運動醫學", "預防醫學"]
 blog_tag_keyword: ["功能性身體症候群", "物理治療"]
 blog_tag_theme: ["body-health", "醫友生活"]
+authorId: 854
+author: "陳敬衡"
+authorRole: "物理治療師"
 legacyId: 39340
 legacyPath: "/blog/functional-somatic-syndrome-causes-and-treatment/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

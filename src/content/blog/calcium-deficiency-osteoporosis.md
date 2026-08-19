@@ -10,6 +10,9 @@ blog_tag: ["鈣"]
 blog_tag_keyword: ["補鈣", "鈣"]
 blog_tag_theme: ["nutritional-supplement", "body-health"]
 blog_fr_doctors: ["蔡旻堅"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 7845
 legacyPath: "/blog/calcium-deficiency-osteoporosis/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

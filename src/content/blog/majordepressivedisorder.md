@@ -8,6 +8,8 @@ heroImageAlt: "深入解析憂鬱症：症狀、預防及有效治療方法"
 blog_tag: ["上班族", "壓力", "預防醫學"]
 blog_tag_keyword: ["上班族", "壓力", "憂鬱症"]
 blog_tag_theme: ["psychological-symptoms", "body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 24384
 legacyPath: "/blog/majordepressivedisorder/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

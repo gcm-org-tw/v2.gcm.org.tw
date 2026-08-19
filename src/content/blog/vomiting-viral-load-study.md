@@ -5,6 +5,8 @@ pubDate: "2026-03-03T05:14:13Z"
 updatedDate: "2026-03-06T02:37:07Z"
 heroImage: "/wp-content/uploads/Vomiting-Viral-Load-Study-2.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
+authorId: 497
+author: "協會編輯"
 legacyId: 38678
 legacyPath: "/blog/vomiting-viral-load-study/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

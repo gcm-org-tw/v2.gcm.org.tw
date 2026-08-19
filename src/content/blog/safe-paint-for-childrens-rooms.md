@@ -6,6 +6,8 @@ updatedDate: "2026-03-12T09:54:12Z"
 heroImage: "/wp-content/uploads/5.Safe-Paint-for-Childrens-Rooms_0.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["voc油漆"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37434
 legacyPath: "/blog/safe-paint-for-childrens-rooms/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2025-01-10T04:53:56Z"
 heroImage: "/wp-content/uploads/Local-Measles-Outbreak-Risks-Symptoms-and-Prevention-Tips2.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "press", "preventive-healthcare"]
 blog_tag_keyword: ["麻疹"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25789
 legacyPath: "/blog/local-measles-outbreak-risks-symptoms-and-prevention-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

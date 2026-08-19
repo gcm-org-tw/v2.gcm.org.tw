@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/Building-a-Healthy-Workplace-Culture6.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["心理健康"]
 blog_tag_theme: ["職場健康"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 33712
 legacyPath: "/blog/building-a-healthy-workplace-culture/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2026-01-20T14:29:04Z"
 heroImage: "/wp-content/uploads/Maitake-Benefits-Side-Effects-Cancer6.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["多醣體"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 37030
 legacyPath: "/blog/maitake-benefits-side-effects-cancer/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2024-10-12T09:39:39Z"
 heroImage: "/wp-content/uploads/【秋冬進補的智慧：中醫如何為你調理身體】2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["秋冬進補"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 23968
 legacyPath: "/blog/fall-winter-health-tips-how-tcm-boosts-your-body/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

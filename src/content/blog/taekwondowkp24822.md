@@ -6,6 +6,9 @@ updatedDate: "2024-08-22T15:10:28Z"
 heroImage: "/wp-content/uploads/taekwondowkp24822017.jpg"
 heroImageAlt: "跆拳道一部位最易受傷 專家提醒運動傷害預防要點"
 blog_cate: ["gcm-news", "rss-newstalk"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 23352
 legacyPath: "/blog/taekwondowkp24822/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

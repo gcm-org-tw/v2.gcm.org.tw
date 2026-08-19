@@ -8,6 +8,9 @@ blog_cate: ["press"]
 blog_tag_keyword: ["草本上膳醫廚"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["蔡旻堅", "黃子彥"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 4341
 legacyPath: "/blog/happy-taiwan-20190613/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

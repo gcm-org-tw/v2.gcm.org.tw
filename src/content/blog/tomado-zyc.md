@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["永欣診所", "番茄激光膠囊", "番茄透光蠶絲修復面膜"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["鍾宜臻"]
+authorId: 397
+author: "鍾宜臻"
+authorRole: "藥師"
 legacyId: 24607
 legacyPath: "/blog/tomado-zyc/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

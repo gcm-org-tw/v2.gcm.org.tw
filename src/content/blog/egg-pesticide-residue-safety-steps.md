@@ -5,6 +5,9 @@ pubDate: "2025-11-11T05:14:55Z"
 updatedDate: "2025-11-10T08:27:12Z"
 heroImage: "/wp-content/uploads/Egg-Pesticide-Residue-Safety-Steps3.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "appreciation", "preventive-healthcare"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 34415
 legacyPath: "/blog/egg-pesticide-residue-safety-steps/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

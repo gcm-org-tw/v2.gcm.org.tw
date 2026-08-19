@@ -8,6 +8,8 @@ blog_cate: ["rss-newstalk", "press", "news", "appreciation", "preventive-healthc
 blog_tag: ["護眼生活", "預防醫學", "驗光師"]
 blog_tag_keyword: ["深層睡眠", "藍光傷害", "驗光師"]
 blog_tag_theme: ["護眼", "body-health", "醫友生活"]
+authorId: 887
+author: "莊勝傑"
 legacyId: 31938
 legacyPath: "/blog/blue-light-steals-deep-sleep/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

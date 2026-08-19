@@ -6,6 +6,9 @@ updatedDate: "2025-06-29T14:12:28Z"
 heroImage: "/wp-content/uploads/Small-Farm-Video-Plan3.jpg"
 blog_cate: ["appreciation", "preventive-healthcare"]
 blog_tag_keyword: ["小農轉型"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 30989
 legacyPath: "/blog/small-farm-video-plan/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

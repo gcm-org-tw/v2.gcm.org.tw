@@ -6,6 +6,9 @@ updatedDate: "2025-11-05T07:51:18Z"
 heroImage: "/wp-content/uploads/Influenza-H3N2-Action-Plan1.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["流感"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 34294
 legacyPath: "/blog/influenza-h3n2-action-plan/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

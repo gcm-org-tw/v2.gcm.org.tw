@@ -5,6 +5,8 @@ pubDate: "2024-09-06T06:26:11Z"
 heroImage: "/wp-content/uploads/什麼人適合吃益生菌？掌握益生菌3功效，讓你腸胃暢順、免疫力UP！.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["益生菌"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23532
 legacyPath: "/blog/who-should-take-probiotics-discover-3-key-benefits-for-better-digestion-and-boosted-immunity/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

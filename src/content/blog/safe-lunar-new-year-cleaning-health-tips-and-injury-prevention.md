@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/過年大掃除不傷身：防護關鍵與動作
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["大掃除"]
 blog_tag_theme: ["醫友生活"]
+authorId: 497
+author: "協會編輯"
 legacyId: 25337
 legacyPath: "/blog/safe-lunar-new-year-cleaning-health-tips-and-injury-prevention/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

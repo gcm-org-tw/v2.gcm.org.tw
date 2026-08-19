@@ -6,6 +6,9 @@ updatedDate: "2026-01-27T10:45:20Z"
 heroImage: "/wp-content/uploads/Toddler-Formula-Nutrition-Adequacy3.jpg"
 blog_cate: ["gcm-news", "podcast"]
 blog_tag_keyword: ["成長奶粉"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 37311
 legacyPath: "/blog/toddler-formula-nutrition-adequacy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

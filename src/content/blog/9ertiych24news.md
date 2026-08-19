@@ -4,6 +4,8 @@ description: "「院長專屬腦力風暴活動」於9月15日在竹北遠見眼
 pubDate: "2024-09-16T14:18:03Z"
 heroImage: "/wp-content/uploads/新聞稿大合照-1.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23572
 legacyPath: "/blog/9ertiych24news/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

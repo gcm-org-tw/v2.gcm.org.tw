@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["super-sod-超氧化物歧化酶", "優選多酚配⽅-3-⼤超級抗氧炎6-⼤功能營養2-⼤優質益", "深度調節氧化壓⼒預防風險"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["林芳伃"]
+authorId: 487
+author: "林芳伃"
+authorRole: "中醫師, 藥師"
 legacyId: 25679
 legacyPath: "/blog/supersoddxlfy1226/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,8 @@ heroImage: "/wp-content/uploads/擺脫體內濕氣？與心靈對話：一位心
 heroImageAlt: "擺脫體內濕氣？與心靈對話：一位心理師的心路歷程"
 blog_cate: ["preventive-healthcare"]
 blog_tag_theme: ["psychological-symptoms"]
+authorId: 268
+author: "陳莉婷"
 legacyId: 21239
 legacyPath: "/blog/vup-xu3g4d4g-fu4/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

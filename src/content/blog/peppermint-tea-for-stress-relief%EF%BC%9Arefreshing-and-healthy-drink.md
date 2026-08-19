@@ -6,6 +6,9 @@ updatedDate: "2025-01-16T23:36:25Z"
 heroImage: "/wp-content/uploads/PeStriRefreshk2117.jpg"
 blog_cate: ["rss-newstalk", "appreciation", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["薄荷茶"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25749
 legacyPath: "/blog/peppermint-tea-for-stress-relief%ef%bc%9arefreshing-and-healthy-drink/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

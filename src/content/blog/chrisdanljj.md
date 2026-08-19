@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/dyaljj25032501-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["水感柔焦物理防曬乳-全台唯㇐-uva-認證-克莉絲丹香氛"]
 blog_tag_theme: ["醫友生活"]
+authorId: 511
+author: "林佳瑾"
 legacyId: 28037
 legacyPath: "/blog/chrisdanljj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

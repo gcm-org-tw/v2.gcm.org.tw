@@ -6,6 +6,9 @@ updatedDate: "2025-05-06T05:52:01Z"
 heroImage: "/wp-content/uploads/xlltct25041503.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["nutritional-supplement", "醫友生活"]
+authorId: 410
+author: "蔡季芩"
+authorRole: "藥師"
 legacyId: 28282
 legacyPath: "/blog/xlltct/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

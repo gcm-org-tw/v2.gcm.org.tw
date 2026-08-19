@@ -6,6 +6,9 @@ updatedDate: "2026-05-25T01:32:32Z"
 heroImage: "/wp-content/uploads/IMG_8290_7_11zon-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["bjp2", "全素", "專利咸豐草", "茯苓萃", "車前草", "飯後食用"]
+authorId: 204
+author: "李協明"
+authorRole: "營養師"
 legacyId: 40120
 legacyPath: "/blog/nutrimate-lxm/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

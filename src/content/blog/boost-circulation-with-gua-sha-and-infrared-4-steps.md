@@ -6,6 +6,9 @@ updatedDate: "2024-10-06T04:27:13Z"
 heroImage: "/wp-content/uploads/如何通過撥筋與遠紅外線療法的結合改善血液循環3.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["撥筋"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 23914
 legacyPath: "/blog/boost-circulation-with-gua-sha-and-infrared-4-steps/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

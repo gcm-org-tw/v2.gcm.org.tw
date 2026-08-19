@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/fdllyt25050704-scaled-e1746596039336.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["解蛋黃粉hgp＋亞麻油粉＋南瓜籽萃取＋維生素b-群＋"]
 blog_fr_doctors: ["李宜庭"]
+authorId: 228
+author: "李宜庭"
+authorRole: "職能治療師"
 legacyId: 28533
 legacyPath: "/blog/yunamelyt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

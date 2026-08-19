@@ -6,6 +6,9 @@ updatedDate: "2026-04-04T06:49:36Z"
 heroImage: "/wp-content/uploads/Warming-Foods-for-Cold-Constitution3.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["手腳冰冷"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 39294
 legacyPath: "/blog/warming-foods-for-cold-constitution/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

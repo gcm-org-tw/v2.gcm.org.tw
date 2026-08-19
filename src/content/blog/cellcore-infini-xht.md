@@ -5,6 +5,9 @@ pubDate: "2025-05-19T10:45:03Z"
 heroImage: "/wp-content/uploads/Cellcore-INFINI-hxt25050801.webp"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["謝欣庭"]
+authorId: 693
+author: "謝欣庭"
+authorRole: "家庭醫學科醫師"
 legacyId: 28589
 legacyPath: "/blog/cellcore-infini-xht/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

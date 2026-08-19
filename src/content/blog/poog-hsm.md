@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/pooghsm25080102.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["95高純度玻尿酸", "oricera玄米萃取物", "宮廷御用微米珍珠粉", "日本嚴選poog膠原胜肽", "韓國專利7種莓果萃取"]
 blog_tag_theme: ["醫友生活"]
+authorId: 830
+author: "黃思敏"
+authorRole: "藥師"
 legacyId: 31595
 legacyPath: "/blog/poog-hsm/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

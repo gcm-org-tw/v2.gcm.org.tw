@@ -6,6 +6,9 @@ updatedDate: "2025-03-04T03:51:15Z"
 heroImage: "/wp-content/uploads/HIV-Symptoms-vs.-AIDS-Expert-Guide-to-Infection-Treatment2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["hiv"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26956
 legacyPath: "/blog/hiv-symptoms-vs-aids-expert-guide-to-infection-treatment/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

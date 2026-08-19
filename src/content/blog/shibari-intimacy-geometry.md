@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/Shibari-Intimacy-Geometry6.jpg"
 blog_cate: ["preventive-healthcare", "experts"]
 blog_tag_keyword: ["bdsm"]
 blog_tag_theme: ["body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 34407
 legacyPath: "/blog/shibari-intimacy-geometry/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

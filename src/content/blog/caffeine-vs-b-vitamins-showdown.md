@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/2023/02/vitamin-B-B-complex-01-1160x773-1.png"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["壓力"]
 blog_tag_theme: ["body-health"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 4344
 legacyPath: "/blog/caffeine-vs-b-vitamins-showdown/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

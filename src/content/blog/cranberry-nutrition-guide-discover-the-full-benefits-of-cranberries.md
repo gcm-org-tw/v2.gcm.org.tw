@@ -5,6 +5,8 @@ pubDate: "2024-09-05T08:04:08Z"
 heroImage: "/wp-content/uploads/蔓越莓營養總攻略｜全面了解蔓越莓帶來的功效有哪些.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["蔓越莓"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23510
 legacyPath: "/blog/cranberry-nutrition-guide-discover-the-full-benefits-of-cranberries/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

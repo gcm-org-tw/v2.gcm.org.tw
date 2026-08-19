@@ -6,6 +6,8 @@ updatedDate: "2026-06-24T07:57:47Z"
 heroImage: "/wp-content/uploads/Heat-Exhaustion-vs-Heatstroke-Symptoms-First-Aid-Prevention1.jpg"
 blog_cate: ["rss-newstalk", "press"]
 blog_tag_keyword: ["熱衰竭"]
+authorId: 497
+author: "協會編輯"
 legacyId: 41542
 legacyPath: "/blog/heat-exhaustion-vs-heatstroke-symptoms-first-aid-prevention/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

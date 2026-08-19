@@ -6,6 +6,8 @@ updatedDate: "2026-02-02T10:33:31Z"
 heroImage: "/wp-content/uploads/Holiday-Stress-Key-Sources2.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["過年"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37472
 legacyPath: "/blog/holiday-stress-key-sources/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

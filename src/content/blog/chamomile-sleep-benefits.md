@@ -6,6 +6,9 @@ updatedDate: "2025-05-06T13:11:33Z"
 heroImage: "/wp-content/uploads/Chamomile-Sleep-Benefits.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["洋甘菊茶"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 28507
 legacyPath: "/blog/chamomile-sleep-benefits/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

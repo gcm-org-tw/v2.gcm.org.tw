@@ -6,6 +6,9 @@ updatedDate: "2024-08-08T05:46:38Z"
 heroImage: "/wp-content/uploads/AizenChenKunzhiexperience-3.jpg"
 heroImageAlt: "陳坤志營養師體驗藍染"
 blog_cate: ["rss-newstalk", "appreciation"]
+authorId: 364
+author: "陳坤志"
+authorRole: "營養師"
 legacyId: 23243
 legacyPath: "/blog/ckgotawaterbottlebag2488/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

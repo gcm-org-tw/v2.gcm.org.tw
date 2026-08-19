@@ -6,6 +6,9 @@ updatedDate: "2026-01-20T07:48:47Z"
 heroImage: "/wp-content/uploads/Evolution-of-Surgical-Anesthesia3.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["麻醉"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 36912
 legacyPath: "/blog/evolution-of-surgical-anesthesia/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

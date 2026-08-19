@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/yylmh250205c_11zon-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["lipofer焦磷酸鐵", "紅景天", "聖潔莓", "黑棗"]
 blog_tag_theme: ["醫友生活"]
+authorId: 206
+author: "廖敏涵"
+authorRole: "營養師"
 legacyId: 26583
 legacyPath: "/blog/miss-seesaw-yylmh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

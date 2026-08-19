@@ -6,6 +6,8 @@ heroImage: "/wp-content/uploads/best-probiotics-for-gastritis.jpg"
 heroImageAlt: "best-probiotics-for-gastritis"
 blog_tag_keyword: ["中醫飲食", "壓力", "胃食道逆流"]
 blog_tag_theme: ["營養保健", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 497
+author: "協會編輯"
 legacyId: 25744
 legacyPath: "/blog/best-probiotics-for-gastritis/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -8,6 +8,8 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["心理諮商師", "營養保健", "預防醫學"]
 blog_tag_keyword: ["心理師", "情侶吵架", "溝通心理學"]
 blog_tag_theme: ["媒體報導", "psychological-symptoms", "body-health", "醫友生活"]
+authorId: 268
+author: "陳莉婷"
 legacyId: 28147
 legacyPath: "/blog/stop-fighting-start-loving-couple-talk-hacks/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

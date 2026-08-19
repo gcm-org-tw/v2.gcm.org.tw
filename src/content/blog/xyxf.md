@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/55B09036-C7E8-4A19-9EE8-55245706F5C0-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["張馨方"]
+authorId: 290
+author: "張馨方"
+authorRole: "營養師"
 legacyId: 23452
 legacyPath: "/blog/xyxf/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

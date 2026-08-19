@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["floraglo-金盞花葉黃素", "kuromanin-日本黑豆皮", "maquibright-智利酒果", "三重專利植萃護眼配方"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["楊晶淳"]
+authorId: 221
+author: "楊晶淳"
+authorRole: "營養師"
 legacyId: 30151
 legacyPath: "/blog/yssiyo-yjc/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

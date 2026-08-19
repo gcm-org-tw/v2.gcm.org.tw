@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "news", "appreciation", "preven
 blog_tag: ["營養保健", "預防醫學"]
 blog_tag_keyword: ["健康檢查", "兒童體檢", "家醫科醫師"]
 blog_tag_theme: ["媒體報導", "body-health", "醫友生活"]
+authorId: 693
+author: "謝欣庭"
+authorRole: "家庭醫學科醫師"
 legacyId: 32764
 legacyPath: "/blog/summer-camp-health-checklist/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2025-07-19T14:42:37Z"
 heroImage: "/wp-content/uploads/Eyebright-Tea-Fix6.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["小米草"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 31464
 legacyPath: "/blog/eyebright-tea-fix/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

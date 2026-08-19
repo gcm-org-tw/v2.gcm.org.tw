@@ -6,6 +6,8 @@ updatedDate: "2026-02-04T15:05:09Z"
 heroImage: "/wp-content/uploads/Dopamine-Intimacy-Five-Stage-Bonding4.jpg"
 blog_cate: ["gcm-news", "preventive-healthcare"]
 blog_tag_keyword: ["bdsm"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37498
 legacyPath: "/blog/dopamine-intimacy-five-stage-bonding/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

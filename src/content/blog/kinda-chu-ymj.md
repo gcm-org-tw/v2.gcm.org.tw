@@ -5,6 +5,8 @@ pubDate: "2026-03-11T05:10:10Z"
 heroImage: "/wp-content/uploads/11zon_S__149897324_0.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["專利-sux-max-超音波萃取", "專利西番蓮", "日本專利-gaba", "日本專利-γ-穀維素", "法國香蜂草", "葡萄糖酸鎂", "麥芽糖醇"]
+authorId: 932
+author: "葉孟娟"
 legacyId: 37871
 legacyPath: "/blog/kinda-chu-ymj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

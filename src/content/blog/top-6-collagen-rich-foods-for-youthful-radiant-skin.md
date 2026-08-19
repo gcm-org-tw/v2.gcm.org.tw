@@ -6,6 +6,8 @@ updatedDate: "2024-08-17T11:43:13Z"
 heroImage: "/wp-content/uploads/膠原蛋白食物大公開！掌握這-6-大食物，簡單擁有-Q-彈的青春美肌1.jpg"
 blog_cate: ["gcm-news"]
 blog_tag_keyword: ["膠原蛋白"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23318
 legacyPath: "/blog/top-6-collagen-rich-foods-for-youthful-radiant-skin/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

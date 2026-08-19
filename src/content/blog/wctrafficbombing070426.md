@@ -6,6 +6,8 @@ updatedDate: "2026-06-22T07:53:13Z"
 heroImage: "/wp-content/uploads/WCtrafficbombing070426622.png"
 heroImageAlt: "18組白袍流量轟炸密碼，兩性藥師奶酪糕單堂首發講座"
 blog_cate: ["rss-newstalk", "appreciation"]
+authorId: 497
+author: "協會編輯"
 legacyId: 41483
 legacyPath: "/blog/wctrafficbombing070426/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

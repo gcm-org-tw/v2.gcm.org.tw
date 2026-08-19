@@ -5,6 +5,9 @@ pubDate: "2024-06-24T00:40:36Z"
 heroImage: "/wp-content/uploads/herolandncessityovccinelg24624n.png"
 heroImageAlt: "XBB變異使疫苗逃逸能力增？中醫師：非完全無效"
 blog_cate: ["preventive-healthcare"]
+authorId: 292
+author: "李冠毅"
+authorRole: "復健科醫師"
 legacyId: 22089
 legacyPath: "/blog/herolandncessityovccinelg24624/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

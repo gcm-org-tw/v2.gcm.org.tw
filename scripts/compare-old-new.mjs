@@ -13,7 +13,13 @@
  * 順序：先跑非 blog（首頁、WP 頁面、健賞、活動、潔淨標章、Podcast、列表頁），
  * 因為那些是 Elementor/JetEngine 組版、出事機率最高；blog 內文走 REST 相對安全，排後面。
  *
+ * /review/ 那 4,144 條預設只抽驗（--review-sample，預設 50）：兩邊都沒有內容可比——
+ * 舊站是空殼頁（單頁只有選單頁尾，實測過），新站是 meta-refresh 轉址頁。全跑會得到
+ * 四千條假警報，還要讓脆弱的舊站多吃八千次請求、多花六小時。抽驗是為了驗證
+ * 「舊站那批確實沒有內容」這個前提，不是為了比對內容。--review-sample 0 可全跑。
+ *
  * 用法：node scripts/compare-old-new.mjs [--delay 1200] [--limit N] [--only <路徑片段>]
+ *                                        [--review-sample 50]
  */
 import { readFile, writeFile } from 'node:fs/promises';
 import { SITE_URL } from '../site.config.mjs';
@@ -23,6 +29,7 @@ const argVal = (n, d) => (args.includes(n) ? args[args.indexOf(n) + 1] : d);
 const DELAY = Number(argVal('--delay', 1200));
 const LIMIT = args.includes('--limit') ? Number(argVal('--limit')) : Infinity;
 const ONLY = argVal('--only', null);
+const REVIEW_SAMPLE = Number(argVal('--review-sample', 50));
 const OLD = 'https://gcm.org.tw';
 const NEW = SITE_URL.replace(/\/$/, '');
 const OUT = '.source/compare.json';
@@ -94,9 +101,19 @@ const contract = (await readFile('legacy-urls.txt', 'utf8'))
 
 // 非 blog 先跑（Elementor/JetEngine 組版，出事機率最高）
 const rank = p => (p.startsWith('/blog/') ? 2 : p.startsWith('/review/') ? 3 : 1);
-const order = [...new Set(contract)]
-  .filter(p => !ONLY || p.includes(ONLY))
+const candidates = [...new Set(contract)].filter(p => !ONLY || p.includes(ONLY));
+/* review 抽樣：固定間隔取樣（不用亂數，重跑才會取到同一批、結果可重現） */
+const reviews = candidates.filter(p => p.startsWith('/review/'));
+const step = REVIEW_SAMPLE > 0 ? Math.max(1, Math.floor(reviews.length / REVIEW_SAMPLE)) : 1;
+const sampled = REVIEW_SAMPLE > 0
+  ? new Set(reviews.filter((_, i) => i % step === 0).slice(0, REVIEW_SAMPLE))
+  : new Set(reviews);
+const order = candidates
+  .filter(p => !p.startsWith('/review/') || sampled.has(p))
   .sort((a, b) => rank(a) - rank(b) || a.localeCompare(b));
+if (REVIEW_SAMPLE > 0) {
+  console.log(`/review/ 共 ${reviews.length} 條 → 抽驗 ${sampled.size} 條（--review-sample 0 可全跑）`);
+}
 
 const done = await readFile(OUT, 'utf8').then(JSON.parse).catch(() => ({}));
 const todo = order.filter(p => !done[p]).slice(0, LIMIT);

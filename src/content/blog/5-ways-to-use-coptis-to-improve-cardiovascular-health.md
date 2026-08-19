@@ -6,6 +6,9 @@ updatedDate: "2024-10-06T11:51:43Z"
 heroImage: "/wp-content/uploads/5種方法讓黃連助你改善心血管健康2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["黃連"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 23870
 legacyPath: "/blog/5-ways-to-use-coptis-to-improve-cardiovascular-health/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

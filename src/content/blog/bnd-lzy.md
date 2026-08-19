@@ -6,6 +6,9 @@ updatedDate: "2026-08-05T00:44:53Z"
 heroImage: "/wp-content/uploads/bnd-kzy03.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["365項西藥未檢出", "500mg-顆", "60顆-盒", "sgs檢驗", "不能掉", "外在形象保養", "植物萃取", "每日空腹12顆", "毛髮保養"]
+authorId: 366
+author: "廖哲鶯"
+authorRole: "一般醫學科醫師"
 legacyId: 42215
 legacyPath: "/blog/bnd-lzy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

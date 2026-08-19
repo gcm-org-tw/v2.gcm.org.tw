@@ -3,6 +3,8 @@ title: "今年首例境外移入萊姆病：赴歐美森林旅遊的蜱蟲風險
 description: "2026年台灣首例境外移入萊姆病來自瑞典森林活動。了解蜱蟲傳播條件、遊走性紅斑辨識、24小時黃金移除窗口，以及赴歐美旅遊的完整防護清單。"
 pubDate: "2026-06-22T14:26:10Z"
 heroImage: "/wp-content/uploads/First-Imported-Lyme-Case-Highlights-Forest-Tick-Risks8.jpg"
+authorId: 497
+author: "協會編輯"
 legacyId: 41515
 legacyPath: "/blog/first-imported-lyme-case-highlights-forest-tick-risks/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

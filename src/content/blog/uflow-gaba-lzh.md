@@ -6,6 +6,9 @@ updatedDate: "2026-03-06T11:53:02Z"
 heroImage: "/wp-content/uploads/11zon_183345_0.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["7迷迭香酸", "sucrosomial-包覆技術", "法國香蜂草萃取", "義大利-sidemag", "鎂", "韓國專利gabaex麩胺酸發酵物", "高濃度gaba"]
+authorId: 506
+author: "林智亨"
+authorRole: "中醫師"
 legacyId: 37970
 legacyPath: "/blog/uflow-gaba-lzh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

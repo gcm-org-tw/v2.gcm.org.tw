@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["南非醉茄全譜提取技術", "日本高濃度gaba", "珍貴法國技術海水抽出物", "綠色提取技術"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["李冠毅"]
+authorId: 292
+author: "李冠毅"
+authorRole: "復健科醫師"
 legacyId: 23079
 legacyPath: "/blog/heng-lee-guan-yi/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

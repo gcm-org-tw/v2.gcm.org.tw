@@ -5,6 +5,9 @@ pubDate: "2025-08-28T05:14:33Z"
 updatedDate: "2025-08-24T11:08:50Z"
 heroImage: "/wp-content/uploads/Almond-Benefits-for-Skin4.jpg"
 blog_cate: ["rss-newstalk"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 32325
 legacyPath: "/blog/almond-benefits-for-skin/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

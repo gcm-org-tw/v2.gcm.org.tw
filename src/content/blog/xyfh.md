@@ -6,6 +6,9 @@ updatedDate: "2024-09-23T04:55:30Z"
 heroImage: "/wp-content/uploads/S__53059665_0.jpg"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["姜封豪"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 23446
 legacyPath: "/blog/xyfh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

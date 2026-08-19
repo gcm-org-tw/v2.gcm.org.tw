@@ -10,6 +10,9 @@ blog_tag: ["天然超級食物", "提神"]
 blog_tag_keyword: ["提神"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["蔡旻堅"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 8353
 legacyPath: "/blog/natural-energy-boosters/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

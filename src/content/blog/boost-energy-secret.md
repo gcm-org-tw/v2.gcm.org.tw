@@ -8,6 +8,9 @@ heroImageAlt: "琉元堂升級版乳白色醇雞精華飲"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["雞精"]
 blog_tag_theme: ["醫友生活"]
+authorId: 203
+author: "董怡芳"
+authorRole: "營養師"
 legacyId: 19981
 legacyPath: "/blog/boost-energy-secret/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

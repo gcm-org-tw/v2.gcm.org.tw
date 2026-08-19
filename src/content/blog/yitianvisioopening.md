@@ -6,6 +6,8 @@ updatedDate: "2024-07-15T03:09:33Z"
 heroImage: "/wp-content/uploads/新聞稿照片2.jpg"
 heroImageAlt: "一田視覺正式開幕 GCM上醫預防醫學發展協會表祝賀"
 blog_cate: ["gcm-news"]
+authorId: 497
+author: "協會編輯"
 legacyId: 22421
 legacyPath: "/blog/yitianvisioopening/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -9,6 +9,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press"]
 blog_tag: ["中醫", "預防醫學"]
 blog_tag_keyword: ["中醫飲食", "春節企劃"]
 blog_tag_theme: ["營養保健", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 317
+author: "李宜靜"
+authorRole: "中醫師"
 legacyId: 25707
 legacyPath: "/blog/dr-li-yiching-chinese-medicine-spring-health-5-steps/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

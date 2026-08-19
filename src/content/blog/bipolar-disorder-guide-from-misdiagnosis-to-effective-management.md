@@ -4,6 +4,8 @@ description: "躁鬱症（雙向情緒障礙）因情緒起伏劇烈常被誤認
 pubDate: "2026-06-23T11:41:20Z"
 heroImage: "/wp-content/uploads/Bipolar-Disorder-Guide-From-Misdiagnosis-to-Effective-Management8.jpg"
 blog_tag_keyword: ["躁鬱症"]
+authorId: 497
+author: "協會編輯"
 legacyId: 41530
 legacyPath: "/blog/bipolar-disorder-guide-from-misdiagnosis-to-effective-management/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

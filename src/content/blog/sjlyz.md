@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/sjlyz02c_11zon-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["林昀正"]
+authorId: 251
+author: "林昀正"
+authorRole: "營養師"
 legacyId: 26438
 legacyPath: "/blog/sjlyz/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

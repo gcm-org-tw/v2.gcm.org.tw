@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["lycra-adaptiv-新世代萊卡纖維", "sgs", "tactel-特達纖維", "ttri壓力測試"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["李宥儒"]
+authorId: 246
+author: "李宥儒"
+authorRole: "物理治療師"
 legacyId: 30198
 legacyPath: "/blog/amara-lyr/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

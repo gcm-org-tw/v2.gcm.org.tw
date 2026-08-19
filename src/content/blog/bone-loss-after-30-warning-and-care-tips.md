@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "news", "appreciation", "preven
 blog_tag: ["營養保健", "鈣", "預防醫學"]
 blog_tag_keyword: ["復健科", "骨質流失", "骨質疏鬆"]
 blog_tag_theme: ["營養保健", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 292
+author: "李冠毅"
+authorRole: "復健科醫師"
 legacyId: 31265
 legacyPath: "/blog/bone-loss-after-30-warning-and-care-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

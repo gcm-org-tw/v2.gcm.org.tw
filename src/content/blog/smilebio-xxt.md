@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["98-高純度", "專利圓酵母穀胱甘肽", "日本低分子膠原蛋白", "無雌激素", "維生素-c", "維生素-e", "雪白美晶白番茄"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["謝欣庭"]
+authorId: 693
+author: "謝欣庭"
+authorRole: "家庭醫學科醫師"
 legacyId: 35751
 legacyPath: "/blog/smilebio-xxt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

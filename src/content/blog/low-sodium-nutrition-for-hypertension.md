@@ -6,6 +6,9 @@ updatedDate: "2026-01-01T11:57:52Z"
 heroImage: "/wp-content/uploads/Low-Sodium-Nutrition-for-Hypertension3.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["高血壓"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 36836
 legacyPath: "/blog/low-sodium-nutrition-for-hypertension/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

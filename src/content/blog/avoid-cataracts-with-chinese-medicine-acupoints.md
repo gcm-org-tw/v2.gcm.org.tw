@@ -10,6 +10,9 @@ blog_tag: ["中醫", "白內障"]
 blog_tag_keyword: ["白內障"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["吳奕璇"]
+authorId: 97
+author: "吳奕璇"
+authorRole: "中醫師"
 legacyId: 14115
 legacyPath: "/blog/avoid-cataracts-with-chinese-medicine-acupoints/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

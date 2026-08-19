@@ -8,6 +8,8 @@ heroImageAlt: "新冠XBB變異株再起？如何保持冷靜與正向心態？"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["壓力"]
 blog_tag_theme: ["psychological-symptoms"]
+authorId: 268
+author: "陳莉婷"
 legacyId: 22012
 legacyPath: "/blog/newcoronavirusxbbstaycalmcl24618/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/L-Glutamine-for-Muscle-Immunity.jpg"
 blog_cate: ["rss-newstalk", "press", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["左旋麩醯胺酸"]
 blog_tag_theme: ["左旋麩醯胺酸"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 27336
 legacyPath: "/blog/l-glutamine-for-muscle-immunity/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

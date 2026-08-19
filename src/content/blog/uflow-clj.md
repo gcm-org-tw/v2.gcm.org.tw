@@ -5,6 +5,9 @@ pubDate: "2026-03-06T04:54:07Z"
 heroImage: "/wp-content/uploads/11zon_71028DC6-AE4F-4000-833B-42CE33E47B24_11zon-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["liposomax-微脂體穀胱甘肽", "mesoporosil-正矽酸複合物", "phytonoid-冰晶番茄", "pureway-c-複方維生素c"]
+authorId: 77
+author: "鄭玲君"
+authorRole: "營養師"
 legacyId: 37906
 legacyPath: "/blog/uflow-clj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

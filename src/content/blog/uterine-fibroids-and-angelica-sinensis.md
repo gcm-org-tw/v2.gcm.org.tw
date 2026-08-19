@@ -6,6 +6,8 @@ updatedDate: "2026-01-26T09:11:16Z"
 heroImage: "/wp-content/uploads/Uterine-Fibroids-and-Angelica-sinensis3.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["子宮肌瘤"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37300
 legacyPath: "/blog/uterine-fibroids-and-angelica-sinensis/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

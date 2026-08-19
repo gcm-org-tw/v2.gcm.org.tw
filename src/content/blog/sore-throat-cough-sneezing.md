@@ -10,6 +10,9 @@ blog_tag: ["咳嗽", "喉嚨痛", "感冒"]
 blog_tag_keyword: ["喉嚨痛"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["王銘祥"]
+authorId: 61
+author: "王銘祥"
+authorRole: "耳鼻喉科醫師"
 legacyId: 7002
 legacyPath: "/blog/sore-throat-cough-sneezing/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

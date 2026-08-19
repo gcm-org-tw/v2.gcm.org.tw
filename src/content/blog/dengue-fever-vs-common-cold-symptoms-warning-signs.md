@@ -5,6 +5,8 @@ pubDate: "2026-07-10T08:42:56Z"
 updatedDate: "2026-07-17T08:12:15Z"
 heroImage: "/wp-content/uploads/dengue-fever-vs-common-cold-symptoms-warning-signs-8.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 497
+author: "協會編輯"
 legacyId: 41832
 legacyPath: "/blog/dengue-fever-vs-common-cold-symptoms-warning-signs/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

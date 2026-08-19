@@ -6,6 +6,9 @@ updatedDate: "2024-09-25T03:47:03Z"
 heroImage: "/wp-content/uploads/dietpreventinfluenza92524.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_theme: ["營養保健"]
+authorId: 364
+author: "陳坤志"
+authorRole: "營養師"
 legacyId: 23878
 legacyPath: "/blog/dietpreventinfluenza92524/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

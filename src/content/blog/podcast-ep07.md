@@ -10,6 +10,9 @@ blog_tag: ["fun憩治療", "ovi吳奕璇", "podcast", "中醫", "換季", "粉�
 blog_tag_keyword: ["過敏"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["吳奕璇"]
+authorId: 97
+author: "吳奕璇"
+authorRole: "中醫師"
 legacyId: 6577
 legacyPath: "/blog/podcast-ep07/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

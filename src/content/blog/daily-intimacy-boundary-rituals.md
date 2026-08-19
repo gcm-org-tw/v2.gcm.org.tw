@@ -6,6 +6,8 @@ updatedDate: "2026-01-25T13:52:27Z"
 heroImage: "/wp-content/uploads/Daily-Intimacy-Boundary-Rituals6.jpg"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["bdsm"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37295
 legacyPath: "/blog/daily-intimacy-boundary-rituals/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

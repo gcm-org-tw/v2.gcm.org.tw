@@ -6,6 +6,9 @@ updatedDate: "2026-06-05T02:45:56Z"
 heroImage: "/wp-content/uploads/11zon_IMG_9515_11zon_11zon-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["lalmin-酵母-b-群", "lipofer-微膠囊化鐵", "liposomax-微脂體維生素-d3", "卡姆果萃取", "維生素c", "葉酸", "西藥未檢出", "重金屬"]
+authorId: 204
+author: "李協明"
+authorRole: "營養師"
 legacyId: 40532
 legacyPath: "/blog/nature-yeast-bd-lxm/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

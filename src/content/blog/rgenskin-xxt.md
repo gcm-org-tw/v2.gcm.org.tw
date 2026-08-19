@@ -5,6 +5,9 @@ pubDate: "2025-04-23T06:15:31Z"
 heroImage: "/wp-content/uploads/tcxxt25041503.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
+authorId: 693
+author: "謝欣庭"
+authorRole: "家庭醫學科醫師"
 legacyId: 28303
 legacyPath: "/blog/rgenskin-xxt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

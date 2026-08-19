@@ -6,6 +6,8 @@ updatedDate: "2026-01-19T10:03:49Z"
 heroImage: "/wp-content/uploads/Attachment-Built-Through-Role-Play3.jpg"
 blog_cate: ["gcm-news", "experts"]
 blog_tag_keyword: ["角色扮演"]
+authorId: 497
+author: "協會編輯"
 legacyId: 36997
 legacyPath: "/blog/attachment-built-through-role-play/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

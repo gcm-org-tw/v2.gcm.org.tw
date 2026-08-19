@@ -6,6 +6,9 @@ updatedDate: "2026-06-05T06:44:48Z"
 heroImage: "/wp-content/uploads/5-4-1-20260602183201.png"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["髖關節疼痛"]
+authorId: 242
+author: "張家誠"
+authorRole: "中醫師"
 legacyId: 39957
 legacyPath: "/blog/hip-pain-acupuncture-rehab/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

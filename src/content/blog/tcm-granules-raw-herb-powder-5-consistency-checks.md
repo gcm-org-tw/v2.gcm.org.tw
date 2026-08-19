@@ -6,6 +6,8 @@ updatedDate: "2025-09-21T12:54:43Z"
 heroImage: "/wp-content/uploads/TCM-Granules-Raw-Herb-Powder-5-Consistency-Checks2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["生粉"]
+authorId: 497
+author: "協會編輯"
 legacyId: 33282
 legacyPath: "/blog/tcm-granules-raw-herb-powder-5-consistency-checks/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

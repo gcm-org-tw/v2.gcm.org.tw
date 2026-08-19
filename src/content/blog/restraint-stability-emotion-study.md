@@ -6,6 +6,8 @@ updatedDate: "2025-11-24T08:52:57Z"
 heroImage: "/wp-content/uploads/Restraint-Stability-Emotion-Study5.jpg"
 blog_cate: ["appreciation", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["bdsm"]
+authorId: 497
+author: "協會編輯"
 legacyId: 35565
 legacyPath: "/blog/restraint-stability-emotion-study/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

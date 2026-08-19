@@ -6,6 +6,8 @@ updatedDate: "2026-08-11T05:18:58Z"
 heroImage: "/wp-content/uploads/Maternal-Breastfeeding-Support-0.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 gcm_supplier_category: ["appi-news"]
+authorId: 497
+author: "協會編輯"
 legacyId: 42596
 legacyPath: "/blog/maternal-breastfeeding-support/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

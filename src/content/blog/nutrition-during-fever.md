@@ -5,6 +5,8 @@ pubDate: "2026-03-31T05:14:22Z"
 updatedDate: "2026-03-27T09:19:02Z"
 heroImage: "/wp-content/uploads/Nutrition-During-Fever3.png"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 497
+author: "協會編輯"
 legacyId: 39214
 legacyPath: "/blog/nutrition-during-fever/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

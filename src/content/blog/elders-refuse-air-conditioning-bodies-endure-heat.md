@@ -6,6 +6,8 @@ updatedDate: "2026-07-01T02:59:50Z"
 heroImage: "/wp-content/uploads/Elders-Refuse-Air-Conditioning-Bodies-Endure-Heat8.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["高溫"]
+authorId: 497
+author: "協會編輯"
 legacyId: 41810
 legacyPath: "/blog/elders-refuse-air-conditioning-bodies-endure-heat/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

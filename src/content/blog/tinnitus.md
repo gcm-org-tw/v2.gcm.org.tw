@@ -8,6 +8,8 @@ heroImageAlt: "【耳鳴治療】耳鳴嗡嗡響好痛苦？一文帶你深入�
 blog_tag: ["壓力", "預防醫學"]
 blog_tag_keyword: ["助聽器", "壓力", "老年", "耳鳴", "腦瘤"]
 blog_tag_theme: ["耳鳴", "body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23586
 legacyPath: "/blog/tinnitus/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/zght-zdrlzh25061303-scaled.webp"
 blog_tag_keyword: ["古法滴雞精", "專利配方", "柳川種黑牛蒡", "無水滴煉", "米精紅棗露", "黑馬卡"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["林智亨"]
+authorId: 506
+author: "林智亨"
+authorRole: "中醫師"
 legacyId: 30237
 legacyPath: "/blog/zght-zdr-lzh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

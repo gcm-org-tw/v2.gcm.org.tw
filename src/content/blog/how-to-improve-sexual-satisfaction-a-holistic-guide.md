@@ -6,6 +6,9 @@ updatedDate: "2025-01-01T13:50:34Z"
 heroImage: "/wp-content/uploads/How-to-Improve-Sexual-Satisfaction-A-Holistic-Guide.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["性生活"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25775
 legacyPath: "/blog/how-to-improve-sexual-satisfaction-a-holistic-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

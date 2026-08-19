@@ -5,6 +5,9 @@ pubDate: "2025-02-04T05:14:50Z"
 updatedDate: "2025-02-10T02:36:34Z"
 heroImage: "/wp-content/uploads/Shrimp-Benefits-for-Men2-1.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26339
 legacyPath: "/blog/shrimp-benefits-for-men/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

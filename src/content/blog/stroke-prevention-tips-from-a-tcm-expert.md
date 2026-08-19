@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/2023/02/中風-01-1160x1160-1.jpg"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["中風"]
 blog_tag_theme: ["body-health"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 4375
 legacyPath: "/blog/stroke-prevention-tips-from-a-tcm-expert/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

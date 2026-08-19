@@ -6,6 +6,9 @@ updatedDate: "2026-01-09T02:21:23Z"
 heroImage: "/wp-content/uploads/4.Home-Environment-Child-Posture.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["駝背"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 36879
 legacyPath: "/blog/home-environment-child-posture/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

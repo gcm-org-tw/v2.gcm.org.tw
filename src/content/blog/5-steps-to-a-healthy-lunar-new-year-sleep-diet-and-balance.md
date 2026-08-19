@@ -6,6 +6,9 @@ updatedDate: "2024-12-07T14:28:35Z"
 heroImage: "/wp-content/uploads/健康春節五部曲：從早睡到養胃，讓身體回歸平衡.jpg"
 blog_cate: ["rss-newstalk", "appreciation", "preventive-healthcare"]
 blog_tag_keyword: ["春節"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25291
 legacyPath: "/blog/5-steps-to-a-healthy-lunar-new-year-sleep-diet-and-balance/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

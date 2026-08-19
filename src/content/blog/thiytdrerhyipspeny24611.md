@@ -8,6 +8,9 @@ heroImageAlt: "這樣喝水對嗎？夏日補水秘訣"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["喝水", "水分", "補水"]
 blog_tag_theme: ["body-health"]
+authorId: 383
+author: "陳思吟"
+authorRole: "營養師"
 legacyId: 21905
 legacyPath: "/blog/thiytdrerhyipspeny24611/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

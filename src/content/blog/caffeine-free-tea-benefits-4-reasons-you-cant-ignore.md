@@ -6,6 +6,9 @@ updatedDate: "2024-12-16T10:38:24Z"
 heroImage: "/wp-content/uploads/Caffeine-Free-Tea-Benefits-4-Reasons-You-Cant-Ignore.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["無咖啡因茶"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25474
 legacyPath: "/blog/caffeine-free-tea-benefits-4-reasons-you-cant-ignore/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

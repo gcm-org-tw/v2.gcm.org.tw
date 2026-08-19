@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/minhanpower20724109.jpg"
 heroImageAlt: "駐院營養師促進代謝推薦 POWERSO-207 專利蔬果酵素"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["廖敏涵"]
+authorId: 206
+author: "廖敏涵"
+authorRole: "營養師"
 legacyId: 23949
 legacyPath: "/blog/minhanpower20724109/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

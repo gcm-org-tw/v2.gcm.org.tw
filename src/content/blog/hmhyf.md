@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["外泌體保養", "外泌體皇后exo-queen", "煥泌生技"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["黃詠霏"]
+authorId: 465
+author: "黃泳霏"
+authorRole: "藥師"
 legacyId: 27977
 legacyPath: "/blog/hmhyf/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

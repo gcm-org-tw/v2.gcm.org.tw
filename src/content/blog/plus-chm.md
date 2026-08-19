@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["sgs百項檢驗", "全雞滴煉", "無加水滴製", "胜肽級技術", "黃金比例雞種（黑羽公土雞＋熟齡紅羽母雞）"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["張宏銘"]
+authorId: 287
+author: "張宏銘"
+authorRole: "中醫師"
 legacyId: 34382
 legacyPath: "/blog/plus-chm/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

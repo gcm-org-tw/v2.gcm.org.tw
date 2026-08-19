@@ -6,6 +6,9 @@ updatedDate: "2025-11-27T14:42:17Z"
 heroImage: "/wp-content/uploads/Clean-Label-Guide5.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["潔淨標章"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 35774
 legacyPath: "/blog/clean-label-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

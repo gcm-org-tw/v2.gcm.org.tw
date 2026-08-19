@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/女性體內濕氣重怎麼辦？藥師：有效
 heroImageAlt: "女性體內濕氣重怎麼辦？藥師：有效調理是關鍵！"
 blog_cate: ["preventive-healthcare"]
 blog_tag_theme: ["body-health"]
+authorId: 275
+author: "洪偲薰"
+authorRole: "藥師"
 legacyId: 21237
 legacyPath: "/blog/ul4g-url-su3uwl6xu3/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

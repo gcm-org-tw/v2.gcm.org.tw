@@ -8,6 +8,8 @@ heroImageAlt: "小孩也會得白內障? 中醫師傳授護眼絕招！"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["白內障"]
 blog_tag_theme: ["body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 13923
 legacyPath: "/blog/children-cataract-tcm-eye-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["心理學", "職能治療師", "預防醫學"]
 blog_tag_keyword: ["心理", "教養秘訣", "高敏感兒童"]
 blog_tag_theme: ["psychological-symptoms", "body-health", "醫友生活"]
+authorId: 283
+author: "孫懋淇"
+authorRole: "職能治療師"
 legacyId: 27173
 legacyPath: "/blog/highly-sensitive-kids-parenting-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

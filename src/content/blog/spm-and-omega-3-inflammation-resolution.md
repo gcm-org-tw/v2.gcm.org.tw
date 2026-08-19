@@ -6,6 +6,9 @@ updatedDate: "2026-01-05T15:14:18Z"
 heroImage: "/wp-content/uploads/SPM-and-Omega-3-Inflammation-Resolution4.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["魚油"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 36862
 legacyPath: "/blog/spm-and-omega-3-inflammation-resolution/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

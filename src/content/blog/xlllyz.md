@@ -6,6 +6,9 @@ updatedDate: "2025-05-06T05:51:29Z"
 heroImage: "/wp-content/uploads/IMG_2589_11zon_11zon-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["body-health", "醫友生活"]
+authorId: 338
+author: "李宜真"
+authorRole: "營養師"
 legacyId: 28275
 legacyPath: "/blog/xlllyz/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

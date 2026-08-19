@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/wispouitsciepractwarminglg92524.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["李冠毅"]
+authorId: 292
+author: "李冠毅"
+authorRole: "復健科醫師"
 legacyId: 23872
 legacyPath: "/blog/wispouitsciepractwarminglg92524/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

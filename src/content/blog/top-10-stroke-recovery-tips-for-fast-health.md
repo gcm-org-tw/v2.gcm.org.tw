@@ -6,6 +6,9 @@ updatedDate: "2024-10-05T13:53:35Z"
 heroImage: "/wp-content/uploads/中風後必學的10大康復技巧，幫助你快速重返健康生活.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["中風"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 23912
 legacyPath: "/blog/top-10-stroke-recovery-tips-for-fast-health/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -10,6 +10,9 @@ blog_tag: ["冷氣病"]
 blog_tag_keyword: ["熱浪"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["姜封豪"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 8559
 legacyPath: "/blog/protect-yourself-from-high-temperature-damage/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

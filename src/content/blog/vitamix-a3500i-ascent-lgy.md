@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/tlj-lgy240703c-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["10年保固", "一鍵清洗", "無線聯鎖", "超跑級調理機"]
 blog_fr_doctors: ["李冠毅"]
+authorId: 292
+author: "李冠毅"
+authorRole: "復健科醫師"
 legacyId: 22213
 legacyPath: "/blog/vitamix-a3500i-ascent-lgy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -10,6 +10,9 @@ blog_tag: ["白內障", "預防醫學"]
 blog_tag_keyword: ["白內障"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["姜封豪"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 14119
 legacyPath: "/blog/cataract-surgery-vs-non-surgery-which-is-right-for-you/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

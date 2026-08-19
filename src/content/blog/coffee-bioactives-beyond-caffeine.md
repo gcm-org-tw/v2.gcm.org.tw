@@ -6,6 +6,9 @@ updatedDate: "2026-04-05T07:26:55Z"
 heroImage: "/wp-content/uploads/Coffee-Bioactives-Beyond-Caffeine-1.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["咖啡"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 39304
 legacyPath: "/blog/coffee-bioactives-beyond-caffeine/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

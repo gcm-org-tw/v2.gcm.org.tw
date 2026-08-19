@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/蘇丹紅是什麼？預防不了的亡羊補牢
 blog_cate: ["gcm-news"]
 blog_tag_keyword: ["蘇丹紅"]
 blog_tag_theme: ["媒體報導"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23259
 legacyPath: "/blog/what-is-sudan-red-too-late/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

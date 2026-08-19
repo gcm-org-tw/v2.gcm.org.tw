@@ -8,6 +8,8 @@ heroImageAlt: "【衛教詳解】淺談氣喘的原因、症狀、自救及治�
 blog_tag: ["壓力", "慢性病", "預防醫學"]
 blog_tag_keyword: ["氣喘"]
 blog_tag_theme: ["慢性病", "氣喘", "body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 24382
 legacyPath: "/blog/asthma_a/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

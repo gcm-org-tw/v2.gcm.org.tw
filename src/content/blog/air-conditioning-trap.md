@@ -10,6 +10,9 @@ blog_tag: ["冷氣病"]
 blog_tag_keyword: ["冷氣病"]
 blog_tag_theme: ["nutritional-supplement"]
 blog_fr_doctors: ["鄭玲君"]
+authorId: 77
+author: "鄭玲君"
+authorRole: "營養師"
 legacyId: 8533
 legacyPath: "/blog/air-conditioning-trap/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

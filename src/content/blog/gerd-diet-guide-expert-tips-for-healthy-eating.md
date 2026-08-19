@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "appreciation"]
 blog_tag: ["中醫", "中醫飲食", "營養保健", "預防醫學"]
 blog_tag_keyword: ["穴道按摩", "胃食道逆流"]
 blog_tag_theme: ["媒體報導", "營養保健", "nutritional-supplement", "body-health"]
+authorId: 791
+author: "吳岱璇"
+authorRole: "中醫師, 呼吸治療師"
 legacyId: 25891
 legacyPath: "/blog/gerd-diet-guide-expert-tips-for-healthy-eating/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

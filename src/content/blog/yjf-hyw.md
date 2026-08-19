@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/11zon_S__100147220_0.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["低脂肪", "可常溫保存", "在地放牧土雞", "無添加人工香料", "無膽固醇", "胺基酸", "色素", "農藥與動物用藥未檢出", "防腐劑", "零飽和脂肪"]
 blog_tag_theme: ["醫友生活"]
+authorId: 911
+author: "洪毓瑋"
+authorRole: "營養師"
 legacyId: 36454
 legacyPath: "/blog/yjf-hyw/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

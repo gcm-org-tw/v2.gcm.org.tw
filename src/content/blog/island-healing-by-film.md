@@ -6,6 +6,8 @@ updatedDate: "2025-07-13T13:20:05Z"
 heroImage: "/wp-content/uploads/Island-Healing-by-Film4.jpg"
 blog_cate: ["appreciation", "experts"]
 blog_tag_keyword: ["導演"]
+authorId: 497
+author: "協會編輯"
 legacyId: 31255
 legacyPath: "/blog/island-healing-by-film/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

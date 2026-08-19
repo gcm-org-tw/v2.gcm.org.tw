@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/fantasyparty23news.jpg"
 heroImageAlt: "醫護追夢的航母：GCM醫友健賞團112年歲末感恩攝影派對暨會員大會 夢想啟航"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["gcm"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23521
 legacyPath: "/blog/gcm-medical-friends-wellness-appreciation-group-year-end-photography-party-and-members-meeting-2024-setting-sail-towards-dreams/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

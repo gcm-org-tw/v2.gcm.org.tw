@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["auscentic", "呼吸精萃", "夜息精華", "新睡前儀式", "香氛界的褪黑激素"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["李協明"]
+authorId: 204
+author: "李協明"
+authorRole: "營養師"
 legacyId: 32237
 legacyPath: "/blog/auscentic-lxm/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

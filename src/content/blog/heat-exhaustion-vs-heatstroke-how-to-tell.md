@@ -8,6 +8,8 @@ blog_cate: ["news", "preventive-healthcare"]
 blog_tag: ["中暑", "營養保健", "預防醫學"]
 blog_tag_keyword: ["熱中暑", "熱衰竭"]
 blog_tag_theme: ["營養保健", "body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 28200
 legacyPath: "/blog/heat-exhaustion-vs-heatstroke-how-to-tell/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

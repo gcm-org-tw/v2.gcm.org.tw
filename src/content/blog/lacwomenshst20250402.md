@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["46種營養素", "加強型綜合維他命", "抗氧化草本", "長效緩釋型", "高單位b群"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["謝欣庭"]
+authorId: 693
+author: "謝欣庭"
+authorRole: "家庭醫學科醫師"
 legacyId: 28164
 legacyPath: "/blog/lacwomenshst20250402/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

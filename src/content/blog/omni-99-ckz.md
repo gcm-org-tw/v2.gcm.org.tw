@@ -6,6 +6,9 @@ updatedDate: "2026-06-15T01:15:26Z"
 heroImage: "/wp-content/uploads/omni-99-ckz01-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["9-種人體原生菌株", "全球前三大益生菌品牌", "國際益生菌高標準", "專利-probioact-technology", "調節生理機能"]
+authorId: 364
+author: "陳坤志"
+authorRole: "營養師"
 legacyId: 40706
 legacyPath: "/blog/omni-99-ckz/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

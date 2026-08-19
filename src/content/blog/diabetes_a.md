@@ -8,6 +8,8 @@ heroImageAlt: "糖尿病病因與治療全解析，這些你絕對想不到！"
 blog_tag: ["慢性病", "預防醫學"]
 blog_tag_keyword: ["壓力", "慢性病", "減重", "糖尿病"]
 blog_tag_theme: ["nutritional-supplement", "糖尿病", "body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23891
 legacyPath: "/blog/diabetes_a/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["bj31寶健生醫", "綠蜂膠葉黃素膠囊"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["戴淑娟"]
+authorId: 790
+author: "戴淑娟"
+authorRole: "藥師"
 legacyId: 35966
 legacyPath: "/blog/bj31-dsj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

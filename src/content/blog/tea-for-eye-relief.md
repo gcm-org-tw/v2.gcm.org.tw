@@ -5,6 +5,9 @@ pubDate: "2025-08-22T05:14:27Z"
 updatedDate: "2025-08-20T14:02:34Z"
 heroImage: "/wp-content/uploads/Tea-for-Eye-Relief4.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 32295
 legacyPath: "/blog/tea-for-eye-relief/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

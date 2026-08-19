@@ -5,6 +5,9 @@ pubDate: "2026-07-28T08:17:59Z"
 updatedDate: "2026-08-04T07:54:43Z"
 heroImage: "/wp-content/uploads/glp-1-weight-loss-and-chinese-medicine-integration.jpg"
 blog_tag_keyword: ["瘦瘦針"]
+authorId: 242
+author: "張家誠"
+authorRole: "中醫師"
 legacyId: 41504
 legacyPath: "/blog/glp-1-weight-loss-and-chinese-medicine-integration3/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

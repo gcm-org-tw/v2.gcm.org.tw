@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/scienrich.bio-hsm25091902-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["la‑5", "加氏乳桿菌", "捲曲乳桿菌", "詹氏乳桿菌", "鼠李糖乳桿菌"]
 blog_tag_theme: ["醫友生活"]
+authorId: 830
+author: "黃思敏"
+authorRole: "藥師"
 legacyId: 33270
 legacyPath: "/blog/scienrich-bio-hsm/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

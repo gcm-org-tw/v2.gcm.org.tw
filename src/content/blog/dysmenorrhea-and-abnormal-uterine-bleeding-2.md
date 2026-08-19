@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/wfg1ew1g3g1qwg.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["經血異常"]
 blog_tag_theme: ["經血異常"]
+authorId: 1076
+author: "陳翊昀"
+authorRole: "中醫師"
 legacyId: 39941
 legacyPath: "/blog/dysmenorrhea-and-abnormal-uterine-bleeding-2/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

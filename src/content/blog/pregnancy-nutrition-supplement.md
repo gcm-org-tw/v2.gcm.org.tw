@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag: ["nnb孕科藻油"]
 blog_tag_keyword: ["nnb孕科藻油"]
 blog_tag_theme: ["醫友生活"]
+authorId: 358
+author: "郭雨欣"
+authorRole: "中醫師"
 legacyId: 20094
 legacyPath: "/blog/pregnancy-nutrition-supplement/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

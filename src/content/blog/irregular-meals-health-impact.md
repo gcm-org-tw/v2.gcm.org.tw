@@ -9,6 +9,9 @@ blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["減重", "飲食"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["鄭玲君"]
+authorId: 77
+author: "鄭玲君"
+authorRole: "營養師"
 legacyId: 7545
 legacyPath: "/blog/irregular-meals-health-impact/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

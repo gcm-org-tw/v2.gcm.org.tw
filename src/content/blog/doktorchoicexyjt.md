@@ -4,6 +4,9 @@ description: "水汪汪亮晶晶膠囊，主成份含有「AffronEye®」專利�
 pubDate: "2024-09-19T03:33:36Z"
 heroImage: "/wp-content/uploads/IMG_7820-min-scaled.jpg"
 blog_cate: ["appreciation"]
+authorId: 410
+author: "蔡季芩"
+authorRole: "藥師"
 legacyId: 23477
 legacyPath: "/blog/doktorchoicexyjt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

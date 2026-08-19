@@ -5,6 +5,9 @@ pubDate: "2026-07-29T01:28:59Z"
 heroImage: "/wp-content/uploads/S__35684361_0.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["95-epa魚油", "96-omega-3", "epa-1140mg", "台灣在地純化", "小膠囊", "超臨界流體技術"]
+authorId: 77
+author: "鄭玲君"
+authorRole: "營養師"
 legacyId: 42522
 legacyPath: "/blog/ftvmallgaffishob-zlc/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

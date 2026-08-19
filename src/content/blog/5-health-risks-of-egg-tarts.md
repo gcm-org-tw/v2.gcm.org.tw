@@ -10,6 +10,9 @@ blog_tag: ["預防醫學", "飲食"]
 blog_tag_keyword: ["肥胖", "蛋塔"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["蔡旻堅"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 23067
 legacyPath: "/blog/5-health-risks-of-egg-tarts/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

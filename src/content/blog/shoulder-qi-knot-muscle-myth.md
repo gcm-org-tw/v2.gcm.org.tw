@@ -6,6 +6,9 @@ updatedDate: "2026-01-02T15:07:29Z"
 heroImage: "/wp-content/uploads/Shoulder-Qi-Knot-Muscle-Myth1.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["氣結"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 36842
 legacyPath: "/blog/shoulder-qi-knot-muscle-myth/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2024-09-12T04:56:44Z"
 heroImage: "/wp-content/uploads/themagicalpropertiesoechinacea24912.jpg"
 heroImageAlt: "themagicalpropertiesoechinacea24912"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 794
+author: "林偉傑"
+authorRole: "耳鼻喉科醫師"
 legacyId: 23559
 legacyPath: "/blog/themagicalpropertiesoechinacea24912/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2026-05-29T00:13:58Z"
 heroImage: "/wp-content/uploads/ADAN20260512cyz02-scaled.jpeg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["0-sls-sles-als", "ales", "六重舒敏植萃", "弱酸-ph5-5", "微生物", "神經醯胺", "第三方檢驗（不含四大致病菌", "胺基酸界面活性劑", "重金屬等）"]
+authorId: 308
+author: "陳盈州"
+authorRole: "營養師"
 legacyId: 40615
 legacyPath: "/blog/adan-cyz/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

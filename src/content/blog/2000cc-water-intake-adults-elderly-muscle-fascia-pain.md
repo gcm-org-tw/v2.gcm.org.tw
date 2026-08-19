@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["營養保健", "運動傷害", "運動醫學", "預防醫學"]
 blog_tag_keyword: ["物理治療師", "筋膜疼痛", "運動傷害", "飲水量"]
 blog_tag_theme: ["慢性疼痛", "營養保健", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 908
+author: "黃琮棋"
+authorRole: "物理治療師"
 legacyId: 32761
 legacyPath: "/blog/2000cc-water-intake-adults-elderly-muscle-fascia-pain/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

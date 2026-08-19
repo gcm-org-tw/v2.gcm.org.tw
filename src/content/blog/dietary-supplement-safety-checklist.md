@@ -6,6 +6,9 @@ updatedDate: "2025-12-20T14:15:13Z"
 heroImage: "/wp-content/uploads/Dietary-Supplement-Safety-Checklist2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["潔淨標章"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 36443
 legacyPath: "/blog/dietary-supplement-safety-checklist/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

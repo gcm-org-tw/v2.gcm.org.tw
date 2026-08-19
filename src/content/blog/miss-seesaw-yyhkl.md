@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/yyhkl250205c.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["徐凱莉"]
+authorId: 734
+author: "徐凱莉"
+authorRole: "營養師"
 legacyId: 26572
 legacyPath: "/blog/miss-seesaw-yyhkl/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

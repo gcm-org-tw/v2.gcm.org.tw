@@ -6,6 +6,8 @@ updatedDate: "2025-11-19T15:14:56Z"
 heroImage: "/wp-content/uploads/Supplements-and-Hidden-Toxins-Reveal6.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["重金屬"]
+authorId: 497
+author: "協會編輯"
 legacyId: 35511
 legacyPath: "/blog/supplements-and-hidden-toxins-reveal/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2026-06-15T01:11:59Z"
 heroImage: "/wp-content/uploads/485378_0_11zon.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["mit研發-設計-製造", "sgs-無毒檢驗", "一級防霾實證", "靜電吸附原理", "高透光", "高透氣"]
+authorId: 935
+author: "楊斯涵"
+authorRole: "藥師"
 legacyId: 40565
 legacyPath: "/blog/airworkmit-yzh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

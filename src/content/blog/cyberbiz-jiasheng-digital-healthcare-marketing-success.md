@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/GCM上醫預防醫學發展協會秘書長-蔡�
 blog_cate: ["press"]
 blog_tag: ["cyberbiz", "上醫預防醫學發展協會", "大健康產業", "捷盛數位"]
 blog_tag_theme: ["媒體報導"]
+authorId: 497
+author: "協會編輯"
 legacyId: 16694
 legacyPath: "/blog/cyberbiz-jiasheng-digital-healthcare-marketing-success/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

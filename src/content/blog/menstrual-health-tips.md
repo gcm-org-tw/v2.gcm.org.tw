@@ -9,6 +9,9 @@ blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["生理週期", "飲食"]
 blog_tag_theme: ["nutritional-supplement", "body-health"]
 blog_fr_doctors: ["鄭玲君"]
+authorId: 77
+author: "鄭玲君"
+authorRole: "營養師"
 legacyId: 8278
 legacyPath: "/blog/menstrual-health-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["毛孩皮膚病", "營養保健", "預防醫學"]
 blog_tag_keyword: ["毛孩皮膚病", "獸醫咪咪子", "獸醫師"]
 blog_tag_theme: ["營養保健", "nutritional-supplement", "醫友生活"]
+authorId: 519
+author: "黃淑婉"
+authorRole: "獸醫師"
 legacyId: 28655
 legacyPath: "/blog/dog-itching-skin-problems-mimiko-vet/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

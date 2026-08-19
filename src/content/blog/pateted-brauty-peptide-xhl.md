@@ -5,6 +5,9 @@ pubDate: "2026-03-13T02:08:00Z"
 heroImage: "/wp-content/uploads/S__5439519_11zon-e1769673987794.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["專利-verisol-德國魚膠原蛋白", "日本專利蠶絲蛋白", "法國彈力蛋白", "益生菌", "青木瓜", "餘甘子萃取", "魚膠原精粹"]
+authorId: 509
+author: "謝凰玲"
+authorRole: "營養師"
 legacyId: 37397
 legacyPath: "/blog/pateted-brauty-peptide-xhl/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

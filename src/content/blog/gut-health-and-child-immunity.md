@@ -6,6 +6,8 @@ updatedDate: "2026-03-27T08:52:07Z"
 heroImage: "/wp-content/uploads/Gut-Health-and-Child-Immunity1.png"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["免疫力"]
+authorId: 497
+author: "協會編輯"
 legacyId: 39202
 legacyPath: "/blog/gut-health-and-child-immunity/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

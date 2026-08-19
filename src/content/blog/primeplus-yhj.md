@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["100無化學添加物", "300億益生菌", "660項檢驗合格", "famipro聯合守護複方", "包埋凍晶技術", "國際a-a-clean-label", "後生元", "益菌生"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["葉海健"]
+authorId: 395
+author: "葉海健"
+authorRole: "婦產科醫師"
 legacyId: 30178
 legacyPath: "/blog/primeplus-yhj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

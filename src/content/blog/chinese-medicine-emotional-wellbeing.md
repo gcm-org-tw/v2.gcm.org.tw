@@ -10,6 +10,9 @@ blog_tag: ["中醫"]
 blog_tag_keyword: ["心理"]
 blog_tag_theme: ["psychological-symptoms"]
 blog_fr_doctors: ["楊立暐"]
+authorId: 178
+author: "楊立暐"
+authorRole: "中醫師"
 legacyId: 8315
 legacyPath: "/blog/chinese-medicine-emotional-wellbeing/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

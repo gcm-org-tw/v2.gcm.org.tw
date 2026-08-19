@@ -10,6 +10,9 @@ blog_tag: ["植物性蛋白"]
 blog_tag_keyword: ["植物性蛋白質"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["鄭玲君"]
+authorId: 77
+author: "鄭玲君"
+authorRole: "營養師"
 legacyId: 7348
 legacyPath: "/blog/protein-nutrition/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/newcoronavirusepidemiclfy24619.png"
 heroImageAlt: "新冠疫情捲土重來現恐慌？中醫師：理性判斷資訊"
 blog_cate: ["preventive-healthcare"]
 blog_tag_theme: ["body-health"]
+authorId: 487
+author: "林芳伃"
+authorRole: "中醫師, 藥師"
 legacyId: 22021
 legacyPath: "/blog/newcoronavirusepidemiclfy24619/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

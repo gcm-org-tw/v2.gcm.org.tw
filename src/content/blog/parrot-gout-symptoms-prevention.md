@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation"]
 blog_tag: ["營養保健", "預防醫學", "鳥類痛風"]
 blog_tag_keyword: ["獸醫師", "鳥類痛風"]
 blog_tag_theme: ["媒體報導", "營養保健", "醫友生活"]
+authorId: 527
+author: "林依儒"
+authorRole: "獸醫師"
 legacyId: 26699
 legacyPath: "/blog/parrot-gout-symptoms-prevention/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

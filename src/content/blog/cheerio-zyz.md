@@ -6,6 +6,9 @@ updatedDate: "2026-04-29T03:29:19Z"
 heroImage: "/wp-content/uploads/Cheerio-zyz25041306-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["每日一顆", "玻尿酸", "珍珠粉", "膠原蛋白", "薏仁萃取", "賽洛美", "麥角硫因"]
+authorId: 397
+author: "鍾宜臻"
+authorRole: "藥師"
 legacyId: 39467
 legacyPath: "/blog/cheerio-zyz/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

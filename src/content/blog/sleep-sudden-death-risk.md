@@ -6,6 +6,8 @@ updatedDate: "2026-03-13T13:56:01Z"
 heroImage: "/wp-content/uploads/Sleep-Sudden-Death-Risk8.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["睡夢中猝死"]
+authorId: 497
+author: "協會編輯"
 legacyId: 39111
 legacyPath: "/blog/sleep-sudden-death-risk/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

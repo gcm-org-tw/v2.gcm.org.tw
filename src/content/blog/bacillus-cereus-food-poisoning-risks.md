@@ -6,6 +6,9 @@ updatedDate: "2026-01-09T05:16:08Z"
 heroImage: "/wp-content/uploads/Bacillus-cereus-Food-Poisoning-Risks6.jpg"
 blog_cate: ["rss-newstalk", "experts"]
 blog_tag_keyword: ["仙人掌桿菌"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 36884
 legacyPath: "/blog/bacillus-cereus-food-poisoning-risks/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

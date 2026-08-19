@@ -6,6 +6,9 @@ updatedDate: "2026-02-23T02:54:58Z"
 heroImage: "/wp-content/uploads/11zon_S__31400115_0.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["「微生物發酵型」透明質酸鈉", "95高純度", "sgs-安全檢驗", "小分子", "日本-hyabest", "無異味", "玻璃包裝"]
+authorId: 937
+author: "鄭雅文"
+authorRole: "藥師"
 legacyId: 37864
 legacyPath: "/blog/aiao-zyw/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

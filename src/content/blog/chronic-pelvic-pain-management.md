@@ -4,6 +4,9 @@ description: "慢性骨盆疼痛症候群與骨盆痛為多因素疼痛問題，
 pubDate: "2026-04-29T00:00:49Z"
 updatedDate: "2026-04-23T09:36:25Z"
 heroImage: "/wp-content/uploads/Chronic-Pelvic-Pain-Management4.jpg"
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 39133
 legacyPath: "/blog/chronic-pelvic-pain-management/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

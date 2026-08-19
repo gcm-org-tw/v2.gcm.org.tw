@@ -6,6 +6,9 @@ updatedDate: "2025-01-12T04:18:06Z"
 heroImage: "/wp-content/uploads/heat-Germ-Oil-Benefits-Natural-Antioxidants-for-Glowing-Skin.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["小麥胚芽油"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25720
 legacyPath: "/blog/wheat-germ-oil-benefits-natural-antioxidants-for-glowing-skin/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

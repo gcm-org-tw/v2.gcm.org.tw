@@ -10,6 +10,9 @@ blog_tag: ["腦瘤", "藥物預防"]
 blog_tag_keyword: ["腦瘤"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["羅文佑"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 8959
 legacyPath: "/blog/drugs-diet-brain-tumor/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

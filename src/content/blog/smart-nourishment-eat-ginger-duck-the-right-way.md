@@ -6,6 +6,9 @@ updatedDate: "2024-09-23T12:34:35Z"
 heroImage: "/wp-content/uploads/聰明進補：薑母鴨、麻油雞、四神湯、羊肉爐，你吃對了嗎？XX師告訴你怎麼吃.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["聰明進補"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 23565
 legacyPath: "/blog/smart-nourishment-eat-ginger-duck-the-right-way/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

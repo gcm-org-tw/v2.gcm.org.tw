@@ -6,6 +6,8 @@ updatedDate: "2026-02-05T11:02:34Z"
 heroImage: "/wp-content/uploads/Holiday-Sleep-Disruption-Health-Effects81.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["過年"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37467
 legacyPath: "/blog/holiday-sleep-disruption-health-effects/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

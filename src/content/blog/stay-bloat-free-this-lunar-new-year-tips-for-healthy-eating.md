@@ -6,6 +6,9 @@ updatedDate: "2024-12-10T14:19:40Z"
 heroImage: "/wp-content/uploads/不做春節「胃脹族」小妙招讓你吃得滿足又不超標-Stay-Bloat-Free-This-Lunar-New-Year-Tips-for-Healthy-Eating.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["春節"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25344
 legacyPath: "/blog/stay-bloat-free-this-lunar-new-year-tips-for-healthy-eating/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

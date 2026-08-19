@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["營養保健", "運動醫學", "預防醫學"]
 blog_tag_keyword: ["居家運動", "復健科", "樂齡族群"]
 blog_tag_theme: ["媒體報導", "營養保健", "body-health", "醫友生活"]
+authorId: 292
+author: "李冠毅"
+authorRole: "復健科醫師"
 legacyId: 26722
 legacyPath: "/blog/senior-fitness-home-workout-4-easy-moves/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

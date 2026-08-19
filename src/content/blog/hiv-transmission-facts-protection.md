@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/HIV-Transmission-Facts-Protection.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag: ["預防醫學"]
 blog_tag_keyword: ["愛滋病毒"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26510
 legacyPath: "/blog/hiv-transmission-facts-protection/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

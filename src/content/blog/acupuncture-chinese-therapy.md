@@ -9,6 +9,9 @@ blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["產後", "產後抑鬱"]
 blog_tag_theme: ["psychological-symptoms"]
 blog_fr_doctors: ["王珮君"]
+authorId: 92
+author: "王珮君"
+authorRole: "中醫師"
 legacyId: 7541
 legacyPath: "/blog/acupuncture-chinese-therapy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

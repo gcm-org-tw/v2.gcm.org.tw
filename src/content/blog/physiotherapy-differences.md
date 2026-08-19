@@ -10,6 +10,9 @@ blog_tag: ["物理治療"]
 blog_tag_keyword: ["物理治療"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["吳佳恩"]
+authorId: 145
+author: "吳佳恩"
+authorRole: "物理治療師"
 legacyId: 7022
 legacyPath: "/blog/physiotherapy-differences/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

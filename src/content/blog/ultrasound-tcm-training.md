@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/Ultrasound-TCM-Training5.jpg"
 blog_cate: ["rss-newstalk", "press", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["超音波"]
 blog_tag_theme: ["醫友生活"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 28464
 legacyPath: "/blog/ultrasound-tcm-training/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

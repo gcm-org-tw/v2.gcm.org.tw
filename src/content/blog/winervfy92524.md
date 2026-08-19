@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/冬至養生：從傳統養生文化看如何過
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["林芳伃"]
+authorId: 487
+author: "林芳伃"
+authorRole: "中醫師, 藥師"
 legacyId: 23876
 legacyPath: "/blog/winervfy92524/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

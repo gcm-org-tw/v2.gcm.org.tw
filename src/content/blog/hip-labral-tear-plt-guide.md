@@ -6,6 +6,9 @@ updatedDate: "2026-06-16T09:39:47Z"
 heroImage: "/wp-content/uploads/Hip-Labral-Tear-PLT-Guide-8-1.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["plt"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 39950
 legacyPath: "/blog/hip-labral-tear-plt-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

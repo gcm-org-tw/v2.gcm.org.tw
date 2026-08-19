@@ -5,6 +5,9 @@ pubDate: "2024-08-27T01:39:07Z"
 heroImage: "/wp-content/uploads/elissawy248263-2-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["吳妍潔"]
+authorId: 543
+author: "吳妍潔"
+authorRole: "營養師"
 legacyId: 23361
 legacyPath: "/blog/elissahwyj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

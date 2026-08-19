@@ -9,6 +9,9 @@ blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["免疫力"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["吳奕璇"]
+authorId: 97
+author: "吳奕璇"
+authorRole: "中醫師"
 legacyId: 6897
 legacyPath: "/blog/tcm_enhance_immunity/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

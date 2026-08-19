@@ -4,6 +4,9 @@ description: "蓮霧（Wax Apple）是糖尿病患者可納入日常飲食的中
 pubDate: "2026-06-19T13:14:54Z"
 heroImage: "/wp-content/uploads/Wax-Apple-and-Blood-Sugar-6.png"
 blog_tag_keyword: ["血糖"]
+authorId: 111
+author: "羅文佑"
+authorRole: "藥師"
 legacyId: 41488
 legacyPath: "/blog/wax-apple-and-blood-sugar/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

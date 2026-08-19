@@ -6,6 +6,9 @@ updatedDate: "2026-07-30T14:02:30Z"
 heroImage: "/wp-content/uploads/wrbherhet134544.jpg"
 blog_cate: ["appreciation"]
 gcm_supplier_category: ["appi-news"]
+authorId: 693
+author: "謝欣庭"
+authorRole: "家庭醫學科醫師"
 legacyId: 41835
 legacyPath: "/blog/plt-therapy-expert-clinical-discussion/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

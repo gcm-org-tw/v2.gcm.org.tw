@@ -6,6 +6,9 @@ updatedDate: "2024-11-11T07:53:17Z"
 heroImage: "/wp-content/uploads/萃取藥材新時代：如何透過中醫科研提升治療體感.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["藥材分析"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 24030
 legacyPath: "/blog/herbal-extraction-revolution-boosting-treatment-experience-with-tcm-science/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

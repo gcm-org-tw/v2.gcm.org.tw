@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["8-倍濃縮", "七萃草本高倍濃縮", "神奇紅棗茶", "米精紅棗露"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["周奕廷"]
+authorId: 839
+author: "周奕廷"
+authorRole: "耳鼻喉科醫師"
 legacyId: 30235
 legacyPath: "/blog/zght-qzg-zyt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

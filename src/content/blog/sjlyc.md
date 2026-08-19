@@ -6,6 +6,9 @@ updatedDate: "2025-02-10T06:10:17Z"
 heroImage: "/wp-content/uploads/sjlyc02c_11zon.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
+authorId: 286
+author: "劉郁辰"
+authorRole: "中醫師"
 legacyId: 26439
 legacyPath: "/blog/sjlyc/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

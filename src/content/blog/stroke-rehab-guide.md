@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation"]
 blog_tag: ["復健科", "營養保健", "運動醫學", "預防醫學"]
 blog_tag_keyword: ["中風復健", "基底核", "重建運動"]
 blog_tag_theme: ["中風療程", "body-health", "醫友生活"]
+authorId: 292
+author: "李冠毅"
+authorRole: "復健科醫師"
 legacyId: 27907
 legacyPath: "/blog/stroke-rehab-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

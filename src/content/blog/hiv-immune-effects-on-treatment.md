@@ -6,6 +6,9 @@ updatedDate: "2025-12-24T15:17:15Z"
 heroImage: "/wp-content/uploads/HIV-Immune-Effects-on-Treatment2.jpg"
 blog_cate: ["rss-newstalk", "experts"]
 blog_tag_keyword: ["愛滋病"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 36754
 legacyPath: "/blog/hiv-immune-effects-on-treatment/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

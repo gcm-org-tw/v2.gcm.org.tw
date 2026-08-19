@@ -6,6 +6,9 @@ updatedDate: "2024-08-18T12:41:37Z"
 heroImage: "/wp-content/uploads/S__58097691-min.jpg"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["陳建甫"]
+authorId: 137
+author: "陳建甫"
+authorRole: "中醫師"
 legacyId: 23101
 legacyPath: "/blog/heng-chen-jian-fu/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

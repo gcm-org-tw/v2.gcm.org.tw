@@ -6,6 +6,9 @@ updatedDate: "2024-10-11T13:27:15Z"
 heroImage: "/wp-content/uploads/膠原蛋白與關節疼痛：如何用科學改善症狀的3個步驟.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["膠原蛋白"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 23963
 legacyPath: "/blog/collagen-for-joint-pain-3-science-based-steps-to-relief/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,8 @@ updatedDate: "2025-01-24T14:03:04Z"
 heroImage: "/wp-content/uploads/gcmyachtpartygp2025.jpg"
 heroImageAlt: "GCM醫友健賞團白袍遊艇派對合影"
 blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-healthcare"]
+authorId: 497
+author: "協會編輯"
 legacyId: 26443
 legacyPath: "/blog/gcmyachtpartynews2025/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

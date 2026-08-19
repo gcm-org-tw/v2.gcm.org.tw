@@ -10,6 +10,9 @@ blog_tag: ["上班族", "外食族"]
 blog_tag_keyword: ["營養"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["黃芷昕"]
+authorId: 107
+author: "黃芷昕"
+authorRole: "營養師"
 legacyId: 7636
 legacyPath: "/blog/urbanites-healthy-diet-tips/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

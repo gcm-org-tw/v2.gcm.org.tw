@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/Cellcore-INFINI-zyt25050804-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["周奕廷"]
+authorId: 839
+author: "周奕廷"
+authorRole: "耳鼻喉科醫師"
 legacyId: 28590
 legacyPath: "/blog/cellcore-infini-zyt/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/為什麼吃膠原蛋白好處多多？掌握這
 blog_cate: ["gcm-news"]
 blog_tag_keyword: ["膠原蛋白"]
 blog_tag_theme: ["body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23255
 legacyPath: "/blog/collagen-4-key-skin-benefits/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

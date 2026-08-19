@@ -8,6 +8,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["go亮美肌水蜜桃風味", "go暢排便鳳梨風味", "go燃夜代謝百香果風味", "go纖日代謝蘋果風味", "go閃雙切檸檬風味"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["黃泳霏"]
+authorId: 465
+author: "黃泳霏"
+authorRole: "藥師"
 legacyId: 31132
 legacyPath: "/blog/goiae-hyf/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

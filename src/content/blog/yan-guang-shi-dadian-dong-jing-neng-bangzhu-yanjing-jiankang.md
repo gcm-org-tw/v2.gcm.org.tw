@@ -7,6 +7,8 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["營養保健", "護眼", "預防醫學"]
 blog_tag_keyword: ["護眼", "驗光師"]
 blog_tag_theme: ["營養保健", "nutritional-supplement", "body-health"]
+authorId: 887
+author: "莊勝傑"
 legacyId: 33632
 legacyPath: "/blog/yan-guang-shi-dadian-dong-jing-neng-bangzhu-yanjing-jiankang/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

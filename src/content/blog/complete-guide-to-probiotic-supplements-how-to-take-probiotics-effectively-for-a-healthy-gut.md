@@ -5,6 +5,8 @@ pubDate: "2024-09-06T06:38:33Z"
 heroImage: "/wp-content/uploads/益生菌補充全攻略｜教你益生菌怎麼吃最有效，成功吃出腸道健康！.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["益生菌"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23534
 legacyPath: "/blog/complete-guide-to-probiotic-supplements-how-to-take-probiotics-effectively-for-a-healthy-gut/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

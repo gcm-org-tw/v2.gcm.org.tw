@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/Healthy-Drink-Selection-Guide1.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["健康飲品"]
 blog_tag_theme: ["body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 39138
 legacyPath: "/blog/healthy-drink-selection-guide/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

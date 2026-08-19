@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/acoolingdrinkvivian2472.png"
 heroImageAlt: "營養師的5杯消暑口袋飲品"
 blog_cate: ["preventive-healthcare"]
 blog_tag_theme: ["營養保健"]
+authorId: 290
+author: "張馨方"
+authorRole: "營養師"
 legacyId: 22195
 legacyPath: "/blog/acoolingdrinkvivian2472/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

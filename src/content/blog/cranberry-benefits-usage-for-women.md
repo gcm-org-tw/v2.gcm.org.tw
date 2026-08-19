@@ -6,6 +6,8 @@ updatedDate: "2024-08-17T11:34:49Z"
 heroImage: "/wp-content/uploads/蔓越莓功效女性必須知！一次看懂蔓越莓好處及正確吃法.jpg"
 blog_cate: ["gcm-news"]
 blog_tag_keyword: ["蔓越莓"]
+authorId: 497
+author: "協會編輯"
 legacyId: 23316
 legacyPath: "/blog/cranberry-benefits-usage-for-women/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

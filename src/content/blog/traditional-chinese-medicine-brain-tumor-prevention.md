@@ -10,6 +10,9 @@ blog_tag: ["中醫", "腦瘤"]
 blog_tag_keyword: ["腦瘤"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["楊立暐"]
+authorId: 178
+author: "楊立暐"
+authorRole: "中醫師"
 legacyId: 8956
 legacyPath: "/blog/traditional-chinese-medicine-brain-tumor-prevention/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

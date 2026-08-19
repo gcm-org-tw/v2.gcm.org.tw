@@ -7,6 +7,9 @@ blog_cate: ["rss-newstalk", "appreciation"]
 blog_tag: ["營養保健", "預防醫學"]
 blog_tag_keyword: ["復健科醫師", "語言發展"]
 blog_tag_theme: ["body-health", "醫友生活"]
+authorId: 292
+author: "李冠毅"
+authorRole: "復健科醫師"
 legacyId: 37539
 legacyPath: "/blog/kids-language-development-milestones-warning-signs/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

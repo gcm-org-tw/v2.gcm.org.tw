@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "podcast", "rss-newstalk", "preventive-healthcare", "exp
 blog_tag: ["podcast"]
 blog_tag_keyword: ["五音"]
 blog_tag_theme: ["醫友生活"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 32556
 legacyPath: "/blog/five-tones-organ-healing/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

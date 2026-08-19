@@ -6,6 +6,9 @@ updatedDate: "2025-07-31T07:41:13Z"
 heroImage: "/wp-content/uploads/After-Blood-Donation5.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["捐血"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 31578
 legacyPath: "/blog/after-blood-donation/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

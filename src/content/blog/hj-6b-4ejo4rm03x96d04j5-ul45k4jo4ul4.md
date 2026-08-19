@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/肉桂捲.jpg"
 blog_cate: ["preventive-healthcare"]
 blog_tag_keyword: ["中醫", "中醫飲食"]
 blog_tag_theme: ["醫友生活"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 20255
 legacyPath: "/blog/hj-6b-4ejo4rm03x96d04j5-ul45k4jo4ul4/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

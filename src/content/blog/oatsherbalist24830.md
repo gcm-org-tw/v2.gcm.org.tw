@@ -8,6 +8,9 @@ heroImageAlt: "燕麥對皮膚問題有幫助？中醫師：膠體燕麥較明�
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["林智亨"]
+authorId: 506
+author: "林智亨"
+authorRole: "中醫師"
 legacyId: 23436
 legacyPath: "/blog/oatsherbalist24830/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

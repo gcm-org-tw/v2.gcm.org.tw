@@ -9,6 +9,9 @@ blog_tag: ["孕期保健", "母嬰", "水果"]
 blog_tag_keyword: ["懷孕", "水果"]
 blog_tag_theme: ["nutritional-supplement"]
 blog_fr_doctors: ["王柏鈞"]
+authorId: 134
+author: "王柏鈞"
+authorRole: "中醫師"
 legacyId: 10909
 legacyPath: "/blog/pregnancy-delicious-no-go-fruits/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

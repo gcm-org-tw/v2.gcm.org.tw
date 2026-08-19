@@ -6,6 +6,9 @@ heroImage: "/wp-content/uploads/ltjmdsj25081801_11zon.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["auscentic", "呼吸精萃", "夜息精華", "新睡前儀式", "香氛界的褪黑激素"]
 blog_tag_theme: ["醫友生活"]
+authorId: 790
+author: "戴淑娟"
+authorRole: "藥師"
 legacyId: 32258
 legacyPath: "/blog/auscentic-dsj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

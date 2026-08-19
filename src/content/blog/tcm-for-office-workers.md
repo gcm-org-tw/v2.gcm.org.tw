@@ -10,6 +10,9 @@ blog_tag: ["上班族", "中醫", "疲勞", "肩頸痛"]
 blog_tag_keyword: ["疲勞"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["楊立暐"]
+authorId: 178
+author: "楊立暐"
+authorRole: "中醫師"
 legacyId: 7570
 legacyPath: "/blog/tcm-for-office-workers/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,8 @@ updatedDate: "2026-02-08T14:23:17Z"
 heroImage: "/wp-content/uploads/Cosmetic-PIF-Governance-2024–20268.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["pif"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37572
 legacyPath: "/blog/cosmetic-pif-governance-2024-2026/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

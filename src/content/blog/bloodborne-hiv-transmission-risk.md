@@ -6,6 +6,9 @@ updatedDate: "2025-12-21T13:41:00Z"
 heroImage: "/wp-content/uploads/Bloodborne-HIV-Transmission-Risk1.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["愛滋"]
+authorId: 80
+author: "姜封豪"
+authorRole: "家庭醫學科醫師"
 legacyId: 36447
 legacyPath: "/blog/bloodborne-hiv-transmission-risk/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2025-07-22T13:32:36Z"
 heroImage: "/wp-content/uploads/Cashew-Health-Switch1.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["腰果"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 31486
 legacyPath: "/blog/cashew-health-switch/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

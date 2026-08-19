@@ -6,6 +6,8 @@ updatedDate: "2024-12-14T08:49:01Z"
 heroImage: "/wp-content/uploads/Daily-Makeup-Worries-Solved-Ceramide-Mineral-Foundation2.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["神經醯胺"]
+authorId: 497
+author: "協會編輯"
 legacyId: 25467
 legacyPath: "/blog/daily-makeup-worries-solved-ceramide-mineral-foundation/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

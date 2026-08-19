@@ -5,6 +5,9 @@ pubDate: "2025-12-20T05:14:55Z"
 updatedDate: "2026-01-09T05:19:24Z"
 heroImage: "/wp-content/uploads/High-Dose-Supplements-No-Effect1.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 36436
 legacyPath: "/blog/high-dose-supplements-no-effect/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

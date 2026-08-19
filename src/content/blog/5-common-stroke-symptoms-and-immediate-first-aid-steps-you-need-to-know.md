@@ -6,6 +6,9 @@ updatedDate: "2024-09-21T13:47:00Z"
 heroImage: "/wp-content/uploads/5個中風常見症狀與立即急救方法.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_theme: ["body-health"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 23849
 legacyPath: "/blog/5-common-stroke-symptoms-and-immediate-first-aid-steps-you-need-to-know/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

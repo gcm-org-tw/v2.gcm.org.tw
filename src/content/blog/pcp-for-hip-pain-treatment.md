@@ -6,6 +6,9 @@ updatedDate: "2026-06-23T11:21:47Z"
 heroImage: "/wp-content/uploads/PCP-for-Hip-Pain-Treatment-8.jpg"
 heroImageAlt: "PCP for Hip Pain Treatment 8"
 blog_tag_keyword: ["pcp"]
+authorId: 146
+author: "王凱平"
+authorRole: "運動醫學科醫師"
 legacyId: 39944
 legacyPath: "/blog/pcp-for-hip-pain-treatment/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

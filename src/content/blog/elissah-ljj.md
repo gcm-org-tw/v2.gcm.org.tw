@@ -5,6 +5,8 @@ pubDate: "2024-08-29T09:24:33Z"
 heroImage: "/wp-content/uploads/IMG_7204-scaled.jpg"
 blog_cate: ["appreciation"]
 blog_fr_doctors: ["林佳瑾"]
+authorId: 511
+author: "林佳瑾"
 legacyId: 23376
 legacyPath: "/blog/elissah-ljj/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["中醫師", "中醫飲食", "營養保健", "預防醫學"]
 blog_tag_keyword: ["a型流感", "季節性感冒", "流感病毒"]
 blog_tag_theme: ["媒體報導", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 250
+author: "曾佳瑀"
+authorRole: "中醫師"
 legacyId: 26605
 legacyPath: "/blog/the-flu-is-not-a-cold/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

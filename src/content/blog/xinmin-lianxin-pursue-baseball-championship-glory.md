@@ -6,6 +6,8 @@ heroImage: "/wp-content/uploads/攜手聯新國際醫院，新民國中運動講
 blog_cate: ["press"]
 blog_tag_keyword: ["王凱平"]
 blog_tag_theme: ["body-health"]
+authorId: 497
+author: "協會編輯"
 legacyId: 22097
 legacyPath: "/blog/xinmin-lianxin-pursue-baseball-championship-glory/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

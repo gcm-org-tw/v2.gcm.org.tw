@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/Post-Workout-Recovery：3-Top-Therapies-to-Bounc
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag: ["運動恢復"]
 blog_tag_keyword: ["運動恢復"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26478
 legacyPath: "/blog/post-workout-recovery%ef%bc%9a3-top-therapies-to-bounce-back/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -5,6 +5,9 @@ pubDate: "2025-03-02T05:14:58Z"
 updatedDate: "2025-02-08T12:17:31Z"
 heroImage: "/wp-content/uploads/Shrimp-Boosts-Mens-Vitality2.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 26630
 legacyPath: "/blog/shrimp-boosts-mens-vitality/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

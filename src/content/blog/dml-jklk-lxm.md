@@ -6,6 +6,9 @@ updatedDate: "2026-06-23T10:57:00Z"
 heroImage: "/wp-content/uploads/IMG_4404_5_11zon_11zon-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["ses319-因子", "sgs-檢驗", "β-隱黃素", "專利藻紅素", "愛媛溫州蜜柑", "游離型葉黃素"]
+authorId: 204
+author: "李協明"
+authorRole: "營養師"
 legacyId: 37542
 legacyPath: "/blog/dml-jklk-lxm/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

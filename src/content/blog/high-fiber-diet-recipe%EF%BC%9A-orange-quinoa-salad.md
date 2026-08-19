@@ -6,6 +6,9 @@ updatedDate: "2025-05-30T15:50:18Z"
 heroImage: "/wp-content/uploads/High-Fiber-Diet-Recipe：-Orange-Quinoa-Salad3.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["高纖飲食"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 30089
 legacyPath: "/blog/high-fiber-diet-recipe%ef%bc%9a-orange-quinoa-salad/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

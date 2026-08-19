@@ -6,6 +6,8 @@ updatedDate: "2026-03-12T09:52:19Z"
 heroImage: "/wp-content/uploads/Indoor-Formaldehyde-and-Child-Respiration6.jpg"
 blog_cate: ["rss-newstalk", "experts"]
 blog_tag_keyword: ["呼吸道"]
+authorId: 497
+author: "協會編輯"
 legacyId: 36851
 legacyPath: "/blog/indoor-formaldehyde-and-child-respiration/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

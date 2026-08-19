@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/COVER-F.jpg"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["中醫師"]
 blog_tag_theme: ["媒體報導"]
+authorId: 497
+author: "協會編輯"
 legacyId: 17608
 legacyPath: "/blog/what-is-traditional-chinese-medicine/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

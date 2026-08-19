@@ -5,6 +5,9 @@ pubDate: "2025-08-10T05:14:16Z"
 updatedDate: "2025-08-11T04:31:48Z"
 heroImage: "/wp-content/uploads/Gastrodia-Benefits-and-Risks1.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare", "experts"]
+authorId: 135
+author: "蔡旻堅"
+authorRole: "營養師"
 legacyId: 31901
 legacyPath: "/blog/gastrodia-benefits-and-risks/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

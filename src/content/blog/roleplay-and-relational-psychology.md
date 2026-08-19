@@ -6,6 +6,8 @@ updatedDate: "2026-01-04T13:37:01Z"
 heroImage: "/wp-content/uploads/Roleplay-and-Relational-Psychology2.jpg"
 blog_cate: ["experts"]
 blog_tag_keyword: ["bdsm"]
+authorId: 497
+author: "協會編輯"
 legacyId: 36847
 legacyPath: "/blog/roleplay-and-relational-psychology/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

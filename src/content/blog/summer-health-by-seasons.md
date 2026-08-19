@@ -6,6 +6,9 @@ updatedDate: "2025-04-25T14:22:07Z"
 heroImage: "/wp-content/uploads/Summer-Health-by-Seasons5.jpg"
 blog_cate: ["24-solar-terms", "rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["24節氣"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 28397
 legacyPath: "/blog/summer-health-by-seasons/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

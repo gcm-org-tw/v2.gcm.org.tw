@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/蕈菇多醣體與8種中藥材的協同效果�
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["蕈菇多醣體"]
 blog_tag_theme: ["body-health"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 23898
 legacyPath: "/blog/synergy-of-mushrooms-and-herbs-for-weakness/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

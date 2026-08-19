@@ -8,6 +8,9 @@ heroImageAlt: "高麗菜舒緩胸膜"
 blog_cate: ["appreciation"]
 blog_tag: ["哺乳", "職能治療師", "高麗菜舒緩胸膜"]
 blog_tag_theme: ["醫友生活"]
+authorId: 228
+author: "李宜庭"
+authorRole: "職能治療師"
 legacyId: 19611
 legacyPath: "/blog/el-xu4h94gj-cj03vm-ai6/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -10,6 +10,9 @@ blog_tag: ["fun憩治療", "podcast", "中醫", "陳建甫", "預防醫學"]
 blog_tag_keyword: ["疲勞"]
 blog_tag_theme: ["body-health"]
 blog_fr_doctors: ["陳建甫"]
+authorId: 137
+author: "陳建甫"
+authorRole: "中醫師"
 legacyId: 6570
 legacyPath: "/blog/podcast-ep05/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

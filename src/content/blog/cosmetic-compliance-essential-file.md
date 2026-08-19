@@ -6,6 +6,8 @@ updatedDate: "2026-02-08T14:01:52Z"
 heroImage: "/wp-content/uploads/Cosmetic-Compliance-Essential-File4.jpg"
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag_keyword: ["pif"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37571
 legacyPath: "/blog/cosmetic-compliance-essential-file/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

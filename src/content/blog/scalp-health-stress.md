@@ -5,6 +5,9 @@ pubDate: "2025-06-07T14:14:57Z"
 updatedDate: "2025-06-07T12:35:34Z"
 heroImage: "/wp-content/uploads/Scalp-Health-Stress.jpg"
 blog_tag_keyword: ["頭皮健康"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 30145
 legacyPath: "/blog/scalp-health-stress/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

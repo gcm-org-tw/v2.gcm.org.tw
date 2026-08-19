@@ -4,6 +4,9 @@ description: "UFLOW 特別選用 Totipro 益萃質® Plus 作為多國專利後�
 pubDate: "2026-03-04T03:06:45Z"
 heroImage: "/wp-content/uploads/11zon_IMG_6097_11zon-scaled.jpg"
 blog_cate: ["appreciation"]
+authorId: 204
+author: "李協明"
+authorRole: "營養師"
 legacyId: 37989
 legacyPath: "/blog/uflow-synbiotics-lxm/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -6,6 +6,9 @@ updatedDate: "2024-12-10T09:29:04Z"
 heroImage: "/wp-content/uploads/從傳統年菜到現代養生-中醫如何帶來健康新啟發-From-Traditional-Dishes-to-Modern-Health-TCMs-Fresh-Insights.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "appreciation"]
 blog_tag_keyword: ["年菜"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25342
 legacyPath: "/blog/from-traditional-dishes-to-modern-health-tcms-fresh-insights/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

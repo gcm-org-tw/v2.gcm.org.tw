@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/midnight-awakening-insomnia-blood-sugar-hormone-
 blog_cate: ["gcm-news", "rss-newstalk"]
 blog_tag: ["中醫", "中醫師"]
 blog_tag_keyword: ["中醫師", "深層睡眠", "睡眠困擾"]
+authorId: 286
+author: "劉郁辰"
+authorRole: "中醫師"
 legacyId: 36016
 legacyPath: "/blog/midnight-awakening-insomnia-blood-sugar-hormone-tcm/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

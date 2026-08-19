@@ -7,6 +7,9 @@ heroImage: "/wp-content/uploads/L-Arginine-for-Mens-Health.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["精胺酸"]
 blog_tag_theme: ["精胺酸"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 28196
 legacyPath: "/blog/l-arginine-for-mens-health/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

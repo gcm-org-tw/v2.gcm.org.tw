@@ -5,6 +5,8 @@ pubDate: "2026-07-14T03:34:04Z"
 updatedDate: "2026-07-17T08:14:21Z"
 heroImage: "/wp-content/uploads/Standing-Rainwater-Could-Put-Families-at-Dengue-Risk8.jpg"
 blog_cate: ["rss-newstalk", "preventive-healthcare"]
+authorId: 497
+author: "協會編輯"
 legacyId: 41884
 legacyPath: "/blog/standing-rainwater-could-put-families-at-dengue-risk/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

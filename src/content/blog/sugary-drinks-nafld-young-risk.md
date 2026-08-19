@@ -8,6 +8,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["營養保健", "預防醫學", "飲食"]
 blog_tag_keyword: ["無酒精性脂肪肝", "藥師", "飲食"]
 blog_tag_theme: ["營養保健", "nutritional-supplement", "body-health", "醫友生活"]
+authorId: 465
+author: "黃泳霏"
+authorRole: "藥師"
 legacyId: 30052
 legacyPath: "/blog/sugary-drinks-nafld-young-risk/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

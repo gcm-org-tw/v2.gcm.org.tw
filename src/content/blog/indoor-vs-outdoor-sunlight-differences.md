@@ -6,6 +6,8 @@ updatedDate: "2026-08-11T05:21:03Z"
 heroImage: "/wp-content/uploads/Indoor-vs-Outdoor-Sunlight-Differences4.jpg"
 blog_cate: ["gcm-news", "podcast", "rss-newstalk", "preventive-healthcare"]
 blog_tag_keyword: ["d3"]
+authorId: 497
+author: "協會編輯"
 legacyId: 37245
 legacyPath: "/blog/indoor-vs-outdoor-sunlight-differences/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

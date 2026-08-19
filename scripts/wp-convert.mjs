@@ -229,6 +229,13 @@ const womReviews = await exists(join(SRC, 'reviews.json'))
 const jetContent = await exists(join(SRC, 'jetengine-content.json'))
   ? JSON.parse(await readFile(join(SRC, 'jetengine-content.json'), 'utf8')) : {};
 
+/* 文章作者。舊站每篇文章都有作者署名，正文之後還有一塊作者簡介（照片、職稱、專長、經歷）。
+ * 我們當初匯出 blog 時沒帶 author 欄位，簡介又只在 /author/<id>/ 專頁上（users 端點回 401），
+ * 所以 1,376 篇全部沒有作者——由 scripts/wp-authors.mjs 補回來。
+ * frontmatter 只放 authorId 與顯示用的姓名職稱；完整簡介另存 src/data/authors.json。 */
+const authorData = await exists(join(SRC, 'authors.json'))
+  ? JSON.parse(await readFile(join(SRC, 'authors.json'), 'utf8')) : { posts: {}, authors: {} };
+
 const report = [];
 for (const [type, cfg] of Object.entries(COLLECTIONS)) {
   if (only && !only.includes(type)) continue;
@@ -261,6 +268,8 @@ for (const [type, cfg] of Object.entries(COLLECTIONS)) {
     if (detail?.description && !body.trim()) {
       body = detail.description.split('\n').map(l => l.trim()).filter(Boolean).join('\n\n');
     }
+    const authorId = authorData.posts?.[path] ?? null;
+    const author = authorId != null ? authorData.authors?.[String(authorId)] : null;
     let jetHero = '';
     let headline = '';
     let eventTime = '';
@@ -301,6 +310,9 @@ for (const [type, cfg] of Object.entries(COLLECTIONS)) {
       ...TAXONOMIES
         .filter(t => Array.isArray(item[t]) && item[t].length && taxMap[t])
         .map(t => `${t.replace(/-/g, '_')}: ${yaml(item[t].map(id => taxMap[t].get(id)).filter(Boolean))}`),
+      author?.name ? `authorId: ${authorId}` : null,
+      author?.name ? `author: ${yaml(author.name)}` : null,
+      author?.role ? `authorRole: ${yaml(author.role)}` : null,
       headline ? `headline: ${yaml(headline)}` : null,
       eventTime ? `eventTime: ${yaml(eventTime)}` : null,
       eventPlace ? `eventPlace: ${yaml(eventPlace)}` : null,
@@ -346,6 +358,16 @@ if (Object.keys(womReviews).length && (!only || only.includes('wom'))) {
   await writeFile('src/data/wom-reviews.json', JSON.stringify(out, null, 2) + '\n');
   const n = Object.values(out).reduce((a, b) => a + b.length, 0);
   console.log(`醫友心得 → src/data/wom-reviews.json：${Object.keys(out).length} 個商品、${n} 則`);
+}
+
+/* 作者簡介落成前端可 import 的資料檔（同 wom-reviews 的做法：量大、不進 frontmatter）。 */
+if (Object.keys(authorData.authors ?? {}).length) {
+  const out = Object.fromEntries(
+    Object.entries(authorData.authors).filter(([, v]) => v && v.name)
+  );
+  await mkdir('src/data', { recursive: true });
+  await writeFile('src/data/authors.json', JSON.stringify(out, null, 2) + '\n');
+  console.log(`作者簡介 → src/data/authors.json：${Object.keys(out).length} 位`);
 }
 
 if (report.some(r => r.startsWith('⚠'))) {

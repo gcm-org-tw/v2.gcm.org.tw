@@ -8,6 +8,9 @@ blog_cate: ["rss-newstalk", "press", "news", "appreciation", "preventive-healthc
 blog_tag: ["運動傷害", "運動醫學", "預防醫學"]
 blog_tag_keyword: ["冰敷", "扭傷", "熱敷", "物理治療師", "組織發炎"]
 blog_tag_theme: ["慢性疼痛", "body-health", "運動傷害", "醫友生活"]
+authorId: 854
+author: "陳敬衡"
+authorRole: "物理治療師"
 legacyId: 36019
 legacyPath: "/blog/sports-injury-ice-vs-heat-therapy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

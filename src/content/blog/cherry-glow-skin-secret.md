@@ -6,6 +6,9 @@ updatedDate: "2025-08-13T09:31:21Z"
 heroImage: "/wp-content/uploads/Cherry-Glow-Skin-Secret3.jpg"
 blog_cate: ["gcm-news", "rss-newstalk", "preventive-healthcare", "experts"]
 blog_tag_keyword: ["櫻桃"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 31452
 legacyPath: "/blog/cherry-glow-skin-secret/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

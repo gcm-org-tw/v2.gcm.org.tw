@@ -7,6 +7,9 @@ blog_cate: ["gcm-news", "rss-newstalk", "press", "appreciation", "preventive-hea
 blog_tag: ["物理治療師", "運動傷害", "運動醫學", "預防醫學"]
 blog_tag_keyword: ["運動傷害", "髖關節疼痛"]
 blog_tag_theme: ["媒體報導", "body-health", "醫友生活"]
+authorId: 854
+author: "陳敬衡"
+authorRole: "物理治療師"
 legacyId: 27901
 legacyPath: "/blog/hip-pain-sleep-trouble-fix/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

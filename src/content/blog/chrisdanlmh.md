@@ -7,6 +7,9 @@ blog_cate: ["appreciation"]
 blog_tag_keyword: ["水感柔焦物理防曬乳-全台唯㇐-uva-認證-克莉絲丹香氛"]
 blog_tag_theme: ["醫友生活"]
 blog_fr_doctors: ["林孟昕"]
+authorId: 865
+author: "林孟昕"
+authorRole: "家庭醫學科醫師"
 legacyId: 28044
 legacyPath: "/blog/chrisdanlmh/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

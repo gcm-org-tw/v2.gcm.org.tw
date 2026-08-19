@@ -6,6 +6,9 @@ updatedDate: "2024-12-11T02:50:59Z"
 heroImage: "/wp-content/uploads/從春節宴席談健康：如何平衡年菜美味與養生智慧.jpg"
 blog_cate: ["rss-newstalk", "appreciation", "preventive-healthcare"]
 blog_tag_keyword: ["年菜"]
+authorId: 34
+author: "草本上膳醫廚"
+authorRole: "中醫師"
 legacyId: 25288
 legacyPath: "/blog/how-to-balance-flavor-and-health-in-chinese-new-year-feasts/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

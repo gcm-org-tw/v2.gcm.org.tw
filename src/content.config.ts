@@ -15,10 +15,15 @@ const legacyBase = {
   sourceVerbatim: z.boolean().default(false),
 };
 
+/* 文章。author 三欄是 2026-08-19 補回來的：舊站每篇都有作者署名，我們原本一篇都沒有
+ * （匯出時漏了 author 欄位，簡介又只在 /author/<id>/ 專頁上）。完整簡介在 src/data/authors.json。 */
 const blog = defineCollection({
   loader: glob({ base: './src/content/blog', pattern: '**/*.md' }),
   schema: z.object({
     ...legacyBase,
+    authorId: z.number().optional(),
+    author: z.string().optional(),
+    authorRole: z.string().optional(),
     blog_cate: z.array(z.string()).default([]),
     blog_tag: z.array(z.string()).default([]),
     blog_tag_keyword: z.array(z.string()).default([]),
