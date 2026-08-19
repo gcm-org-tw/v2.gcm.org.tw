@@ -1,0 +1,59 @@
+---
+title: "開放報名：GCM+社區藥局聯盟旗艦計畫說明會2025"
+description: "加入聯盟的社區藥局即可享有以下高額廣告曝光免費贊助：facebook 廣告、LINE 廣告、Google 廣告、網路新聞媒體曝光版位、醫學協會部落格專欄版位等(更多聯盟資源歡迎洽詢專案團隊)，費用由GCM上醫預防醫學發展協會及TSCP臺灣社區藥學會全額贊助，藥局免出資、免囤貨、免風險。"
+pubDate: "2025-06-02T03:41:04Z"
+updatedDate: "2025-06-02T06:30:02Z"
+heroImage: "/wp-content/uploads/橫Banner.jpg"
+legacyId: 28498
+legacyPath: "/blog/gcmplus-tscp-pap2025/"
+# 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）
+sourceVerbatim: true
+---
+
+![](/wp-content/uploads/1-1-7.jpg)
+
+為協助社區獨立藥局提升商品力、行銷力、品牌力，帶動整體營收成長與營運競爭優勢，[TSCP臺灣社區藥學會](https://tscp.tw/)和[GCM上醫預防醫學發展協會](/)於2025年聯手推動GCM+社區聯盟藥局合作計畫，目標串聯社區獨立經營藥局形成策略聯盟，導入數位行銷與AI轉型輔導，為社區藥局帶來嶄新的服務優勢，成為社區民眾的健康生活重心。將於114年06月12日星期四線上舉辦旗艦計畫說明會，歡迎全國社區獨立藥局上線與會，了解計畫詳情。
+
+![](/wp-content/uploads/2-1.png)
+
+加入聯盟的社區藥區將可獲得facebook、Instagram、LINE、Google等數位廣告全面曝光贊助，輕鬆成為社區最閃耀的店家，加碼網路新聞報導曝光、多元整合行銷活動串聯、特色差異化商品品牌進駐等優勢，同時提供顧客關係管理和新零售領域的AI培訓賦能，全面提升社區藥局獨立經營實力，具體措施都將在114年06月12日的旗艦計畫線上說明會詳細說明。
+
+![](/wp-content/uploads/3-8.jpg)
+
+![](/wp-content/uploads/4.png)
+
+GCM+社區聯盟藥局旗艦計畫由GCM上醫預防醫學發展協會和TSCP臺灣社區藥學會兩大醫學非營利組織共同推行，GCM上醫預防醫學發展協會聚集超過800位認同預防醫學理念的專業醫事人員，共同為推廣台灣預防醫學普及而努力，醫學專業領域橫跨西醫、中醫、藥師、營養師、物理治療師、職能治療師、諮商心理師、護理師等，TSCP臺灣社區藥學會則以促進社區藥學發展與人才培育，提升社區藥事服務品質與台灣社區民眾福祉為使命，一同為社區藥局整合產、官、學、研資源，使社區藥局成為社區居民生活重心。參加說明會或加入成為社區聯盟藥局並**不會向藥局收取任何費用**，有意願了解聯盟計畫的藥局可以放心參加線上說明會了解計畫詳情。
+
+![](/wp-content/uploads/5.png)
+
+## **立即報名線上說明會：**
+
+**[https://forms.gle/oGn3dCXMFWtAimKV7](https://forms.gle/oGn3dCXMFWtAimKV7)**
+
+## **或直接預約線上一對一了解如何加入GCM+社區藥局聯盟：**
+
+[https://tidycal.com/cybermkt/clicnic](https://tidycal.com/cybermkt/clicnic)
+
+**【活動資訊】**
+
+活動名稱：GCM+社區聯盟藥局旗艦計畫說明會
+
+聯合主辦：GCM上醫預防醫學發展協會｜TSCP臺灣社區藥學會
+
+日期：114年06月12日星期四
+
+時間：13:00-15:00(12:30開始上線)
+
+地點：zoom線上會議室(報名成功提供連結)
+
+人數： 50 名
+
+**【諮詢窗口】**
+
+GCM上醫預防醫學發展協會
+
+LINE@官方帳號：[https://lin.ee/uiqNDRO](https://lin.ee/uiqNDRO)
+
+TSCP臺灣社區藥學會
+
+LINE@官方帳號：[https://lin.ee/koeEXz4](https://lin.ee/koeEXz4)

@@ -1,0 +1,27 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import TaxonomyArchive from '../../components/TaxonomyArchive.astro';
+import { allTerms } from '../../lib/taxonomy';
+
+/* 網址保留：舊站彙整頁 /blog-fr-doctors/<slug>/ 實測 200，但不在 sitemap（薄頁）。
+ * 網址照留，noindex 交給 BaseLayout。 */
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return allTerms('blog-fr-doctors').map(({ slug, term }) => ({
+    params: { slug },
+    props: {
+      term,
+      posts: posts
+        .filter(p => p.data.blog_fr_doctors.includes(slug))
+        .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+    },
+  }));
+}
+
+const { term, posts } = Astro.props;
+---
+
+<BaseLayout title={term.name} description={term.description || `與「${term.name}」相關的文章。`} noindex>
+  <TaxonomyArchive heading={term.name} kicker="專家醫師" description={term.description} items={posts} />
+</BaseLayout>

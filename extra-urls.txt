@@ -1,0 +1,7 @@
+# 人工補充：舊站實際存在、但 sitemap 與 REST 都沒帶到的入口
+# 每加一條都要先實測 200（curl -sI）
+/blog/
+/wom/
+/activities/
+/gcm_podcast/
+/locations.kml

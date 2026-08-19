@@ -1,0 +1,70 @@
+---
+import PostCard from './PostCard.astro';
+
+/* 型別封面頁（/wom/、/activities/、/gcm_podcast/）共用版型——
+ * 這三頁舊站都存在且在 sitemap 內，網址必須保留。 */
+interface Item {
+  data: {
+    title: string;
+    description?: string;
+    pubDate: Date;
+    heroImage?: string;
+    heroImageAlt?: string;
+    legacyPath: string;
+  };
+}
+interface Props {
+  heading: string;
+  intro?: string;
+  items: Item[];
+}
+const { heading, intro, items } = Astro.props;
+---
+
+<div class="container">
+  <header class="head">
+    <h1>{heading}</h1>
+    {intro && <p class="intro">{intro}</p>}
+    <p class="count">共 {items.length} 筆</p>
+  </header>
+
+  <div class="grid">
+    {items.map(item => (
+      <PostCard
+        href={item.data.legacyPath}
+        title={item.data.title}
+        description={item.data.description}
+        pubDate={item.data.pubDate}
+        heroImage={item.data.heroImage}
+        heroImageAlt={item.data.heroImageAlt}
+      />
+    ))}
+  </div>
+</div>
+
+<style>
+  .container {
+    padding-block: clamp(2rem, 6vw, 3.5rem);
+  }
+  .intro {
+    max-width: 42rem;
+    color: var(--color-ink-soft);
+  }
+  .count {
+    margin-bottom: 2rem;
+    color: var(--color-ink-muted);
+    font-size: var(--text-sm);
+  }
+  .grid {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: 1fr;
+  }
+
+  @media (min-width: 640px) {
+    .grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (min-width: 1024px) {
+    .grid { grid-template-columns: repeat(3, 1fr); }
+  }
+</style>

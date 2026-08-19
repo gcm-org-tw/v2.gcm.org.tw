@@ -1,0 +1,13 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import CollectionIndex from '../../components/CollectionIndex.astro';
+
+const items = (await getCollection('wom')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<BaseLayout title="口碑推薦" description="GCM 上醫預防醫學發展協會的產品口碑與推薦紀錄。">
+  <CollectionIndex heading="口碑推薦" items={items} />
+</BaseLayout>

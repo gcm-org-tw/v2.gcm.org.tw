@@ -1,0 +1,168 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+  pubDate: Date;
+  updatedDate?: Date;
+  heroImage?: string;
+  heroImageAlt?: string;
+  breadcrumb?: { href: string; label: string }[];
+  taxonomy?: { href: string; label: string }[];
+}
+const { title, description, pubDate, updatedDate, heroImage, heroImageAlt, breadcrumb = [], taxonomy = [] } = Astro.props;
+
+const fmt = (d: Date) =>
+  new Intl.DateTimeFormat('zh-TW', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'Asia/Taipei' }).format(d);
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  ogType="article"
+  ogImage={heroImage}
+  publishedTime={pubDate}
+  modifiedTime={updatedDate}
+>
+  <article class="container">
+    {breadcrumb.length > 0 && (
+      <nav class="crumb" aria-label="麵包屑">
+        <ol>
+          <li><a href="/">首頁</a></li>
+          {breadcrumb.map(c => <li><a href={c.href}>{c.label}</a></li>)}
+        </ol>
+      </nav>
+    )}
+
+    <header class="head">
+      <h1>{title}</h1>
+      <p class="meta">
+        <time datetime={pubDate.toISOString()}>{fmt(pubDate)}</time>
+        {updatedDate && <span class="upd">更新於 {fmt(updatedDate)}</span>}
+      </p>
+      {taxonomy.length > 0 && (
+        <ul class="tax">
+          {taxonomy.map(t => <li><a href={t.href}>{t.label}</a></li>)}
+        </ul>
+      )}
+    </header>
+
+    {heroImage && <img class="hero" src={heroImage} alt={heroImageAlt ?? ''} loading="eager" />}
+
+    <div class="prose">
+      <slot />
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  article {
+    max-width: 48rem;
+    padding-block: clamp(2rem, 6vw, 3.5rem);
+  }
+  .crumb ol {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0 0 1.5rem;
+    padding: 0;
+    list-style: none;
+    font-size: var(--text-xs);
+    color: var(--color-ink-soft);
+  }
+  .crumb li + li::before {
+    content: '／';
+    margin-right: 0.5rem;
+    color: var(--color-ink-muted);
+  }
+  .crumb a {
+    color: var(--color-ink-soft);
+    text-decoration: none;
+  }
+  .crumb a:hover {
+    color: var(--color-primary);
+  }
+  .head h1 {
+    margin: 0 0 0.75rem;
+  }
+  .meta {
+    margin: 0;
+    font-size: var(--text-xs);
+    color: var(--color-ink-soft);
+  }
+  .upd {
+    margin-left: 1rem;
+  }
+  .tax {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+  .tax a {
+    display: inline-block;
+    padding: 0.2rem 0.7rem;
+    border: 1px solid var(--color-line);
+    border-radius: 999px;
+    font-size: var(--text-xs);
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+  .tax a:hover {
+    background: var(--color-primary-a10);
+  }
+  .hero {
+    margin-block: 2rem;
+    width: 100%;
+    border-radius: 0.5rem;
+  }
+
+  /* 內文由舊站逐字轉錄的 Markdown 渲染而來 → 用後代選擇器統一排版 */
+  .prose {
+    margin-top: 2rem;
+  }
+  .prose :global(h2) {
+    margin-top: 2.5rem;
+    padding-top: 0.75rem;
+    border-top: 2px solid var(--color-primary-a10);
+  }
+  .prose :global(h3) {
+    margin-top: 2rem;
+  }
+  .prose :global(p),
+  .prose :global(li) {
+    font-size: var(--text-base);
+  }
+  .prose :global(img) {
+    border-radius: 0.375rem;
+  }
+  .prose :global(blockquote) {
+    margin-inline: 0;
+    padding: 0.5rem 1.25rem;
+    border-left: 4px solid var(--color-primary);
+    background: var(--color-bg-light);
+    color: var(--color-ink-soft);
+  }
+  .prose :global(table) {
+    display: block;
+    overflow-x: auto;
+    width: 100%;
+    border-collapse: collapse;
+    font-size: var(--text-sm);
+  }
+  .prose :global(th),
+  .prose :global(td) {
+    padding: 0.5rem 0.75rem;
+    border: 1px solid var(--color-line);
+    text-align: left;
+  }
+  .prose :global(iframe) {
+    max-width: 100%;
+    aspect-ratio: 16 / 9;
+    width: 100%;
+    border: 0;
+  }
+</style>

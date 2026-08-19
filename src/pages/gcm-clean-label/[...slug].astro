@@ -1,0 +1,30 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import { slugFromLegacy } from '../../lib/urls';
+
+/* 網址保留：舊站潔淨標章認證頁為 /gcm-clean-label/<slug>/。
+ * ⚠ 注意與內容頁 /gcm-clean-label-潔淨標章/ 是兩條不同網址，別合併。 */
+export async function getStaticPaths() {
+  const items = await getCollection('cleanLabel');
+  return items.map(item => ({
+    params: { slug: slugFromLegacy(item.data.legacyPath, '/gcm-clean-label/') },
+    props: { item },
+  }));
+}
+
+const { item } = Astro.props;
+const { Content } = await render(item);
+---
+
+<ArticleLayout
+  title={item.data.title}
+  description={item.data.description}
+  pubDate={item.data.pubDate}
+  updatedDate={item.data.updatedDate}
+  heroImage={item.data.heroImage}
+  heroImageAlt={item.data.heroImageAlt}
+  breadcrumb={[{ href: '/gcm-clean-label-潔淨標章/', label: 'GCM 潔淨標章' }]}
+>
+  <Content />
+</ArticleLayout>

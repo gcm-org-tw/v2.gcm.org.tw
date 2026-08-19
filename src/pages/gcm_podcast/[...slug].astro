@@ -1,0 +1,29 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import { slugFromLegacy } from '../../lib/urls';
+
+/* 網址保留：舊站為 /gcm_podcast/<slug>/，slug 取自 legacyPath。 */
+export async function getStaticPaths() {
+  const items = await getCollection('podcast');
+  return items.map(item => ({
+    params: { slug: slugFromLegacy(item.data.legacyPath, '/gcm_podcast/') },
+    props: { item },
+  }));
+}
+
+const { item } = Astro.props;
+const { Content } = await render(item);
+---
+
+<ArticleLayout
+  title={item.data.title}
+  description={item.data.description}
+  pubDate={item.data.pubDate}
+  updatedDate={item.data.updatedDate}
+  heroImage={item.data.heroImage}
+  heroImageAlt={item.data.heroImageAlt}
+  breadcrumb={[{ href: '/gcm_podcast/', label: 'Podcast' }]}
+>
+  <Content />
+</ArticleLayout>

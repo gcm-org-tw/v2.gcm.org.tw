@@ -1,0 +1,80 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { slugFromLegacy } from '../lib/urls';
+
+/* WordPress page 型的接手路由。網址一比一沿用 legacyPath（含中文路徑）。
+ * 這是全站最寬鬆的 catch-all，Astro 會優先比對更具體的路由（/blog/… 等），不會搶走。 */
+export async function getStaticPaths() {
+  const pages = await getCollection('pages');
+  return pages.map(page => ({
+    params: { path: slugFromLegacy(page.data.legacyPath, '/') },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props;
+const { Content } = await render(page);
+---
+
+<BaseLayout
+  title={page.data.title}
+  description={page.data.description}
+  noindex={page.data.dynamic}
+>
+  <div class="container">
+    <article>
+      <h1>{page.data.title}</h1>
+
+      {page.data.dynamic && (
+        <p class="todo" role="note">
+          本頁的表單與會員流程尚未接上動態層（Cloudflare API），目前僅保留原網址與說明文字。
+        </p>
+      )}
+
+      <div class="prose">
+        <Content />
+      </div>
+    </article>
+  </div>
+</BaseLayout>
+
+<style>
+  .container {
+    padding-block: clamp(2rem, 6vw, 3.5rem);
+  }
+  article {
+    max-width: 48rem;
+  }
+  .todo {
+    padding: 0.75rem 1rem;
+    border-left: 4px solid var(--color-accent);
+    background: var(--color-bg-light);
+    color: var(--color-ink-soft);
+    font-size: var(--text-sm);
+  }
+  .prose :global(h2) {
+    margin-top: 2.5rem;
+  }
+  .prose :global(p),
+  .prose :global(li) {
+    font-size: var(--text-base);
+  }
+  .prose :global(table) {
+    display: block;
+    overflow-x: auto;
+    width: 100%;
+    border-collapse: collapse;
+    font-size: var(--text-sm);
+  }
+  .prose :global(th),
+  .prose :global(td) {
+    padding: 0.5rem 0.75rem;
+    border: 1px solid var(--color-line);
+  }
+  .prose :global(iframe) {
+    max-width: 100%;
+    width: 100%;
+    border: 0;
+  }
+</style>

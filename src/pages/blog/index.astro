@@ -1,0 +1,117 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { allTerms } from '../../lib/taxonomy';
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+const PER_PAGE = 24;
+const latest = posts.slice(0, PER_PAGE);
+const totalPages = Math.ceil(posts.length / PER_PAGE);
+const cates = allTerms('blog-cate')
+  .filter(c => (c.term.count ?? 0) > 0)
+  .sort((a, b) => (b.term.count ?? 0) - (a.term.count ?? 0));
+---
+
+<BaseLayout title="健康知識" description="GCM 上醫預防醫學發展協會的預防醫學、節氣養生與健康促進文章。">
+  <div class="container">
+    <header class="head">
+      <h1>健康知識</h1>
+      <p>共 {posts.length} 篇文章</p>
+    </header>
+
+    {cates.length > 0 && (
+      <nav class="cates" aria-label="文章分類">
+        <ul>
+          {cates.map(c => (
+            <li><a href={`/blog-cate/${c.slug}/`}>{c.term.name}<span>{c.term.count}</span></a></li>
+          ))}
+        </ul>
+      </nav>
+    )}
+
+    <div class="grid">
+      {latest.map(post => (
+        <PostCard
+          href={post.data.legacyPath}
+          title={post.data.title}
+          description={post.data.description}
+          pubDate={post.data.pubDate}
+          heroImage={post.data.heroImage}
+          heroImageAlt={post.data.heroImageAlt}
+        />
+      ))}
+    </div>
+
+    {totalPages > 1 && (
+      <nav class="more" aria-label="更多文章">
+        <a href="/blog/page/2/">看更多文章</a>
+      </nav>
+    )}
+  </div>
+</BaseLayout>
+
+<style>
+  .container {
+    padding-block: clamp(2rem, 6vw, 3.5rem);
+  }
+  .head p {
+    color: var(--color-ink-soft);
+    font-size: var(--text-sm);
+  }
+  .cates ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0 0 2.5rem;
+    padding: 0;
+    list-style: none;
+  }
+  .cates a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.3rem 0.9rem;
+    border: 1px solid var(--color-line);
+    border-radius: 999px;
+    font-size: var(--text-xs);
+    color: var(--color-primary);
+    text-decoration: none;
+  }
+  .cates a:hover {
+    background: var(--color-primary-a10);
+  }
+  .cates span {
+    color: var(--color-ink-muted);
+  }
+  .grid {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: 1fr;
+  }
+  .more {
+    margin-top: 2.5rem;
+    text-align: center;
+  }
+  .more a {
+    display: inline-block;
+    padding: 0.75rem 2rem;
+    border-radius: 999px;
+    background: var(--color-primary);
+    color: var(--color-white);
+    font-size: var(--text-sm);
+    text-decoration: none;
+  }
+  .more a:hover {
+    background: var(--color-primary-dark);
+  }
+
+  @media (min-width: 640px) {
+    .grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (min-width: 1024px) {
+    .grid { grid-template-columns: repeat(3, 1fr); }
+  }
+</style>

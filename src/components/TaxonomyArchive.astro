@@ -1,0 +1,110 @@
+---
+import PostCard from './PostCard.astro';
+
+/* 舊站分類法彙整頁的共用版型。
+ * blog-tag / blog-tag-keyword / blog-tag-theme / blog-fr-doctors 這幾種舊站有網址、
+ * 但 Rank Math 沒收進 sitemap（多半只有一兩篇的薄頁）——網址保留、索引不給，
+ * 由路由層傳 noindex。 */
+interface Item {
+  data: {
+    title: string;
+    description?: string;
+    pubDate: Date;
+    heroImage?: string;
+    heroImageAlt?: string;
+    legacyPath: string;
+  };
+}
+interface Props {
+  heading: string;
+  kicker: string;
+  description?: string;
+  items: Item[];
+}
+const { heading, kicker, description, items } = Astro.props;
+---
+
+<div class="container">
+  <nav class="crumb" aria-label="麵包屑">
+    <ol>
+      <li><a href="/">首頁</a></li>
+      <li><a href="/blog/">健康知識</a></li>
+    </ol>
+  </nav>
+
+  <p class="kicker">{kicker}</p>
+  <h1>{heading}</h1>
+  {description && <p class="desc">{description}</p>}
+  <p class="count">共 {items.length} 篇</p>
+
+  <div class="grid">
+    {items.map(item => (
+      <PostCard
+        href={item.data.legacyPath}
+        title={item.data.title}
+        description={item.data.description}
+        pubDate={item.data.pubDate}
+        heroImage={item.data.heroImage}
+        heroImageAlt={item.data.heroImageAlt}
+      />
+    ))}
+  </div>
+
+  {items.length === 0 && <p class="empty">這個標籤目前沒有文章。<a href="/blog/">回到健康知識</a></p>}
+</div>
+
+<style>
+  .container {
+    padding-block: clamp(2rem, 6vw, 3.5rem);
+  }
+  .crumb ol {
+    display: flex;
+    gap: 0.5rem;
+    margin: 0 0 1.5rem;
+    padding: 0;
+    list-style: none;
+    font-size: var(--text-xs);
+    color: var(--color-ink-soft);
+  }
+  .crumb li + li::before {
+    content: '／';
+    margin-right: 0.5rem;
+    color: var(--color-ink-muted);
+  }
+  .crumb a {
+    color: var(--color-ink-soft);
+    text-decoration: none;
+  }
+  .kicker {
+    margin: 0;
+    font-size: var(--text-xs);
+    color: var(--color-primary);
+    letter-spacing: 0.05em;
+  }
+  h1 {
+    margin-top: 0.25rem;
+  }
+  .desc {
+    color: var(--color-ink-soft);
+  }
+  .count {
+    margin-bottom: 2rem;
+    color: var(--color-ink-muted);
+    font-size: var(--text-sm);
+  }
+  .grid {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: 1fr;
+  }
+  .empty {
+    color: var(--color-ink-soft);
+  }
+
+  @media (min-width: 640px) {
+    .grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (min-width: 1024px) {
+    .grid { grid-template-columns: repeat(3, 1fr); }
+  }
+</style>

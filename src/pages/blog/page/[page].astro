@@ -1,0 +1,86 @@
+---
+import { getCollection } from 'astro:content';
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostCard from '../../../components/PostCard.astro';
+
+/* 分頁是新站新增的路徑（舊站 /blog/page/N/ 不存在），
+ * 不影響網址保留契約；第 1 頁仍由 /blog/ 提供，這裡從第 2 頁起。 */
+export const getStaticPaths: GetStaticPaths = async ({ paginate }) => {
+  const posts = (await getCollection('blog')).sort(
+    (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+  );
+  return paginate(posts, { pageSize: 24 });
+};
+
+const { page } = Astro.props;
+---
+
+<BaseLayout
+  title={`健康知識 第 ${page.currentPage} 頁`}
+  description="GCM 上醫預防醫學發展協會的預防醫學、節氣養生與健康促進文章。"
+  noindex={page.currentPage > 1}
+>
+  <div class="container">
+    <h1>健康知識</h1>
+    <p class="pos">第 {page.currentPage} 頁，共 {page.lastPage} 頁</p>
+
+    <div class="grid">
+      {page.data.map(post => (
+        <PostCard
+          href={post.data.legacyPath}
+          title={post.data.title}
+          description={post.data.description}
+          pubDate={post.data.pubDate}
+          heroImage={post.data.heroImage}
+          heroImageAlt={post.data.heroImageAlt}
+        />
+      ))}
+    </div>
+
+    <nav class="pager" aria-label="分頁導覽">
+      {page.url.prev && <a href={page.url.prev === '/blog' ? '/blog/' : page.url.prev}>上一頁</a>}
+      {page.url.next && <a href={page.url.next}>下一頁</a>}
+    </nav>
+  </div>
+</BaseLayout>
+
+<style>
+  .container {
+    padding-block: clamp(2rem, 6vw, 3.5rem);
+  }
+  .pos {
+    margin-bottom: 2rem;
+    color: var(--color-ink-soft);
+    font-size: var(--text-sm);
+  }
+  .grid {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: 1fr;
+  }
+  .pager {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 2.5rem;
+  }
+  .pager a {
+    padding: 0.6rem 1.5rem;
+    border: 1px solid var(--color-primary);
+    border-radius: 999px;
+    color: var(--color-primary);
+    font-size: var(--text-sm);
+    text-decoration: none;
+  }
+  .pager a:hover {
+    background: var(--color-primary-a10);
+  }
+
+  @media (min-width: 640px) {
+    .grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (min-width: 1024px) {
+    .grid { grid-template-columns: repeat(3, 1fr); }
+  }
+</style>

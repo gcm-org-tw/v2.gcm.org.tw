@@ -57,6 +57,23 @@ if (await exists('.source/urls-from-api.txt')) {
   console.log(`API 清冊補入：${urls.size - before} 條（共 ${api.length} 條）`);
 }
 
+// taxonomy 彙整頁：舊站實測 200 且無 noindex，但 Rank Math 沒收進 sitemap。
+// 網址要留（外部連結可能指過來），索引與否是另一回事——路由層掛 noindex。
+const TAXONOMIES = ['blog-cate', 'blog-tag', 'blog-tag-keyword', 'blog-tag-theme', 'blog-fr-doctors'];
+for (const tax of TAXONOMIES) {
+  const f = `.source/tax/${tax}.json`;
+  if (!await exists(f)) continue;
+  const terms = JSON.parse(await readFile(f, 'utf8'));
+  let n = 0;
+  for (const t of terms) {
+    // 帶 query string 的（如 /?taxonomy=…&term=…）不是永久網址，不列入契約
+    if (!t.link || t.link.includes('?')) continue;
+    if (!urls.has(t.link)) n += 1;
+    urls.add(t.link);
+  }
+  console.log(`taxonomy ${tax} 補入：${n} 條`);
+}
+
 if (await exists('extra-urls.txt')) {
   const extra = (await readFile('extra-urls.txt', 'utf8'))
     .split('\n').map(s => s.trim()).filter(l => l && !l.startsWith('#'));

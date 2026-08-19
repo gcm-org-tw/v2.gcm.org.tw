@@ -1,0 +1,13 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import CollectionIndex from '../../components/CollectionIndex.astro';
+
+const items = (await getCollection('podcast')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<BaseLayout title="Podcast" description="GCM 上醫預防醫學發展協會的 Podcast 節目。">
+  <CollectionIndex heading="Podcast" items={items} />
+</BaseLayout>

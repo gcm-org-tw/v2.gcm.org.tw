@@ -1,0 +1,36 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import { slugFromLegacy } from '../../lib/urls';
+import { cateLabel } from '../../lib/taxonomy';
+
+/* 網址保留：slug 一律取自 frontmatter.legacyPath（＝舊站原網址），
+ * 不從檔名或標題另造。改這裡等於改網址，動之前先看 legacy-urls.txt。 */
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map(post => ({
+    params: { slug: slugFromLegacy(post.data.legacyPath, '/blog/') },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+const taxonomy = post.data.blog_cate.map(slug => ({
+  href: `/blog-cate/${slug}/`,
+  label: cateLabel(slug),
+}));
+---
+
+<ArticleLayout
+  title={post.data.title}
+  description={post.data.description}
+  pubDate={post.data.pubDate}
+  updatedDate={post.data.updatedDate}
+  heroImage={post.data.heroImage}
+  heroImageAlt={post.data.heroImageAlt}
+  breadcrumb={[{ href: '/blog/', label: '健康知識' }]}
+  taxonomy={taxonomy}
+>
+  <Content />
+</ArticleLayout>

@@ -1,0 +1,35 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import { slugFromLegacy } from '../../lib/urls';
+import { label } from '../../lib/taxonomy';
+
+/* 網址保留：舊站口碑頁為 /wom/<slug>/，slug 取自 legacyPath。 */
+export async function getStaticPaths() {
+  const items = await getCollection('wom');
+  return items.map(item => ({
+    params: { slug: slugFromLegacy(item.data.legacyPath, '/wom/') },
+    props: { item },
+  }));
+}
+
+const { item } = Astro.props;
+const { Content } = await render(item);
+const taxonomy = item.data.gcm_supplier_category.map(slug => ({
+  href: `/wom/`,
+  label: label('gcm_supplier_category', slug),
+}));
+---
+
+<ArticleLayout
+  title={item.data.title}
+  description={item.data.description}
+  pubDate={item.data.pubDate}
+  updatedDate={item.data.updatedDate}
+  heroImage={item.data.heroImage}
+  heroImageAlt={item.data.heroImageAlt}
+  breadcrumb={[{ href: '/wom/', label: '口碑推薦' }]}
+  taxonomy={taxonomy}
+>
+  <Content />
+</ArticleLayout>

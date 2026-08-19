@@ -1,0 +1,98 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { allTerms, label } from '../../lib/taxonomy';
+
+/* 網址保留：舊站分類頁為 /blog-cate/<slug>/，一比一沿用。 */
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return allTerms('blog-cate').map(({ slug, term }) => ({
+    params: { slug },
+    props: {
+      term,
+      posts: posts
+        .filter(p => p.data.blog_cate.includes(slug))
+        .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+    },
+  }));
+}
+
+const { term, posts } = Astro.props;
+const { slug } = Astro.params;
+---
+
+<BaseLayout
+  title={label('blog-cate', slug!)}
+  description={term.description || `${term.name}分類下的文章。`}
+>
+  <div class="container">
+    <nav class="crumb" aria-label="麵包屑">
+      <ol>
+        <li><a href="/">首頁</a></li>
+        <li><a href="/blog/">健康知識</a></li>
+      </ol>
+    </nav>
+
+    <h1>{term.name}</h1>
+    {term.description && <p class="desc">{term.description}</p>}
+    <p class="count">共 {posts.length} 篇</p>
+
+    <div class="grid">
+      {posts.map(post => (
+        <PostCard
+          href={post.data.legacyPath}
+          title={post.data.title}
+          description={post.data.description}
+          pubDate={post.data.pubDate}
+          heroImage={post.data.heroImage}
+          heroImageAlt={post.data.heroImageAlt}
+        />
+      ))}
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .container {
+    padding-block: clamp(2rem, 6vw, 3.5rem);
+  }
+  .crumb ol {
+    display: flex;
+    gap: 0.5rem;
+    margin: 0 0 1.5rem;
+    padding: 0;
+    list-style: none;
+    font-size: var(--text-xs);
+    color: var(--color-ink-soft);
+  }
+  .crumb li + li::before {
+    content: '／';
+    margin-right: 0.5rem;
+    color: var(--color-ink-muted);
+  }
+  .crumb a {
+    color: var(--color-ink-soft);
+    text-decoration: none;
+  }
+  .desc {
+    color: var(--color-ink-soft);
+  }
+  .count {
+    margin-bottom: 2rem;
+    color: var(--color-ink-muted);
+    font-size: var(--text-sm);
+  }
+  .grid {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: 1fr;
+  }
+
+  @media (min-width: 640px) {
+    .grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (min-width: 1024px) {
+    .grid { grid-template-columns: repeat(3, 1fr); }
+  }
+</style>

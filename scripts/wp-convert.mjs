@@ -24,6 +24,7 @@ const COLLECTIONS = {
   wom: { dir: 'wom', urlPrefix: '/wom/' },
   activities: { dir: 'activities', urlPrefix: '/activities/' },
   gcm_podcast: { dir: 'podcast', urlPrefix: '/gcm_podcast/' },
+  'gcm-clean-label': { dir: 'clean-label', urlPrefix: '/gcm-clean-label/' },
 };
 
 const TAXONOMIES = ['blog-cate', 'blog-tag', 'blog-tag-keyword', 'blog-tag-theme', 'blog-fr-doctors', 'gcm_supplier_category'];
@@ -83,16 +84,88 @@ const yaml = v => {
   return JSON.stringify(String(v));
 };
 
-// ── taxonomy id → slug ──
+// ── taxonomy id → slug，同時輸出給前端用的 slug → 名稱表 ──
 const taxMap = {};
+const taxOut = {};
 for (const tax of TAXONOMIES) {
   const f = join(SRC, 'tax', `${tax}.json`);
   if (!await exists(f)) continue;
-  taxMap[tax] = new Map(JSON.parse(await readFile(f, 'utf8')).map(t => [t.id, t.slug]));
+  const terms = JSON.parse(await readFile(f, 'utf8'));
+  // WP 的 term slug 是 percent-encoded（中文標籤如 %e9%bb%83%e8%8a%b7%e6%98%95）。
+  // Astro 動態路由比對走解碼後的字串 → 這裡一律先解碼，frontmatter 與 taxonomy.json 兩邊一致。
+  const dec = s => { try { return decodeURIComponent(s); } catch { return s; } };
+  taxMap[tax] = new Map(terms.map(t => [t.id, dec(t.slug)]));
+  taxOut[tax] = Object.fromEntries(terms.map(t => [dec(t.slug), {
+    name: decodeEntities(t.name || ''),
+    description: decodeEntities(t.description || ''),
+    count: t.count ?? 0,
+    link: t.link ? new URL(t.link).pathname : undefined,
+  }]));
+}
+if (Object.keys(taxOut).length) {
+  await mkdir('src/data', { recursive: true });
+  await writeFile('src/data/taxonomy.json', JSON.stringify(taxOut, null, 2));
+  console.log(`taxonomy → src/data/taxonomy.json（${Object.keys(taxOut).length} 個分類法）`);
 }
 const mediaUsed = await exists(join(SRC, 'media-used.json'))
   ? JSON.parse(await readFile(join(SRC, 'media-used.json'), 'utf8'))
   : {};
+
+/* ── WordPress page 型（25 頁）──
+ * 內容型頁面逐字轉錄；動態型（會員/報名/投稿/申請/捐款流程）只保留原文與網址，
+ * 表單本身之後接 Cloudflare 動態層 → frontmatter 標 dynamic: true 供路由層辨識。
+ * 首頁 '/' 不進 collection：那是新站設計的重點，等用戶給網站地圖再做，
+ * 由 src/pages/index.astro 提供。 */
+const DYNAMIC_PAGES = new Set([
+  '/register/', '/register-step-2/', '/success-registered/', '/members/',
+  '/profile-updater/', '/register-infor-renew/', '/mem_pwd_reset/',
+  '/post_adding/', '/post_update/', '/edit_activity/', '/edit_chat/',
+  '/application-form/', '/staffonly/',
+]);
+// 這幾條由專屬路由提供，不進 pages collection
+const SKIP_PAGES = new Set(['/', '/blog/']);
+
+async function convertPages() {
+  const file = join(SRC, 'pages.json');
+  if (!await exists(file)) { console.log('跳過 pages（尚未匯出）'); return; }
+  const items = JSON.parse(await readFile(file, 'utf8'));
+  const outDir = join(DEST, 'pages');
+  await rm(outDir, { recursive: true, force: true });
+  await mkdir(outDir, { recursive: true });
+
+  let n = 0;
+  for (const item of items) {
+    const path = new URL(item.link).pathname;
+    const decoded = decodeURIComponent(path);
+    if (SKIP_PAGES.has(decoded)) continue;
+
+    const title = decodeEntities(item.title?.rendered || '').trim();
+    const body = toMarkdown(item.content?.rendered || '');
+    const isDynamic = DYNAMIC_PAGES.has(decoded);
+
+    const fm = [
+      '---',
+      `title: ${yaml(title)}`,
+      `pubDate: ${yaml(item.date_gmt ? `${item.date_gmt}Z` : item.date)}`,
+      item.modified_gmt && item.modified_gmt !== item.date_gmt
+        ? `updatedDate: ${yaml(`${item.modified_gmt}Z`)}`
+        : null,
+      `legacyId: ${item.id}`,
+      `legacyPath: ${yaml(path)}`,
+      isDynamic ? 'dynamic: true' : null,
+      isDynamic ? '# 動態流程頁：表單/會員邏輯之後接 Cloudflare 動態層，這裡先保住網址與原文' : null,
+      '# 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）',
+      'sourceVerbatim: true',
+      '---',
+    ].filter(Boolean).join('\n') + '\n\n';
+
+    const slug = decoded.replace(/^\//, '').replace(/\/$/, '');
+    await writeFile(join(outDir, `${encodeURIComponent(slug)}.md`), fm + body + '\n');
+    n += 1;
+  }
+  console.log(`pages → ${outDir}：${n} 頁（其中動態型 ${items.filter(i => DYNAMIC_PAGES.has(decodeURIComponent(new URL(i.link).pathname))).length} 頁）`);
+}
+await convertPages();
 
 const report = [];
 for (const [type, cfg] of Object.entries(COLLECTIONS)) {
@@ -125,8 +198,12 @@ for (const [type, cfg] of Object.entries(COLLECTIONS)) {
       '---',
       `title: ${yaml(title)}`,
       description ? `description: ${yaml(description)}` : null,
-      `pubDate: ${yaml(item.date)}`,
-      item.modified && item.modified !== item.date ? `updatedDate: ${yaml(item.modified)}` : null,
+      // WP 的 date 是站台當地時間（無時區標記），date_gmt 才明確 → 一律用 GMT 版本加 Z，
+      // 否則建置機在 UTC 會把時間整批偏移 8 小時。
+      `pubDate: ${yaml(item.date_gmt ? `${item.date_gmt}Z` : item.date)}`,
+      item.modified_gmt && item.modified_gmt !== item.date_gmt
+        ? `updatedDate: ${yaml(`${item.modified_gmt}Z`)}`
+        : null,
       hero?.source_url ? `heroImage: ${yaml(hero.source_url.replace(SITE, ''))}` : null,
       hero?.alt ? `heroImageAlt: ${yaml(hero.alt)}` : null,
       ...TAXONOMIES
@@ -137,8 +214,7 @@ for (const [type, cfg] of Object.entries(COLLECTIONS)) {
       '# 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）',
       'sourceVerbatim: true',
       '---',
-      '',
-    ].filter(Boolean).join('\n');
+    ].filter(Boolean).join('\n') + '\n\n';   // ⚠ 這裡不能靠 filter 後的空字串補行，會被 filter(Boolean) 吃掉
 
     // 檔名用 encodeURIComponent 保證中文 slug 也能落地且可逆
     const fileName = `${encodeURIComponent(slug)}.md`;

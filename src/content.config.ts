@@ -40,9 +40,30 @@ const activities = defineCollection({
   schema: z.object(legacyBase),
 });
 
+/* WordPress page 型：內容型逐字轉錄；動態型（dynamic: true）之後接 Cloudflare 動態層。 */
+const pages = defineCollection({
+  loader: glob({ base: './src/content/pages', pattern: '**/*.md' }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string().optional(),
+    pubDate: z.coerce.date(),
+    updatedDate: z.coerce.date().optional(),
+    legacyId: z.number(),
+    legacyPath: z.string(),
+    dynamic: z.boolean().default(false),
+    sourceVerbatim: z.boolean().default(false),
+  }),
+});
+
+/* GCM 潔淨標章認證（舊站 CPT gcm-clean-label，網址 /gcm-clean-label/<slug>/） */
+const cleanLabel = defineCollection({
+  loader: glob({ base: './src/content/clean-label', pattern: '**/*.md' }),
+  schema: z.object(legacyBase),
+});
+
 const podcast = defineCollection({
   loader: glob({ base: './src/content/podcast', pattern: '**/*.md' }),
   schema: z.object(legacyBase),
 });
 
-export const collections = { blog, wom, activities, podcast };
+export const collections = { blog, wom, activities, podcast, pages, cleanLabel };

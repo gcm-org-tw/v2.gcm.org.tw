@@ -1,0 +1,90 @@
+---
+/* 導覽結構是暫定的——待用戶提供正式網站地圖後重排。
+ * 這裡先放舊站實際存在、且不屬於動態功能的入口，避免產出死連結。 */
+const nav = [
+  { href: '/about/', label: '關於協會' },
+  { href: '/blog/', label: '健康知識' },
+  { href: '/wom/', label: '口碑推薦' },
+  { href: '/activities/', label: '活動' },
+  { href: '/gcm_podcast/', label: 'Podcast' },
+  { href: '/contact/', label: '聯絡我們' },
+];
+const path = Astro.url.pathname;
+---
+
+<header>
+  <div class="container bar">
+    <a class="brand" href="/">
+      <span class="mark" aria-hidden="true">GCM</span>
+      <span class="name">上醫預防醫學發展協會</span>
+    </a>
+    <nav aria-label="主要導覽">
+      <ul>
+        {nav.map(item => (
+          <li>
+            <a href={item.href} aria-current={path.startsWith(item.href) ? 'page' : undefined}>
+              {item.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<style>
+  header {
+    border-bottom: 1px solid var(--color-line);
+    background: var(--color-white);
+  }
+  .bar {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    padding-block: 1rem;
+  }
+  .brand {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    color: var(--color-primary);
+    text-decoration: none;
+    font-weight: 700;
+  }
+  .mark {
+    font-size: var(--text-lg);
+    letter-spacing: 0.08em;
+  }
+  .name {
+    font-size: var(--text-sm);
+    color: var(--color-ink-soft);
+  }
+  nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 1.25rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  nav a {
+    display: inline-block;
+    padding-block: 0.25rem;
+    font-size: var(--text-sm);
+    color: var(--color-text);
+    text-decoration: none;
+  }
+  nav a:hover,
+  nav a[aria-current='page'] {
+    color: var(--color-primary);
+    text-decoration: underline;
+  }
+
+  @media (min-width: 768px) {
+    .bar {
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+    }
+  }
+</style>

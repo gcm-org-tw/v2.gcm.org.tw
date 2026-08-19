@@ -1,0 +1,56 @@
+---
+/* 頁尾連結沿用舊站既有頁面（網址保留契約內），待正式網站地圖確認後調整。 */
+const links = [
+  { href: '/about/', label: '關於協會' },
+  { href: '/gcm-clean-label-潔淨標章/', label: 'GCM 潔淨標章' },
+  { href: '/醫友健賞團/', label: '醫友健賞團' },
+  { href: '/donate/', label: '捐款支持' },
+  { href: '/disclaimer/', label: '免責聲明' },
+  { href: '/隱私權政策/', label: '隱私權政策' },
+];
+const year = new Date().getFullYear();
+---
+
+<footer>
+  <div class="container inner">
+    <nav aria-label="頁尾導覽">
+      <ul>
+        {links.map(l => <li><a href={l.href}>{l.label}</a></li>)}
+      </ul>
+    </nav>
+    <p class="copy">© {year} 社團法人台灣上醫預防醫學發展協會（GCM）</p>
+  </div>
+</footer>
+
+<style>
+  footer {
+    margin-top: clamp(3rem, 8vw, 5rem);
+    border-top: 1px solid var(--color-line);
+    background: var(--color-bg-light);
+  }
+  .inner {
+    padding-block: clamp(2rem, 5vw, 3rem);
+  }
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.5rem;
+    margin: 0 0 1rem;
+    padding: 0;
+    list-style: none;
+  }
+  a {
+    font-size: var(--text-sm);
+    color: var(--color-text);
+    text-decoration: none;
+  }
+  a:hover {
+    color: var(--color-primary);
+    text-decoration: underline;
+  }
+  .copy {
+    margin: 0;
+    font-size: var(--text-xs);
+    color: var(--color-ink-soft);
+  }
+</style>
