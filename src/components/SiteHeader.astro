@@ -1,15 +1,36 @@
 ---
-/* 導覽結構是暫定的——待用戶提供正式網站地圖後重排。
- * 這裡先放舊站實際存在、且不屬於動態功能的入口，避免產出死連結。 */
+/* 選單結構與用語**取自舊站本尊的導覽列**（從舊站任一頁的 nav 擷取，非自行命名）：
+ *   醫友活動 /activities/、醫友健賞團 /醫友健賞團/、醫友體驗商品大賞 /wom/、
+ *   醫友招募 /醫友招募/、醫友專欄 /blog/、潔淨標章 /gcm-clean-label/、
+ *   Gnews /blog-cate/gcm-news/、關於協會 /about/、協會成員 /member/、
+ *   媒體報導 /媒體報導/、聯絡我們 /contact/
+ * 註冊/登入、忘記密碼、發表文章屬動態層，待 Cloudflare API 接上再放回選單。
+ * 用戶會給正式網站地圖，屆時以那份為準。 */
 const nav = [
-  { href: '/about/', label: '關於協會' },
-  { href: '/blog/', label: '健康知識' },
-  { href: '/wom/', label: '口碑推薦' },
-  { href: '/activities/', label: '活動' },
-  { href: '/gcm_podcast/', label: 'Podcast' },
-  { href: '/contact/', label: '聯絡我們' },
+  {
+    label: '醫友健賞團',
+    href: '/醫友健賞團/',
+    children: [
+      { href: '/activities/', label: '醫友活動' },
+      { href: '/wom/', label: '醫友體驗商品大賞' },
+      { href: '/醫友招募/', label: '醫友招募' },
+    ],
+  },
+  { label: '醫友專欄', href: '/blog/' },
+  { label: '潔淨標章', href: '/gcm-clean-label/' },
+  { label: 'Gnews', href: '/blog-cate/gcm-news/' },
+  {
+    label: '關於協會',
+    href: '/about/',
+    children: [
+      { href: '/member/', label: '協會成員' },
+      { href: '/媒體報導/', label: '媒體報導' },
+      { href: '/contact/', label: '聯絡我們' },
+    ],
+  },
 ];
-const path = Astro.url.pathname;
+const path = decodeURIComponent(Astro.url.pathname);
+const isCurrent = (href: string) => path === href || (href !== '/' && path.startsWith(href));
 ---
 
 <header>
@@ -19,12 +40,21 @@ const path = Astro.url.pathname;
       <span class="name">上醫預防醫學發展協會</span>
     </a>
     <nav aria-label="主要導覽">
-      <ul>
+      <ul class="top">
         {nav.map(item => (
           <li>
-            <a href={item.href} aria-current={path.startsWith(item.href) ? 'page' : undefined}>
+            <a href={item.href} aria-current={isCurrent(item.href) ? 'page' : undefined}>
               {item.label}
             </a>
+            {item.children && (
+              <ul class="sub">
+                {item.children.map(c => (
+                  <li>
+                    <a href={c.href} aria-current={isCurrent(c.href) ? 'page' : undefined}>{c.label}</a>
+                  </li>
+                ))}
+              </ul>
+            )}
           </li>
         ))}
       </ul>
@@ -59,32 +89,77 @@ const path = Astro.url.pathname;
     font-size: var(--text-sm);
     color: var(--color-ink-soft);
   }
-  nav ul {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.25rem 1.25rem;
+  ul {
     margin: 0;
     padding: 0;
     list-style: none;
   }
-  nav a {
+  .top {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 1.25rem;
+  }
+  .top > li > a {
     display: inline-block;
     padding-block: 0.25rem;
     font-size: var(--text-sm);
     color: var(--color-text);
     text-decoration: none;
   }
-  nav a:hover,
-  nav a[aria-current='page'] {
+  .top > li > a:hover,
+  .top > li > a[aria-current='page'] {
     color: var(--color-primary);
     text-decoration: underline;
   }
+  /* 手機一律展開子項；桌機才收成下拉，避免沒有 JS 就點不到子頁 */
+  .sub {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 1rem;
+    padding-left: 1rem;
+  }
+  .sub a {
+    font-size: var(--text-xs);
+    color: var(--color-ink-soft);
+    text-decoration: none;
+  }
+  .sub a:hover,
+  .sub a[aria-current='page'] {
+    color: var(--color-primary);
+  }
 
-  @media (min-width: 768px) {
+  @media (min-width: 1024px) {
     .bar {
       flex-direction: row;
       align-items: center;
       justify-content: space-between;
+    }
+    .top > li {
+      position: relative;
+    }
+    .sub {
+      position: absolute;
+      z-index: 10;
+      top: 100%;
+      left: 0;
+      display: none;
+      min-width: 12rem;
+      flex-direction: column;
+      gap: 0;
+      padding: 0.5rem 0;
+      border: 1px solid var(--color-line);
+      border-radius: 0.375rem;
+      background: var(--color-white);
+      box-shadow: var(--shadow-card);
+    }
+    .top > li:hover .sub,
+    .top > li:focus-within .sub {
+      display: flex;
+    }
+    .sub li a {
+      display: block;
+      padding: 0.4rem 1rem;
+      white-space: nowrap;
     }
   }
 </style>

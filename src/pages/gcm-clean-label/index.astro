@@ -1,0 +1,31 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import CollectionIndex from '../../components/CollectionIndex.astro';
+
+/* 舊站導覽列的「潔淨標章」指向這裡（/gcm-clean-label/），
+ * 與內容頁 /gcm-clean-label-潔淨標章/（申請說明）是兩條不同網址。 */
+const items = (await getCollection('cleanLabel')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<BaseLayout title="潔淨標章" description="通過 GCM CLEAN LABEL 潔淨標章認證的產品。">
+  <CollectionIndex
+    heading="潔淨標章"
+    intro="通過 GCM CLEAN LABEL 認證的產品。"
+    items={items}
+  />
+  <div class="container">
+    <p class="apply"><a href="/gcm-clean-label-潔淨標章/">加入 GCM CLEAN LABEL 潔淨標章 →</a></p>
+  </div>
+</BaseLayout>
+
+<style>
+  .apply {
+    padding-bottom: clamp(2rem, 6vw, 3rem);
+  }
+  .apply a {
+    font-size: var(--text-sm);
+  }
+</style>

@@ -82,6 +82,11 @@ if (await exists('extra-urls.txt')) {
   console.log(`人工補充補入：${urls.size - before} 條`);
 }
 
+/* review CPT（4,144 筆）單頁完全沒有內文，去留待用戶決定 →
+ * 不進契約，改由 pending-urls.txt 追蹤（check-urls.mjs 每次會印出條數）。
+ * 用戶決定後：保留就把這段拿掉、轉址就寫進 redirects.json、不留就進 legacy-urls-retired.txt。 */
+for (const u of [...urls]) if (new URL(u).pathname.startsWith('/review/')) urls.delete(u);
+
 const sorted = [...urls].sort();
 const header = [
   '# 網址保留契約 —— 舊站（WordPress）所有對外網址，改版後一條都不能斷。',

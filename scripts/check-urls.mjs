@@ -20,6 +20,7 @@ const argVal = (n, d) => (args.includes(n) ? args[args.indexOf(n) + 1] : d);
 const DIST = argVal('--dist', 'dist');
 const CONTRACT = argVal('--contract', 'legacy-urls.txt');
 const RETIRED = 'legacy-urls-retired.txt';
+const PENDING = 'pending-urls.txt';   // 舊站有、但去留未經用戶決定的網址
 const REDIRECTS = 'redirects.json';
 
 async function exists(p) { try { await access(p); return true; } catch { return false; } }
@@ -93,10 +94,16 @@ for (const p of contract) {
   missing.push(p);
 }
 
+const pending = await readList(PENDING);
+
 console.log('===== 網址保留契約 =====');
 console.log(`契約網址：${contract.length} 條`);
 console.log(`dist 產出：${built.size} 條`);
 console.log(`明示 301：${redirectFrom.size} 條　用戶同意下架：${retired.size} 條`);
+if (pending.length) {
+  // 待決不算違規（還沒進契約），但每次都要看得見，免得默默消失
+  console.log(`\n⚠ 待用戶決定去留：${pending.length} 條（見 ${PENDING} 檔頭說明）`);
+}
 
 if (missing.length) {
   console.error(`\n✗ 有 ${missing.length} 條舊網址在新站消失（前 50 條）：`);

@@ -6,3 +6,4 @@
 /gcm_podcast/
 /locations.kml
 /feed/
+/gcm-clean-label/

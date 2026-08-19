@@ -89,7 +89,7 @@ per_page=100 直接回 503。實測要 `per_page=20` + `_fields` 收斂 + 800ms 
 | `activities` | 2 | `/activities/<slug>/` | `src/pages/activities/[...slug].astro` |
 | `gcm_podcast` | 3 | `/gcm_podcast/<slug>/` | `src/pages/gcm_podcast/[...slug].astro` |
 | `blog-cate` | 10 | `/blog-cate/<slug>/` | `src/pages/blog-cate/[slug].astro` |
-| `review` | 4,144 | 無對外網址 | 未進 collection，屬動態層資料 |
+| `review` | 4,144 | `/review/<slug>/`（**有**對外網址，200） | 待決 → `pending-urls.txt` |
 
 ## 現況（2026-08-19）
 
@@ -108,7 +108,19 @@ GitHub Pages 的 repo 與站台都是 1GB 量級的軟上限 → **放不進去*
 
 先跑 `node scripts/mirror-images.mjs --out <路徑>` 把檔案抓到本機保存，落點確定後再上傳。
 
-### 2. 其他
+### 2. review CPT 4,144 頁怎麼處理（待用戶決定）
+
+先前判斷「無對外網址」是錯的：`/review/體驗心得-10514/`、`/review/Review-1564/` 實測 **200 且無 noindex**。
+但單頁**完全沒有內文**——只有自動產生的標題加上選單、合作夥伴、頁尾；評論內容只在列表情境
+由 JetEngine 渲染，而 WP REST 沒吐出對應欄位（`acf` 回空陣列），本機只拿得到標題與日期。
+
+選項：**A** 產 4,144 個空殼 + noindex（站台 3,322 → 7,466 頁）／**B** 301 到 `/wom/`（建議）／**C** 讓它 404。
+
+決定前不進契約，改由 `pending-urls.txt` 追蹤，`check-urls.mjs` 每次執行都會印出條數。
+
+⚠ 若動態層要用到這 4,144 筆的**實際內容**，得從 WP 後台匯出或把 ACF 欄位開進 REST——REST 目前拿不到。
+
+### 3. 其他
 
 - [ ] 首頁與內容型頁面的版型（等用戶提供正式網站地圖與發展方向）
 - [ ] 動態頁面（13 頁）的 Cloudflare 端點契約
