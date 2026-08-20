@@ -253,7 +253,9 @@ const services = [
     flex: 1;
   }
   .motto {
-    margin: 0;
+    /* 只往下移，不動其他：頂緣壓到底圖 GCM 浮水印的上緣以下
+     *（實測底圖 2500×1200，浮水印上緣約在高度 10%；hero 高 88vh，10vh 約落在 11%）。 */
+    margin: 10vh 0 0;
     padding: 0 0 0 1.25rem;
     border-left: 4px solid var(--color-white-a20);
   }
