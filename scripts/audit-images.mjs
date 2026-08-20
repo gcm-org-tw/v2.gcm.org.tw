@@ -9,6 +9,9 @@
  * 這支拿 compare-old-new.mjs 存下來的**完整**舊站圖片清單（oldImgList）當基準，
  * 逐張比對鏡像，列出缺的。缺的清單餵給 fetch 腳本補抓、再 r2-upload 上傳。
  *
+ * 舊站自己已經失效的圖（實測 301 導回首頁、檔案不存在）記在 .source/dead-images.txt，
+ * 分開列、不算缺漏——那不是我們搬丟的，補不回來也不該讓守門永遠是紅的。
+ *
  * 用法：node scripts/audit-images.mjs [--out missing.txt]
  */
 import { readFile, writeFile, access } from 'node:fs/promises';
@@ -25,10 +28,16 @@ const all = new Set();
 for (const [, v] of withList) for (const f of v.oldImgList) all.add(f);
 
 const exists = async p => { try { await access(p); return true; } catch { return false; } };
+const dead = new Set(
+  (await readFile('.source/dead-images.txt', 'utf8').catch(() => ''))
+    .split('\n').map(l => l.trim()).filter(Boolean)
+);
 const missing = [];
+const deadHit = [];
 for (const f of [...all].sort()) {
   const rel = `/wp-content/uploads/${f}`;
-  if (!await exists(join('.source/uploads', rel))) missing.push(rel);
+  if (await exists(join('.source/uploads', rel))) continue;
+  if (dead.has(rel)) deadHit.push(rel); else missing.push(rel);
 }
 
 console.log('===== 舊站圖片完整對帳 =====');
@@ -38,6 +47,7 @@ if (withList.length < pages.length) {
 }
 console.log(`舊站引用到的不重複圖片：${all.size} 張`);
 console.log(`鏡像沒有的：${missing.length} 張`);
+console.log(`舊站本身已失效、不算缺漏：${deadHit.length} 張（.source/dead-images.txt）`);
 await writeFile(OUT, missing.join('\n') + (missing.length ? '\n' : ''));
 console.log(`缺漏清單 → ${OUT}`);
 if (missing.length) process.exitCode = 1;

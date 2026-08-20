@@ -17,7 +17,21 @@
     "wp:export": "node scripts/wp-export.mjs",
     "wp:convert": "node scripts/wp-convert.mjs",
     "check:links": "node scripts/check-links.mjs",
-    "check:live": "node scripts/check-live-urls.mjs"
+    "check:live": "node scripts/check-live-urls.mjs",
+    "verify": "node scripts/check-design.mjs && node scripts/check-content.mjs && node scripts/check-urls.mjs && node scripts/check-links.mjs && node scripts/r2-verify.mjs",
+    "check:r2": "node scripts/r2-verify.mjs",
+    "check:images": "node scripts/audit-images.mjs",
+    "diff": "node scripts/compare-old-new.mjs",
+    "diff:report": "node scripts/compare-report.mjs",
+    "audit:urls": "node scripts/audit-urls.mjs",
+    "wp:wom": "node scripts/wp-wom.mjs",
+    "wp:reviews": "node scripts/wp-reviews.mjs",
+    "wp:authors": "node scripts/wp-authors.mjs",
+    "wp:recruit": "node scripts/wp-recruit.mjs",
+    "wp:jetengine": "node scripts/wp-jetengine-content.mjs",
+    "url:contract": "node scripts/build-url-contract.mjs",
+    "url:redirects": "node scripts/build-review-redirects.mjs",
+    "r2:upload": "node scripts/r2-upload.mjs"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.2.0",
