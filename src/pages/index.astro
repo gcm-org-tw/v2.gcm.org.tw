@@ -54,6 +54,14 @@ const portalLinks = [
 
 const upload = (file: string) => assetUrl(`/wp-content/uploads/${file}`);
 
+/* 首頁 hero 的背景圖。舊站把它放在 Elementor 產生的 CSS 檔裡（post-14771.css），
+ * HTML 上完全看不到——2026-08-19 的新舊對照只掃 HTML，所以整張大圖漏掉沒發現。
+ * 舊站的兩個斷點：預設 2500X1200.png（center center / cover），
+ * ≤1024px 換成 GCM-首頁首圖…（background-position 84% 1px、min-height 62vh）。 */
+// 值要連 url() 一起帶，define:vars 只是原樣代入；只給網址會變成不合法的 background-image
+const heroWide = `url('${upload('2500X1200.png')}')`;
+const heroNarrow = `url('${upload('GCM-首頁首圖_20231204_小-R.jpg')}')`;
+
 const posts = (await getCollection('blog')).sort(
   (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
 );
@@ -219,11 +227,23 @@ const services = [
   </section>
 </BaseLayout>
 
-<style>
+<style define:vars={{ heroWide, heroNarrow }}>
   .hero {
     padding-block: clamp(3rem, 10vw, 6rem);
-    background: var(--color-primary);
+    background-color: var(--color-primary);
+    background-image: linear-gradient(var(--color-primary-a60), var(--color-primary-a60)), var(--heroWide);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
     color: var(--color-white);
+  }
+  @media (max-width: 1024px) {
+    .hero {
+      /* 舊站在這個斷點換另一張圖，位置也不同 */
+      background-image: linear-gradient(var(--color-primary-a60), var(--color-primary-a60)), var(--heroNarrow);
+      background-position: 84% 1px;
+      min-height: 62vh;
+    }
   }
   .motto {
     margin: 0 0 1.5rem;

@@ -78,6 +78,44 @@ function region(html, isNew) {
   return s.slice(from, end);
 }
 
+/* CSS 檔跨頁共用，抓一次就好 */
+const cssCache = new Map();
+async function cssImages(url) {
+  if (cssCache.has(url)) return cssCache.get(url);
+  const { html } = await get(url);
+  const found = [...html.matchAll(/url\(\s*['"]?([^'")]+)/g)]
+    .map(m => m[1])
+    .filter(u => u.includes('/wp-content/uploads/') && !u.includes('/google-fonts/'))
+    .map(u => decodeURIComponent(u.split('?')[0]).split('/wp-content/uploads/')[1]);
+  const set = [...new Set(found)];
+  cssCache.set(url, set);
+  return set;
+}
+
+/** 頁面上所有 CSS 來源的背景圖：外部 <link>、<style> 區塊、style="" 屬性 */
+async function backgroundImages(html, base) {
+  const out = new Set();
+  const inline = [
+    ...[...html.matchAll(/<style[^>]*>([\s\S]*?)<\/style>/g)].map(m => m[1]),
+    ...[...html.matchAll(/style="([^"]*)"/g)].map(m => m[1]),
+  ].join('\n');
+  for (const m of inline.matchAll(/url\(\s*['"]?([^'")]+)/g)) {
+    const u = m[1];
+    if (u.includes('/wp-content/uploads/') && !u.includes('/google-fonts/')) {
+      out.add(decodeURIComponent(u.split('?')[0]).split('/wp-content/uploads/')[1]);
+    }
+  }
+  const links = [...html.matchAll(/<link[^>]+href=['"]([^'"]+\.css[^'"]*)['"]/g)]
+    .map(m => m[1].replace(/&#0?38;/g, '&'));
+  for (const href of links) {
+    try {
+      const abs = href.startsWith('http') ? href : new URL(href, base).href;
+      for (const f of await cssImages(abs)) out.add(f);
+    } catch { /* 壞掉的 href 略過 */ }
+  }
+  return [...out];
+}
+
 const stripPath = u => {
   try { return decodeURIComponent(new URL(u, OLD).pathname); } catch { return u; }
 };
@@ -135,6 +173,9 @@ async function worker() {
   const n = await get(NEW + enc(path));
   const om = metrics(region(o.html, false));
   const nm = metrics(region(n.html, true));
+  // 背景圖併進圖片清單——不然整個 hero 不見了也驗不出來
+  for (const f of await backgroundImages(o.html, OLD)) if (!om.imgs.includes(f)) om.imgs.push(f);
+  for (const f of await backgroundImages(n.html, NEW)) if (!nm.imgs.includes(f)) nm.imgs.push(f);
 
   const missingImgs = om.imgs.filter(f => !nm.imgs.includes(f));
   const missingLinks = om.links.filter(l => !nm.links.includes(l));
