@@ -5,7 +5,7 @@ import TableOfContents from '../../components/TableOfContents.astro';
 import RelatedPosts from '../../components/RelatedPosts.astro';
 import AuthorCard from '../../components/AuthorCard.astro';
 import { slugFromLegacy } from '../../lib/urls';
-import { cateLabel } from '../../lib/taxonomy';
+import { cateLabel, label } from '../../lib/taxonomy';
 
 /* 網址保留：slug 一律取自 frontmatter.legacyPath（＝舊站原網址），
  * 不從檔名或標題另造。改這裡等於改網址，動之前先看 legacy-urls.txt。 */
@@ -19,10 +19,15 @@ export async function getStaticPaths() {
 
 const { post, all } = Astro.props;
 const { Content, headings } = await render(post);
-const taxonomy = post.data.blog_cate.map(slug => ({
-  href: `/blog-cate/${slug}/`,
-  label: cateLabel(slug),
-}));
+/* 舊站文章頁底下是「分類：… 標籤：… 作者：…」三行。先前只做了分類，
+ * 標籤三種分類法（blog_tag / blog_tag_theme / blog_tag_keyword）全部沒列——
+ * 2026-08-20 對照顯示光是 /blog-tag/ 的連結就在 363 篇文章上缺席。 */
+const taxonomy = [
+  ...post.data.blog_cate.map(slug => ({ href: `/blog-cate/${slug}/`, label: cateLabel(slug) })),
+  ...post.data.blog_tag.map(slug => ({ href: `/blog-tag/${slug}/`, label: label('blog-tag', slug) })),
+  ...post.data.blog_tag_theme.map(slug => ({ href: `/blog-tag-theme/${slug}/`, label: label('blog-tag-theme', slug) })),
+  ...post.data.blog_tag_keyword.map(slug => ({ href: `/blog-tag-keyword/${slug}/`, label: label('blog-tag-keyword', slug) })),
+];
 ---
 
 <ArticleLayout

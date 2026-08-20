@@ -25,7 +25,8 @@ const lines = (s?: string) => (s ? s.split('\n').map(l => l.trim()).filter(Boole
     <div class="body">
       <p class="name">
         {shownRole && <span class="role">{shownRole}</span>}
-        {shownName}
+        {/* 舊站文章頁的作者是連到 /author/<id>/ 的，對照顯示這條連結在 268 篇上缺席 */}
+        {authorId != null ? <a href={`/author/${authorId}/`}>{shownName}</a> : shownName}
       </p>
       {lines(record?.specialty).map(l => <p class="line">{l}</p>)}
       {record?.career && (
@@ -67,6 +68,14 @@ const lines = (s?: string) => (s ? s.split('\n').map(l => l.trim()).filter(Boole
     margin-right: 0.5rem;
     color: var(--color-primary);
     font-size: var(--text-sm);
+  }
+  .name a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .name a:hover {
+    color: var(--color-primary);
+    text-decoration: underline;
   }
   .label {
     margin: 0.75rem 0 0.25rem;
