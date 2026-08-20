@@ -252,44 +252,17 @@ const services = [
     justify-content: space-between;
     flex: 1;
   }
-  /* 兩個硬限制（用戶 2026-08-20）：標語頂緣不得高於底圖 GCM 浮水印的上緣，
-   * 也不得橫向蓋到 GCM。實測底圖 2500×1200，浮水印上緣約在高度 10%、左緣約在寬度 28%
-   * （局部對比法量出來的）。背景是 cover + center，桌機的寬高比大於底圖時靠寬度貼齊，
-   * 所以底圖的橫向百分比可以直接當視窗百分比用。
-   *
-   * ⚠ 關鍵：hero 不能用一般的置中 .container。那個容器是 max-width 72rem 置中，
-   *   視窗每寬 1px 它的左緣就右移 0.5px，而 GCM 左緣只右移 0.28px——視窗越寬，
-   *   文字與 GCM 的空隙越小，寬螢幕必定相撞。所以 hero 這一段改用視窗比例的內距，
-   *   左緣固定在 10vw，跟 GCM 的 28vw 之間永遠留著 18vw。 */
-  .hero .container {
-    max-width: none;
-    padding-inline: 10vw;
-  }
   .motto {
-    margin: 10vh 0 0;
+    margin: 0;
     padding: 0 0 0 1.25rem;
     border-left: 4px solid var(--color-white-a20);
-    max-width: 17vw;
   }
   .motto p {
-    /* 字級同時受階梯與可用寬度限制，窄螢幕自動縮，才不會擠到 GCM */
-    font-size: min(var(--text-2xl), 3vw);
+    margin: 0;
+    font-size: var(--text-2xl);
+    font-weight: 700;
+    line-height: 1.4;
   }
-
-  @media (max-width: 1024px) {
-    /* 這個斷點換另一張底圖（GCM 首圖），浮水印位置不同 → 上面的限制不適用 */
-    .hero .container {
-      padding-inline: clamp(1rem, 4vw, 2rem);
-    }
-    .motto {
-      margin-top: 2rem;
-      max-width: none;
-    }
-    .motto p {
-      font-size: var(--text-2xl);
-    }
-  }
-
   .lede {
     /* 貼著底邊、落在白袍上；不置中，維持左對齊與標語同一條軸線 */
     max-width: 44rem;
