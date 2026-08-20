@@ -96,10 +96,6 @@ const services = [
       <p class="lede">
         「中華民國上醫預防醫學發展協會」致力於提高公眾對健康生活飲食與正確預防醫學觀念的認識，同時通過舉辦中西醫學研討會來促進各會員之間情感交流，以提振國家預防醫學發展。
       </p>
-      <div class="cta">
-        <a class="primary" href="/about/">關於協會</a>
-        <a class="ghost" href="/blog/">健康知識</a>
-      </div>
     </div>
   </section>
 
@@ -228,8 +224,13 @@ const services = [
 </BaseLayout>
 
 <style define:vars={{ heroWide, heroNarrow }}>
+  /* 背景圖是一排醫師的合照，人臉大約落在中段偏下。
+   * 文字若照一般 hero 置中排，整段會壓在臉上（用戶 2026-08-20 指出）。
+   * 作法：容器撐出足夠高度，標語靠上、說明靠下貼近白袍，中間讓給人臉。 */
   .hero {
-    padding-block: clamp(3rem, 10vw, 6rem);
+    display: flex;
+    min-height: min(46rem, 88vh);
+    padding-block: clamp(2rem, 5vw, 3rem);
     background-color: var(--color-primary);
     background-image: linear-gradient(var(--color-primary-a60), var(--color-primary-a60)), var(--heroWide);
     background-position: center center;
@@ -245,11 +246,16 @@ const services = [
       min-height: 62vh;
     }
   }
+  .hero .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1;
+  }
   .motto {
-    margin: 0 0 1.5rem;
-    padding: 0;
+    margin: 0;
+    padding: 0 0 0 1.25rem;
     border-left: 4px solid var(--color-white-a20);
-    padding-left: 1.25rem;
   }
   .motto p {
     margin: 0;
@@ -258,33 +264,12 @@ const services = [
     line-height: 1.4;
   }
   .lede {
+    /* 貼著底邊、落在白袍上；不置中，維持左對齊與標語同一條軸線 */
     max-width: 44rem;
+    margin: 0;
     color: var(--color-white);
     opacity: 0.92;
-  }
-  .cta {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    margin-top: 2rem;
-  }
-  .cta a {
-    display: inline-block;
-    padding: 0.7rem 1.8rem;
-    border-radius: 999px;
-    font-size: var(--text-sm);
-    text-decoration: none;
-  }
-  .cta .primary {
-    background: var(--color-white);
-    color: var(--color-primary);
-  }
-  .cta .ghost {
-    border: 1px solid var(--color-white-a20);
-    color: var(--color-white);
-  }
-  .cta a:hover {
-    opacity: 0.85;
+    text-shadow: 0 1px 2px var(--scrim-30);
   }
 
   .block {
