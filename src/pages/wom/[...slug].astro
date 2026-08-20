@@ -4,6 +4,7 @@ import ArticleLayout from '../../layouts/ArticleLayout.astro';
 import { slugFromLegacy } from '../../lib/urls';
 import { label } from '../../lib/taxonomy';
 import { assetUrl } from '../../lib/assets.mjs';
+import JoinGcm from '../../components/JoinGcm.astro';
 import reviewsBySlug from '../../data/wom-reviews.json';
 
 /* 網址保留：舊站口碑頁為 /wom/<slug>/，slug 取自 legacyPath。 */
@@ -127,6 +128,8 @@ const record = [
         ))}
       </section>
     )}
+
+    <JoinGcm />
 
     <p class="disclaimer">
       以上醫友心得為醫事相關人員實際體驗後所撰寫之真實個人意見，商品資訊來源為廠商公開資訊，

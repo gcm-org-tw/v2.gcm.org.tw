@@ -1,0 +1,110 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import JoinGcm from '../../components/JoinGcm.astro';
+import { assetUrl } from '../../lib/assets.mjs';
+import recruit from '../../data/recruit.json';
+
+/* 舊站的健賞狀態列表頁。這四條網址實測 200，但 sitemap 與 REST 都沒收，
+ * 最初的契約完全沒有它們——2026-08-20 從「舊站頁面連得到、新站沒有」反推出來
+ *（/recruit/close_wom/ 被 99 個頁面連到）。用戶的鐵則是舊網址一條都不能斷 → 補做。
+ *
+ * 分組來源分兩種，刻意不混：
+ *   open_wom / close_wom  用我們自己的 campaignStatus（104 個商品全都有，完整）
+ *   open / close          舊站的「體驗報名」狀態是另一組 JetEngine 欄位，我們沒有，
+ *                         用 scripts/wp-recruit.mjs 從舊站列表頁抓下來的清單
+ *                         （src/data/recruit.json），那是舊站當下的狀態。 */
+export async function getStaticPaths() {
+  /* 宣告放在函式裡：Astro 會把 getStaticPaths 抽成獨立 chunk，
+   * 模組層的 const 不保證跟著過去（2026-08-20 這裡就炸了 GROUPS is not defined）。 */
+  const GROUPS = {
+    open: { title: '體驗報名中', from: 'scraped' },
+    close: { title: '體驗報名結束', from: 'scraped' },
+    open_wom: { title: '心得募集中', from: 'status' },
+    close_wom: { title: '健賞成績已公告', from: 'status' },
+  } as const;
+
+  const woms = await getCollection('wom');
+  const byPath = new Map(woms.map(w => [w.data.legacyPath, w]));
+
+  return Object.entries(GROUPS).map(([status, cfg]) => {
+    const items = cfg.from === 'status'
+      ? woms.filter(w => w.data.campaignStatus === cfg.title)
+      : ((recruit as Record<string, string[]>)[status] ?? [])
+          .map(p => byPath.get(p.endsWith('/') ? p : `${p}/`))
+          .filter((w): w is NonNullable<typeof w> => Boolean(w));
+    return {
+      params: { status },
+      props: {
+        title: cfg.title,
+        items: items.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+      },
+    };
+  });
+}
+
+const { title, items } = Astro.props;
+const href = (w: { data: { legacyPath: string } }) => w.data.legacyPath;
+---
+
+<BaseLayout title={title} description={`GCM 醫友健賞團｜${title}的體驗商品。`} noindex>
+  <div class="container wrap">
+    <h1>{title}</h1>
+    <p class="count">共 {items.length} 項</p>
+
+    <ul class="grid">
+      {items.map(w => (
+        <li>
+          <a href={href(w)}>
+            {w.data.heroImage && <img src={assetUrl(w.data.heroImage)} alt="" loading="lazy" />}
+            {w.data.brand && <p class="brand">【{w.data.brand}】</p>}
+            <p class="name">{w.data.title}</p>
+          </a>
+          <dl>
+            {w.data.period && <><dt>體驗期間</dt><dd>{w.data.period}</dd></>}
+            {w.data.score != null && <><dt>成績</dt><dd>{w.data.score} / 5</dd></>}
+            {w.data.participants != null && <><dt>參與醫友</dt><dd>{w.data.participants} 人</dd></>}
+          </dl>
+        </li>
+      ))}
+    </ul>
+
+    <JoinGcm />
+  </div>
+</BaseLayout>
+
+<style>
+  .wrap { padding-block: clamp(2rem, 6vw, 3.5rem); }
+  h1 { font-size: var(--text-2xl); margin: 0 0 0.35rem; }
+  .count { margin: 0 0 2rem; color: var(--color-ink-muted); font-size: var(--text-sm); }
+  .grid {
+    display: grid;
+    gap: 1.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    grid-template-columns: 1fr;
+  }
+  .grid li {
+    border: 1px solid var(--color-line);
+    border-radius: 0.5rem;
+    overflow: hidden;
+  }
+  .grid a { display: block; text-decoration: none; color: inherit; }
+  .grid img { display: block; width: 100%; height: auto; aspect-ratio: 1 / 1; object-fit: cover; }
+  .brand { margin: 0.85rem 1rem 0; color: var(--color-primary); font-size: var(--text-xs); }
+  .name { margin: 0.2rem 1rem 0.75rem; font-size: var(--text-sm); font-weight: 700; }
+  .grid a:hover .name { color: var(--color-primary); text-decoration: underline; }
+  dl {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 0.2rem 0.75rem;
+    margin: 0;
+    padding: 0 1rem 1rem;
+    font-size: var(--text-xs);
+  }
+  dt { color: var(--color-ink-muted); }
+  dd { margin: 0; }
+  @media (min-width: 640px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (min-width: 1024px) { .grid { grid-template-columns: repeat(3, 1fr); } }
+</style>

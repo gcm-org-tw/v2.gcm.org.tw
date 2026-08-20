@@ -1,7 +1,7 @@
 # 網址保留契約 —— 舊站（WordPress）所有對外網址，改版後一條都不能斷。
 # 由 scripts/build-url-contract.mjs 產生；守門：scripts/check-urls.mjs（CI build 後跑）。
 # 要下架任何一條都必須用戶明示同意，改列 legacy-urls-retired.txt 或 redirects.json。
-# 總計 7839 條
+# 總計 7843 條
 https://gcm.org.tw/
 https://gcm.org.tw/%e5%aa%92%e9%ab%94%e5%a0%b1%e5%b0%8e/
 https://gcm.org.tw/%e9%86%ab%e5%8f%8b%e5%81%a5%e8%b3%9e%e5%9c%98/
@@ -3587,6 +3587,10 @@ https://gcm.org.tw/members/
 https://gcm.org.tw/post_adding/
 https://gcm.org.tw/post_update/
 https://gcm.org.tw/profile-updater/
+https://gcm.org.tw/recruit/close/
+https://gcm.org.tw/recruit/close_wom/
+https://gcm.org.tw/recruit/open/
+https://gcm.org.tw/recruit/open_wom/
 https://gcm.org.tw/register-infor-renew/
 https://gcm.org.tw/register-step-2/
 https://gcm.org.tw/register/

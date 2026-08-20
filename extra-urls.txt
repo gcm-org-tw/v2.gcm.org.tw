@@ -440,3 +440,11 @@
 /author/1080/
 /author/1090/
 /author/1095/
+
+# 健賞狀態列表頁 /recruit/{open,close,open_wom,close_wom}/：舊站實測 200
+# （2026-08-20 逐條 curl 驗過），但 sitemap 與 REST 都沒收，最初的契約漏了。
+# 是新舊站對照從「舊站頁面連得到、新站沒有」反推出來的——close_wom 被 99 個頁面連到。
+/recruit/open/
+/recruit/close/
+/recruit/open_wom/
+/recruit/close_wom/

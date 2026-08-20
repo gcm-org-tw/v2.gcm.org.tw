@@ -1,0 +1,126 @@
+---
+/* 舊站每個健賞商品頁底下都有的「加入流程 → 免責聲明 → 歡迎加入」區塊。
+ * 文案與圖片逐字逐檔取自舊站 /wom/<slug>/（2026-08-20 對照時發現整塊沒搬）。
+ * 「我是品牌主」在舊站連到 Google 表單，維持原樣；「我是醫事人員」連到 /register/。 */
+import { assetUrl } from '../lib/assets.mjs';
+
+const steps = [
+  { icon: '2022/05/icon-check.png', text: '準備3篇內容用心得網址' },
+  { icon: '2022/05/icon-batch.png', text: '評鑑小組進行審核' },
+  { icon: '2022/05/icon-email.png', text: '審核通過 以e-mail通知' },
+];
+const invites = [
+  { image: '2022/05/1-1-1.png', title: '我是品牌主', action: '申請被健賞', href: 'https://forms.gle/2tiVB1uCSgEgtKwVA', external: true },
+  { image: '2022/05/2-2.png', title: '我是醫事人員', action: '加入健賞團', href: '/register/', external: false },
+];
+const upload = (f: string) => assetUrl(`/wp-content/uploads/${f}`);
+---
+
+<section class="join" aria-labelledby="join-title">
+  <h2 id="join-title">加入流程</h2>
+  <ol class="steps">
+    {steps.map(s => (
+      <li>
+        <img src={upload(s.icon)} alt="" width="64" height="64" loading="lazy" />
+        <span>{s.text}</span>
+      </li>
+    ))}
+  </ol>
+  <p class="cta"><a href="/register/">加入健賞團</a></p>
+
+  <h2>歡迎加入</h2>
+  <ul class="invites">
+    {invites.map(i => (
+      <li>
+        <img src={upload(i.image)} alt="" loading="lazy" />
+        <p class="who">{i.title}</p>
+        <p class="act">
+          <a href={i.href} rel={i.external ? 'nofollow noopener' : undefined} target={i.external ? '_blank' : undefined}>
+            {i.action}
+          </a>
+        </p>
+      </li>
+    ))}
+  </ul>
+
+  <p class="more"><a href="/recruit/close_wom/">看所有已結束的健賞商品 →</a></p>
+</section>
+
+<style>
+  .join {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid var(--color-line);
+  }
+  .join h2 {
+    margin: 0 0 1.25rem;
+    font-size: var(--text-xl);
+  }
+  .steps {
+    display: grid;
+    gap: 1.25rem;
+    margin: 0 0 1.5rem;
+    padding: 0;
+    list-style: none;
+    grid-template-columns: 1fr;
+  }
+  .steps li {
+    display: flex;
+    align-items: center;
+    gap: 0.9rem;
+    font-size: var(--text-sm);
+  }
+  .steps img {
+    flex: none;
+    width: 4rem;
+    height: 4rem;
+    object-fit: contain;
+  }
+  .cta {
+    margin: 0 0 2.5rem;
+  }
+  .cta a,
+  .act a {
+    display: inline-block;
+    padding: 0.6rem 1.4rem;
+    border-radius: 999px;
+    background: var(--color-primary);
+    color: var(--color-white);
+    font-size: var(--text-sm);
+    text-decoration: none;
+  }
+  .cta a:hover,
+  .act a:hover {
+    background: var(--color-primary-dark);
+  }
+  .invites {
+    display: grid;
+    gap: 1.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    grid-template-columns: 1fr;
+  }
+  .invites img {
+    width: 100%;
+    height: auto;
+    border-radius: 0.5rem;
+  }
+  .who {
+    margin: 0.75rem 0 0.5rem;
+    font-size: var(--text-lg);
+    font-weight: 700;
+  }
+  .act {
+    margin: 0;
+  }
+  .more {
+    margin-top: 2rem;
+    font-size: var(--text-sm);
+  }
+  @media (min-width: 640px) {
+    .steps { grid-template-columns: repeat(3, 1fr); }
+    .steps li { flex-direction: column; text-align: center; }
+    .invites { grid-template-columns: repeat(2, 1fr); }
+  }
+</style>

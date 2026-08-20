@@ -192,7 +192,11 @@ async function worker() {
 
   /* 圖片清單**完整存下來**，不截斷：這份同時是「舊站到底有哪些圖」的清冊，
    * 鏡像與 R2 的對帳要拿它當基準。先前只存前 20 筆，等於自己把帳做窄了。 */
+  /* 舊站站內連結也完整存下來：這份是「舊站到底有哪些網址」的第二個來源，
+   * 用來抓 sitemap 與 REST 都沒收、契約因此漏掉的網址家族
+   *（/author/ 與 /recruit/ 就是這樣被發現的）。 */
   done[path] = { old: om.chars, new: nm.chars, ratio: Number(ratio.toFixed(2)),
+                 oldLinkList: om.links,
                  oldImgList: om.imgs, newImgList: nm.imgs,
                  oldImgs: om.imgs.length, newImgs: nm.imgs.length,
                  missingImgs, missingLinks: missingLinks.slice(0, 40),

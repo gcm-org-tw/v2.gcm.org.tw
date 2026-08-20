@@ -15,6 +15,11 @@ type Review = { id: number; title: string; name: string; date: string; score: nu
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
+  // 心得列表要帶商品縮圖與商品名（舊站作者頁上有），所以先建 wom slug → 商品的索引
+  const woms = await getCollection('wom');
+  const womBySlug = new Map(
+    woms.map(w => [w.data.legacyPath.replace('/wom/', '').replace(/\/$/, ''), w])
+  );
   const byId = new Map<number, typeof posts>();
   for (const p of posts) {
     const id = p.data.authorId;
@@ -30,7 +35,13 @@ export async function getStaticPaths() {
       const id = (reviewAuthors as Record<string, number>)[String(review.id)];
       if (id == null) continue;
       if (!reviewsFor.has(id)) reviewsFor.set(id, []);
-      reviewsFor.get(id)!.push({ womSlug, review });
+      const wom = womBySlug.get(womSlug);
+      reviewsFor.get(id)!.push({
+        womSlug,
+        review,
+        womTitle: wom?.data.title ?? '',
+        womImage: wom?.data.heroImage ?? '',
+      });
     }
   }
 
@@ -58,6 +69,11 @@ const lines = (s?: string) => (s ? s.split('\n').map(l => l.trim()).filter(Boole
   noindex
 >
   <div class="container wrap">
+    {/* 舊站作者頁最上面那一列 */}
+    <p class="memberbar">
+      己是會員 ? <a href="/register/">登入</a>　也想開啟個人專頁？ <a href="/register/">註冊</a>
+    </p>
+
     <p class="kicker">分享醫友</p>
 
     <header class="profile">
@@ -84,6 +100,7 @@ const lines = (s?: string) => (s ? s.split('\n').map(l => l.trim()).filter(Boole
     {posts.length > 0 && (
       <section>
         <h2>{author.name}文章</h2>
+        <p class="all"><a href="/blog/">看醫友專欄全部文章 →</a></p>
         <div class="grid">
           {posts.map(post => (
             <PostCard
@@ -103,8 +120,17 @@ const lines = (s?: string) => (s ? s.split('\n').map(l => l.trim()).filter(Boole
       <section>
         <h2>{author.name}的健賞心得</h2>
         <ul class="reviews">
-          {reviews.map(({ womSlug, review }) => (
+          {reviews.map(({ womSlug, review, womTitle, womImage }) => (
             <li>
+              {womImage && (
+                <a class="thumb" href={`/wom/${decodeURIComponent(womSlug)}/`} tabindex="-1" aria-hidden="true">
+                  <img src={assetUrl(womImage)} alt="" loading="lazy" />
+                </a>
+              )}
+              <div class="text">
+              {womTitle && (
+                <p class="product"><a href={`/wom/${decodeURIComponent(womSlug)}/`}>{womTitle}</a></p>
+              )}
               <p class="meta">
                 <time>{review.date}</time>
                 {review.score !== null && <span class="score">{review.score} / 5</span>}
@@ -113,6 +139,7 @@ const lines = (s?: string) => (s ? s.split('\n').map(l => l.trim()).filter(Boole
               <p class="more">
                 <a href={`/wom/${decodeURIComponent(womSlug)}/#review-${review.id}`}>看完整心得 →</a>
               </p>
+              </div>
             </li>
           ))}
         </ul>
@@ -192,9 +219,45 @@ const lines = (s?: string) => (s ? s.split('\n').map(l => l.trim()).filter(Boole
     gap: 1.25rem;
   }
   .reviews li {
+    display: flex;
+    gap: 1rem;
     padding: 1rem 1.25rem;
     border: 1px solid var(--color-line);
     border-radius: 0.5rem;
+  }
+  .thumb {
+    flex: none;
+    width: 5.5rem;
+  }
+  .thumb img {
+    width: 100%;
+    height: auto;
+    border-radius: 0.375rem;
+  }
+  .text {
+    min-width: 0;
+  }
+  .product {
+    margin: 0 0 0.35rem;
+    font-size: var(--text-sm);
+    font-weight: 700;
+  }
+  .product a {
+    color: var(--color-text);
+    text-decoration: none;
+  }
+  .product a:hover {
+    color: var(--color-primary);
+    text-decoration: underline;
+  }
+  .memberbar {
+    margin: 0 0 1rem;
+    color: var(--color-ink-muted);
+    font-size: var(--text-xs);
+  }
+  .all {
+    margin: -0.5rem 0 1.25rem;
+    font-size: var(--text-xs);
   }
   .meta {
     display: flex;
