@@ -271,6 +271,7 @@ for (const [type, cfg] of Object.entries(COLLECTIONS)) {
     }
     const authorId = authorData.posts?.[path] ?? null;
     const author = authorId != null ? authorData.authors?.[String(authorId)] : null;
+    let award = '';
     let jetHero = '';
     let headline = '';
     let eventTime = '';
@@ -288,6 +289,11 @@ for (const [type, cfg] of Object.entries(COLLECTIONS)) {
       // 第一行大標與版面自己的 h1 重複 → 去掉，避免同一句印兩次
       body = raw.replace(/^#\s+(.+)\n?/m, '').trim();
       // 活動在 WP 沒有 featured image，但舊站列表卡片上有圖 → 取正文第一張當主圖
+      /* 潔淨標章的獎項（金獎／銀獎／銅獎）。舊站有 /clean-label-award/<獎項>/ 彙整頁，
+       * 那批網址 sitemap 與 REST 都沒收，2026-08-20 的網址稽核抓出來的。 */
+      if (type === 'gcm-clean-label') {
+        award = (raw.match(/^(金獎|銀獎|銅獎)$/m) || raw.match(/(金獎|銀獎|銅獎)/) || [])[1] ?? '';
+      }
       if (!mediaUsed[item.featured_media]) {
         const firstImg = (raw.match(/!\[[^\]]*\]\((\/wp-content\/uploads\/[^)]+)\)/) || [])[1];
         if (firstImg) jetHero = firstImg;
@@ -314,6 +320,7 @@ for (const [type, cfg] of Object.entries(COLLECTIONS)) {
       author?.name ? `authorId: ${authorId}` : null,
       author?.name ? `author: ${yaml(author.name)}` : null,
       author?.role ? `authorRole: ${yaml(author.role)}` : null,
+      award ? `award: ${yaml(award)}` : null,
       headline ? `headline: ${yaml(headline)}` : null,
       eventTime ? `eventTime: ${yaml(eventTime)}` : null,
       eventPlace ? `eventPlace: ${yaml(eventPlace)}` : null,

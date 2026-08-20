@@ -83,9 +83,14 @@ const pages = defineCollection({
 });
 
 /* GCM 潔淨標章認證（舊站 CPT gcm-clean-label，網址 /gcm-clean-label/<slug>/） */
+/* 潔淨標章認證商品。award 是為了還原舊站的 /clean-label-award/<獎項>/ 彙整頁——
+ * 那批網址 sitemap 與 REST 都沒收，是網址稽核從站內連結反推出來的。 */
 const cleanLabel = defineCollection({
   loader: glob({ base: './src/content/clean-label', pattern: '**/*.md' }),
-  schema: z.object(legacyBase),
+  schema: z.object({
+    ...legacyBase,
+    award: z.string().optional(),
+  }),
 });
 
 const podcast = defineCollection({

@@ -6,6 +6,8 @@ updatedDate: "2024-04-12T09:28:14Z"
 heroImage: "/wp-content/uploads/標題-1.png"
 heroImageAlt: "體內溼氣重怎麼辦"
 blog_cate: ["preventive-healthcare"]
+authorId: 315
+author: "朱 峻瑩"
 legacyId: 20434
 legacyPath: "/blog/wu3so4g-fu4j5-4yp3ai7104/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

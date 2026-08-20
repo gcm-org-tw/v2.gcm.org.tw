@@ -7,6 +7,8 @@ heroImage: "/wp-content/uploads/zght-cfcqzg25061301-scaled.webp"
 blog_cate: ["appreciation"]
 blog_tag_keyword: ["8-倍濃縮", "七萃草本高倍濃縮", "神奇紅棗茶", "米精紅棗露"]
 blog_fr_doctors: ["朱峻瑩"]
+authorId: 315
+author: "朱 峻瑩"
 legacyId: 30233
 legacyPath: "/blog/zght-qzg-zjy/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

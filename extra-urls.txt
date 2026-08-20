@@ -448,3 +448,9 @@
 /recruit/close/
 /recruit/open_wom/
 /recruit/close_wom/
+
+# 潔淨標章獎項彙整頁：舊站三條都實測 200，sitemap 與 REST 都沒收。
+# 2026-08-20 網址稽核（掃舊站每頁站內連結、扣掉契約已有）抓出來的。
+/clean-label-award/gold-award/
+/clean-label-award/silver-award/
+/clean-label-award/bronze-award/

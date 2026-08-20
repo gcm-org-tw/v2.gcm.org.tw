@@ -92,12 +92,21 @@ function parseAuthor(html) {
   /* 先整頁去標籤、解實體再找錨點——頁面上寫的是 `GCM&nbsp;文章`，
    * 直接在原始 HTML 上 indexOf('GCM 文章') 永遠找不到（2026-08-19 卡在這裡）。 */
   const allLines = decode(s.replace(/<[^>]+>/g, '\n')).split('\n').map(l => l.trim()).filter(Boolean);
+  /* 有些作者的專頁沒有簡介區塊（欄位還沒填），但頁面本身是 200——
+   * 舊站有這條網址，新站就得有。至少從 <title> 把名字撿回來，別讓整頁生不出來。
+   * 2026-08-20 網址稽核抓到 /author/315/ 就是這種。 */
+  // 舊站 <title> 是「朱 峻瑩&nbsp;&nbsp;上醫預防醫學發展協會」——沒有分隔符號，得先解實體再切站名
+  const titleName = decode((html.match(/<title>([^<]*)/) || [])[1] ?? '')
+    .split('上醫預防醫學發展協會')[0]
+    .replace(/[|｜–—-]\s*$/, '')
+    .replace(/\s+/g, ' ')
+    .trim();
   const from = allLines.findIndex(l => l.includes('分享醫友'));
   // 結束錨點是「GCM 文章( 7 ) 健賞心得( 23 )」那一列，但版面會把它切成好幾段
   // （常常只剩一行 "GCM"），所以三種寫法都認
   const to = allLines.findIndex((l, i) =>
     i > from && (l === 'GCM' || /健賞心得/.test(l) || /文章\s*\(/.test(l)));
-  if (from < 0 || to < 0) return null;
+  if (from < 0 || to < 0) return titleName ? { name: titleName, role: '', specialty: '', career: '', photo: '' } : null;
   /* 照片要在「分享醫友」那一段裡面找。整頁第一張 uploads 圖片是頁首的協會 logo，
    * 抓錯的話 172 位作者會全部共用同一張圖（2026-08-19 踩過）。 */
   const anchor = s.indexOf('分享醫友');
