@@ -266,9 +266,11 @@ const services = [
     line-height: 1.4;
   }
   .lede {
-    /* 貼著底邊、落在白袍上；不置中，維持左對齊與標語同一條軸線 */
-    max-width: 44rem;
+    /* 貼著底邊、落在白袍上；不置中，維持左對齊與標語同一條軸線。
+     * 字級與寬度由用戶指定（2026-08-20）：內文的 1.5 倍、上限 80rem。 */
+    max-width: 80rem;
     margin: 0;
+    font-size: calc(var(--text-base) * 1.5);
     color: var(--color-white);
     opacity: 0.92;
     text-shadow: 0 1px 2px var(--scrim-30);

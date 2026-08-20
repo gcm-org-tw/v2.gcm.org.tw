@@ -57,6 +57,16 @@ const groupCurrent = (item: { href?: string; children?: { href: string }[] }) =>
       <img src={assetUrl(LOGO)} alt="" width="48" height="48" />
       <span class="name">上醫預防醫學發展協會</span>
     </a>
+
+    {/* 窄寬度收成漢堡選單。用隱藏 checkbox ＋ label 做開關，不需要 JavaScript——
+        靜態站沒有 hydration，選單卻必須在 JS 失敗時照樣能開。 */}
+    <input class="navtoggle" id="navtoggle" type="checkbox" hidden />
+    <label class="hamburger" for="navtoggle" aria-label="開啟主選單">
+      <svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true" focusable="false">
+        <path d="M3 6h18M3 12h18M3 18h18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+      </svg>
+    </label>
+
     <nav aria-label="主要導覽">
       <ul class="top">
         {nav.map(item => (
@@ -157,7 +167,43 @@ const groupCurrent = (item: { href?: string; children?: { href: string }[] }) =>
     color: var(--color-primary);
   }
 
-  @media (min-width: 1024px) {
+  /* ── 窄寬度：收成漢堡 ── */
+  .hamburger {
+    align-self: flex-start;
+    padding: 0.25rem;
+    color: var(--color-text);
+    cursor: pointer;
+  }
+  .navtoggle:not(:checked) ~ nav {
+    display: none;
+  }
+  .navtoggle:focus-visible ~ .hamburger {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+  }
+  .bar {
+    position: relative;
+  }
+  .hamburger {
+    position: absolute;
+    top: 1rem;
+    right: clamp(1rem, 4vw, 2rem);
+  }
+  nav {
+    padding-block: 0.5rem;
+  }
+
+  @media (min-width: 1025px) {
+    /* 桌機不需要開關，選單一律展開 */
+    .hamburger {
+      display: none;
+    }
+    .navtoggle:not(:checked) ~ nav {
+      display: block;
+    }
+  }
+
+  @media (min-width: 1025px) {
     .bar {
       flex-direction: row;
       align-items: center;
