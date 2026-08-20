@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-06"
 spec: "每位醫事人員 1盒(30包 / 每包40g)Erom益人康健 益人生食2.0"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/erom-web_1_2_11zon.webp", "/wp-content/uploads/erom-web_2_3_11zon.webp", "/wp-content/uploads/erom-web_3_4_11zon.webp", "/wp-content/uploads/erom-web_4_5_11zon.webp", "/wp-content/uploads/erom-web_5jpg_6_11zon.webp", "/wp-content/uploads/erom-web_6_7_11zon.webp", "/wp-content/uploads/erom-web_7_8_11zon.webp", "/wp-content/uploads/erom-web_8_9_11zon.webp", "/wp-content/uploads/erom-web_9_10_11zon.webp", "/wp-content/uploads/erom-web_10_11_11zon.webp", "/wp-content/uploads/erom-web_11_12_11zon.webp"]
 legacyId: 28625
 legacyPath: "/wom/eromcn2-0gcmdg2559/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

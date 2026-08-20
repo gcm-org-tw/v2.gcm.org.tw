@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-03"
 spec: "每位醫事人員 500毫克/粒，30粒/盒"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/牛樟芝益生菌-1_1.webp", "/wp-content/uploads/牛樟芝益生菌-2_2.webp", "/wp-content/uploads/牛樟芝益生菌-3-_3.webp", "/wp-content/uploads/牛樟芝益生菌-4_4.webp", "/wp-content/uploads/牛樟芝益生菌-5_5.webp", "/wp-content/uploads/牛樟芝益生菌-6_6.webp", "/wp-content/uploads/牛樟芝益生菌-7_7.webp", "/wp-content/uploads/益生菌商品圖V3_成分賣點_9.webp"]
 legacyId: 35739
 legacyPath: "/wom/bclgcmdg8222521/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

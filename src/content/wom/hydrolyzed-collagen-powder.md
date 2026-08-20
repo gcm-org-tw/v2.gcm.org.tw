@@ -13,6 +13,7 @@ cycle: "每人領取 1 盒 百醫生技【水解膠原胜肽粉】30包入，體
 announceMonth: "2024-02"
 spec: "每位醫友 領取 1 盒 百醫生技【水解膠原胜肽粉】30包入"
 condition: "法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/水解膠原-01.png", "/wp-content/uploads/水解膠原-02.jpg", "/wp-content/uploads/水解膠原-03.png", "/wp-content/uploads/水解膠原-04.png", "/wp-content/uploads/水解膠原-05.png", "/wp-content/uploads/水解膠原-06.png", "/wp-content/uploads/水解膠原-07.png"]
 legacyId: 15535
 legacyPath: "/wom/hydrolyzed-collagen-powder/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

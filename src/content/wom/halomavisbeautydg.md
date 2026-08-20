@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-11"
 spec: "每位醫事人員 1 盒(60粒入) Halo Mavis Beauty 西班牙Solutex高濃度魚油"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/MAVIS-001_11zon.webp", "/wp-content/uploads/MAVIS-002_11zon.webp", "/wp-content/uploads/MAVIS-003_11zon.webp", "/wp-content/uploads/MAVIS-004_11zon.webp"]
 legacyId: 32868
 legacyPath: "/wom/halomavisbeautydg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

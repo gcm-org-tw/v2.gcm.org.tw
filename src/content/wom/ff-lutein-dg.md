@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-07"
 spec: "每位醫事人員 【F&F 艾芙】FF葉黃素膠囊(30入/盒) 乙盒"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/01-FF葉黃素軟膠囊.png", "/wp-content/uploads/02-FF葉黃素軟膠囊.png", "/wp-content/uploads/03-FF葉黃素軟膠囊.png", "/wp-content/uploads/04-FF葉黃素軟膠囊.png", "/wp-content/uploads/05-FF葉黃素軟膠囊.jpg", "/wp-content/uploads/06-FF葉黃素軟膠囊.jpg", "/wp-content/uploads/07-FF葉黃素軟膠囊.png"]
 legacyId: 40019
 legacyPath: "/wom/ff-lutein-dg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

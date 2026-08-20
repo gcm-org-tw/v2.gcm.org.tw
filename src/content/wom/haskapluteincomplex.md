@@ -13,6 +13,7 @@ cycle: "每位醫友體驗 四 週"
 announceMonth: "2024-02"
 spec: "每位醫友 1 盒(60粒/瓶)【BLUEMEI 布樂美】北歐藍靛果金盞花葉黃素複方"
 condition: "法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/葉黃素-01.jpg", "/wp-content/uploads/葉黃素-02.jpg", "/wp-content/uploads/葉黃素-03.jpg", "/wp-content/uploads/葉黃素-04.jpg", "/wp-content/uploads/葉黃素-05.jpg", "/wp-content/uploads/葉黃素-06.jpg", "/wp-content/uploads/葉黃素-07.jpg", "/wp-content/uploads/葉黃素-08.jpg", "/wp-content/uploads/葉黃素-09.jpg", "/wp-content/uploads/葉黃素-10.jpg", "/wp-content/uploads/葉黃素-11.jpg", "/wp-content/uploads/葉黃素-12.jpg", "/wp-content/uploads/葉黃素-13.jpg", "/wp-content/uploads/葉黃素-14.jpg"]
 legacyId: 15554
 legacyPath: "/wom/haskapluteincomplex/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

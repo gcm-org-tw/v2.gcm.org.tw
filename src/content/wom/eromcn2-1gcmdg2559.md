@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-09"
 spec: "每位醫事人員 1 盒 益人固新強 (60包 / 每包3g)"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/固新強01-50x70_0-已修改全方位調節生理機能.webp", "/wp-content/uploads/固新強02-50x70_0-已修改全方位調節生理機能-e1753259755829.jpg"]
 legacyId: 31490
 legacyPath: "/wom/eromcn2-1gcmdg2559/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-07"
 spec: "每位醫事人員  1 罐 VitaVerse維他宇宙 VitaxAll™ 小罐菌益生菌"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/01-VitaxAll™-小罐菌.png", "/wp-content/uploads/02-VitaxAll™-小罐菌.png", "/wp-content/uploads/03-VitaxAll™-小罐菌.png", "/wp-content/uploads/04-VitaxAll™-小罐菌.jpg", "/wp-content/uploads/07-VitaxAll™-小罐菌.png", "/wp-content/uploads/08-VitaxAll™-小罐菌.png", "/wp-content/uploads/09-VitaxAll™-小罐菌.png", "/wp-content/uploads/10.VitaxAll™-小罐菌.png", "/wp-content/uploads/11.VitaxAll™-小罐菌.png"]
 legacyId: 40008
 legacyPath: "/wom/vitaxall-dg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

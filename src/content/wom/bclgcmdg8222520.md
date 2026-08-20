@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-11"
 spec: "每位醫事人員 1 瓶(2.8公克，約90粒) 寶之靈牛樟椴木子實體晶萃"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/產品特色.webp", "/wp-content/uploads/各項檢驗.webp", "/wp-content/uploads/產品說明.webp", "/wp-content/uploads/封面03-800x450-1.webp"]
 legacyId: 32305
 legacyPath: "/wom/bclgcmdg8222520/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

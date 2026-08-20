@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-01"
 spec: "每位醫事人員領取 1 盒 月月私語精華飲(7包入)"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/月月私語精華飲14S-產品.png", "/wp-content/uploads/月月BANNER-修改-01.jpg", "/wp-content/uploads/月月BANNER-修改-08.jpg", "/wp-content/uploads/月月BANNER-修改-06.jpg", "/wp-content/uploads/月月BANNER-修改-07.jpg", "/wp-content/uploads/月月BANNER-修改-09.jpg", "/wp-content/uploads/月月BANNER-修改-02.jpg", "/wp-content/uploads/月月BANNER-修改-05.jpg", "/wp-content/uploads/月月BANNER-修改-03.jpg", "/wp-content/uploads/月月BANNER-修改-04.jpg"]
 legacyId: 24576
 legacyPath: "/wom/missseesawwomgcmdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

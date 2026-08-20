@@ -13,6 +13,7 @@ cycle: "每人領取 1 套 【ISG Wellness & Beauty 】 BioSkin賦活奇肌-頂�
 announceMonth: "2023-12"
 spec: "每位醫友 1 套 【ISG Wellness & Beauty 】 BioSkin賦活奇肌-頂配穩膚組：BioSkin 賦活奇肌全方位卸慕斯 150ml/乙瓶 BioSkin 賦活奇肌全方位精質 30g/乙瓶 BioSkin 賦活奇肌全方位膜 5片/乙盒"
 condition: "法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/賦活奇肌全方位洗卸慕斯1-1.jpg", "/wp-content/uploads/賦活奇肌全方位洗卸慕斯3-1-1024x930.jpg", "/wp-content/uploads/賦活奇肌全方位洗卸慕斯6-1-1024x499.jpg", "/wp-content/uploads/賦活奇肌全方位洗卸慕斯7-1.jpg", "/wp-content/uploads/賦活奇肌全方位洗卸慕斯8-1-e1706766409329.jpg", "/wp-content/uploads/賦活奇肌全方位面膜1-1.jpg", "/wp-content/uploads/賦活奇肌全方位面膜1-2.jpg", "/wp-content/uploads/賦活奇肌全方位面膜2-1.jpg", "/wp-content/uploads/賦活奇肌全方位面膜2-2.jpg", "/wp-content/uploads/賦活奇肌全方位面膜5-1.jpg", "/wp-content/uploads/賦活奇肌全方位精質乳1-1.jpg", "/wp-content/uploads/賦活奇肌全方位精質乳4-1.jpg", "/wp-content/uploads/賦活奇肌全方位精質乳4-2.jpg"]
 legacyId: 14082
 legacyPath: "/wom/isgbioskin/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

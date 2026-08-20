@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-03"
 spec: "每位醫事人員領取 1 條 6B輕透素顏防曬霜50 mL"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/image001_11zon.webp", "/wp-content/uploads/image013_11zon.webp", "/wp-content/uploads/image014_11zon.webp", "/wp-content/uploads/image015_11zon.webp", "/wp-content/uploads/image016_11zon.webp"]
 legacyId: 36885
 legacyPath: "/wom/gcmdglva6b/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-05"
 spec: "每位醫事人員 1 條 魔法先生 MST 淨顏霜"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/水楊酸銷售頁-切圖1-scaled.webp", "/wp-content/uploads/水楊酸銷售頁-切圖2-scaled.webp", "/wp-content/uploads/水楊酸銷售頁-切圖3-scaled.webp", "/wp-content/uploads/水楊酸銷售頁-切圖4-scaled.webp", "/wp-content/uploads/水楊酸銷售頁-切圖6-scaled.webp", "/wp-content/uploads/水楊酸銷售頁-切圖7-scaled.webp", "/wp-content/uploads/水楊酸銷售頁-切圖8-scaled.webp", "/wp-content/uploads/水楊酸銷售頁-切圖9-scaled.webp", "/wp-content/uploads/水楊酸銷售頁-切圖10-scaled.webp", "/wp-content/uploads/水楊酸銷售頁-切圖11-scaled.webp", "/wp-content/uploads/水楊酸銷售頁-切圖12-scaled.webp"]
 legacyId: 26890
 legacyPath: "/wom/mstskin-salicylic-acid-cream-gcmdg25227/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

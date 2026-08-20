@@ -13,6 +13,7 @@ cycle: "帶回體驗 4 週，按時飲用"
 announceMonth: "2023-09"
 spec: "每位醫友 1 盒 蓋婭好氣色好氣色活顏酵素飲(10包入)"
 condition: "所有法定合格醫事人員"
+gallery: ["/wp-content/uploads/Ｄ-好氣色活顏酵素飲-01.jpg", "/wp-content/uploads/Ｄ-好氣色活顏酵素飲-02.jpg", "/wp-content/uploads/Ｄ-好氣色活顏酵素飲-03.jpg", "/wp-content/uploads/Ｄ-好氣色活顏酵素飲-04.jpg", "/wp-content/uploads/Ｄ-好氣色活顏酵素飲-05.jpg", "/wp-content/uploads/Ｄ-好氣色活顏酵素飲-08.jpg"]
 legacyId: 8883
 legacyPath: "/wom/agrigaiatw-iin-the-pink-fermented-juice-drinks%e8%93%8b%e5%a9%ad/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

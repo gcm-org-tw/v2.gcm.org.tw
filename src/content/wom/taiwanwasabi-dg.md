@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-04"
 spec: "每位醫事人員 台灣山葵酵素 1 罐"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/樂天山葵標頭.png", "/wp-content/uploads/樂天山葵園.png", "/wp-content/uploads/taiwanwasabi_01-5.jpg.png", "/wp-content/uploads/taiwanwasabi_01-2.jpg"]
 legacyId: 37526
 legacyPath: "/wom/taiwanwasabi-dg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

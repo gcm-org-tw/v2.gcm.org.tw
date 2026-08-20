@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-12"
 spec: "每位醫事人員 1 組 Almiya-魔力顏 時光無痕保養套組(植萃氨基酸潔面慕斯+精華液+面霜+面膜)"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/植萃氨基酸潔面慕斯001.webp", "/wp-content/uploads/植萃氨基酸潔面慕斯002.webp", "/wp-content/uploads/植萃氨基酸潔面慕斯003.webp", "/wp-content/uploads/時光無痕精華液001.webp", "/wp-content/uploads/時光無痕精華液002.webp", "/wp-content/uploads/時光無痕精華液003.webp", "/wp-content/uploads/時光無痕面霜001.webp", "/wp-content/uploads/時光無痕面霜002.webp", "/wp-content/uploads/時光無痕面霜003.webp", "/wp-content/uploads/時光魔法面膜001.webp", "/wp-content/uploads/時光魔法面膜002.webp", "/wp-content/uploads/時光魔法面膜003.webp"]
 legacyId: 33515
 legacyPath: "/wom/almiyagcmdg2025015/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

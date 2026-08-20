@@ -14,6 +14,7 @@ cycle: "每人領取 1 罐 遼郁花草親膚寶貝凝乳，體驗四週！"
 announceMonth: "2023-12"
 spec: "每位醫友 1 罐 遼郁花草親膚寶貝凝乳"
 condition: "法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/親膚寶貝01.jpg", "/wp-content/uploads/親膚寶貝02.jpg", "/wp-content/uploads/親膚寶貝03.jpg", "/wp-content/uploads/親膚寶貝04.jpg", "/wp-content/uploads/親膚寶貝05.jpg", "/wp-content/uploads/親膚寶貝06.jpg"]
 legacyId: 13433
 legacyPath: "/wom/%e9%81%bc%e9%83%81%e8%8a%b1%e8%8d%89balanceurhealth/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

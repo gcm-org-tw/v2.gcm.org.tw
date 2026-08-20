@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import ArticleLayout from '../../layouts/ArticleLayout.astro';
 import { slugFromLegacy } from '../../lib/urls';
 import { label } from '../../lib/taxonomy';
+import { assetUrl } from '../../lib/assets.mjs';
 import reviewsBySlug from '../../data/wom-reviews.json';
 
 /* 網址保留：舊站口碑頁為 /wom/<slug>/，slug 取自 legacyPath。 */
@@ -28,6 +29,7 @@ const taxonomy = d.gcm_supplier_category.map(slug => ({
 const womSlug = d.legacyPath.replace('/wom/', '').replace(/\/$/, '');
 const reviews = (reviewsBySlug as Record<string, Array<{
   id: number; title: string; name: string; date: string; score: number | null; body: string;
+  photos?: string[];
 }>>)[womSlug] ?? [];
 
 // 健賞紀錄表：有值的才列，沒開跑的商品不會出現空欄位
@@ -78,6 +80,14 @@ const record = [
   <Content />
 
   <Fragment slot="after-content">
+    {d.gallery.length > 0 && (
+      <section class="gallery" aria-label="商品圖片">
+        {d.gallery.map(src => (
+          <img src={assetUrl(src)} alt="" loading="lazy" />
+        ))}
+      </section>
+    )}
+
     {record.length > 0 && (
       <section class="record" aria-labelledby="record-title">
         <h2 id="record-title">健賞紀錄表</h2>
@@ -107,6 +117,12 @@ const record = [
               </span>
             </header>
             {r.body.split('\n\n').map(p => <p>{p}</p>)}
+            {/* 醫友自己上傳的體驗照，舊站的心得卡片上有 */}
+            {r.photos && r.photos.length > 0 && (
+              <div class="shots">
+                {r.photos.map(src => <img src={assetUrl(src)} alt="" loading="lazy" />)}
+              </div>
+            )}
           </article>
         ))}
       </section>
@@ -223,6 +239,30 @@ const record = [
     font-size: var(--text-base);
     line-height: 1.8;
   }
+  .gallery {
+    display: grid;
+    gap: 0.75rem;
+    grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
+    margin-top: 2rem;
+  }
+  .gallery img {
+    width: 100%;
+    height: auto;
+    border-radius: 0.375rem;
+  }
+  .shots {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 0.6rem;
+  }
+  .shots img {
+    width: 8rem;
+    height: 8rem;
+    object-fit: cover;
+    border-radius: 0.375rem;
+  }
+
   .disclaimer {
     margin-top: 2.5rem;
     padding-top: 1rem;

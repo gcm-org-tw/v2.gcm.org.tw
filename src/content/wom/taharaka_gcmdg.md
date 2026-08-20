@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-08"
 spec: "每位醫事人員10包小禮盒-原味滴雞精10包入"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/詳細資料圖1-修_1.webp", "/wp-content/uploads/詳細資料圖2-修_2.webp", "/wp-content/uploads/詳細資料圖3_3.webp", "/wp-content/uploads/詳細資料圖4_4.webp", "/wp-content/uploads/詳細資料圖5_5.webp", "/wp-content/uploads/詳細資料圖6_6.webp", "/wp-content/uploads/詳細資料圖7_7.webp"]
 legacyId: 31044
 legacyPath: "/wom/taharaka_gcmdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

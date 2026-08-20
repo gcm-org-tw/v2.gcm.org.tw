@@ -7,6 +7,7 @@ brand: "SDS-SHOW媽咪愛寶包"
 brandUrl: "https://www.sds-show.com/categories/%E5%9C%8D%E8%A3%99%E5%BC%8F%E6%B5%B4%E5%B7%BE"
 campaignStatus: "心得募集中"
 period: "~"
+gallery: ["/wp-content/uploads/1內文.jpg", "/wp-content/uploads/2內文.jpg", "/wp-content/uploads/3內文.jpg", "/wp-content/uploads/4內文.jpg", "/wp-content/uploads/5內文.png", "/wp-content/uploads/6內文.jpg", "/wp-content/uploads/7內文.jpg", "/wp-content/uploads/8內文.jpg", "/wp-content/uploads/1內文-2.jpg", "/wp-content/uploads/2內文-1.jpg", "/wp-content/uploads/3內文-1.jpg", "/wp-content/uploads/4內文-1.jpg", "/wp-content/uploads/5內文.jpg", "/wp-content/uploads/6內文-1.jpg", "/wp-content/uploads/7內文-1.jpg", "/wp-content/uploads/8內文-1.jpg", "/wp-content/uploads/9內文.jpg", "/wp-content/uploads/10內文.jpg", "/wp-content/uploads/11內文.png"]
 legacyId: 40755
 legacyPath: "/wom/sds-show-dg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

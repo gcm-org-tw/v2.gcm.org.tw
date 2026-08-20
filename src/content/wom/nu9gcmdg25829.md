@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-11"
 spec: "每位醫事人員 1 件 nu9絕世好波 NuBra 無痕加強組（NuBraX WOW! 輕挺隱形胸托＋Seamless 無痕款＋隱形胸罩專用洗潔液）"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/0819_健賞團產品-1-1.jpg", "/wp-content/uploads/0819_健賞團產品-2.webp", "/wp-content/uploads/0819_健賞團產品-2-2.webp", "/wp-content/uploads/0915_健賞團產品-3.jpg", "/wp-content/uploads/0819_健賞團產品-4-1.jpg", "/wp-content/uploads/0819_健賞團產品-5-1.jpg", "/wp-content/uploads/0819_健賞團產品-6-2.jpg", "/wp-content/uploads/0819_健賞團產品-7-1.jpg", "/wp-content/uploads/0819_健賞團產品-8-1.jpg", "/wp-content/uploads/0819_健賞團產品-9.jpg", "/wp-content/uploads/0819_健賞團產品-10-1.jpg", "/wp-content/uploads/0819_健賞團產品-11-1.jpg", "/wp-content/uploads/0819_健賞團產品-12-1.jpg", "/wp-content/uploads/0819_健賞團產品-13-1.jpg"]
 legacyId: 32332
 legacyPath: "/wom/nu9gcmdg25829/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

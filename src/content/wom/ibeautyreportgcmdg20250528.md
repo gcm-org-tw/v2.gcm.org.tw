@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-08"
 spec: "每位醫事人員 1 包(90粒) C’y小橘丸"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/C_y小橘丸1_7.webp", "/wp-content/uploads/C_y小橘丸2_8.webp", "/wp-content/uploads/C_y小橘丸3_9.webp", "/wp-content/uploads/C_y小橘丸4_10.webp", "/wp-content/uploads/C_y小橘丸5_1.webp", "/wp-content/uploads/C_y小橘丸6_2.webp", "/wp-content/uploads/C_y小橘丸7_3.webp", "/wp-content/uploads/C_y小橘丸8_4.webp", "/wp-content/uploads/C_y小橘丸9_5.webp"]
 legacyId: 29686
 legacyPath: "/wom/ibeautyreportgcmdg20250528/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

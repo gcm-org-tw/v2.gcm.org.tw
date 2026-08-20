@@ -4,6 +4,7 @@ pubDate: "2026-07-10T03:38:25Z"
 heroImage: "/wp-content/uploads/jemia-34-cushion-dg-cover.png"
 brand: "JEMIA"
 brandUrl: "https://jemia.link/79z2p"
+gallery: ["/wp-content/uploads/jemia-34-cushion-dg-01.png", "/wp-content/uploads/jemia-34-cushion-dg-02.png", "/wp-content/uploads/jemia-34-cushion-dg-03.png", "/wp-content/uploads/jemia-34-cushion-dg-04.png", "/wp-content/uploads/jemia-34-cushion-dg-05-0707修改.jpg", "/wp-content/uploads/jemia-34-cushion-dg-06.png", "/wp-content/uploads/jemia-34-cushion-dg-07.png", "/wp-content/uploads/2022/06/GCM-ICON-1.png", "/wp-content/uploads/2022/06/GCM-ICON-2.png", "/wp-content/uploads/2022/06/GCM-ICON-3.png", "/wp-content/uploads/2022/06/GCM-ICON-4.png", "/wp-content/uploads/2022/05/icon-check.png", "/wp-content/uploads/2022/05/icon-batch.png", "/wp-content/uploads/2022/05/icon-email.png", "/wp-content/uploads/2022/05/1-1-1.png", "/wp-content/uploads/2022/05/2-2.png", "/wp-content/uploads/jemia-34-cushion-dg-cover-1024x576.png"]
 legacyId: 41844
 legacyPath: "/wom/jemia-34-cushion-dg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

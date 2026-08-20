@@ -12,6 +12,7 @@ cycle: "體驗四週"
 announceMonth: "2024-09"
 spec: "每位醫事人員領取一盒(10包入)沁妍飲"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/1-3-scaled.jpg", "/wp-content/uploads/2-5.jpg", "/wp-content/uploads/3-1-scaled.jpg", "/wp-content/uploads/4-6-scaled.jpg", "/wp-content/uploads/5-4-scaled.jpg", "/wp-content/uploads/6-4-scaled.jpg", "/wp-content/uploads/7-4-scaled.jpg", "/wp-content/uploads/8-3-scaled.jpg", "/wp-content/uploads/9-2-scaled.jpg"]
 legacyId: 21958
 legacyPath: "/wom/drpqinyanyingcmdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

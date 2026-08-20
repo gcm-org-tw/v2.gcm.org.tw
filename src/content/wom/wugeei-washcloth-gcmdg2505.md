@@ -12,6 +12,7 @@ period: "2025/05/20 ~ 2024/06/16"
 cycle: "體驗四週"
 announceMonth: "2025-06"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/商品內頁說明圖V4_22-scaled.webp", "/wp-content/uploads/商品內頁說明圖V4_23.webp"]
 legacyId: 28421
 legacyPath: "/wom/wugeei-washcloth-gcmdg2505/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

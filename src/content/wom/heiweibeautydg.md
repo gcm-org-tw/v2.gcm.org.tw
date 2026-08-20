@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-11"
 spec: "每位醫事人員 1 罐(50ml) HEIWEI何謂美 白膜淨去角質泥膜"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/heiweibeauty-001.jpg", "/wp-content/uploads/heiweibeauty-002.jpg", "/wp-content/uploads/heiweibeauty-003.png", "/wp-content/uploads/heiweibeauty-004.jpg", "/wp-content/uploads/heiweibeauty-005.jpeg", "/wp-content/uploads/heiweibeauty-006.jpg", "/wp-content/uploads/heiweibeauty-007.png", "/wp-content/uploads/heiweibeauty-008.png", "/wp-content/uploads/heiweibeauty-009.jpg"]
 legacyId: 32856
 legacyPath: "/wom/heiweibeautydg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

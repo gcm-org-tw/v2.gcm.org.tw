@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2023-11"
 spec: "每位醫事人員領取一組(5條)【亮晶鑽BioShining】 HAP琺瑯質系列牙膏"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/亮晶鑽產品-拷貝.jpg", "/wp-content/uploads/S__258211918_0_0-拷貝.jpg", "/wp-content/uploads/S__258211921_0_0.jpg", "/wp-content/uploads/S__258211918_0_0.jpg", "/wp-content/uploads/S__258211922_0_0-.jpg", "/wp-content/uploads/GCM封面-拷貝.jpg"]
 legacyId: 22679
 legacyPath: "/wom/hapbioshiningtw/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

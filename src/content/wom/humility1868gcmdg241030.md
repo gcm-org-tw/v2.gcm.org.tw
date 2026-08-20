@@ -14,6 +14,7 @@ cycle: "體驗四週"
 announceMonth: "2024-12"
 spec: "每位醫友一盒(8包入)稻穗素基精"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/銷售圖01_0.jpg"]
 legacyId: 24032
 legacyPath: "/wom/humility1868gcmdg241030/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

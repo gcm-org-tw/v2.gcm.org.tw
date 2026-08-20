@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-04"
 spec: "每位醫事人員 歐敏力® 3穩益生菌  1 盒"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/3穩1.png", "/wp-content/uploads/3穩2.png", "/wp-content/uploads/3穩3.png", "/wp-content/uploads/3穩4.png", "/wp-content/uploads/3穩5.png", "/wp-content/uploads/3穩6.png", "/wp-content/uploads/3穩7.png", "/wp-content/uploads/3穩8.png", "/wp-content/uploads/3穩9.png", "/wp-content/uploads/3穩10.png", "/wp-content/uploads/3穩11.png", "/wp-content/uploads/3穩12.png", "/wp-content/uploads/3穩13.png", "/wp-content/uploads/3穩14.png", "/wp-content/uploads/3穩15.png", "/wp-content/uploads/3穩16.png", "/wp-content/uploads/3穩17.png"]
 legacyId: 37499
 legacyPath: "/wom/omni-3win-dg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -5,6 +5,7 @@ updatedDate: "2026-06-22T14:00:46Z"
 heroImage: "/wp-content/uploads/Chiafu-cover.jpg"
 brand: "洽富"
 brandUrl: "https://www.charmingfood.com.tw/products/337090010059"
+gallery: ["/wp-content/uploads/雞精_主圖01加上小綠人標章.jpg", "/wp-content/uploads/雞精_主圖02.jpg", "/wp-content/uploads/雞精_03.jpg", "/wp-content/uploads/雞精_04.jpg", "/wp-content/uploads/雞精_05.jpg", "/wp-content/uploads/雞精_06.jpg", "/wp-content/uploads/雞精_07.jpg", "/wp-content/uploads/雞精_08.jpg", "/wp-content/uploads/雞精_093入.jpg", "/wp-content/uploads/雞精_09.jpg", "/wp-content/uploads/雞精_10.jpg", "/wp-content/uploads/2022/06/GCM-ICON-1.png", "/wp-content/uploads/2022/06/GCM-ICON-2.png", "/wp-content/uploads/2022/06/GCM-ICON-3.png", "/wp-content/uploads/2022/06/GCM-ICON-4.png"]
 legacyId: 40517
 legacyPath: "/wom/charmingfood-chicken-essence-dg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

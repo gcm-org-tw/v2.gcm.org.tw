@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2023-08"
 spec: "每位醫友 3 包(90粒入)SUP365 明日益生菌 夜間Night"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/頁面設計_工作區域-1-1.jpg", "/wp-content/uploads/頁面設計-02-1.jpg", "/wp-content/uploads/頁面設計-03-1.jpg", "/wp-content/uploads/頁面設計-05-1.jpg", "/wp-content/uploads/頁面設計-06-1.jpg", "/wp-content/uploads/頁面設計-07-1.jpg", "/wp-content/uploads/頁面設計-08-1.jpg", "/wp-content/uploads/頁面設計-09-1.jpg", "/wp-content/uploads/頁面設計-10-1.jpg", "/wp-content/uploads/頁面設計-12-1.jpg", "/wp-content/uploads/頁面設計-16-1-scaled.jpg"]
 legacyId: 19977
 legacyPath: "/wom/sup365probioticnightgcmdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

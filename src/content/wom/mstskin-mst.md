@@ -13,6 +13,7 @@ cycle: "4 周"
 announceMonth: "2023-04"
 spec: "每位醫友 1套 魔法先生 MST 保養套組，洗面乳x1+化妝水x1+保濕凝膠x1"
 condition: "所有法定合格醫事人員"
+gallery: ["/wp-content/uploads/MST魔法先生.jpg"]
 legacyId: 3642
 legacyPath: "/wom/mstskin-mst/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

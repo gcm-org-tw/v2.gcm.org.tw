@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-07"
 spec: "每位醫事人員 1 盒(30顆)【S.Y.SHOP】 漾美莓蔓越莓超效益生菌膠囊"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/SYSHOP_001-1.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_02_2.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_03_3.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_04_4.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_05_5.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_06_6.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_07_7.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_08_8.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_09_9.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_10_10.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_11_11.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_12_12.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_13_13.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_14_14.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_15_15.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_16_16.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_17_17.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_19_18.webp", "/wp-content/uploads/漾美莓蔓越莓超效益生菌膠囊_20_19.webp"]
 legacyId: 28505
 legacyPath: "/wom/syshopcranberryprobioticsgcmdg202559/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -13,6 +13,7 @@ cycle: "帶回體驗 4 週，隨時享用"
 announceMonth: "2023-10"
 spec: "每位醫友 21 包 滴雞精升級版乳白色醇雞精華飲(55ml/包)"
 condition: "所有法定合格醫事人員"
+gallery: ["/wp-content/uploads/未命名-62_工作區域-1_01.jpg", "/wp-content/uploads/未命名-62_工作區域-1_02.jpg", "/wp-content/uploads/未命名-62_工作區域-1_03.jpg", "/wp-content/uploads/未命名-62_工作區域-1_04-e1701921642486.jpg", "/wp-content/uploads/未命名-62_工作區域-1_05.jpg", "/wp-content/uploads/未命名-62_工作區域-1_06.jpg", "/wp-content/uploads/未命名-62_工作區域-1_07.jpg", "/wp-content/uploads/未命名-11-05.jpg", "/wp-content/uploads/未命名-11-06.jpg", "/wp-content/uploads/未命名-62_工作區域-1_08.jpg", "/wp-content/uploads/FB-po文_201210.jpg"]
 legacyId: 7680
 legacyPath: "/wom/lyt-birdsnest/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

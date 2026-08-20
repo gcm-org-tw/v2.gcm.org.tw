@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-11"
 spec: "每位醫事人員 1 盒(3g * 30包) SOONOK速可NMN雙膠原蛋白粉"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/soonok-膠原蛋白-edm_01_10.webp", "/wp-content/uploads/soonok-膠原蛋白-edm_02_11.webp", "/wp-content/uploads/soonok-膠原蛋白-edm_03-_1.webp", "/wp-content/uploads/soonok-膠原蛋白-edm_04-_2.webp", "/wp-content/uploads/soonok-膠原蛋白-edm_05_3.webp", "/wp-content/uploads/soonok-膠原蛋白-edm_06-_4.webp", "/wp-content/uploads/soonok-膠原蛋白-edm_07-_5.webp", "/wp-content/uploads/soonok-膠原蛋白-edm_08-_6.webp", "/wp-content/uploads/soonok-膠原蛋白-edm_09-_7.webp", "/wp-content/uploads/soonok-膠原蛋白-edm_10-_8.webp"]
 legacyId: 33220
 legacyPath: "/wom/soonok-i-kyun-gcmdg25917/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2024-11"
 spec: "每位醫事人員領取一盒(30包入)Miss Seesaw 夜舒好眠芝麻E"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/1-4.jpg", "/wp-content/uploads/2-6.jpg", "/wp-content/uploads/3-6.jpg", "/wp-content/uploads/4-7.jpg", "/wp-content/uploads/5-5.jpg", "/wp-content/uploads/6-5.jpg", "/wp-content/uploads/7-5.jpg", "/wp-content/uploads/8-4.jpg", "/wp-content/uploads/9-3.jpg"]
 legacyId: 23333
 legacyPath: "/wom/missseesawe30gcmdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

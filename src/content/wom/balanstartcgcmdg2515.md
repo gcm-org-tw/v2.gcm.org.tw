@@ -13,6 +13,7 @@ cycle: "體驗二週"
 announceMonth: "2025-08"
 spec: "每位醫事人員 1 袋(30粒) 純真C-24H持續型維他命C"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/250512_1000_01_1_11zon.webp", "/wp-content/uploads/250512_1000_02_2_11zon.webp", "/wp-content/uploads/250512_1000_03_3_11zon.webp", "/wp-content/uploads/250512_1000_04_4_11zon.webp", "/wp-content/uploads/250512_1000_05_5_11zon.webp", "/wp-content/uploads/250512_1000_06_6_11zon.webp", "/wp-content/uploads/250512_1000_07_7_11zon.webp", "/wp-content/uploads/250512_1000_08_8_11zon.webp", "/wp-content/uploads/250512_1000_09_9_11zon.webp", "/wp-content/uploads/250512_1000_10_10_11zon.webp", "/wp-content/uploads/250512_1000_11_11_11zon.webp", "/wp-content/uploads/250512_1000_12_12_11zon.webp", "/wp-content/uploads/250512_1000_13_13_11zon.webp", "/wp-content/uploads/250512_1000_15_14_11zon.webp"]
 legacyId: 28677
 legacyPath: "/wom/balanstartcgcmdg2515/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

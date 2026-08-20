@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-01"
 spec: "每位醫事人員 1 套(3瓶) EXO泌髮滾珠瓶套組 10ml/瓶"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/1761125413623-已修改_1-scaled.webp", "/wp-content/uploads/1761125415650-_2_11zon.webp", "/wp-content/uploads/1761125422119-_3_11zon-scaled.webp", "/wp-content/uploads/1761128200653-_4_11zon-scaled.webp"]
 legacyId: 34401
 legacyPath: "/wom/exoviaexo-hgcmdg251112/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

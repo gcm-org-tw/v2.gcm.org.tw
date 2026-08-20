@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-03"
 spec: "每位醫事人員 1 條  8 賦活頸紋霜50 mL"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/image001_11zon-1.webp", "/wp-content/uploads/image008_11zon.webp", "/wp-content/uploads/image009_11zon.webp", "/wp-content/uploads/image010_11zon.webp"]
 legacyId: 36898
 legacyPath: "/wom/gcmdglva8/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

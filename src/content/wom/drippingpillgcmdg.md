@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2023-07"
 spec: "每位醫友一盒(30包入)禾潤堂潤芝眠分散式芝麻素"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/潤芝眠01-1.jpg", "/wp-content/uploads/02-.jpg", "/wp-content/uploads/03-1-1-e1715140322495.jpg", "/wp-content/uploads/04-1-1.jpg", "/wp-content/uploads/05-1.jpg", "/wp-content/uploads/06-2.jpg", "/wp-content/uploads/07-1.jpg", "/wp-content/uploads/08-.jpg", "/wp-content/uploads/09-.jpg", "/wp-content/uploads/10-3.jpg", "/wp-content/uploads/11-.jpg", "/wp-content/uploads/12-.jpg"]
 legacyId: 21373
 legacyPath: "/wom/drippingpillgcmdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

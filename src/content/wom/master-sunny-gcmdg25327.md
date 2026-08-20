@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-06"
 spec: "每位醫事人員 1 罐 美國USFT養色精華"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/USFT_landingpageV5_20250301_頁面_01.webp", "/wp-content/uploads/USFT_landingpageV5_20250301_頁面_02.webp", "/wp-content/uploads/USFT_landingpageV5_20250301_頁面_03.webp", "/wp-content/uploads/USFT_landingpageV5_20250301_頁面_04.webp", "/wp-content/uploads/USFT_landingpageV5_20250301_頁面_05.webp", "/wp-content/uploads/USFT_landingpageV5_20250301_頁面_07.webp", "/wp-content/uploads/USFT_landingpageV5_20250301_頁面_08.webp", "/wp-content/uploads/USFT_landingpageV5_20250301_頁面_09.webp", "/wp-content/uploads/USFT_landingpageV5_20250301_頁面_10.webp", "/wp-content/uploads/USFT_landingpageV5_20250301_頁面_11.webp"]
 legacyId: 27884
 legacyPath: "/wom/master-sunny-gcmdg25327/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

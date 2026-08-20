@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-02"
 spec: "每位醫事人員 1 瓶(50ml) 奧利博士DR.Olymer 髮界小棕瓶"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/醫師鑑賞_LP-小棕瓶.webp"]
 legacyId: 24739
 legacyPath: "/wom/dr-oly-gcmdg124/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

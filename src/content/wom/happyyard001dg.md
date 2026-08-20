@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-12"
 spec: "每位醫事人員 1 盒（6入）快樂田全養沛|植物蛋白均衡營養配方(全素/無添加果糖/燕麥風味)"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/2025-09-醫友健賞團上架圖文-產品資料1_1-scaled.webp", "/wp-content/uploads/2025-09-醫友健賞團上架圖文-產品資料2_2.webp", "/wp-content/uploads/2025-09-醫友健賞團上架圖文-產品資料3_3.webp", "/wp-content/uploads/2025-09-醫友健賞團上架圖文-產品資料4_4.webp", "/wp-content/uploads/2025-09-醫友健賞團上架圖文-產品資料5_5.webp", "/wp-content/uploads/2025-09-醫友健賞團上架圖文-產品資料6_6.webp", "/wp-content/uploads/2025-09-醫友健賞團上架圖文-產品資料7_7.webp", "/wp-content/uploads/2025-09-醫友健賞團上架圖文-產品資料8_8.webp"]
 legacyId: 33599
 legacyPath: "/wom/happyyard001dg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

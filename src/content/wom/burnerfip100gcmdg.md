@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-02"
 spec: "每位醫事人員 2 盒(36包) 船井®FIP100膳食纖維粉"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/01-須審核_1.webp", "/wp-content/uploads/02_2_11zon.webp", "/wp-content/uploads/03-須審核_3.webp", "/wp-content/uploads/04_4_11zon.webp", "/wp-content/uploads/05_5_11zon.webp", "/wp-content/uploads/06_6_11zon.webp", "/wp-content/uploads/07_7_11zon.webp", "/wp-content/uploads/08_8_11zon.webp"]
 legacyId: 36001
 legacyPath: "/wom/burnerfip100gcmdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

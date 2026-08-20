@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-12"
 spec: "每位醫事人員 1 盒(15包，5g/包) 莓適纖BerryFiber(莓果多纖)"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/metaNutri-001.webp", "/wp-content/uploads/metaNutri-002.webp", "/wp-content/uploads/metaNutri-003.webp", "/wp-content/uploads/metaNutri-004.webp"]
 legacyId: 32808
 legacyPath: "/wom/metanutriberryfiberdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

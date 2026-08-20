@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-11"
 spec: "每位醫事人員 1 瓶 Yutakids長效清爽保濕乳(300ml) + 植萃全效修護乳(50ml)"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/長效清爽保濕乳_1_1.webp", "/wp-content/uploads/長效清爽保濕乳_2_2.webp", "/wp-content/uploads/長效清爽保濕乳_3.webp", "/wp-content/uploads/長效清爽保濕乳_3-_3.webp", "/wp-content/uploads/長效清爽保濕乳_4.jpg", "/wp-content/uploads/長效清爽保濕乳_5_5.webp", "/wp-content/uploads/長效清爽保濕乳_6_6.webp", "/wp-content/uploads/長效清爽保濕乳_8.webp", "/wp-content/uploads/長效清爽保濕乳_7_7.webp", "/wp-content/uploads/長效清爽保濕乳_8_8.webp", "/wp-content/uploads/長效清爽保濕乳_9_9.webp", "/wp-content/uploads/長效清爽保濕乳_10_10.webp", "/wp-content/uploads/植萃全效修護乳_1_1.webp", "/wp-content/uploads/植萃全效修護乳_2_2.webp", "/wp-content/uploads/植萃全效修護乳_3_3.webp", "/wp-content/uploads/植萃全效修護乳_4.webp", "/wp-content/uploads/植萃全效修護乳_4_4.webp", "/wp-content/uploads/植萃全效修護乳_5_5.webp", "/wp-content/uploads/植萃全效修護乳_6_6.webp", "/wp-content/uploads/植萃全效修護乳_7_7.webp", "/wp-content/uploads/植萃全效修護乳_8_8.webp", "/wp-content/uploads/植萃全效修護乳_10.webp", "/wp-content/uploads/植萃全效修護乳_9_9.webp", "/wp-content/uploads/植萃全效修護乳_10_10.webp", "/wp-content/uploads/植萃全效修護乳_11_11.webp", "/wp-content/uploads/植萃全效修護乳_12_12.webp"]
 legacyId: 32236
 legacyPath: "/wom/yutakidsgcmdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

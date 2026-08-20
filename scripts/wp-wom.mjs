@@ -5,6 +5,9 @@
  * 商品說明、健賞分數、參與人數、期間、規格全在 JetEngine 自訂欄位裡沒進 REST，
  * 所以只能從前台頁面把渲染結果讀回來。
  *
+ * 商品圖組：舊站商品頁有一整組商品圖（Ｄ-好氣色活顏酵素飲-01…08.jpg），新站原本只有主圖一張。
+ * 取「健賞真心話」之前、頁首之後的所有 uploads 圖片，扣掉頁首 logo 與主圖本身。
+ *
  * 解析策略刻意**不吃 Elementor 的 class**（那串 hash 隨編輯器改版就變），
  * 改用頁面上穩定的中文標籤當錨點：健賞分數／參與醫友／健賞期間／健賞週期／
  * 公佈月份／健賞規格／健賞條件。抓不到就留空並在最後統計，不猜。
@@ -96,8 +99,19 @@ for (const [i, p] of products.entries()) {
     ? lines.slice(startAt + 1, endAt).filter(l => l !== '造訪品牌官網').join('\n')
     : '';
 
+  /* 商品圖組：只取內容區（頁首之後、心得區之前）的圖，順序照版面。 */
+  const bodyStart = html.indexOf('</header>');
+  const bodyEnd = html.indexOf('健賞真心話');
+  const gallery = [...new Set(
+    [...html.slice(bodyStart > 0 ? bodyStart : 0, bodyEnd > 0 ? bodyEnd : html.length)
+      .matchAll(/<img[^>]+src="([^"]*\/wp-content\/uploads\/[^"]+)"/g)]
+      .map(m => decode(m[1]).replace(/^https?:\/\/[^/]+/, ''))
+      .filter(u => !/GCMLOGO|GCM-logo/i.test(u))
+  )];
+
   const detail = {
     id: p.id,
+    gallery,
     title: p.title?.rendered ?? '',
     brand,
     brandUrl,
@@ -114,7 +128,7 @@ for (const [i, p] of products.entries()) {
   if (!detail.description) missing += 1;
   out[p.slug] = detail;
   await writeFile(OUT, JSON.stringify(out, null, 2));
-  console.log(`  [${i + 1}/${products.length}] ${p.slug} → 說明 ${detail.description.length} 字、分數 ${detail.score ?? '—'}、醫友 ${detail.participants ?? '—'}`);
+  console.log(`  [${i + 1}/${products.length}] ${p.slug} → 說明 ${detail.description.length} 字、圖 ${gallery.length} 張、分數 ${detail.score ?? '—'}、醫友 ${detail.participants ?? '—'}`);
 }
 
 console.log(`\n完成：${Object.keys(out).length} 個商品 → ${OUT}（沒抓到說明的 ${missing} 個）`);

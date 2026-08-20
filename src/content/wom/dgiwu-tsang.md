@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2023-09"
 spec: "每位醫友 3 盒 DGI 機能烏龍茶起酥餅(15支/盒裝)"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/DGI-Cookies_bag-A-1.jpeg", "/wp-content/uploads/3-1-2.jpg", "/wp-content/uploads/起酥餅Banner_210804_0-1024x439-2-e1715589678458.jpeg", "/wp-content/uploads/4-1.jpg"]
 legacyId: 5833
 legacyPath: "/wom/dgiwu-tsang/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

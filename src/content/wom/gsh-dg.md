@@ -5,6 +5,7 @@ updatedDate: "2026-07-03T09:57:06Z"
 heroImage: "/wp-content/uploads/CR-Cover0702.jpg"
 brand: "studio GLOW 分子食品"
 brandUrl: "https://www.shopmolecure.com/products/gsh"
+gallery: ["/wp-content/uploads/01-1.png", "/wp-content/uploads/01-2.png", "/wp-content/uploads/01-3-scaled.png", "/wp-content/uploads/01-4-scaled.png", "/wp-content/uploads/02-1-scaled.png", "/wp-content/uploads/02-2.png", "/wp-content/uploads/02-3-1.png", "/wp-content/uploads/02-4.png", "/wp-content/uploads/04.png", "/wp-content/uploads/11-0702.jpg", "/wp-content/uploads/12-3-scaled.jpg", "/wp-content/uploads/2022/06/GCM-ICON-1.png", "/wp-content/uploads/2022/06/GCM-ICON-2.png", "/wp-content/uploads/2022/06/GCM-ICON-3.png", "/wp-content/uploads/2022/06/GCM-ICON-4.png"]
 legacyId: 41563
 legacyPath: "/wom/gsh-dg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

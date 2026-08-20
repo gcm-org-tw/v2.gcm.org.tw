@@ -14,6 +14,7 @@ cycle: "體驗四週"
 announceMonth: "2025-03"
 spec: "每位醫事人員 2 包 睡眠Cupid(28粒入)"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/01_11zon-1-scaled.webp", "/wp-content/uploads/02_11zon-1-scaled.webp", "/wp-content/uploads/03_11zon-1-scaled.webp", "/wp-content/uploads/04_11zon-1-scaled.webp", "/wp-content/uploads/05_11zon-1-scaled.webp", "/wp-content/uploads/06_11zon-1-scaled.webp", "/wp-content/uploads/07_11zon-1-scaled.webp", "/wp-content/uploads/08_11zon-scaled.webp", "/wp-content/uploads/09_11zon-scaled.webp", "/wp-content/uploads/10_11zon-scaled.webp"]
 legacyId: 25828
 legacyPath: "/wom/niccoscupidgcmdg25117/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

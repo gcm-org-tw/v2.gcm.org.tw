@@ -11,6 +11,7 @@ participants: 17
 period: "2023/09/22 ~ 2023/10/22"
 cycle: "每人選擇一款、領取一雙，帶回體驗即穿點評！"
 announceMonth: "2023-10"
+gallery: ["/wp-content/uploads/original-1.png"]
 legacyId: 11630
 legacyPath: "/wom/feebees/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

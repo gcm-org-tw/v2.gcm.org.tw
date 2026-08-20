@@ -12,6 +12,7 @@ cycle: "體驗四週"
 announceMonth: "2024-12"
 spec: "每位醫事人員領取 1 盒(40粒/20包入) PrawnPower蝦能膠囊"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/01-9-scaled.jpg", "/wp-content/uploads/02-7-scaled.jpg", "/wp-content/uploads/03-5-scaled.jpg", "/wp-content/uploads/04-7-scaled.jpg", "/wp-content/uploads/05-3-scaled.jpg", "/wp-content/uploads/06-3-scaled.jpg", "/wp-content/uploads/07-2-scaled.jpg", "/wp-content/uploads/10-4-scaled.jpg", "/wp-content/uploads/11-3-scaled.jpg"]
 legacyId: 22240
 legacyPath: "/wom/prawnpowergcmdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

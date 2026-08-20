@@ -14,6 +14,7 @@ cycle: "4 周"
 announceMonth: "2023-07"
 spec: "每位醫友 2 盒 自然匯高麗菜胸膜(全新)"
 condition: "所有法定合格醫事人員"
+gallery: ["/wp-content/uploads/0-1-1.jpg", "/wp-content/uploads/1-1-1.jpeg", "/wp-content/uploads/2-1-1.jpeg", "/wp-content/uploads/3-1-1.jpg", "/wp-content/uploads/4-1-1.jpg", "/wp-content/uploads/5-1-1.jpg", "/wp-content/uploads/6-1-1.jpeg", "/wp-content/uploads/7-1-1.jpeg", "/wp-content/uploads/8-1-1.jpg", "/wp-content/uploads/9-1-1.jpeg"]
 legacyId: 6466
 legacyPath: "/wom/innature8749279/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

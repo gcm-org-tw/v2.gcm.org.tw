@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-05"
 spec: "每位醫事人員 【Trilogy】有機全效性純玫瑰果油  1 罐 (20ml)"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/4-1玫瑰果油20ml.png", "/wp-content/uploads/4-2玫瑰果油20ml.jpg", "/wp-content/uploads/4-3玫瑰果油20ml.png", "/wp-content/uploads/4-4玫瑰果油20ml.png", "/wp-content/uploads/1-1玫瑰果油45ml.jpg"]
 legacyId: 37621
 legacyPath: "/wom/trilogy-rose-oil/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

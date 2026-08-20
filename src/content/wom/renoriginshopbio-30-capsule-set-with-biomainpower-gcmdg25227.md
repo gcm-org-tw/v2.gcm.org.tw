@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-05"
 spec: "每位醫事人員1瓶 肌活麗學 倍而PLUS 3合1 乳鐵益菌(30粒/瓶)"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/倍而冕益_4_01-1.webp", "/wp-content/uploads/倍而冕益_4_02.webp", "/wp-content/uploads/倍而冕益_4_03.webp", "/wp-content/uploads/倍而冕益_4_04.webp", "/wp-content/uploads/倍而冕益_4_05.webp", "/wp-content/uploads/倍而冕益_4_06.webp"]
 legacyId: 26882
 legacyPath: "/wom/renoriginshopbio-30-capsule-set-with-biomainpower-gcmdg25227/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

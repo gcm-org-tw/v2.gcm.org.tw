@@ -14,6 +14,7 @@ cycle: "體驗四週！"
 announceMonth: "2024-04"
 spec: "每位醫友 8 包纖維飲，可可x3、抹茶x2、莓果x2、鮮蔬雞白湯x1"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/FIBHER-01.jpg", "/wp-content/uploads/FIBHER-02.jpg", "/wp-content/uploads/FIBHER-03.jpg", "/wp-content/uploads/FIBHER-04.jpg", "/wp-content/uploads/FIBHER-08.jpg"]
 legacyId: 19572
 legacyPath: "/wom/fibher/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

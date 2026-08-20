@@ -13,6 +13,7 @@ cycle: "體驗四週！"
 announceMonth: "2023-08"
 spec: "每位醫友 1 盒 好酒不見 OK 錠"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/3-5.jpg", "/wp-content/uploads/4-5.jpg", "/wp-content/uploads/5-2-1.jpg", "/wp-content/uploads/6-3.jpg", "/wp-content/uploads/7-3.jpg", "/wp-content/uploads/8-2.jpg", "/wp-content/uploads/10-2.jpg", "/wp-content/uploads/11-2.jpg"]
 legacyId: 6206
 legacyPath: "/wom/beautystarbio/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

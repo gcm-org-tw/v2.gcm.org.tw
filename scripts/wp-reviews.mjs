@@ -114,8 +114,16 @@ function parseItems(gridHtml) {
     const head = nodes.slice(0, dateAt);
     const score = scoreAt > dateAt ? Number(nodes.slice(dateAt + 1, scoreAt).find(n => /^\d+(\.\d+)?$/.test(n))) : null;
     const body = nodes.slice(scoreAt > 0 ? scoreAt + 1 : dateAt + 1);
+    /* 醫友自己上傳的體驗照：JetEngine 表單的附件，網址在 /wp-content/uploads/jet-engine-forms/ 底下。
+     * 舊站的心得卡片上會展示，新站原本一張都沒有。 */
+    const photos = [...new Set(
+      [...raw.matchAll(/(?:src|href)="([^"]*\/wp-content\/uploads\/jet-engine-forms\/[^"]+)"/g)]
+        .map(m => decode(m[1]).replace(/^https?:\/\/[^/]+/, ''))
+    )];
+
     return {
       postId,
+      photos,
       // 舊站這一欄有三種形態：只有暱稱、「職稱＋姓名」、「職稱＋姓名＋暱稱」，
       // 所以第一段當職稱、其餘整串留著，不要只取最後一段（會把本名丟掉）
       authorTitle: head.length > 1 ? head[0] : '',

@@ -13,6 +13,7 @@ cycle: "體驗四週！"
 announceMonth: "2023-05"
 spec: "每位醫友 10包 【NISORO】鳳梨寡糖酵素飲 3.0 30ml/包"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/01_鳳梨寡糖酵素飲.jpg", "/wp-content/uploads/02_鳳梨寡糖酵素飲.jpg", "/wp-content/uploads/03_鳳梨寡糖酵素飲-2.jpg", "/wp-content/uploads/04_鳳梨寡糖酵素飲-2.jpg", "/wp-content/uploads/05_鳳梨寡糖酵素飲-2.jpg", "/wp-content/uploads/06_鳳梨寡糖酵素飲-2.jpg", "/wp-content/uploads/07_鳳梨寡糖酵素飲.jpg", "/wp-content/uploads/08_鳳梨寡糖酵素飲.jpg", "/wp-content/uploads/09_鳳梨寡糖酵素飲-2.jpg", "/wp-content/uploads/10_鳳梨寡糖酵素飲-2.jpg", "/wp-content/uploads/11_鳳梨寡糖酵素飲-2.jpg", "/wp-content/uploads/12_注意事項_0229-2.jpg"]
 legacyId: 20104
 legacyPath: "/wom/nisoro/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -11,6 +11,7 @@ participants: 55
 period: "2023/10/20 ~ 2023/11/20"
 cycle: "每人領取 4 盒，體驗四週"
 announceMonth: "2023/12"
+gallery: ["/wp-content/uploads/Ai-luo-xian-02.jpg", "/wp-content/uploads/Ai-luo-xian-03.jpg", "/wp-content/uploads/Ai-luo-xian-04.jpg", "/wp-content/uploads/Ai-luo-xian-05-1.jpg", "/wp-content/uploads/Ai-luo-xian-06-1.jpg", "/wp-content/uploads/Ai-luo-xian-07.jpg", "/wp-content/uploads/Ai-luo-xian-08.jpg", "/wp-content/uploads/Ai-luo-xian-10.jpg", "/wp-content/uploads/Ai-luo-xian-11.jpg", "/wp-content/uploads/Ai-luo-xian-12.jpg", "/wp-content/uploads/Ai-luo-xian-13.jpg", "/wp-content/uploads/Ai-luo-xian-15.jpg", "/wp-content/uploads/Ai-luo-xian-16.jpg"]
 legacyId: 11247
 legacyPath: "/wom/greenunion/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

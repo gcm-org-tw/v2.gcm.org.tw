@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-05"
 spec: "每位醫事人員 1 瓶(250ml) 金貿超臨界印加果油"
 condition: "法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/original-01.jpg", "/wp-content/uploads/original-02.jpg", "/wp-content/uploads/original-03.jpg", "/wp-content/uploads/original-04.jpg", "/wp-content/uploads/original-05.jpg", "/wp-content/uploads/original-06.jpg", "/wp-content/uploads/original-07.jpg", "/wp-content/uploads/original-08.jpg", "/wp-content/uploads/original-09.jpg", "/wp-content/uploads/original-10-1.jpg", "/wp-content/uploads/original-11-1.jpg"]
 legacyId: 26538
 legacyPath: "/wom/king-mao-jssio-gcmdg22125/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -13,6 +13,7 @@ cycle: "4 周"
 announceMonth: "2023-05"
 spec: "每位醫友 3條 貝利達益生菌牙膏(全新)"
 condition: "所有法定合格醫事人員"
+gallery: ["/wp-content/uploads/biorepair-01.jpg", "/wp-content/uploads/biorepair-02.jpg", "/wp-content/uploads/biorepair-03.jpg", "/wp-content/uploads/biorepair-04.jpg", "/wp-content/uploads/biorepair-05.jpg", "/wp-content/uploads/biorepair-06.jpg", "/wp-content/uploads/biorepair-07.jpg", "/wp-content/uploads/biorepair-08.gif", "/wp-content/uploads/biorepair-09.jpg", "/wp-content/uploads/biorepair-09-1.gif", "/wp-content/uploads/biorepair-10.jpg", "/wp-content/uploads/biorepair-10-1.gif", "/wp-content/uploads/biorepair-11.jpg", "/wp-content/uploads/biorepair-11-1.gif", "/wp-content/uploads/biorepair-12-e1705920204917.jpg", "/wp-content/uploads/biorepair-13.jpg", "/wp-content/uploads/biorepair-14.jpg", "/wp-content/uploads/biorepair-15-e1705920229468.jpg"]
 legacyId: 3686
 legacyPath: "/wom/biorepairplus/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

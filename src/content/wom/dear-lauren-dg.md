@@ -4,6 +4,7 @@ pubDate: "2026-07-29T07:59:06Z"
 heroImage: "/wp-content/uploads/Dear-Lauren-co.jpg"
 brand: "DEAR LAUREN"
 brandUrl: "https://www.idealism.tw/dearlauren"
+gallery: ["/wp-content/uploads/Dear-Lauren-00.jpg", "/wp-content/uploads/01-13.jpg", "/wp-content/uploads/02-10.jpg", "/wp-content/uploads/04-11.jpg", "/wp-content/uploads/06-5.jpg", "/wp-content/uploads/07-4.jpg", "/wp-content/uploads/09-3.jpg", "/wp-content/uploads/10-5.jpg", "/wp-content/uploads/11-5.jpg", "/wp-content/uploads/12-4.jpg", "/wp-content/uploads/13-2.jpg", "/wp-content/uploads/14-3.jpg", "/wp-content/uploads/15-2.jpg", "/wp-content/uploads/16-3.jpg", "/wp-content/uploads/17-2.jpg", "/wp-content/uploads/18.jpg", "/wp-content/uploads/19.jpg", "/wp-content/uploads/20-1.jpg", "/wp-content/uploads/21-1.jpg", "/wp-content/uploads/22-1.jpg", "/wp-content/uploads/23-1.jpg", "/wp-content/uploads/2022/06/GCM-ICON-1.png", "/wp-content/uploads/2022/06/GCM-ICON-2.png", "/wp-content/uploads/2022/06/GCM-ICON-3.png", "/wp-content/uploads/2022/06/GCM-ICON-4.png"]
 legacyId: 42499
 legacyPath: "/wom/dear-lauren-dg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

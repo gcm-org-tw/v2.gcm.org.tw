@@ -6,17 +6,17 @@
  * 這支對每一條網址同時抓舊站與新站，比對可見文字量、圖片、站內連結與標題階層，
  * 差距超過門檻就列出來給人看。
  *
- * ⚠ 舊站是 LiteSpeed 共享主機、很脆（曾被高併發打到失去回應 20 分鐘）——
- *   所以**序列**、每次請求間隔 DELAY。7,410 條要跑數小時，這是刻意的。
+ * ⚠ 舊站是 LiteSpeed 共享主機、很脆：2026-08-19 我用 concurrency 20 掃描它，
+ *   整站 TCP 443 失去回應約 20 分鐘。同一次事故也測出安全值——**concurrency 3 ＋每檔 150ms**
+ *   跑完 11,725 檔 0 失敗、未再干擾。所以這裡預設併發 3、每請求間隔 DELAY，
+ *   不是序列（序列是我一度過度保守，比實測安全值還慢六倍）。
  *   進度落在 .source/compare.json，中斷重跑會跳過已比對的網址。
  *
  * 順序：先跑非 blog（首頁、WP 頁面、健賞、活動、潔淨標章、Podcast、列表頁），
  * 因為那些是 Elementor/JetEngine 組版、出事機率最高；blog 內文走 REST 相對安全，排後面。
  *
- * /review/ 那 4,144 條預設只抽驗（--review-sample，預設 50）：兩邊都沒有內容可比——
- * 舊站是空殼頁（單頁只有選單頁尾，實測過），新站是 meta-refresh 轉址頁。全跑會得到
- * 四千條假警報，還要讓脆弱的舊站多吃八千次請求、多花六小時。抽驗是為了驗證
- * 「舊站那批確實沒有內容」這個前提，不是為了比對內容。--review-sample 0 可全跑。
+ * **預設全跑，不抽驗**（用戶 2026-08-19 明示：要準備指令完整確認過，不是抽驗）。
+ * --review-sample N 仍可只跑 N 條 /review/，但那是趕時間時的權宜，不是預設。
  *
  * 用法：node scripts/compare-old-new.mjs [--delay 1200] [--limit N] [--only <路徑片段>]
  *                                        [--review-sample 50]
@@ -26,10 +26,11 @@ import { SITE_URL } from '../site.config.mjs';
 
 const args = process.argv.slice(2);
 const argVal = (n, d) => (args.includes(n) ? args[args.indexOf(n) + 1] : d);
-const DELAY = Number(argVal('--delay', 1200));
+const DELAY = Number(argVal('--delay', 150));
+const WORKERS = Number(argVal('--workers', 3));
 const LIMIT = args.includes('--limit') ? Number(argVal('--limit')) : Infinity;
 const ONLY = argVal('--only', null);
-const REVIEW_SAMPLE = Number(argVal('--review-sample', 50));
+const REVIEW_SAMPLE = Number(argVal('--review-sample', 0));
 const OLD = 'https://gcm.org.tw';
 const NEW = SITE_URL.replace(/\/$/, '');
 const OUT = '.source/compare.json';
@@ -117,12 +118,18 @@ if (REVIEW_SAMPLE > 0) {
 
 const done = await readFile(OUT, 'utf8').then(JSON.parse).catch(() => ({}));
 const todo = order.filter(p => !done[p]).slice(0, LIMIT);
-console.log(`契約 ${order.length} 條，已比對 ${Object.keys(done).length} 條，本輪 ${todo.length} 條（序列、間隔 ${DELAY}ms）`);
+console.log(`契約 ${order.length} 條，已比對 ${Object.keys(done).length} 條，本輪 ${todo.length} 條（併發 ${WORKERS}、間隔 ${DELAY}ms）`);
 
 const enc = p => p.split('/').map(encodeURIComponent).join('/');
 let flagged = 0;
 
-for (const [i, path] of todo.entries()) {
+let cursor = 0;
+let processed = 0;
+
+async function worker() {
+  while (cursor < todo.length) {
+  const i = cursor++;
+  const path = todo[i];
   await sleep(DELAY);
   const o = await get(OLD + enc(path));
   const n = await get(NEW + enc(path));
@@ -142,16 +149,23 @@ for (const [i, path] of todo.entries()) {
     if (missingLinks.length > 2) issues.push(`少 ${missingLinks.length} 條站內連結`);
   }
 
+  /* 圖片清單**完整存下來**，不截斷：這份同時是「舊站到底有哪些圖」的清冊，
+   * 鏡像與 R2 的對帳要拿它當基準。先前只存前 20 筆，等於自己把帳做窄了。 */
   done[path] = { old: om.chars, new: nm.chars, ratio: Number(ratio.toFixed(2)),
+                 oldImgList: om.imgs, newImgList: nm.imgs,
                  oldImgs: om.imgs.length, newImgs: nm.imgs.length,
-                 missingImgs: missingImgs.slice(0, 20), missingLinks: missingLinks.slice(0, 20),
+                 missingImgs, missingLinks: missingLinks.slice(0, 40),
                  status: [o.status, n.status], issues };
   if (issues.length) { flagged += 1; console.log(`  ✗ ${path}　${issues.join('、')}`); }
-  if ((i + 1) % 25 === 0) {
+  processed += 1;
+  if (processed % 50 === 0) {
     await writeFile(OUT, JSON.stringify(done, null, 2));
-    console.log(`  … ${i + 1}/${todo.length}　目前有問題 ${flagged} 條`);
+    console.log(`  … ${processed}/${todo.length}　目前有問題 ${flagged} 條`);
+  }
   }
 }
+
+await Promise.all(Array.from({ length: WORKERS }, () => worker()));
 
 await writeFile(OUT, JSON.stringify(done, null, 2));
 const all = Object.entries(done);

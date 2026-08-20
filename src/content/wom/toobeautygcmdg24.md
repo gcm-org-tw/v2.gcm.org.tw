@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-03"
 spec: "每位醫事人員 1 套 ,too beauty 保濕無瑕底妝套組（礦物粉底+B03粉底刷）+淨透平衡洗顏粉"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/1GCM保濕無瑕底妝組.webp", "/wp-content/uploads/2GCM保濕無瑕底妝組.webp", "/wp-content/uploads/3GCM保濕無瑕底妝組.webp", "/wp-content/uploads/4GCM保濕無瑕底妝組.webp", "/wp-content/uploads/5GCM保濕無瑕底妝組.webp", "/wp-content/uploads/6GCM保濕無瑕底妝組.webp", "/wp-content/uploads/1淨透平衡洗顏粉.webp", "/wp-content/uploads/2淨透平衡洗顏粉.webp", "/wp-content/uploads/3淨透平衡洗顏粉.webp", "/wp-content/uploads/4淨透平衡洗顏粉.webp", "/wp-content/uploads/5淨透平衡洗顏粉.webp", "/wp-content/uploads/5-2淨透平衡洗顏粉.webp", "/wp-content/uploads/6淨透平衡洗顏粉.webp", "/wp-content/uploads/7淨透平衡洗顏粉.webp"]
 legacyId: 25310
 legacyPath: "/wom/toobeautygcmdg24/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

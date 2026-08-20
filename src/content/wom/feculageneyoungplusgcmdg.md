@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2024-12"
 spec: "每位醫事人員一罐(60粒入)澄交生技 菌泳PLUS+益生菌"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/1-菌泳PLUS產品敘述.jpg", "/wp-content/uploads/2-菌泳PLUS產品敘述.jpg", "/wp-content/uploads/3-菌泳PLUS.jpg", "/wp-content/uploads/4-產品介紹_包埋技術-scaled.jpg", "/wp-content/uploads/5-全產品_slogan-01.jpg", "/wp-content/uploads/6-菌泳PLUS-營養標示.jpg"]
 legacyId: 23539
 legacyPath: "/wom/feculageneyoungplusgcmdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

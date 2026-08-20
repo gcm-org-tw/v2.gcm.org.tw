@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-01"
 spec: "每位醫事人員 1 盒 男人の健康 肽力嗨-升級版｜男性保健複合功能性配方 (4粒/盒)"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/肽力嗨_LP_N-01-.webp", "/wp-content/uploads/肽力嗨_LP_N-02-.webp", "/wp-content/uploads/肽力嗨_LP_N-03-.webp", "/wp-content/uploads/肽力嗨_LP_N-04.webp", "/wp-content/uploads/肽力嗨_LP_N-05-.webp", "/wp-content/uploads/肽力嗨_LP_N-06.webp", "/wp-content/uploads/肽力嗨_LP_N-07-.webp"]
 legacyId: 34008
 legacyPath: "/wom/lpngcmdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

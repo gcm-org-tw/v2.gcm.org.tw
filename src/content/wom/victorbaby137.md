@@ -13,6 +13,7 @@ cycle: "每位醫友領取：「水蜜桃 30顆裝 * 1 盒+ 7 顆裝 * 2包」�
 announceMonth: "2024-02"
 spec: "每位醫友領取：「水蜜桃 30顆裝 * 1 盒+ 7 顆裝 * 2包」＋「荔枝 30顆裝 * 1 盒+ 7 顆裝 * 2包」"
 condition: "法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/蘋果荔枝-01.jpg", "/wp-content/uploads/蘋果荔枝-02.jpg", "/wp-content/uploads/蘋果荔枝-03.jpg", "/wp-content/uploads/蘋果荔枝-04.jpg", "/wp-content/uploads/蘋果荔枝-05.jpg", "/wp-content/uploads/蘋果荔枝-06.jpg", "/wp-content/uploads/蘋果荔枝-07.jpg", "/wp-content/uploads/蘋果荔枝-08.jpg", "/wp-content/uploads/蘋果荔枝-09.jpg", "/wp-content/uploads/蘋果荔枝-10.jpg", "/wp-content/uploads/蘋果荔枝-11.jpg", "/wp-content/uploads/蘋果荔枝-12.jpg", "/wp-content/uploads/蘋果荔枝-13.jpg", "/wp-content/uploads/蘋果荔枝-14.jpg", "/wp-content/uploads/水蜜桃-01.jpg", "/wp-content/uploads/水蜜桃-02.jpg", "/wp-content/uploads/水蜜桃-03.jpg", "/wp-content/uploads/水蜜桃-04.jpg", "/wp-content/uploads/水蜜桃-05.jpg", "/wp-content/uploads/06-1.jpg", "/wp-content/uploads/水蜜桃-07.jpg", "/wp-content/uploads/08-複製-1.jpg", "/wp-content/uploads/08-複製-2.jpg", "/wp-content/uploads/水蜜桃-10.jpg", "/wp-content/uploads/水蜜桃-11.jpg", "/wp-content/uploads/水蜜桃-12.jpg", "/wp-content/uploads/水蜜桃-13.jpg", "/wp-content/uploads/水蜜桃-14.jpg", "/wp-content/uploads/水蜜桃-15.jpg"]
 legacyId: 16017
 legacyPath: "/wom/victorbaby137/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

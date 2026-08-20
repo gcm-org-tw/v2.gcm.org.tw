@@ -13,6 +13,7 @@ cycle: "每人 1 組 【BeautyWa 美麗娃】水光精華 體驗四週！"
 announceMonth: "2023-11"
 spec: "每位醫友 1 組【BeautyWa 美麗娃】水光精華"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/2023-08-水光銷售頁-韓國名媛百萬-1-1.jpg"]
 legacyId: 10459
 legacyPath: "/wom/beautywa/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

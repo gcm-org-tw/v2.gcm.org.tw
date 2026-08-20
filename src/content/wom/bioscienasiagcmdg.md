@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2023-09"
 spec: "每位醫友領取一瓶 【德國沛優絲BIOSCIEN】 AR 速效精華"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/BIOSCIEN-AR-1.jpg", "/wp-content/uploads/BIOSCIEN-AR-2.jpg", "/wp-content/uploads/BIOSCIEN-AR-3.jpg", "/wp-content/uploads/BIOSCIEN-AR-4.jpg", "/wp-content/uploads/BIOSCIEN-AR-5.jpg", "/wp-content/uploads/BIOSCIEN-AR-6-scaled.jpg", "/wp-content/uploads/BIOSCIEN-AR-7.jpg", "/wp-content/uploads/BIOSCIEN-AR-8.jpg", "/wp-content/uploads/BIOSCIEN-AR-9.jpg", "/wp-content/uploads/BIOSCIEN-AR-10.jpg"]
 legacyId: 22121
 legacyPath: "/wom/bioscienasiagcmdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

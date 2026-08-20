@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-11"
 spec: "每位醫事人員 1 盒(60顆) 船井®burner®倍熱®極纖錠"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/1_11zon.webp", "/wp-content/uploads/2_11zon.jpg", "/wp-content/uploads/3_11zon.webp", "/wp-content/uploads/4_11zon.webp", "/wp-content/uploads/5_11zon.webp"]
 legacyId: 31225
 legacyPath: "/wom/funaicareburner-sr15x5gcmdg25711/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

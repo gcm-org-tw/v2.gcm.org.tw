@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-04"
 spec: "每位醫事人員 【DAY JUICE 果日飲】鮮級1號‐蘿蔔硫素冷壓蔬果鮮級飲  6 罐"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/健賞團-newweb-w1000-0.png", "/wp-content/uploads/健賞團-newweb-w1000-01.jpg", "/wp-content/uploads/健賞團-newweb-w1000-02.png", "/wp-content/uploads/健賞團-newweb-w1000-03.jpg", "/wp-content/uploads/健賞團-newweb-w1000-05.png", "/wp-content/uploads/健賞團-newweb-w1000-06.png", "/wp-content/uploads/健賞團-newweb-w1000-07.png", "/wp-content/uploads/健賞團-newweb-w1000-08.png", "/wp-content/uploads/健賞團-newweb-w1000-09.jpg", "/wp-content/uploads/健賞團-newweb-w1000-10.jpg", "/wp-content/uploads/健賞團-newweb-w1000-11.jpg", "/wp-content/uploads/健賞團-newweb-w1000-12.jpg", "/wp-content/uploads/健賞團-newweb-w1000-13.jpg", "/wp-content/uploads/健賞團-newweb-w100014.jpg"]
 legacyId: 37590
 legacyPath: "/wom/day-juice-broccoli3-dg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

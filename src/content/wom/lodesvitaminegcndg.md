@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2023-06"
 spec: "每位醫友一罐(60粒入)還原E青春膠囊"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/工作區域-1.jpg", "/wp-content/uploads/工作區域-2.jpg", "/wp-content/uploads/工作區域-3-e1712631587151.jpg", "/wp-content/uploads/工作區域-4-e1712631549590.jpg", "/wp-content/uploads/工作區域-5.jpg", "/wp-content/uploads/工作區域-6.jpg", "/wp-content/uploads/工作區域-7.jpg", "/wp-content/uploads/工作區域-8.jpg", "/wp-content/uploads/工作區域-9.jpg", "/wp-content/uploads/工作區域-10.jpg", "/wp-content/uploads/工作區域-11.jpg", "/wp-content/uploads/工作區域-12.jpg", "/wp-content/uploads/工作區域-13.jpg", "/wp-content/uploads/工作區域-14.jpg", "/wp-content/uploads/工作區域-15.jpg"]
 legacyId: 13989
 legacyPath: "/wom/lodesvitaminegcndg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

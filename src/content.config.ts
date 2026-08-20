@@ -51,6 +51,7 @@ const wom = defineCollection({
     announceMonth: z.string().optional(),
     spec: z.string().optional(),
     condition: z.string().optional(),
+    gallery: z.array(z.string()).default([]),
   }),
 });
 

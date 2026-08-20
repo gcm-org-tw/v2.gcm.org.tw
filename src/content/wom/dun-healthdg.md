@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-11"
 spec: "每位醫事人員領取 1 盒 敦和堂 滴雞精60g（5入/盒）"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/dun-health001_11zon.webp", "/wp-content/uploads/dun-health002_11zon.webp", "/wp-content/uploads/dun-health003_11zon.webp", "/wp-content/uploads/dun-health004_11zon.webp", "/wp-content/uploads/dun-health005_11zon.webp", "/wp-content/uploads/dun-health006_11zon.webp", "/wp-content/uploads/dun-health007_11zon.webp", "/wp-content/uploads/dun-health008_11zon.webp", "/wp-content/uploads/dun-health009_11zon.webp"]
 legacyId: 32841
 legacyPath: "/wom/dun-healthdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-12"
 spec: "每位醫事人員 1 盒(60粒) 【敦和堂】 紅景天複方膠囊(西藏紅景天濃縮精華)"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/dun-healthRS001_2_11zon.webp", "/wp-content/uploads/dun-healthRS002_3_11zon.webp", "/wp-content/uploads/dun-healthRS003_4_11zon.webp", "/wp-content/uploads/dun-healthRS004_5_11zon.webp", "/wp-content/uploads/dun-healthRS005_6_11zon.webp", "/wp-content/uploads/dun-healthRS006_7_11zon.webp", "/wp-content/uploads/dun-healthRS007_8_11zon.webp", "/wp-content/uploads/dun-healthRS008_9_11zon.webp", "/wp-content/uploads/dun-healthRS009_10_11zon.webp", "/wp-content/uploads/dun-healthRS010_11_11zon.webp", "/wp-content/uploads/dun-healthRS011_12_11zon.webp", "/wp-content/uploads/dun-healthRS012_13_11zon.webp", "/wp-content/uploads/dun-healthRS013_14_11zon.webp"]
 legacyId: 32814
 legacyPath: "/wom/dun-healthdg-2/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

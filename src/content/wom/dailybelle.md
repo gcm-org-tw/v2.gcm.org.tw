@@ -13,6 +13,7 @@ cycle: "至門市現場量身推薦後，帶回腰夾體驗 4 週"
 announceMonth: "2023-07"
 spec: "每位醫友 1 組 黛莉貝爾腰夾(全新)，至全台指定門市量身推薦"
 condition: "所有法定合格醫事人員"
+gallery: ["/wp-content/uploads/0.jpeg"]
 legacyId: 5812
 legacyPath: "/wom/dailybelle/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

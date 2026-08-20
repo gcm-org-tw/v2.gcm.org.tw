@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2024-12"
 spec: "每位醫友領取一瓶 【德國沛優絲BIOSCIEN】 AR 速效精華"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/1萬寶祿-醫師鑑賞團上架（詳細產品資料）-1-拷貝.jpg", "/wp-content/uploads/2萬寶祿-醫師鑑賞團上架（詳細產品資料）-2-拷貝.jpg", "/wp-content/uploads/3萬寶祿-醫師鑑賞團上架（詳細產品資料）-3-拷貝.jpg", "/wp-content/uploads/4萬寶祿-醫師鑑賞團上架（詳細產品資料）-4-拷貝.jpg", "/wp-content/uploads/5萬寶祿-醫師鑑賞團上架（詳細產品資料）-5-拷貝.jpg", "/wp-content/uploads/6萬寶祿-醫師鑑賞團上架（詳細產品資料）-6-拷貝.jpg", "/wp-content/uploads/7萬寶祿-醫師鑑賞團上架（詳細產品資料）-7-拷貝.jpg"]
 legacyId: 23489
 legacyPath: "/wom/onepowergcmdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-04"
 spec: "每位醫事人員 5 款 Biogut Plus 牙麗好 HAP琺瑯質系列牙膏"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/1S__44679234_0-拷貝.jpg", "/wp-content/uploads/5S__44679239_0.jpg", "/wp-content/uploads/3S__44679237_0.jpg", "/wp-content/uploads/2S__44679238_0.jpg", "/wp-content/uploads/4S__44679236_0.jpg"]
 legacyId: 24428
 legacyPath: "/wom/biogutplushapgcmdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

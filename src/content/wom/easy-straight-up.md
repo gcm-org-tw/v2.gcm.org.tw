@@ -13,6 +13,7 @@ cycle: "每位醫友領取： 1 件 【KXL Taiwan】拉拉衫穿四體驗週"
 announceMonth: "2024-02"
 spec: "每位醫友領取： 1 件 【KXL Taiwan】拉拉衫- 素T外型日常防駝衣 男女可自選顏色尺寸！"
 condition: "法定合格醫事人員均可參加，物理治療師、復健科醫師、骨科醫師優先體驗"
+gallery: ["/wp-content/uploads/KXL-拉拉衫-女短版Ｖ領商品頁_頁面_01.jpg", "/wp-content/uploads/KXL-拉拉衫-女短版Ｖ領商品頁_頁面_02.jpg", "/wp-content/uploads/KXL-拉拉衫-女短版Ｖ領商品頁_頁面_03.jpg", "/wp-content/uploads/KXL-拉拉衫-女短版Ｖ領商品頁_頁面_04.jpg", "/wp-content/uploads/KXL-拉拉衫-女短版Ｖ領商品頁_頁面_05.jpg", "/wp-content/uploads/KXL-拉拉衫-女短版Ｖ領商品頁_頁面_06.jpg", "/wp-content/uploads/KXL-拉拉衫-女短版Ｖ領商品頁_頁面_07.jpg", "/wp-content/uploads/KXL-拉拉衫-女短版Ｖ領商品頁_頁面_08.jpg", "/wp-content/uploads/KXL-拉拉衫-女短版Ｖ領商品頁_頁面_09.jpg", "/wp-content/uploads/KXL-拉拉衫-女短版Ｖ領商品頁_頁面_10.jpg", "/wp-content/uploads/KXL-拉拉衫-女短版Ｖ領商品頁_頁面_11.jpg", "/wp-content/uploads/KXL-拉拉衫-女短版Ｖ領商品頁_頁面_12.jpg", "/wp-content/uploads/KXL-拉拉衫-女短版Ｖ領商品頁_頁面_13.jpg", "/wp-content/uploads/KXL-拉拉衫-女短版Ｖ領商品頁_頁面_14.jpg", "/wp-content/uploads/2024拉拉衫最新尺寸表男女款.jpg", "/wp-content/uploads/KXL拉拉衫中華民國專利證書-新型駝背矯正衣_M644074-scaled.jpg"]
 legacyId: 15457
 legacyPath: "/wom/easy-straight-up/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

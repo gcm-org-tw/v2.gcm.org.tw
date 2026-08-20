@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-12"
 spec: "每位醫事人員 1 條(18錠入) 【BOOST博世特】 IMMU草本益木活力發泡飲18錠-葡萄"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/博世特_01_11.webp", "/wp-content/uploads/博世特_02.webp", "/wp-content/uploads/博世特_03_12.webp", "/wp-content/uploads/博世特_04_13.webp", "/wp-content/uploads/博世特_05_1.webp", "/wp-content/uploads/博世特_06_2.webp", "/wp-content/uploads/博世特_07_3.webp", "/wp-content/uploads/博世特_08_4.webp", "/wp-content/uploads/博世特_09_5.webp", "/wp-content/uploads/博世特_10-_6.webp", "/wp-content/uploads/博世特_11_7.webp", "/wp-content/uploads/博世特_12_8.webp", "/wp-content/uploads/博世特_13_9.webp"]
 legacyId: 33566
 legacyPath: "/wom/borahealthshopimmugcmdg25117/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

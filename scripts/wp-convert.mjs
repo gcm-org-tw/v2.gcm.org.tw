@@ -328,6 +328,15 @@ for (const [type, cfg] of Object.entries(COLLECTIONS)) {
         detail.announceMonth ? `announceMonth: ${yaml(detail.announceMonth)}` : null,
         detail.spec ? `spec: ${yaml(detail.spec)}` : null,
         detail.condition ? `condition: ${yaml(detail.condition)}` : null,
+        /* 商品圖組：扣掉主圖本身（免得同一張出現兩次），也扣掉舊站已失效的圖
+         * （實測 301 導回首頁、檔案不存在）——判準同作者頭像：鏡像裡有沒有這個檔。 */
+        (() => {
+          const heroPath = hero?.source_url ? hero.source_url.replace(SITE, '') : '';
+          const list = (detail.gallery ?? [])
+            .filter(u => u !== heroPath)
+            .filter(u => existsSync(join(SRC, 'uploads', decodeURIComponent(u))));
+          return list.length ? `gallery: ${yaml(list)}` : null;
+        })(),
       ] : []),
       `legacyId: ${item.id}`,
       `legacyPath: ${yaml(path)}`,
@@ -353,6 +362,8 @@ if (Object.keys(womReviews).length && (!only || only.includes('wom'))) {
     v.reviews.map(r => ({
       id: r.postId, title: r.authorTitle, name: r.authorName,
       date: r.date, score: r.score, body: r.body,
+      // 醫友自己上傳的體驗照；舊站已失效的（鏡像裡沒有）就不放，免得渲染破圖
+      photos: (r.photos ?? []).filter(u => existsSync(join(SRC, 'uploads', decodeURIComponent(u)))),
     })),
   ]));
   await mkdir('src/data', { recursive: true });

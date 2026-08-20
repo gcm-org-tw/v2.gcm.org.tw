@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-03"
 spec: "每位醫事人員 1 盒 Behadaa葛花仙女粉+桑葉神仙膠囊"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/01_11zon.webp", "/wp-content/uploads/02_11zon.webp", "/wp-content/uploads/03_11zon.webp", "/wp-content/uploads/04_11zon.webp", "/wp-content/uploads/05_11zon.webp", "/wp-content/uploads/06_11zon.webp", "/wp-content/uploads/07_11zon.webp"]
 legacyId: 25294
 legacyPath: "/wom/behadaaofficialgcmdg1211/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

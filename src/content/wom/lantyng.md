@@ -13,6 +13,7 @@ cycle: "每人領取 1 罐牛樟芝菌絲體膠囊【健字號】90粒入，體�
 announceMonth: "2024-01"
 spec: "每位醫友 1 罐牛樟芝菌絲體膠囊【健字號】90粒入"
 condition: "法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/牛樟芝DM-01-scaled.jpg", "/wp-content/uploads/健字號產品.jpg", "/wp-content/uploads/健字號1.0-1.png", "/wp-content/uploads/medal2018.jpg", "/wp-content/uploads/牛樟芝90粒-健字號-scaled.jpg"]
 legacyId: 12367
 legacyPath: "/wom/lantyng/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

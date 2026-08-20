@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-05"
 spec: "每位醫事人員 紐西蘭 Grove 酪梨油（原味）- 頂級冷壓初榨酪梨油  1 罐"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/4-1原味250ml.jpg", "/wp-content/uploads/4-2原味250ml.jpg", "/wp-content/uploads/4-3原味250ml.jpg", "/wp-content/uploads/4-4原味250ml.jpg", "/wp-content/uploads/4-5原味250ml.jpg", "/wp-content/uploads/4-6原味250ml.png", "/wp-content/uploads/4-7原味250ml.jpg", "/wp-content/uploads/4-8原味250ml.jpg", "/wp-content/uploads/4-9原味250ml.jpg", "/wp-content/uploads/4-10原味250ml.jpg", "/wp-content/uploads/4-11原味250ml.png", "/wp-content/uploads/4-12原味250ml.jpg", "/wp-content/uploads/4-13原味250ml.jpg", "/wp-content/uploads/4-14原味250ml.jpg", "/wp-content/uploads/4-15原味250ml.jpg"]
 legacyId: 37632
 legacyPath: "/wom/grove-extra-virgin-avocado-oil/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

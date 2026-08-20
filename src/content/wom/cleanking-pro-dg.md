@@ -13,6 +13,7 @@ cycle: "至現場體驗 60 分鐘"
 announceMonth: "2026-06"
 spec: "每位醫事人員至品牌旗艦門市體驗 乙 次"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/元氣氧森機-PRO-01.png", "/wp-content/uploads/元氣氧森機-PRO-02.png", "/wp-content/uploads/專利證書.png"]
 legacyId: 38922
 legacyPath: "/wom/cleanking-pro-dg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

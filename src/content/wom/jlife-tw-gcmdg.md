@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-06"
 spec: "每位醫事人員 1 組 莊廣和堂®「少男」呈龍 /「少女」呈鳳 本草萃滴精®"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/呈龍-介紹圖-01.webp", "/wp-content/uploads/呈龍-介紹圖-02.webp", "/wp-content/uploads/呈龍-介紹圖-03.webp", "/wp-content/uploads/呈龍-介紹圖-04.webp", "/wp-content/uploads/呈鳳-介紹圖-01.webp", "/wp-content/uploads/呈鳳-介紹圖-02.webp", "/wp-content/uploads/呈鳳-介紹圖-03.webp", "/wp-content/uploads/呈鳳-介紹圖-04.webp"]
 legacyId: 28412
 legacyPath: "/wom/jlife-tw-gcmdg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

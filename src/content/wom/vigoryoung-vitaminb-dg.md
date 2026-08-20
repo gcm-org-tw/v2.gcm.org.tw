@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-06"
 spec: "每位醫事人員 【活萃泱】元氣酵母B群膠囊 (60粒/盒)"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/01-11.jpg", "/wp-content/uploads/02-9.jpg", "/wp-content/uploads/03.png", "/wp-content/uploads/04-9.jpg", "/wp-content/uploads/05.png", "/wp-content/uploads/06.png", "/wp-content/uploads/07.png", "/wp-content/uploads/08-1.jpg", "/wp-content/uploads/09-1.jpg", "/wp-content/uploads/10.png", "/wp-content/uploads/11-4.jpg", "/wp-content/uploads/12-2.jpg", "/wp-content/uploads/13.png", "/wp-content/uploads/14-2.jpg", "/wp-content/uploads/15.png", "/wp-content/uploads/16-2.jpg", "/wp-content/uploads/17-1.jpg", "/wp-content/uploads/18.png", "/wp-content/uploads/19.png", "/wp-content/uploads/20.jpg", "/wp-content/uploads/21.jpg", "/wp-content/uploads/22.jpg", "/wp-content/uploads/23.jpg", "/wp-content/uploads/24.png", "/wp-content/uploads/25.jpg", "/wp-content/uploads/26.jpg", "/wp-content/uploads/27.jpg", "/wp-content/uploads/28.jpg", "/wp-content/uploads/29.jpg"]
 legacyId: 40065
 legacyPath: "/wom/vigoryoung-vitaminb-dg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-02"
 spec: "每位醫事人員 S1調整體質+S2促進代謝 各 1 盒"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/1_11zon-1.webp", "/wp-content/uploads/2_11zon.webp", "/wp-content/uploads/3_11zon-1.webp", "/wp-content/uploads/4_11zon-1-scaled.webp", "/wp-content/uploads/5_11zon-1-scaled.webp", "/wp-content/uploads/6.png", "/wp-content/uploads/7_11zon-scaled.webp", "/wp-content/uploads/8_11zon-scaled.webp", "/wp-content/uploads/9_11zon.webp", "/wp-content/uploads/10_11zon-1.webp", "/wp-content/uploads/1_11zon-2.webp", "/wp-content/uploads/2_11zon-1-scaled.webp", "/wp-content/uploads/3_11zon-2.webp", "/wp-content/uploads/4_11zon-2-scaled.webp", "/wp-content/uploads/5_11zon-2-scaled.webp", "/wp-content/uploads/6_11zon-1-scaled.webp", "/wp-content/uploads/7_11zon-1-scaled.webp", "/wp-content/uploads/8_11zon-1.webp", "/wp-content/uploads/9_11zon-1.webp", "/wp-content/uploads/10_11zon-2.webp"]
 legacyId: 36262
 legacyPath: "/wom/k-c-win-win-3sd-s1s2-dg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

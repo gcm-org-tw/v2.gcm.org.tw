@@ -14,6 +14,7 @@ cycle: "體驗四週"
 announceMonth: "2023-07"
 spec: "每位醫護一盒(15包入)雅璽關鍵好力素"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/雅璽一頁式_版本B_01.jpg", "/wp-content/uploads/雅璽一頁式_版本B-02.jpg", "/wp-content/uploads/雅璽一頁式_版本B-03.jpg", "/wp-content/uploads/雅璽一頁式_版本B-04.jpg", "/wp-content/uploads/雅璽一頁式_版本B-05.jpg", "/wp-content/uploads/雅璽一頁式_版本B-06.jpg", "/wp-content/uploads/雅璽一頁式_版本B-07.jpg", "/wp-content/uploads/雅璽一頁式_版本B-08.jpg", "/wp-content/uploads/雅璽一頁式_版本B-11.jpg", "/wp-content/uploads/雅璽一頁式_版本B-12.jpg"]
 legacyId: 21586
 legacyPath: "/wom/yaxigdrink/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

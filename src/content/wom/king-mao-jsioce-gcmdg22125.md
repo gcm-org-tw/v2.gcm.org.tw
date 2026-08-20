@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-05"
 spec: "每位醫事人員 1 盒(500mg/粒･60粒) 金貿生機印加果油切酵素膠囊"
 condition: "法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/originaloce01.jpg", "/wp-content/uploads/originaloce02.jpg", "/wp-content/uploads/originaloce03-1.jpg", "/wp-content/uploads/originaloce04.jpg", "/wp-content/uploads/originaloce05.jpg", "/wp-content/uploads/originaloce06.jpg", "/wp-content/uploads/originaloce07.jpg", "/wp-content/uploads/originaloce08.jpg"]
 legacyId: 26551
 legacyPath: "/wom/king-mao-jsioce-gcmdg22125/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

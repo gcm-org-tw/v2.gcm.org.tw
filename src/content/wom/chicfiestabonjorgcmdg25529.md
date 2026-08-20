@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-08"
 spec: "每位醫事人員 1 盒 【Chic Fiesta】Bonjor日安發泡錠(二管共20錠)"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/1_1_11zon.webp", "/wp-content/uploads/2_2_11zon.webp", "/wp-content/uploads/3_3_11zon.webp", "/wp-content/uploads/4_4_11zon.webp", "/wp-content/uploads/5_5_11zon-scaled.webp", "/wp-content/uploads/6_6_11zon.webp", "/wp-content/uploads/7_7_11zon.webp", "/wp-content/uploads/8_8_11zon.webp", "/wp-content/uploads/9_9_11zon.webp", "/wp-content/uploads/10_10_11zon.webp", "/wp-content/uploads/11_11_11zon.webp", "/wp-content/uploads/12_12_11zon.webp"]
 legacyId: 30012
 legacyPath: "/wom/chicfiestabonjorgcmdg25529/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

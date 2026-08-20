@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-02"
 spec: "每位醫事人員 海藻頭皮角質淨化液+海藻洗髮精+光彩護汝髮 各 1 罐"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/詳細產品資料01_光彩護汝髮.webp", "/wp-content/uploads/詳細產品資料02_海藻洗髮精.webp", "/wp-content/uploads/詳細產品資料03_海藻頭皮角質淨化液.webp", "/wp-content/uploads/詳細產品資料04_產品使用順序.webp"]
 legacyId: 36160
 legacyPath: "/wom/auragcmdg251210/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

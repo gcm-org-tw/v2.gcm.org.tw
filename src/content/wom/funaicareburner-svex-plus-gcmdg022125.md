@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-05"
 spec: "每位醫友 一盒(40粒入) 船井®burner®倍熱®夜孅胺基酸EX Plus"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/Bunner_01_11zon.webp", "/wp-content/uploads/04_11zon-2.webp", "/wp-content/uploads/08_11zon-1.webp", "/wp-content/uploads/09_11zon-1.webp", "/wp-content/uploads/013_11zon.webp", "/wp-content/uploads/014_11zon.webp", "/wp-content/uploads/019_11zon.webp", "/wp-content/uploads/021_11zon.webp", "/wp-content/uploads/022-40p_11zon.webp"]
 legacyId: 26857
 legacyPath: "/wom/funaicareburner-svex-plus-gcmdg022125/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

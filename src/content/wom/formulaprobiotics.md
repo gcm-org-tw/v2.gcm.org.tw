@@ -13,6 +13,7 @@ cycle: "每位醫友體驗 四 週"
 announceMonth: "2024-02"
 spec: "每位醫友領取： 1 盒【BLUEMEI 布樂美】暢酵 EX 專利益生菌 (1gX30包)"
 condition: "法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/益生菌-01-e1707283838976.jpg", "/wp-content/uploads/益生菌-02.jpg", "/wp-content/uploads/益生菌-03.jpg", "/wp-content/uploads/益生菌-04.jpg", "/wp-content/uploads/益生菌-05.jpg", "/wp-content/uploads/益生菌-06.jpg", "/wp-content/uploads/益生菌-07.jpg", "/wp-content/uploads/益生菌-08.jpg", "/wp-content/uploads/益生菌-09.jpg", "/wp-content/uploads/益生菌-10.jpg"]
 legacyId: 15557
 legacyPath: "/wom/formulaprobiotics/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

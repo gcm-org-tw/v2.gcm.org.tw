@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2025-05"
 spec: "每位醫事人員 1 組【SAYI31 SKINCARE】莎伊保濕修護組合"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/1-三合一諾貝爾獎保濕修護科技_13.webp", "/wp-content/uploads/2-晶萃深層淨化潔顏乳_12.webp", "/wp-content/uploads/3-晶萃深層淨化潔顏乳_11.webp", "/wp-content/uploads/4-晶萃深層淨化潔顏乳_10.webp", "/wp-content/uploads/5-極萃美顏玻色因保濕化妝水_9.webp", "/wp-content/uploads/6-極萃美顏玻色因保濕化妝水_8.webp", "/wp-content/uploads/7-極萃美顏玻色因保濕化妝水_7.webp", "/wp-content/uploads/8-極萃美顏玻色因保濕化妝水_6.webp", "/wp-content/uploads/9-極晶柔敏積雪草精華液_5.webp", "/wp-content/uploads/10-極晶柔敏積雪草精華液_4.webp", "/wp-content/uploads/11-極晶柔敏積雪草精華液_1.webp", "/wp-content/uploads/12-極晶柔敏積雪草精華液_3.webp", "/wp-content/uploads/13-極瞬全能保濕水凝霜_16.webp", "/wp-content/uploads/14-極瞬全能保濕水凝霜_15.webp", "/wp-content/uploads/15-極瞬全能保濕水凝霜_2.webp"]
 legacyId: 27935
 legacyPath: "/wom/sayi31gcmdg25324/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）

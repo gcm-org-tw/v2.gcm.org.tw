@@ -13,6 +13,7 @@ cycle: "體驗四週"
 announceMonth: "2026-05"
 spec: "每位醫事人員【LUMIN SPHERE】 醒霸EX 輕鬆代謝全素膠囊 2粒/包；5包/盒，乙盒"
 condition: "所有法定合格醫事人員均可參加"
+gallery: ["/wp-content/uploads/1-7.jpg", "/wp-content/uploads/2-8.jpg", "/wp-content/uploads/3-9.jpg", "/wp-content/uploads/4-8.jpg", "/wp-content/uploads/5-1.png", "/wp-content/uploads/6-7.jpg", "/wp-content/uploads/7.png", "/wp-content/uploads/8-6.jpg", "/wp-content/uploads/9.png"]
 legacyId: 39139
 legacyPath: "/wom/lumin-antrodia-cinnamomea-mycelia-sphere-dg/"
 # 客戶既有原文逐字轉錄，去 AI 味守門整檔豁免（見 scripts/check-content.mjs）
