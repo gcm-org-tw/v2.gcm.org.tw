@@ -6,6 +6,8 @@ import { label } from '../../lib/taxonomy';
 import { assetUrl } from '../../lib/assets.mjs';
 import JoinGcm from '../../components/JoinGcm.astro';
 import reviewsBySlug from '../../data/wom-reviews.json';
+import reviewAuthors from '../../data/review-authors.json';
+import authors from '../../data/authors.json';
 
 /* 網址保留：舊站口碑頁為 /wom/<slug>/，slug 取自 legacyPath。 */
 export async function getStaticPaths() {
@@ -27,6 +29,18 @@ const taxonomy = d.gcm_supplier_category.map(slug => ({
 /* 心得的 key 是舊站的 wom slug（percent-encoded 原樣），與 legacyPath 同源。
  * 這批資料由 scripts/wp-reviews.mjs 從舊站前台抓回、wp-convert.mjs 落成 JSON——
  * 舊站 WP REST 撈不到它們，別以為 collection 裡沒有就是不存在。 */
+/* 心得卡片上的醫友頭像：舊站有，我們原本只有姓名。
+ * review id → 作者 id（review-authors.json）→ 頭像（authors.json），兩份都是既有資料。 */
+const avatar = (reviewId: number) => {
+  const id = (reviewAuthors as Record<string, number>)[String(reviewId)];
+  const a = id == null ? null : (authors as Record<string, { photo: string }>)[String(id)];
+  return a?.photo || '';
+};
+const authorHref = (reviewId: number) => {
+  const id = (reviewAuthors as Record<string, number>)[String(reviewId)];
+  return id == null ? '' : `/author/${id}/`;
+};
+
 const womSlug = d.legacyPath.replace('/wom/', '').replace(/\/$/, '');
 const reviews = (reviewsBySlug as Record<string, Array<{
   id: number; title: string; name: string; date: string; score: number | null; body: string;
@@ -109,8 +123,9 @@ const record = [
           <article class="review" id={`review-${r.id}`}>
             <header>
               <span class="who">
+                {avatar(r.id) && <img class="face" src={assetUrl(avatar(r.id))} alt="" width="40" height="40" loading="lazy" />}
                 {r.title && <span class="role">{r.title}</span>}
-                {r.name}
+                {authorHref(r.id) ? <a href={authorHref(r.id)}>{r.name}</a> : r.name}
               </span>
               <span class="meta">
                 <time>{r.date}</time>
@@ -220,8 +235,25 @@ const record = [
     margin-bottom: 0.5rem;
   }
   .review .who {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
     font-weight: 700;
     font-size: var(--text-base);
+  }
+  .review .face {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  .review .who a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .review .who a:hover {
+    color: var(--color-primary);
+    text-decoration: underline;
   }
   .review .role {
     margin-right: 0.4rem;
